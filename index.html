@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>올댓 입시 정보</title>
+<style>
+  :root {
+    --bg: #f0f2f5;
+    --surface: #ffffff;
+    --surface2: #f5f6f8;
+    --border: #e2e5eb;
+    --accent: #2563eb;
+    --text: #1a1d27;
+    --muted: #6b7280;
+    --new: #059669;
+    --yellow: #d97706;
+    --red: #dc2626;
+    --radius: 10px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--accent);
+    box-shadow: 0 2px 8px rgba(37,99,235,0.08);
+    padding: 14px 20px;
+    display: flex; align-items: center; justify-content: space-between;
+    position: sticky; top: 0; z-index: 100;
+  }
+  header h1 { font-size: 1.1rem; font-weight: 700; }
+  header h1 span { color: var(--accent); }
+  #update-time { font-size: 0.72rem; color: var(--muted); }
+  .refresh-btn {
+    background: var(--surface2); border: 1px solid var(--border);
+    color: var(--muted); padding: 5px 12px; border-radius: 6px;
+    font-size: 0.75rem; cursor: pointer; transition: all .15s;
+  }
+  .refresh-btn:hover { color: var(--text); border-color: var(--accent); }
+
+  .tabs {
+    display: flex; gap: 6px; padding: 12px 20px 0;
+    flex-wrap: wrap; border-bottom: 1px solid var(--border);
+    background: var(--bg); position: sticky; top: 53px; z-index: 99;
+  }
+  .tab-btn {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    padding: 6px 13px; border-radius: 20px; font-size: 0.8rem;
+    cursor: pointer; transition: all .15s; margin-bottom: 10px; white-space: nowrap;
+  }
+  .tab-btn:hover { border-color: var(--accent); color: var(--text); }
+  .tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+  .tab-btn .cnt { background: rgba(255,255,255,.22); border-radius: 10px; font-size: .68rem; padding: 1px 6px; margin-left: 4px; }
+  .tab-btn.bookmark-tab.active { background: var(--yellow); border-color: var(--yellow); color: #000; }
+
+  main { padding: 16px 20px; max-width: 860px; margin: 0 auto; }
+
+  .section { display: none; }
+  .section.active { display: block; }
+
+  /* 뉴스 아이템 */
+  .news-list { list-style: none; }
+  .news-item {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 12px 14px; margin-bottom: 7px;
+    transition: border-color .15s; position: relative;
+  }
+  .news-item:hover { border-color: var(--accent); }
+  .news-item.bookmarked { border-left: 3px solid var(--yellow); }
+  .news-item.deleted { display: none; }
+
+  .news-title-row { display: flex; align-items: flex-start; gap: 8px; }
+  .news-title-row a {
+    color: var(--text); text-decoration: none; font-size: 0.88rem;
+    font-weight: 500; line-height: 1.5; flex: 1;
+  }
+  .news-title-row a:hover { color: var(--accent); }
+
+  .item-actions { display: flex; gap: 4px; flex-shrink: 0; margin-top: 1px; }
+  .action-btn {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    width: 26px; height: 26px; border-radius: 6px; cursor: pointer;
+    font-size: 0.8rem; display: flex; align-items: center; justify-content: center;
+    transition: all .15s;
+  }
+  .action-btn:hover { border-color: var(--accent); color: var(--text); }
+  .action-btn.active-bookmark { border-color: var(--yellow); color: var(--yellow); background: rgba(251,191,36,.1); }
+  .action-btn.active-delete { border-color: var(--red); color: var(--red); }
+  .action-btn.active-noise { border-color: #f97316; color: #f97316; background: rgba(249,115,22,.08); }
+
+  .news-meta {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 0.72rem; color: var(--muted); margin-top: 6px;
+  }
+  .badge-new {
+    background: var(--new); color: #000; font-size: .62rem;
+    font-weight: 700; padding: 1px 6px; border-radius: 10px;
+  }
+
+  /* 메모 영역 */
+  .memo-area { margin-top: 8px; display: none; }
+  .memo-area.open { display: block; }
+  .memo-input {
+    width: 100%; background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 6px; color: var(--text); font-size: 0.82rem;
+    padding: 7px 10px; resize: none; font-family: inherit; line-height: 1.4;
+    outline: none;
+  }
+  .memo-input:focus { border-color: var(--accent); }
+  .memo-display {
+    background: rgba(108,142,247,.08); border: 1px solid rgba(108,142,247,.2);
+    border-radius: 6px; padding: 6px 10px; font-size: 0.8rem;
+    color: #b0b8d0; margin-top: 0; cursor: pointer; line-height: 1.5;
+  }
+  .memo-display::before { content: "📌 "; }
+
+  .empty { color: var(--muted); font-size: .88rem; padding: 50px 0; text-align: center; }
+  .loading { text-align: center; padding: 60px 0; color: var(--muted); font-size: .88rem; }
+
+  /* 삭제된 항목 복원 버튼 */
+  .restore-bar {
+    font-size: .75rem; color: var(--muted); text-align: center;
+    padding: 10px 0; cursor: pointer;
+  }
+  .restore-bar:hover { color: var(--text); }
+
+  /* 노이즈 탭 */
+  .tab-btn.noise-tab.active { background: #f97316; border-color: #f97316; color: #fff; }
+  .noise-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 14px; padding-bottom: 10px; border-bottom: 1px solid var(--border);
+  }
+  .noise-header h3 { font-size: .9rem; font-weight: 600; color: var(--text); }
+  .noise-header p { font-size: .75rem; color: var(--muted); margin-top: 2px; }
+  .export-btn {
+    background: #f97316; border: none; color: #fff;
+    padding: 7px 16px; border-radius: 7px; font-size: .8rem;
+    cursor: pointer; font-weight: 600; transition: opacity .15s; white-space: nowrap;
+  }
+  .export-btn:hover { opacity: .85; }
+  .noise-item {
+    background: var(--surface); border: 1px solid #fed7aa;
+    border-radius: var(--radius); padding: 12px 14px; margin-bottom: 7px;
+  }
+  .noise-item-title { font-size: .85rem; color: var(--text); margin-bottom: 5px; line-height: 1.4; }
+  .noise-item-meta { font-size: .72rem; color: var(--muted); display: flex; gap: 10px; align-items: center; }
+  .noise-pattern-tag {
+    background: #fff7ed; border: 1px solid #fed7aa; color: #9a3412;
+    font-size: .68rem; padding: 2px 7px; border-radius: 10px;
+  }
+  .noise-remove-btn {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    padding: 3px 10px; border-radius: 5px; font-size: .72rem; cursor: pointer;
+    margin-left: auto; transition: all .15s;
+  }
+  .noise-remove-btn:hover { border-color: var(--red); color: var(--red); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📐 <span>올댓</span> 입시 정보</h1>
+  <div style="display:flex;align-items:center;gap:10px;">
+    <span id="update-time">로딩 중...</span>
+    <button class="refresh-btn" onclick="loadNews()">↻ 새로고침</button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs"></nav>
+<main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
+
+<script>
+// ── localStorage 저장소 ──────────────────────────────────────
+const LS = {
+  get(key) { try { return JSON.parse(localStorage.getItem(key) || 'null'); } catch { return null; } },
+  set(key, val) { localStorage.setItem(key, JSON.stringify(val)); },
+};
+function getBookmarks() { return LS.get('bookmarks') || {}; }
+function getDeleted()   { return LS.get('deleted')   || {}; }
+function getMemos()     { return LS.get('memos')      || {}; }
+
+// ── 노이즈 관련 ───────────────────────────────────────────────
+function getNoise() { return LS.get('noise') || {}; }  // {id: {title, source, patterns}}
+
+const STOPWORDS_NOISE = new Set(["수학","수능","입시","학생","교육","대학","고등","분석","결과","발표","이번","지난","위한","서울","경기","2027","2026","2025"]);
+
+function extractPatterns(item) {
+  const patterns = [];
+  // 1) 출처명 그대로 패턴화
+  if (item.source && item.source.length > 1) {
+    patterns.push({ type: 'source', value: item.source });
+  }
+  // 2) 제목에서 의미 있는 고유 키워드 추출 (2글자 이상, 불용어 제외)
+  const words = (item.title || '').match(/[가-힣a-zA-Z0-9]{2,}/g) || [];
+  const keywords = words.filter(w => w.length >= 3 && !STOPWORDS_NOISE.has(w)).slice(0, 3);
+  keywords.forEach(k => patterns.push({ type: 'keyword', value: k }));
+  return patterns;
+}
+
+function toggleNoise(id) {
+  const noise = getNoise();
+  if (noise[id]) {
+    delete noise[id];
+    LS.set('noise', noise);
+    refreshItemState(id);
+    if (currentCat === 'noise') renderNoise();
+    updateNoiseBadge();
+    return;
+  }
+  const all = window._data?.categories.flatMap(c => c.items.map(i => ({...i, catName:c.name, catEmoji:c.emoji}))) || [];
+  const item = all.find(i => i.id === id);
+  if (!item) return;
+  noise[id] = { title: item.title, source: item.source || '', type: item.type || 'news', patterns: extractPatterns(item) };
+  LS.set('noise', noise);
+  refreshItemState(id);
+  updateNoiseBadge();
+}
+
+function removeNoiseItem(id) {
+  const noise = getNoise(); delete noise[id]; LS.set('noise', noise);
+  renderNoise(); updateNoiseBadge();
+}
+
+function updateNoiseBadge() {
+  const btn = document.querySelector('.noise-tab .cnt');
+  if (btn) btn.textContent = Object.keys(getNoise()).length;
+}
+
+function exportNoisePatterns() {
+  const noise = getNoise();
+  const sources = [...new Set(Object.values(noise).map(n => n.source).filter(Boolean))];
+  const keywords = [...new Set(Object.values(noise).flatMap(n => n.patterns.filter(p => p.type === 'keyword').map(p => p.value)))];
+  const output = { sources, title_keywords: keywords, updated_at: new Date().toISOString() };
+  const blob = new Blob([JSON.stringify(output, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+  a.download = 'noise_patterns.json'; a.click();
+  alert(`노이즈 패턴 저장 완료!\n출처 ${sources.length}개 · 키워드 ${keywords.length}개\n\nnoise_patterns.json을 math-news-site 폴더에 넣어주세요.`);
+}
+
+function renderNoise() {
+  const section = document.querySelector('[data-cat="noise"]');
+  if (!section) return;
+  const noise = getNoise();
+  const items = Object.entries(noise);
+  if (!items.length) {
+    section.innerHTML = '<div class="empty">노이즈로 표시한 기사가 없습니다.<br><small style="color:#9ca3af;font-size:.8rem">기사 오른쪽 🚫 버튼으로 추가하세요.</small></div>';
+    return;
+  }
+  const sources = [...new Set(items.map(([,n]) => n.source).filter(Boolean))];
+  const keywords = [...new Set(items.flatMap(([,n]) => n.patterns.filter(p=>p.type==='keyword').map(p=>p.value)))];
+
+  let html = `<div class="noise-header">
+    <div>
+      <h3>🚫 노이즈 패턴 ${items.length}건</h3>
+      <p>출처 ${sources.length}개 · 키워드 ${keywords.length}개가 다음 수집부터 필터됩니다</p>
+    </div>
+    <button class="export-btn" onclick="exportNoisePatterns()">💾 패턴 저장</button>
+  </div><ul class="news-list">`;
+
+  items.forEach(([id, n]) => {
+    const tagHtml = n.patterns.map(p =>
+      `<span class="noise-pattern-tag">${p.type === 'source' ? '출처: ' : '키워드: '}${p.value}</span>`
+    ).join(' ');
+    html += `<li class="noise-item">
+      <div class="noise-item-title">${n.title}</div>
+      <div class="noise-item-meta">
+        ${tagHtml}
+        <button class="noise-remove-btn" onclick="removeNoiseItem('${id}')">✕ 제거</button>
+      </div>
+    </li>`;
+  });
+  html += '</ul>';
+  section.innerHTML = html;
+}
+
+function toggleBookmark(id) {
+  const bm = getBookmarks();
+  if (bm[id]) {
+    delete bm[id];
+    // 저장된 아이템 데이터도 삭제
+    const saved = LS.get('bm_items') || {};
+    delete saved[id];
+    LS.set('bm_items', saved);
+  } else {
+    bm[id] = true;
+    // 아이템 전체 데이터 저장 (JSON에서 만료돼도 북마크탭 유지)
+    const all = window._data?.categories.flatMap(c => c.items.map(i => ({...i, catName:c.name, catEmoji:c.emoji}))) || [];
+    const item = all.find(i => i.id === id);
+    if (item) {
+      const saved = LS.get('bm_items') || {};
+      saved[id] = item;
+      LS.set('bm_items', saved);
+    }
+  }
+  LS.set('bookmarks', bm);
+  refreshItemState(id);
+  updateBookmarkTab();
+}
+function deleteItem(id) {
+  const del = getDeleted(); del[id] = true; LS.set('deleted', del);
+  refreshItemState(id);
+}
+function restoreAll() {
+  LS.set('deleted', {}); renderMain(window._data.categories); switchTab(currentCat, document.querySelector('.tab-btn.active'));
+}
+function saveMemo(id, text) {
+  const m = getMemos();
+  text.trim() ? (m[id] = text.trim()) : delete m[id];
+  LS.set('memos', m);
+}
+
+function refreshItemState(id) {
+  const el = document.querySelector(`[data-id="${id}"]`);
+  if (!el) return;
+  const bm = getBookmarks(); const del = getDeleted(); const noise = getNoise();
+  el.classList.toggle('bookmarked', !!bm[id]);
+  el.classList.toggle('deleted', !!del[id] || !!noise[id]);
+  const bmBtn = el.querySelector('.btn-bm');
+  if (bmBtn) bmBtn.classList.toggle('active-bookmark', !!bm[id]);
+  const noiseBtn = el.querySelector('.btn-noise');
+  if (noiseBtn) noiseBtn.classList.toggle('active-noise', !!noise[id]);
+}
+
+// ── 렌더링 ────────────────────────────────────────────────────
+let currentCat = 'all';
+
+function formatDate(iso) {
+  const d = new Date(iso);
+  const diff = (Date.now() - d) / 1000;
+  if (diff < 60) return '방금 전';
+  if (diff < 3600) return `${Math.floor(diff/60)}분 전`;
+  if (diff < 86400) return `${Math.floor(diff/3600)}시간 전`;
+  return d.toLocaleDateString('ko-KR', {month:'short', day:'numeric'});
+}
+
+function renderTabs(categories) {
+  const el = document.getElementById('tabs');
+  const total = categories.reduce((s,c) => s + c.items.length, 0);
+  let html = `<button class="tab-btn active" onclick="switchTab('all',this)">전체 <span class="cnt">${total}</span></button>`;
+  categories.forEach(c => {
+    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name} <span class="cnt">${c.items.length}</span></button>`;
+  });
+  const bmCount = Object.keys(getBookmarks()).length;
+  const noiseCount = Object.keys(getNoise()).length;
+  html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크 <span class="cnt">${bmCount}</span></button>`;
+  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 노이즈 <span class="cnt">${noiseCount}</span></button>`;
+  el.innerHTML = html;
+}
+
+function updateBookmarkTab() {
+  const btn = document.querySelector('.bookmark-tab .cnt');
+  if (btn) btn.textContent = Object.keys(getBookmarks()).length;
+  if (currentCat === 'bookmarks') renderBookmarks();
+}
+
+function renderMain(categories) {
+  const main = document.getElementById('main');
+  const allItems = categories.flatMap(c => c.items.map(i => ({...i, catName: c.name, catEmoji: c.emoji})));
+  allItems.sort((a,b) => new Date(b.published) - new Date(a.published));
+
+  let html = `<section class="section active" data-cat="all">${renderList(allItems, true)}</section>`;
+  categories.forEach(c => {
+    const sorted = [...c.items].sort((a,b) => new Date(b.published) - new Date(a.published));
+    html += `<section class="section" data-cat="${c.id}">${renderList(sorted, false)}</section>`;
+  });
+  html += `<section class="section" data-cat="bookmarks"></section>`;
+  html += `<section class="section" data-cat="noise"></section>`;
+  main.innerHTML = html;
+  applyDeletedState();
+}
+
+function renderList(items, showCat) {
+  if (!items.length) return '<div class="empty">수집된 뉴스가 없습니다.</div>';
+  const bm = getBookmarks(); const del = getDeleted(); const memos = getMemos(); const noise = getNoise();
+  let html = '<ul class="news-list">';
+  items.forEach(item => {
+    const isDeleted = !!del[item.id];
+    const isBookmarked = !!bm[item.id];
+    const isNoise = !!noise[item.id];
+    const memo = memos[item.id] || '';
+    html += `
+    <li class="news-item${isBookmarked?' bookmarked':''}${isDeleted||isNoise?' deleted':''}" data-id="${item.id}">
+      <div class="news-title-row">
+        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+        <div class="item-actions">
+          <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
+          <button class="action-btn" onclick="toggleMemo('${item.id}')" title="메모">✏</button>
+          <button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="노이즈">🚫</button>
+          <button class="action-btn" onclick="deleteItem('${item.id}')" title="숨기기">✕</button>
+        </div>
+      </div>
+      <div class="news-meta">
+        ${item.is_new ? '<span class="badge-new">NEW</span>' : ''}
+        ${showCat && item.catName ? `<span>${item.catEmoji} ${item.catName}</span>` : ''}
+        ${item.source ? `<span>${item.source}</span>` : ''}
+        <span>${formatDate(item.published)}</span>
+      </div>
+      <div class="memo-area${memo?' open':''}" id="memo-${item.id}">
+        ${memo
+          ? `<div class="memo-display" onclick="openMemoEdit('${item.id}')">${memo}</div>`
+          : `<textarea class="memo-input" rows="2" placeholder="메모를 입력하고 Enter…" onblur="commitMemo('${item.id}',this)" onkeydown="memoKey(event,'${item.id}',this)">${memo}</textarea>`
+        }
+      </div>
+    </li>`;
+  });
+  html += '</ul>';
+  const deletedCount = items.filter(i => !!del[i.id]).length;
+  if (deletedCount > 0) {
+    html += `<div class="restore-bar" onclick="restoreAll()">숨긴 항목 ${deletedCount}개 · 클릭하여 모두 복원</div>`;
+  }
+  return html;
+}
+
+function renderBookmarks() {
+  const section = document.querySelector('[data-cat="bookmarks"]');
+  if (!section) return;
+  const bm = getBookmarks();
+  const savedItems = LS.get('bm_items') || {};
+
+  // 현재 JSON에 있는 아이템 + JSON에서 만료됐지만 저장된 아이템 모두 포함
+  const liveAll = window._data
+    ? window._data.categories.flatMap(c => c.items.map(i => ({...i, catName:c.name, catEmoji:c.emoji})))
+    : [];
+  const liveMap = Object.fromEntries(liveAll.map(i => [i.id, i]));
+
+  const bmItems = Object.keys(bm).map(id => liveMap[id] || savedItems[id]).filter(Boolean);
+  bmItems.sort((a,b) => new Date(a.published) - new Date(b.published));
+
+  section.innerHTML = bmItems.length
+    ? renderList(bmItems, true)
+    : '<div class="empty">북마크한 기사가 없습니다.<br><small style="color:#9ca3af;font-size:.8rem">기사 오른쪽 ★ 버튼으로 저장하세요.</small></div>';
+}
+
+function applyDeletedState() {
+  const del = getDeleted();
+  Object.keys(del).forEach(id => {
+    const el = document.querySelector(`[data-id="${id}"]`);
+    if (el) el.classList.add('deleted');
+  });
+}
+
+// ── 메모 인터랙션 ─────────────────────────────────────────────
+function toggleMemo(id) {
+  const area = document.getElementById('memo-' + id);
+  if (!area) return;
+  if (area.classList.contains('open')) {
+    area.classList.remove('open');
+  } else {
+    area.classList.add('open');
+    const ta = area.querySelector('textarea');
+    if (ta) setTimeout(() => ta.focus(), 50);
+  }
+}
+function memoKey(e, id, ta) {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); commitMemo(id, ta); }
+  if (e.key === 'Escape') { document.getElementById('memo-'+id)?.classList.remove('open'); }
+}
+function commitMemo(id, ta) {
+  saveMemo(id, ta.value);
+  const area = document.getElementById('memo-' + id);
+  if (!area) return;
+  const text = getMemos()[id] || '';
+  if (text) {
+    area.innerHTML = `<div class="memo-display" onclick="openMemoEdit('${id}')">${text}</div>`;
+  } else {
+    area.classList.remove('open');
+    area.innerHTML = `<textarea class="memo-input" rows="2" placeholder="메모를 입력하고 Enter…" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)"></textarea>`;
+  }
+}
+function openMemoEdit(id) {
+  const area = document.getElementById('memo-' + id);
+  if (!area) return;
+  const text = getMemos()[id] || '';
+  area.innerHTML = `<textarea class="memo-input" rows="2" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)">${text}</textarea>`;
+  setTimeout(() => area.querySelector('textarea')?.focus(), 30);
+}
+
+// ── 탭 전환 ───────────────────────────────────────────────────
+function switchTab(catId, btn) {
+  currentCat = catId;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  document.querySelectorAll('.section').forEach(s => s.classList.toggle('active', s.dataset.cat === catId));
+  if (catId === 'bookmarks') renderBookmarks();
+  if (catId === 'noise') renderNoise();
+}
+
+// ── 데이터 로드 ───────────────────────────────────────────────
+async function loadNews() {
+  try {
+    const res = await fetch(`news_data.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error();
+    window._data = await res.json();
+
+    const diff = (Date.now() - new Date(window._data.updated_at)) / 1000;
+    const ago = diff < 60 ? '방금 전' : diff < 3600 ? `${Math.floor(diff/60)}분 전` : `${Math.floor(diff/3600)}시간 전`;
+    document.getElementById('update-time').textContent = `업데이트: ${ago}`;
+
+    renderTabs(window._data.categories);
+    renderMain(window._data.categories);
+
+    if (currentCat !== 'all') {
+      const btn = [...document.querySelectorAll('.tab-btn')].find(b => b.getAttribute('onclick')?.includes(`'${currentCat}'`));
+      switchTab(currentCat, btn || null);
+    }
+  } catch {
+    document.getElementById('main').innerHTML = '<div class="empty">뉴스 데이터를 불러올 수 없습니다.<br><small>scraper.py를 먼저 실행해주세요.</small></div>';
+    document.getElementById('update-time').textContent = '데이터 없음';
+  }
+}
+
+loadNews();
+setInterval(loadNews, 20 * 60 * 1000);
+</script>
+</body>
+</html>
