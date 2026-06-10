@@ -562,13 +562,10 @@ function renderTabs(categories) {
   const el = document.getElementById('tabs');
   let html = `<button class="tab-btn active" onclick="switchTab('home',this)">🏠 홈</button>`;
   categories.forEach(c => {
-    const cnt = getVisibleItems(c.items).length;
-    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name} <span class="cnt">${cnt}</span></button>`;
+    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name}</button>`;
   });
-  const bmCount = Object.keys(getBookmarks()).length;
-  const noiseCount = Object.keys(getNoise()).length;
-  html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크 <span class="cnt">${bmCount}</span></button>`;
-  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링 <span class="cnt">${noiseCount}</span></button>`;
+  html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크</button>`;
+  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링</button>`;
   el.innerHTML = html;
 }
 
