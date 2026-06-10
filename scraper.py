@@ -477,6 +477,14 @@ def main():
             and not _BAD_TITLE.search(item.get("title", ""))
             and len(item.get("title", "").strip()) >= 5
         }
+        # 공식 사이트 수집이 0건이어도 no_expire 기사는 반드시 보존
+        if cat.get("official") and len(fresh) == 0:
+            no_expire_backup = {iid: item for iid, item in prev.items()
+                                if item.get("no_expire") and not _BAD_TITLE.search(item.get("title",""))
+                                and len(item.get("title","").strip()) >= 5}
+            kept_old.update(no_expire_backup)
+            if no_expire_backup:
+                print(f"  ⚠ 공식 수집 0건 → no_expire 기사 {len(no_expire_backup)}건 강제 보존")
         merged = {**{i["id"]: i for i in fresh}, **{iid: {**item, "is_new": False}
                   for iid, item in kept_old.items() if iid not in {i["id"] for i in fresh}}}
         result = sorted(merged.values(), key=lambda x: x["published"], reverse=True)[:MAX_PER_CAT]
