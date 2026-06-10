@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T16:19:38.234628+00:00",
+  "updated_at": "2026-06-10T16:25:57.760801+00:00",
   "categories": [
     {
       "id": "exam",
@@ -1231,7 +1231,7 @@
           "published": "2026-05-22T00:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9fa78328adad5d2bea2dacf685df3a81",
@@ -1291,7 +1291,7 @@
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e5e2d778534807e3d46fd70c97b12d91",
@@ -1848,102 +1848,70 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "009db705d10a6dedee9e83c2d971d122",
-          "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다 교육부(장관 최교진)는 2026학년도 대학수학능력시험(이하 '수능') 영어 영역",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156744193&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=대입 수학&period=",
+          "id": "ff97bf68dc48afea042558afe3ef18d9",
+          "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다 교육부(장관 최교진)는 2026학년도 대학수학",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156744193",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.536714+00:00",
+          "published": "2026-06-10T16:25:47.881782+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "a3e2ecdee4133a3f709425b2015fc4a7",
+          "id": "81cc9d4901eab2123aafc010a4bf1e09",
           "title": "사교육비 경감을 위한 정책 방안 발표",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752309&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=대입 수학&period=",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752309",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.536621+00:00",
+          "published": "2026-06-10T16:25:47.881658+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "7109856ccaf8dd733f6104a35e13efd0",
-          "title": "2025년 초중고 사교육비 조사 결과 □ 초중고 사교육비 조사는 사교육비 지출을 체계적으로 파악하여 교육정책 및 관련 연구에 필요한 기초자료를",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748555&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
+          "id": "74bf032e61514a3bbecbf0f6f913c257",
+          "title": "2025년 초중고 사교육비 조사 결과",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748555",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.300407+00:00",
+          "published": "2026-06-10T16:25:47.681150+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "03a2a9574b59ba7a695a27119e4f987c",
+          "id": "4dbab64cc2008e2ce63f74455c1209fb",
           "title": "2027학년도 대학수학능력시험 시행기본계획 발표",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156751946&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156751946",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.300178+00:00",
+          "published": "2026-06-10T16:25:47.680950+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "c030d6c558216ccbd664cffeed99ef5b",
-          "title": "수능 어떻게 준비할까? 교육부(장관 최교진)와 한국교육과정평가원(원장 김문희, 이하 평가원)은 2027학년도 대학수학능력시험(이하 수능)을 준비",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
+          "id": "a6707dd58f56cbd1af6d3b812401ca22",
+          "title": "수능 어떻게 준비할까? 교육부(장관 최교진)와 한국교육과정평가원(원장 김문희, 이하 평가원)은 2027학년도",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.300090+00:00",
+          "published": "2026-06-10T16:25:47.680862+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "0acfa10325616db289de0c3e1ad275f4",
-          "title": "사교육비 경감을 위한 정책 방안 발표 교육부(장관 최교진)는 '2025년 초중고 사교육비 조사 결과' 발표 등에 따라 학부모의 사교육 부담을 덜",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752309&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
-          "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.299884+00:00",
-          "type": "official",
-          "no_expire": true,
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "9fc92eed1a070e03e9065cb1b5e72908",
+          "id": "829f05d8c06934f20265a62d9a754e58",
           "title": "[설명자료] 2026년 대학수학능력시험일 기상전망_수능일 한파 없이 맑고 일교차 큰 날씨",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727208&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=수능 수학&period=",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727208",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.061746+00:00",
+          "published": "2026-06-10T16:25:47.453299+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "669a2bb490b5d8a6f44c693ac3f8eca1",
-          "title": "수능 어떻게 준비할까?",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=수능 수학&period=",
-          "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T16:19:29.061320+00:00",
-          "type": "official",
-          "no_expire": true,
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8e919e54379da3d2b5ea3f849afe7476",
-          "title": "- suneung.re.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjU0TTIySDNoa21JN2pTUEM1enNPc0dtdi1KMGNzd1NmLTYyMXE2RFVLb2VBc3RTOE00TlpjeTcweW5sYVlNTk9YaDNJcG0yOWJXQjFWUk9JdDI1TUhXVVNwbHduZF9Wc01oUnpMeDh2RWJNX1dSNzNybVc1WXUtOWswWU9IVFBtYk9paDhDQQ?oc=5",
-          "source": "suneung.re.kr",
-          "published": "2026-04-28T16:34:12+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
+          "is_new": true
         }
       ]
     },

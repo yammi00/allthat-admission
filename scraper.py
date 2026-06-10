@@ -404,21 +404,29 @@ def fetch_korea_kr(keyword: str, n=10) -> list[dict]:
         r'초중등\s*이외|특수학교(?!.*수능)|유아|어린이|돌봄', re.IGNORECASE
     )
 
-    seen = set()
+    seen_nid = set()   # newsId 기준 중복 방지
+    seen_title = set() # 제목 기준 중복 방지
     for href, nid, title in links:
         title = re.sub(r'<[^>]+>', '', title).strip()
         title = re.sub(r'\s+', ' ', title).strip()
-        title = re.split(r'[\.…\n]', title)[0].strip()
-        if len(title) < 5 or nid in seen:
+        # 첫 문장만 (마침표·줄바꿈 기준 자르기)
+        title = re.split(r'[\.…\n□]', title)[0].strip()
+        title = title[:60].strip()  # 최대 60자
+        if len(title) < 5:
+            continue
+        # newsId 또는 제목 중복 제거
+        title_key = re.sub(r'\s+', '', title)  # 공백 제거 후 비교
+        if nid in seen_nid or title_key in seen_title:
             continue
         # 관련 없는 정책 기사 차단
         if not POLICY_KEEP_RE.search(title):
             continue
         if POLICY_BLOCK_RE.search(title):
             continue
-        seen.add(nid)
-        full_url = "https://www.korea.kr" + href.replace("&amp;", "&")
-        uid = hashlib.md5(full_url.encode()).hexdigest()
+        seen_nid.add(nid)
+        seen_title.add(title_key)
+        full_url = f"https://www.korea.kr/briefing/pressReleaseView.do?newsId={nid}"
+        uid = hashlib.md5(nid.encode()).hexdigest()  # newsId 기준 uid (안정적)
         items.append({
             "id": uid, "title": title, "link": full_url,
             "source": "정책브리핑(교육부)",
