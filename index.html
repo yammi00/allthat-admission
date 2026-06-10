@@ -531,12 +531,24 @@ function formatDate(iso) {
   return d.toLocaleDateString('ko-KR', {month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit'});
 }
 
+function getVisibleItems(items) {
+  const deleted = getDeleted();
+  const noise = getNoise();
+  const { sources: noiseSrc, keywords: noiseKws } = getNoisePatterns();
+  return items.filter(i => {
+    if (deleted[i.id] || noise[i.id]) return false;
+    if (noiseSrc.has(i.source)) return false;
+    if (noiseKws.some(kw => i.title.includes(kw))) return false;
+    return true;
+  });
+}
+
 function renderTabs(categories) {
   const el = document.getElementById('tabs');
-  const total = categories.reduce((s,c) => s + c.items.length, 0);
   let html = `<button class="tab-btn active" onclick="switchTab('home',this)">🏠 홈</button>`;
   categories.forEach(c => {
-    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name} <span class="cnt">${c.items.length}</span></button>`;
+    const cnt = getVisibleItems(c.items).length;
+    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name} <span class="cnt">${cnt}</span></button>`;
   });
   const bmCount = Object.keys(getBookmarks()).length;
   const noiseCount = Object.keys(getNoise()).length;
@@ -744,19 +756,19 @@ function renderDashboard() {
   </div>
   <div class="dashboard" id="dash-grid">`;
 
-  const deleted = getDeleted();
-  const noise = getNoise();
-  const { sources: noiseSrc, keywords: noiseKws } = getNoisePatterns();
-
   cats.forEach(c => {
-    // 삭제/노이즈 제외한 기사만 카드에 표시
-    const visible = c.items.filter(i => {
-      if (deleted[i.id] || noise[i.id]) return false;
-      if (noiseSrc.has(i.source)) return false;
-      if (noiseKws.some(kw => i.title.includes(kw))) return false;
-      return true;
-    });
-    const recent = visible.slice(0, 3);
+    const visible = getVisibleItems(c.items);
+    // ④ NEW+뉴스/공식 → NEW → 뉴스/공식 → 나머지 순
+    const score = i => {
+      const isNew = !!i.is_new;
+      const isQuality = i.type === 'news' || i.type === 'official';
+      if (isNew && isQuality) return 0;
+      if (isNew) return 1;
+      if (isQuality) return 2;
+      return 3;
+    };
+    const sorted = [...visible].sort((a, b) => score(a) - score(b));
+    const recent = sorted.slice(0, 3);
     html += `<div class="dash-card" onclick="switchToTab('${c.id}')">
       <div class="dash-card-top">
         <span class="dash-card-title">${c.emoji} ${c.name}</span>

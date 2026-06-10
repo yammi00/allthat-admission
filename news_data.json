@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T15:48:29.931421+00:00",
+  "updated_at": "2026-06-10T16:13:49.137362+00:00",
   "categories": [
     {
       "id": "exam",
@@ -477,19 +477,19 @@
           "is_new": false
         },
         {
-          "id": "d043585d6c17013093b56ac346e6e407",
+          "id": "e602ea18c5027a3a7a294f78ac10a587",
           "title": "의대 정원 확대·통합형 수능 개편에 N수생 사상 최대 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqU1VzZUZhQXdHS2RzSnI2bzFHY2xaNk1xcEpBa1lNQThZQXpIZjhwNGE5bU1peDVkSThWSzd3MEdfd3JuQ0RFS1RXMGcwdEpsSk1FelFSYjF4bHVmcHMyeU52ZjlJcWV5OTM1U3p1QUgtT181?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTOUlPRnJYYzRrZF9oLWFBUHdCOUdYNkIyTUNUaXF4RTVYcUtuTFVWZm1CdmFkaXpNbkFwSTJOZWlRSjN2OXdkeEU0cFE0RVNXZUQyV1lHNWIxQVo0dkJnOHIyUi1qWHVrQktQaGtMd2dZSW9qSGt3RA?oc=5",
           "source": "부산일보",
           "published": "2026-06-09T09:09:45+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "e602ea18c5027a3a7a294f78ac10a587",
+          "id": "d043585d6c17013093b56ac346e6e407",
           "title": "의대 정원 확대·통합형 수능 개편에 N수생 사상 최대 - 부산일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTOUlPRnJYYzRrZF9oLWFBUHdCOUdYNkIyTUNUaXF4RTVYcUtuTFVWZm1CdmFkaXpNbkFwSTJOZWlRSjN2OXdkeEU0cFE0RVNXZUQyV1lHNWIxQVo0dkJnOHIyUi1qWHVrQktQaGtMd2dZSW9qSGt3RA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqU1VzZUZhQXdHS2RzSnI2bzFHY2xaNk1xcEpBa1lNQThZQXpIZjhwNGE5bU1peDVkSThWSzd3MEdfd3JuQ0RFS1RXMGcwdEpsSk1FelFSYjF4bHVmcHMyeU52ZjlJcWV5OTM1U3p1QUgtT181?oc=5",
           "source": "부산일보",
           "published": "2026-06-09T09:09:45+00:00",
           "type": "news",
@@ -524,7 +524,7 @@
           "published": "2026-06-05T07:32:35+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "65471b1af9faacac63bcca34ca04d9c2",
@@ -534,7 +534,7 @@
           "published": "2026-06-05T01:00:37+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "db217c63aa1446fd4e8c857483c1b309",
@@ -544,7 +544,7 @@
           "published": "2026-06-04T15:06:57+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "236a41110b41e10d97a86a23e1d2dc8b",
@@ -554,7 +554,7 @@
           "published": "2026-06-04T14:49:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "329fa693bfee019f2b083ce3ac2fcac9",
@@ -564,7 +564,7 @@
           "published": "2026-06-04T13:09:37+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "59c4e6c4c88fcf59f4bc8a6ae22888b1",
@@ -574,7 +574,7 @@
           "published": "2026-06-04T12:57:22+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e05a156296eaf9dddef588accd60fbd7",
@@ -584,7 +584,7 @@
           "published": "2026-06-04T12:01:50+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "02de57884f4c90725e4515050b38efc1",
@@ -594,7 +594,7 @@
           "published": "2026-06-04T11:59:02+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bc8438f0cf5beb40ad9b8e1d475f1401",
@@ -604,7 +604,7 @@
           "published": "2026-06-04T09:41:36+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "73782df835d1909147a0ab354d84f494",
@@ -614,7 +614,7 @@
           "published": "2026-06-04T08:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8b276cd6a576196c4ea4ba3d5ec7bc7f",
@@ -624,7 +624,7 @@
           "published": "2026-06-04T08:37:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6f3341dd95e7b5693b903994664e93b6",
@@ -634,7 +634,7 @@
           "published": "2026-06-04T08:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ad6a10d08cd6200d27a413d2140485b0",
@@ -644,7 +644,7 @@
           "published": "2026-06-04T08:25:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cbf439c5c5a4298fe4689e252c7b2c4f",
@@ -654,7 +654,7 @@
           "published": "2026-06-04T07:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "96515691e32a1f473e7e0528399b0f75",
@@ -664,7 +664,7 @@
           "published": "2026-06-04T07:20:08+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b98b263af4afdb17822247fc24dab0c",
@@ -674,7 +674,7 @@
           "published": "2026-06-04T05:41:55+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e71eeff892f4de590b108a70e53cf35f",
@@ -684,7 +684,7 @@
           "published": "2026-06-04T04:47:12+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ee71dccaa0bb3133f2086e39fa12ada4",
@@ -694,7 +694,7 @@
           "published": "2026-06-04T04:36:03+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3a3ec863f3c4d24691f5c30f407c750",
@@ -704,7 +704,7 @@
           "published": "2026-06-04T04:13:09+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b398c104712530e87994ce1898b522c3",
@@ -714,7 +714,7 @@
           "published": "2026-06-04T04:09:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdcb4c20c4e8378e3d27c34331c8aebb",
@@ -724,7 +724,7 @@
           "published": "2026-06-04T04:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cbfa031f29557fd1092da4e9a1be78d5",
@@ -734,7 +734,7 @@
           "published": "2026-06-04T02:11:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4276552f4844d3207e8f9934002e595c",
@@ -744,7 +744,7 @@
           "published": "2026-06-03T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5e8a921623d8c843d34a6749a025ef3b",
@@ -754,7 +754,7 @@
           "published": "2026-05-11T13:45:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "44457bf29b2183214fd3346a4719a1cc",
@@ -764,7 +764,7 @@
           "published": "2026-03-25T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
@@ -774,7 +774,7 @@
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
@@ -784,7 +784,7 @@
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "45fb602926c82da48b8f93f075b47cc9",
@@ -794,7 +794,7 @@
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "74c13ef9eedbdfe0f9efb43663a01086",
@@ -804,7 +804,7 @@
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e48a8e0e02121df39a0c37ca29b010d7",
@@ -814,7 +814,7 @@
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         }
       ]
     },
@@ -1284,56 +1284,6 @@
           "is_new": false
         },
         {
-          "id": "10afeb61340bf8879cc3ad5d7ea11479",
-          "title": "2028학년도 SKY 수시, 수능보다 학생부가 더 중요해진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByQ1FJMUR3ZjRHV2dOV3NEdjZ2OFNnNjFVamxLaF9iSm8tWms2ZnFQQ2Y1MGhSQ2U2SUdUQ29sSUJPN1BsRmZxQVlSdldqN00?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e5e2d778534807e3d46fd70c97b12d91",
-          "title": "‘수능 올인’ 안 통한다…2028 SKY 입시, 학생부가 핵심 변수 - issueon.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTjdiX09LUEp3QzNrcEtiOEU2Z2hxUTUwdTNFU2p4ZnJ4WGxzS2l0c3NBNEU0Vlc5NmkzTV9sckZrZTlPVE0xNENQbllhdjRWWW4xNTc2N1hZOHFFdXdvb01DYVFtd0lYMGFV?oc=5",
-          "source": "issueon.co.kr",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7ebb95f4eecab450fa4c776d406ce9b8",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHhZNG9DOXFKQ29fMllPRGJra3prZjVJZmRUYk9tdVVpamdyaHpWVEg4MkVhcmNHWDlMdFVPRFRzUXNIRHJhSHhUc01tNFMxN09OSnF3TzFlN2huYUtNTlNNa0laVmNFY3FKQi0ybGpwQ0dqNTBwQjBjemd0eGhvbQ?oc=5",
-          "source": "이데일리",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "69acdc0fa3d119aa32aee118ccbe229c",
-          "title": "내년 'SKY 대입' 핵심 평가 요소는 학생부…수능 영향력 ↓ - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSmZLaldUU3FaTjctSkJuSFNIZkVZUGJrRmJsT2JDN1p2ZDBXejViUkFDODJyREpaQlhlbUVmUVM4LW01SFZsVnRxTXJDVUhTdXNIa0tLRUtPQnlyTmNkRnpyalNYbjFGcVHSAW9BVV95cUxOaVRDcVRBRFFWVnpwMzNBRWN6TVM4RHlXQTM1b3pza09ZY3JRcWY3N2ZlYURrNEZ1UGpCcV9UeU9wSE15NWgxMW1pVnhNMTdLdk50U2NrWEkzMl9obHRLRXduRlE1NHFMejAzN0NfMzA?oc=5",
-          "source": "머니투데이",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ca6d93fa6706dcf49c147533975c520c",
-          "title": "2028학년도 SKY 대입 허들은 학생부…수능 영향력 약화 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11SUpRejcwVmRQclM4TjhuYzVGUkxGYTJDQUNGcGFJUjN5QTRvNVJGaU1Ydmhsa245WFpyVVdsVWhDdWZJQjlrWmFHQk9CRkNybWs3NGpwM2JQVmVHUy12YV9PczFGSWVYSUE?oc=5",
-          "source": "금강일보",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "98ca92ab87554ba9137754a60c739605",
           "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS2VCUnVRMkt1dy1YWDlIZnV5TGk0ZG1ZeE1LX0YwXzF2MkVPV0tISEl5OHFpVDBoVWg3VlJjV3Z6cktUQVRzNkFmWjFGSDVybGloaw?oc=5",
@@ -1344,21 +1294,21 @@
           "is_new": false
         },
         {
+          "id": "b38bb2279a5e12768f58c85ee0075065",
+          "title": "고2 대입, SKY대 수시 58% '수능최저' 없이 선발 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwVVdrOUNZY0JKYTMtU1RFMzBVeXFqRVcwUURHTFdpTGozSjZHZjBhcUt2S3dVQXJ5cnk4czdoN0ZHR3ozWFNLSkdGTlBvQWhVZzVZ?oc=5",
+          "source": "네이트",
+          "published": "2026-05-10T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "ce1a31b86e3b7cde09ee75df55387715",
           "title": "통합형 수능 첫 도입… 지역 대학만의 교과 전형 특성 따져야 - 부산일보",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWMmQ5QU9LMHVwbERfZWVIdmhnTlducEJGcFdzR2cxd1hOR1M0czJxbWwwNGRLQWJPOEpjTjZHY2gtVklwa3U4QVlPVFI1MmR4bHpEME1lU3lrZE13XzQxeUZCbVMwVVVjS3hpaDFSdUlWY0oy?oc=5",
           "source": "부산일보",
           "published": "2026-05-05T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "573dff0981ff4ed7945b939e0f542eac",
-          "title": "[단독] [2028전형계획] SKY 1만1657명 수시66.7%'확대'..서울대 정시30.7% 연대 31% - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZTc5OXFMQjRkMEs4UkpSRlZrSWU2ZmVUZExlczhleG9xU29uZkx3S1RHUG84YmUyamF6MVdRbWF1NEtkQ1QxdmNEQWE0Tkp5LXg1SGp6ZmVKeTRNYkpfTWk2aHJ6cGUxalVocg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-04-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1852,7 +1802,7 @@
           "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다 교육부(장관 최교진)는 2026학년도 대학수학능력시험(이하 '수능') 영어 영역",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156744193&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=대입 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:21.426457+00:00",
+          "published": "2026-06-10T16:13:41.099358+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1863,7 +1813,7 @@
           "title": "사교육비 경감을 위한 정책 방안 발표",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752309&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=대입 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:21.426416+00:00",
+          "published": "2026-06-10T16:13:41.099272+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1874,7 +1824,7 @@
           "title": "2025년 초중고 사교육비 조사 결과 □ 초중고 사교육비 조사는 사교육비 지출을 체계적으로 파악하여 교육정책 및 관련 연구에 필요한 기초자료를",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748555&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:20.221841+00:00",
+          "published": "2026-06-10T16:13:39.865093+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1885,7 +1835,7 @@
           "title": "2027학년도 대학수학능력시험 시행기본계획 발표",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156751946&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:20.221728+00:00",
+          "published": "2026-06-10T16:13:39.864913+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1896,7 +1846,7 @@
           "title": "수능 어떻게 준비할까? 교육부(장관 최교진)와 한국교육과정평가원(원장 김문희, 이하 평가원)은 2027학년도 대학수학능력시험(이하 수능)을 준비",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:20.221686+00:00",
+          "published": "2026-06-10T16:13:39.864848+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1907,7 +1857,7 @@
           "title": "사교육비 경감을 위한 정책 방안 발표 교육부(장관 최교진)는 '2025년 초중고 사교육비 조사 결과' 발표 등에 따라 학부모의 사교육 부담을 덜",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752309&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=교육과정 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:20.221577+00:00",
+          "published": "2026-06-10T16:13:39.864689+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1918,7 +1868,7 @@
           "title": "[설명자료] 2026년 대학수학능력시험일 기상전망_수능일 한파 없이 맑고 일교차 큰 날씨",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727208&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=수능 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:19.881615+00:00",
+          "published": "2026-06-10T16:13:39.594928+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1929,7 +1879,7 @@
           "title": "수능 어떻게 준비할까?",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026&pageIndex=1&repCodeType=&repCode=&startDate=2025-06-11&endDate=2026-06-11&srchWord=수능 수학&period=",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-10T15:48:19.881339+00:00",
+          "published": "2026-06-10T16:13:39.594660+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1943,7 +1893,7 @@
           "published": "2026-04-28T16:34:12+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         }
       ]
     },
@@ -1960,7 +1910,7 @@
           "published": "2026-06-10T03:09:01+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4417d395e80136de792af1c262cc5756",
@@ -1970,7 +1920,7 @@
           "published": "2026-06-08T11:49:51+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0f5cbea1d67fae8cbe3672f4adb430e0",
@@ -1980,7 +1930,7 @@
           "published": "2026-06-05T08:53:31+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3fc72d72669aa0ea383ef0b6eae1e8bd",
@@ -1990,7 +1940,7 @@
           "published": "2026-06-04T04:15:14+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d0e7f743c88592e3aaea1f245a83b072",
@@ -2000,7 +1950,7 @@
           "published": "2026-06-03T09:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "71a17c902cce34121a451dc150f9ceb7",
@@ -2010,7 +1960,7 @@
           "published": "2026-05-28T01:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a394390c1a732b3d10b4af88a4c9e425",
@@ -2020,7 +1970,7 @@
           "published": "2026-05-25T07:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8200ca4e572e01ee2610fb1add6803f4",
@@ -2030,7 +1980,7 @@
           "published": "2026-05-21T01:35:11+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9fa78328adad5d2bea2dacf685df3a81",
@@ -2040,7 +1990,7 @@
           "published": "2026-05-19T01:40:16+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b538300e3e7fb58c1b72d0e25a63d21",
@@ -2050,7 +2000,7 @@
           "published": "2026-05-15T07:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b8a27794a7671207b219c03ca9d4a09a",
@@ -2060,7 +2010,7 @@
           "published": "2026-03-10T07:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3eb724ee8e8d06cd5166198263d1aa62",
@@ -2070,7 +2020,7 @@
           "published": "2026-03-06T08:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         }
       ]
     },
