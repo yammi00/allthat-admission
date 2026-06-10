@@ -57,8 +57,161 @@
   .tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
   .tab-btn .cnt { background: rgba(255,255,255,.22); border-radius: 10px; font-size: .66rem; padding: 1px 5px; margin-left: 3px; }
   .tab-btn.bookmark-tab.active { background: var(--yellow); border-color: var(--yellow); color: #000; }
+  .tab-btn.search-tab.active { background: #7c3aed; border-color: #7c3aed; color: #fff; }
 
-  main { padding: 16px 20px; max-width: 860px; margin: 0 auto; }
+  /* 검색창 */
+  .search-bar {
+    padding: 12px 16px;
+    background: var(--bg);
+    position: sticky; top: 93px; z-index: 98;
+    border-bottom: 1px solid var(--border);
+  }
+  .search-input-wrap {
+    display: flex; align-items: center; gap: 8px;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: 10px; padding: 8px 14px;
+    transition: border-color .15s;
+  }
+  .search-input-wrap:focus-within { border-color: #7c3aed; }
+  .search-input-wrap span { font-size: 1rem; color: var(--muted); }
+  .search-input {
+    flex: 1; background: none; border: none; outline: none;
+    font-size: 0.9rem; color: var(--text); font-family: inherit;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-clear {
+    background: none; border: none; color: var(--muted);
+    cursor: pointer; font-size: 1rem; padding: 0 2px;
+    display: none;
+  }
+  .search-clear.visible { display: block; }
+  .search-count {
+    font-size: 0.75rem; color: var(--muted); padding: 4px 0 0 2px;
+  }
+
+  /* 필터 바 (뉴스만 토글) */
+  .filter-bar {
+    display: flex; align-items: center; justify-content: flex-end;
+    padding: 7px 16px; background: var(--bg);
+    position: sticky; top: 93px; z-index: 98;
+    border-bottom: 1px solid var(--border);
+  }
+  .news-only-toggle {
+    display: flex; align-items: center; gap: 6px;
+    background: var(--surface); border: 1px solid var(--border);
+    padding: 4px 11px; border-radius: 14px; cursor: pointer;
+    font-size: 0.74rem; color: var(--muted); transition: all .15s;
+    white-space: nowrap;
+  }
+  .news-only-toggle:hover { border-color: var(--accent); }
+  .news-only-toggle.active { background: #2563eb; border-color: #2563eb; color: #fff; }
+  .toggle-dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+
+  /* 검색 오버레이 */
+  .search-overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.4); z-index: 200; align-items: flex-start;
+    padding-top: 60px;
+  }
+  .search-overlay.open { display: flex; }
+  .search-box {
+    background: var(--surface); width: 100%; max-width: 860px;
+    margin: 0 auto; border-radius: 0 0 12px 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18); padding: 14px 16px 16px;
+  }
+  .search-input-wrap {
+    display: flex; align-items: center; gap: 8px;
+    background: var(--bg); border: 1.5px solid var(--border);
+    border-radius: 10px; padding: 10px 14px; transition: border-color .15s;
+  }
+  .search-input-wrap:focus-within { border-color: #7c3aed; }
+  .search-input {
+    flex: 1; background: none; border: none; outline: none;
+    font-size: 0.95rem; color: var(--text); font-family: inherit;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-clear {
+    background: none; border: none; color: var(--muted);
+    cursor: pointer; font-size: 1rem; padding: 0 2px;
+  }
+  .search-results {
+    margin-top: 10px; max-height: 60vh; overflow-y: auto;
+    border-radius: 8px;
+  }
+  .search-count { font-size: 0.75rem; color: var(--muted); padding: 6px 2px 4px; }
+
+  /* 뉴스 타입 배지 */
+  .badge-type {
+    font-size: .62rem; font-weight: 600; padding: 1px 6px;
+    border-radius: 10px; white-space: nowrap;
+  }
+  .badge-type.official { background: #fee2e2; color: #991b1b; font-weight: 700; }
+  .badge-type.news { background: #dbeafe; color: #1d4ed8; }
+  .badge-type.blog { background: #f0fdf4; color: #15803d; }
+  .badge-type.cafe { background: #fef9c3; color: #a16207; }
+
+  main { padding: 0 0 20px; max-width: 860px; margin: 0 auto; }
+
+  /* ── 대시보드 ── */
+  .dash-search-wrap {
+    padding: 14px 16px 8px;
+  }
+  .dash-search-bar {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: 12px; padding: 10px 16px;
+    transition: border-color .15s;
+  }
+  .dash-search-bar:focus-within { border-color: var(--accent); }
+  .dash-search-bar input {
+    border: none; outline: none; background: none;
+    font-size: .92rem; flex: 1; color: var(--text);
+    font-family: inherit;
+  }
+  .dash-search-bar input::placeholder { color: var(--muted); }
+  .dash-search-bar .search-icon { font-size: 1rem; color: var(--muted); }
+  .dash-summary {
+    padding: 0 16px 8px; display: flex; gap: 10px; flex-wrap: wrap;
+  }
+  .dash-stat {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 16px; flex: 1; min-width: 100px;
+  }
+  .dash-stat strong { color: var(--accent); font-size: 1.3rem; font-weight: 800; display: block; line-height: 1.2; }
+  .dash-stat span { font-size: .72rem; color: var(--muted); }
+  .dashboard {
+    padding: 0 16px 16px; display: grid;
+    grid-template-columns: 1fr 1fr; gap: 10px;
+  }
+  @media (min-width: 600px) { .dashboard { grid-template-columns: repeat(3, 1fr); } }
+  .dash-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 13px; cursor: pointer;
+    transition: all .15s; overflow: hidden;
+  }
+  .dash-card:hover { border-color: var(--accent); box-shadow: 0 2px 12px rgba(37,99,235,0.1); transform: translateY(-1px); }
+  .dash-card-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 9px; }
+  .dash-card-title { font-size: .85rem; font-weight: 700; color: var(--text); }
+  .dash-card-cnt { background: var(--accent); color: #fff; font-size: .65rem; font-weight: 700; padding: 2px 7px; border-radius: 10px; }
+  .dash-card-arrow { font-size: .7rem; color: var(--muted); margin-left: auto; padding-left: 6px; }
+  .dash-card-items { list-style: none; }
+  .dash-card-items li {
+    font-size: .73rem; color: var(--muted); padding: 4px 0;
+    border-bottom: 1px solid var(--border); line-height: 1.4;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .dash-card-items li:last-child { border-bottom: none; }
+  .dash-card-items li a {
+    color: var(--muted); text-decoration: none;
+    display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .dash-card-items li a:hover { color: var(--accent); text-decoration: underline; }
+  .dash-card-bm { background: #fffbeb; border-color: #fde68a; }
+  .dash-card-bm .dash-card-cnt { background: var(--yellow); }
+  .dash-card-today { background: #f0fdf4; border-color: #bbf7d0; }
+  .dash-card-today .dash-card-cnt { background: var(--new); }
+  .dash-card-empty { background: var(--surface2); border: 2px dashed var(--border); display: flex; align-items: center; justify-content: center; }
+  .dash-card-empty span { font-size: .8rem; color: var(--muted); }
 
   .section { display: none; }
   .section.active { display: block; }
@@ -73,11 +226,14 @@
   .news-item:hover { border-color: var(--accent); }
   .news-item.bookmarked { border-left: 3px solid var(--yellow); }
   .news-item.deleted { display: none; }
+  .news-item.filter-hidden { display: none; }
 
   .news-title-row { display: flex; align-items: flex-start; gap: 8px; }
   .news-title-row a {
     color: var(--text); text-decoration: none; font-size: 0.88rem;
     font-weight: 500; line-height: 1.5; flex: 1;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
   }
   .news-title-row a:hover { color: var(--accent); }
 
@@ -165,13 +321,35 @@
 
 <header>
   <h1>📐 <span>올댓</span> 입시 정보</h1>
-  <div style="display:flex;align-items:center;gap:10px;">
-    <span id="update-time">로딩 중...</span>
+  <div style="display:flex;align-items:center;gap:8px;">
+    <span id="update-time" style="font-size:.68rem;color:var(--muted);white-space:nowrap;"></span>
     <button class="refresh-btn" onclick="loadNews()">↻ 새로고침</button>
   </div>
 </header>
 
+<!-- 검색 오버레이 -->
+<div class="search-overlay" id="search-overlay" onclick="closeSearchOnBg(event)">
+  <div class="search-box">
+    <div class="search-input-wrap">
+      <span style="font-size:1rem;color:var(--muted)">🔍</span>
+      <input class="search-input" id="search-input" type="text" placeholder="키워드 검색 (예: 킬러문항, 논술, 수시 최저…)"
+        oninput="onSearchInput(this.value)"
+        onkeydown="if(event.key==='Escape')closeSearch()">
+      <button class="search-clear" onclick="clearSearch()">✕</button>
+    </div>
+    <div class="search-count" id="search-count"></div>
+    <div class="search-results" id="search-results">
+      <div class="empty" style="padding:20px 0;font-size:.85rem;">키워드를 입력하세요</div>
+    </div>
+  </div>
+</div>
+
 <nav class="tabs" id="tabs"></nav>
+<div class="filter-bar" id="filter-bar">
+  <button class="news-only-toggle" id="news-only-btn" onclick="toggleNewsOnly()">
+    <span class="toggle-dot"></span> 📰 뉴스만
+  </button>
+</div>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
 
 <script>
@@ -328,8 +506,25 @@ function refreshItemState(id) {
   });
 }
 
-// ── 렌더링 ────────────────────────────────────────────────────
+// ── 필터 상태 ─────────────────────────────────────────────────
 let currentCat = 'all';
+let newsOnly = false;
+
+function toggleNewsOnly() {
+  newsOnly = !newsOnly;
+  const btn = document.getElementById('news-only-btn');
+  if (btn) btn.classList.toggle('active', newsOnly);
+  applyFilters();
+}
+
+function applyFilters() {
+  document.querySelectorAll('.section.active .news-item').forEach(el => {
+    const type = el.dataset.type || 'news';
+    const del  = el.classList.contains('deleted');
+    const newsOk = !newsOnly || type === 'news' || type === 'official';
+    if (!del) el.classList.toggle('filter-hidden', !newsOk);
+  });
+}
 
 function formatDate(iso) {
   const d = new Date(iso);
@@ -339,14 +534,14 @@ function formatDate(iso) {
 function renderTabs(categories) {
   const el = document.getElementById('tabs');
   const total = categories.reduce((s,c) => s + c.items.length, 0);
-  let html = `<button class="tab-btn active" onclick="switchTab('all',this)">전체 <span class="cnt">${total}</span></button>`;
+  let html = `<button class="tab-btn active" onclick="switchTab('home',this)">🏠 홈</button>`;
   categories.forEach(c => {
     html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name} <span class="cnt">${c.items.length}</span></button>`;
   });
   const bmCount = Object.keys(getBookmarks()).length;
   const noiseCount = Object.keys(getNoise()).length;
   html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크 <span class="cnt">${bmCount}</span></button>`;
-  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 노이즈 <span class="cnt">${noiseCount}</span></button>`;
+  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링 <span class="cnt">${noiseCount}</span></button>`;
   el.innerHTML = html;
 }
 
@@ -361,7 +556,8 @@ function renderMain(categories) {
   const allItems = categories.flatMap(c => c.items.map(i => ({...i, catName: c.name, catEmoji: c.emoji})));
   allItems.sort((a,b) => new Date(b.published) - new Date(a.published));
 
-  let html = `<section class="section active" data-cat="all">${renderList(allItems, true)}</section>`;
+  let html = `<section class="section active" data-cat="home"></section>`;
+  html += `<section class="section" data-cat="all">${renderList(allItems, true)}</section>`;
   categories.forEach(c => {
     const sorted = [...c.items].sort((a,b) => new Date(b.published) - new Date(a.published));
     html += `<section class="section" data-cat="${c.id}">${renderList(sorted, false)}</section>`;
@@ -370,19 +566,53 @@ function renderMain(categories) {
   html += `<section class="section" data-cat="noise"></section>`;
   main.innerHTML = html;
   applyDeletedState();
+  renderDashboard();
+}
+
+function typeBadge(type) {
+  if (type === 'official') return '<span class="badge-type official">🏛 공식</span>';
+  if (type === 'news') return '<span class="badge-type news">📰 뉴스</span>';
+  if (type === 'blog') return '<span class="badge-type blog">📝 블로그</span>';
+  if (type === 'cafearticle') return '<span class="badge-type cafe">💬 카페</span>';
+  return '';
+}
+
+function gradeBadge(grade) {
+  if (grade === '1') return '<span class="badge-grade g1">고1</span>';
+  if (grade === '2') return '<span class="badge-grade g2">고2</span>';
+  if (grade === '3') return '<span class="badge-grade g3">고3</span>';
+  return '';
 }
 
 function renderList(items, showCat) {
   if (!items.length) return '<div class="empty">수집된 뉴스가 없습니다.</div>';
   const bm = getBookmarks(); const del = getDeleted(); const memos = getMemos(); const noise = getNoise();
+  const { sources: noiseSrc, keywords: noiseKws } = getNoisePatterns();
+
+  // 뉴스 먼저, 그 다음 블로그·카페 (같은 타입 내에서는 시간순)
+  const sorted = [...items].sort((a, b) => {
+    const typeOrder = t => t === 'news' ? 0 : 1;
+    const to = typeOrder(a.type) - typeOrder(b.type);
+    if (to !== 0) return to;
+    return new Date(b.published) - new Date(a.published);
+  });
+
   let html = '<ul class="news-list">';
-  items.forEach(item => {
+  sorted.forEach(item => {
     const isDeleted = !!del[item.id];
     const isBookmarked = !!bm[item.id];
     const isNoise = !!noise[item.id];
+    // 노이즈 자동 필터: 저장된 출처/키워드 패턴과 일치하면 자동 숨김
+    const isAutoNoise = !isNoise && !isBookmarked && (
+      (item.source && noiseSrc.has(item.source)) ||
+      noiseKws.some(kw => item.title.includes(kw))
+    );
     const memo = memos[item.id] || '';
+    const grade = item.grade || 'all';
+    const type  = item.type  || 'news';
     html += `
-    <li class="news-item${isBookmarked?' bookmarked':''}${isDeleted||isNoise?' deleted':''}" data-id="${item.id}">
+    <li class="news-item${isBookmarked?' bookmarked':''}${isDeleted||isNoise||isAutoNoise?' deleted':''}"
+        data-id="${item.id}" data-grade="${grade}" data-type="${type}">
       <div class="news-title-row">
         <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
         <div class="item-actions">
@@ -394,6 +624,8 @@ function renderList(items, showCat) {
       </div>
       <div class="news-meta">
         ${item.is_new ? '<span class="badge-new">NEW</span>' : ''}
+        ${typeBadge(type)}
+        ${gradeBadge(grade)}
         ${showCat && item.catName ? `<span>${item.catEmoji} ${item.catName}</span>` : ''}
         ${item.source ? `<span>${item.source}</span>` : ''}
         <span>${formatDate(item.published)}</span>
@@ -443,49 +675,185 @@ function applyDeletedState() {
 }
 
 // ── 메모 인터랙션 ─────────────────────────────────────────────
+function getMemoAreas(id) {
+  // 같은 id가 전체탭+카테고리탭 두 곳에 있을 수 있으므로 querySelectorAll 사용
+  return document.querySelectorAll(`.memo-area[id="memo-${id}"]`);
+}
 function toggleMemo(id) {
-  const area = document.getElementById('memo-' + id);
-  if (!area) return;
-  if (area.classList.contains('open')) {
-    area.classList.remove('open');
-  } else {
-    area.classList.add('open');
-    const ta = area.querySelector('textarea');
-    if (ta) setTimeout(() => ta.focus(), 50);
-  }
+  const areas = getMemoAreas(id);
+  if (!areas.length) return;
+  const isOpen = areas[0].classList.contains('open');
+  areas.forEach(area => {
+    if (isOpen) {
+      area.classList.remove('open');
+    } else {
+      area.classList.add('open');
+      const ta = area.querySelector('textarea');
+      if (ta) setTimeout(() => ta.focus(), 50);
+    }
+  });
 }
 function memoKey(e, id, ta) {
   if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); commitMemo(id, ta); }
-  if (e.key === 'Escape') { document.getElementById('memo-'+id)?.classList.remove('open'); }
+  if (e.key === 'Escape') { getMemoAreas(id).forEach(a => a.classList.remove('open')); }
 }
 function commitMemo(id, ta) {
   saveMemo(id, ta.value);
-  const area = document.getElementById('memo-' + id);
-  if (!area) return;
   const text = getMemos()[id] || '';
-  if (text) {
-    area.innerHTML = `<div class="memo-display" onclick="openMemoEdit('${id}')">${text}</div>`;
-  } else {
-    area.classList.remove('open');
-    area.innerHTML = `<textarea class="memo-input" rows="2" placeholder="메모를 입력하고 Enter…" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)"></textarea>`;
-  }
+  getMemoAreas(id).forEach(area => {
+    if (text) {
+      area.innerHTML = `<div class="memo-display" onclick="openMemoEdit('${id}')">${text}</div>`;
+    } else {
+      area.classList.remove('open');
+      area.innerHTML = `<textarea class="memo-input" rows="2" placeholder="메모를 입력하고 Enter…" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)"></textarea>`;
+    }
+  });
 }
 function openMemoEdit(id) {
-  const area = document.getElementById('memo-' + id);
-  if (!area) return;
   const text = getMemos()[id] || '';
-  area.innerHTML = `<textarea class="memo-input" rows="2" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)">${text}</textarea>`;
-  setTimeout(() => area.querySelector('textarea')?.focus(), 30);
+  getMemoAreas(id).forEach(area => {
+    area.innerHTML = `<textarea class="memo-input" rows="2" onblur="commitMemo('${id}',this)" onkeydown="memoKey(event,'${id}',this)">${text}</textarea>`;
+    setTimeout(() => area.querySelector('textarea')?.focus(), 30);
+  });
 }
 
 // ── 탭 전환 ───────────────────────────────────────────────────
+// ── 대시보드 ──────────────────────────────────────────────────
+function renderDashboard() {
+  const section = document.querySelector('[data-cat="home"]');
+  if (!section || !window._data) return;
+  const cats = window._data.categories;
+  const total = cats.reduce((s,c) => s+c.items.length, 0);
+  const today = new Date().toLocaleDateString('ko-KR', {month:'long', day:'numeric'});
+  const d = window._data.updated_at;
+  const diff = (Date.now() - new Date(d)) / 1000;
+  const ago = diff < 60 ? '방금 전' : diff < 3600 ? `${Math.floor(diff/60)}분 전` : `${Math.floor(diff/3600)}시간 전`;
+
+  let html = `
+  <div class="dash-summary">
+    <div class="dash-stat" onclick="switchToTab('all')" style="cursor:pointer;transition:all .15s;" onmouseover="this.style.borderColor='var(--accent)'" onmouseout="this.style.borderColor=''">
+      <strong>${total}</strong><span>총 기사 →</span>
+    </div>
+    <div class="dash-stat" style="display:flex;align-items:center;gap:8px;padding:8px 14px;">
+      <span style="font-size:.9rem;color:var(--muted);">🔍</span>
+      <input type="text" placeholder="키워드 검색…"
+        style="border:none;outline:none;background:none;font-size:.85rem;flex:1;color:var(--text);font-family:inherit;min-width:0;"
+        oninput="onDashSearch(this.value)"
+        onkeydown="if(event.key==='Escape'){this.value='';onDashSearch('');}">
+    </div>
+  </div>
+  <div class="dashboard" id="dash-grid">`;
+
+  cats.forEach(c => {
+    const recent = c.items.slice(0,3);
+    html += `<div class="dash-card" onclick="switchToTab('${c.id}')">
+      <div class="dash-card-top">
+        <span class="dash-card-title">${c.emoji} ${c.name}</span>
+        <span class="dash-card-cnt">${c.items.length}</span>
+        <span class="dash-card-arrow">→</span>
+      </div>
+      <ul class="dash-card-items">
+        ${recent.map(i=>`<li><a href="${i.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${i.title}</a></li>`).join('')}
+      </ul>
+    </div>`;
+  });
+
+  html += '</div>';
+  section.innerHTML = html;
+}
+
+function onDashSearch(q) {
+  const kw = q.trim().toLowerCase();
+  if (!kw) {
+    // 검색어 없으면 검색결과 숨기고 그리드 보이기
+    const res = document.getElementById('dash-search-results');
+    if (res) res.remove();
+    const grid = document.getElementById('dash-grid');
+    if (grid) grid.style.display = '';
+    return;
+  }
+  const cats = window._data?.categories || [];
+  const allItems = cats.flatMap(c => c.items.map(i => ({...i, catName: c.name, catEmoji: c.emoji})));
+  const matched = allItems.filter(i => i.title.toLowerCase().includes(kw)).slice(0, 30);
+  const grid = document.getElementById('dash-grid');
+  if (grid) grid.style.display = 'none';
+  let el = document.getElementById('dash-search-results');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'dash-search-results';
+    el.style.cssText = 'padding:0 16px 16px;';
+    grid?.parentNode.insertBefore(el, grid.nextSibling) || document.querySelector('[data-cat="home"]').appendChild(el);
+  }
+  if (!matched.length) {
+    el.innerHTML = `<p style="text-align:center;color:var(--muted);padding:30px 0;font-size:.85rem;">검색 결과 없음</p>`;
+    return;
+  }
+  el.innerHTML = `<div style="font-size:.75rem;color:var(--muted);margin-bottom:8px;">"${q}" 검색 결과 ${matched.length}건</div>` +
+    matched.map(i => `<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:10px 13px;margin-bottom:6px;">
+      <a href="${i.link}" target="_blank" rel="noopener" style="color:var(--text);text-decoration:none;font-size:.87rem;font-weight:500;line-height:1.5;display:block;"
+         onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text)'">${i.title}</a>
+      <div style="font-size:.7rem;color:var(--muted);margin-top:3px;">${i.catEmoji} ${i.catName} · ${i.source||''}</div>
+    </div>`).join('');
+}
+
+function switchToTab(catId) {
+  const btn = [...document.querySelectorAll('.tab-btn')].find(b => b.getAttribute('onclick')?.includes(`'${catId}'`));
+  switchTab(catId, btn || null);
+}
+
+// ── 노이즈 자동 필터 패턴 ──────────────────────────────────────
+function getNoisePatterns() {
+  const noise = getNoise();
+  const sources = new Set(Object.values(noise).map(n=>n.source).filter(Boolean));
+  const keywords = [...new Set(Object.values(noise).flatMap(n=>
+    (n.patterns||[]).filter(p=>p.type==='keyword').map(p=>p.value)
+  ))];
+  return { sources, keywords };
+}
+
+// ── 검색 오버레이 ─────────────────────────────────────────────
+function openSearch() {
+  document.getElementById('search-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('search-input')?.focus(), 100);
+}
+function closeSearch() {
+  document.getElementById('search-overlay').classList.remove('open');
+}
+function closeSearchOnBg(e) {
+  if (e.target === document.getElementById('search-overlay')) closeSearch();
+}
+function clearSearch() {
+  const input = document.getElementById('search-input');
+  if (input) { input.value = ''; input.focus(); }
+  document.getElementById('search-count').textContent = '';
+  document.getElementById('search-results').innerHTML = '<div class="empty" style="padding:20px 0;font-size:.85rem;">키워드를 입력하세요</div>';
+}
+function onSearchInput(val) {
+  const q = val.trim().toLowerCase();
+  const countEl = document.getElementById('search-count');
+  const resultsEl = document.getElementById('search-results');
+  if (!q) { clearSearch(); return; }
+  const all = window._data?.categories.flatMap(c => c.items.map(i => ({...i, catName:c.name, catEmoji:c.emoji}))) || [];
+  const results = all.filter(i => i.title.toLowerCase().includes(q) || (i.source||'').toLowerCase().includes(q));
+  results.sort((a,b) => new Date(b.published) - new Date(a.published));
+  countEl.textContent = results.length ? `검색 결과 ${results.length}건` : '결과 없음';
+  resultsEl.innerHTML = results.length
+    ? renderList(results, true)
+    : '<div class="empty" style="padding:20px 0;">검색 결과가 없습니다.</div>';
+}
+
 function switchTab(catId, btn) {
   currentCat = catId;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
   document.querySelectorAll('.section').forEach(s => s.classList.toggle('active', s.dataset.cat === catId));
+  if (catId === 'home') renderDashboard();
   if (catId === 'bookmarks') renderBookmarks();
   if (catId === 'noise') renderNoise();
+  const filterBar = document.getElementById('filter-bar');
+  const isSpecial = catId === 'noise' || catId === 'bookmarks' || catId === 'home';
+  if (filterBar) filterBar.style.display = isSpecial ? 'none' : '';
+  if (catId !== 'home') applyFilters();
 }
 
 // ── 데이터 로드 ───────────────────────────────────────────────
@@ -497,7 +865,7 @@ async function loadNews() {
 
     const diff = (Date.now() - new Date(window._data.updated_at)) / 1000;
     const ago = diff < 60 ? '방금 전' : diff < 3600 ? `${Math.floor(diff/60)}분 전` : `${Math.floor(diff/3600)}시간 전`;
-    document.getElementById('update-time').textContent = `업데이트: ${ago}`;
+    const ut = document.getElementById('update-time'); if(ut) ut.textContent = `업데이트: ${ago}`;
 
     renderTabs(window._data.categories);
     renderMain(window._data.categories);
@@ -508,7 +876,7 @@ async function loadNews() {
     }
   } catch {
     document.getElementById('main').innerHTML = '<div class="empty">뉴스 데이터를 불러올 수 없습니다.<br><small>scraper.py를 먼저 실행해주세요.</small></div>';
-    document.getElementById('update-time').textContent = '데이터 없음';
+    const ut2 = document.getElementById('update-time'); if(ut2) ut2.textContent = '데이터 없음';
   }
 }
 

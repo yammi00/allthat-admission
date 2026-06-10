@@ -2,7 +2,7 @@ name: 수학 뉴스 수집
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # 20분마다 실행
+    - cron: "0 */2 * * *"    # 2시간마다 실행
   workflow_dispatch:          # 수동 실행 버튼
 
 jobs:
