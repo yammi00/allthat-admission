@@ -22,23 +22,32 @@
   body { font-family: -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
   header {
-    background: var(--surface);
-    border-bottom: 2px solid var(--accent);
-    box-shadow: 0 2px 8px rgba(37,99,235,0.08);
-    padding: 11px 16px;
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+    box-shadow: 0 2px 12px rgba(37,99,235,0.25);
+    padding: 10px 18px;
     display: flex; align-items: center; justify-content: space-between;
     position: sticky; top: 0; z-index: 100;
     gap: 8px;
   }
-  header h1 { font-size: 1rem; font-weight: 700; white-space: nowrap; }
-  header h1 span { color: var(--accent); }
-  #update-time { font-size: 0.68rem; color: var(--muted); white-space: nowrap; }
+  .header-logo {
+    display: flex; align-items: center; gap: 10px;
+  }
+  .header-logo-icon {
+    width: 32px; height: 32px; background: rgba(255,255,255,0.15);
+    border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem; flex-shrink: 0;
+  }
+  .header-logo-text { display: flex; flex-direction: column; line-height: 1.2; }
+  .header-logo-text .brand { font-size: .95rem; font-weight: 800; color: #fff; letter-spacing: -0.3px; }
+  .header-logo-text .brand em { color: #93c5fd; font-style: normal; }
+  .header-logo-text .sub { font-size: .62rem; color: rgba(255,255,255,.65); letter-spacing: 0.3px; font-weight: 400; }
+  #update-time { font-size: 0.65rem; color: rgba(255,255,255,.6); white-space: nowrap; }
   .refresh-btn {
-    background: var(--surface2); border: 1px solid var(--border);
-    color: var(--muted); padding: 5px 10px; border-radius: 6px;
+    background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.25);
+    color: rgba(255,255,255,.85); padding: 5px 11px; border-radius: 6px;
     font-size: 0.72rem; cursor: pointer; transition: all .15s; white-space: nowrap;
   }
-  .refresh-btn:hover { color: var(--text); border-color: var(--accent); }
+  .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
   .tabs {
     display: flex; gap: 5px; padding: 10px 16px 0;
@@ -320,9 +329,15 @@
 <body>
 
 <header>
-  <h1>📐 <span>올댓</span> 입시 정보</h1>
+  <div class="header-logo">
+    <div class="header-logo-icon">🎓</div>
+    <div class="header-logo-text">
+      <span class="brand"><em>올댓</em> 입시정보</span>
+      <span class="sub">대입 · 수능 · 논술 · 입시 뉴스</span>
+    </div>
+  </div>
   <div style="display:flex;align-items:center;gap:8px;">
-    <span id="update-time" style="font-size:.68rem;color:var(--muted);white-space:nowrap;"></span>
+    <span id="update-time"></span>
     <button class="refresh-btn" onclick="loadNews()">↻ 새로고침</button>
   </div>
 </header>
