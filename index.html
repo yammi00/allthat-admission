@@ -735,9 +735,8 @@ function renderDashboard() {
 
   cats.forEach(c => {
     const visible = getVisibleItems(c.items);
-    // 뉴스 타입만, is_new 우선 → 최신순
-    const newsOnly = visible.filter(i => i.type === 'news');
-    const sorted = [...newsOnly].sort((a, b) => {
+    // news + official 포함, is_new 우선 → 최신순 (블로그 없으므로 전체 사용)
+    const sorted = [...visible].sort((a, b) => {
       if (!!b.is_new !== !!a.is_new) return b.is_new ? 1 : -1;
       return new Date(b.published) - new Date(a.published);
     });
