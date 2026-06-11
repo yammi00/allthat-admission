@@ -321,7 +321,7 @@
   </div>
   <div style="display:flex;align-items:center;gap:8px;">
     <span id="update-time"></span>
-    <button class="refresh-btn" onclick="loadNews()">↻ 새로고침</button>
+    <button class="refresh-btn" onclick="manualRefresh()">↻ 새로고침</button>
   </div>
 </header>
 
@@ -895,6 +895,21 @@ async function loadServerNoisePatterns() {
   } catch { /* noise_patterns.json 없으면 무시 */ }
 }
 
+// ── 토스트 메시지 ──────────────────────────────────────────────
+function showToast(msg, duration = 2800) {
+  let toast = document.getElementById('toast-msg');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'toast-msg';
+    toast.style.cssText = 'position:fixed;bottom:72px;left:50%;transform:translateX(-50%);background:rgba(30,30,40,.92);color:#fff;padding:10px 20px;border-radius:20px;font-size:14px;z-index:9999;pointer-events:none;opacity:0;transition:opacity .25s';
+    document.body.appendChild(toast);
+  }
+  toast.textContent = msg;
+  toast.style.opacity = '1';
+  clearTimeout(toast._tid);
+  toast._tid = setTimeout(() => { toast.style.opacity = '0'; }, duration);
+}
+
 // ── 데이터 로드 ───────────────────────────────────────────────
 async function loadNews() {
   await loadServerNoisePatterns();
@@ -917,6 +932,17 @@ async function loadNews() {
   } catch {
     document.getElementById('main').innerHTML = '<div class="empty">뉴스 데이터를 불러올 수 없습니다.<br><small>scraper.py를 먼저 실행해주세요.</small></div>';
     const ut2 = document.getElementById('update-time'); if(ut2) ut2.textContent = '데이터 없음';
+  }
+}
+
+async function manualRefresh() {
+  const prevUpdatedAt = window._data?.updated_at || null;
+  await loadNews();
+  const newUpdatedAt = window._data?.updated_at || null;
+  if (prevUpdatedAt && prevUpdatedAt === newUpdatedAt) {
+    showToast('새로운 정보가 없습니다');
+  } else if (newUpdatedAt) {
+    showToast('업데이트 완료');
   }
 }
 
