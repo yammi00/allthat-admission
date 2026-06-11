@@ -390,6 +390,7 @@ function toggleNoise(id) {
   LS.set('noise', noise);
   refreshItemState(id);
   updateNoiseBadge();
+  if (currentCat === 'home') renderDashboard();
 }
 
 function removeNoiseItem(id) {
@@ -475,6 +476,7 @@ function toggleBookmark(id) {
 function deleteItem(id) {
   const del = getDeleted(); del[id] = true; LS.set('deleted', del);
   refreshItemState(id);
+  if (currentCat === 'home') renderDashboard();
 }
 function restoreAll() {
   LS.set('deleted', {}); renderMain(window._data.categories); switchTab(currentCat, document.querySelector('.tab-btn.active'));
@@ -710,7 +712,7 @@ function renderDashboard() {
   const section = document.querySelector('[data-cat="home"]');
   if (!section || !window._data) return;
   const cats = window._data.categories;
-  const total = cats.reduce((s,c) => s+c.items.length, 0);
+  const total = cats.reduce((s,c) => s + getVisibleItems(c.items).length, 0);
   const today = new Date().toLocaleDateString('ko-KR', {month:'long', day:'numeric'});
   const d = window._data.updated_at;
   const diff = (Date.now() - new Date(d)) / 1000;

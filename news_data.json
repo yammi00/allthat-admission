@@ -2372,26 +2372,6 @@
           "no_expire": true,
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "db7e6712a2842597d4f3a2184ec0f9ff",
-          "title": "문서뷰어 - 교육부",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2Z0cWI0YkRwQWdXaEZsTVlEeTIzU0ppcWJKU0pzV2J4ckZHWkRMRDE0TEFVZXMtV2xPMTlXNkpkQVoxM3FSVlZpbjhla1dWNDIwTkVoSjZaMkZTazctekZaUlVUcFhtVU1MQks5TjlLbVNMeERsMEtCMWZZVVFENXNXa1NQTk43SlV0bWw1UGJsU1llS3AzN2dCOWw1MFE?oc=5",
-          "source": "교육부",
-          "published": "2026-06-03T10:18:17+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "8e919e54379da3d2b5ea3f849afe7476",
-          "title": "- suneung.re.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjU0TTIySDNoa21JN2pTUEM1enNPc0dtdi1KMGNzd1NmLTYyMXE2RFVLb2VBc3RTOE00TlpjeTcweW5sYVlNTk9YaDNJcG0yOWJXQjFWUk9JdDI1TUhXVVNwbHduZF9Wc01oUnpMeDh2RWJNX1dSNzNybVc1WXUtOWswWU9IVFBtYk9paDhDQQ?oc=5",
-          "source": "suneung.re.kr",
-          "published": "2026-04-28T16:34:12+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
         }
       ]
     },
