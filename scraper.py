@@ -487,7 +487,9 @@ def fetch_korea_kr(keyword: str, n=10) -> list[dict]:
         title = re.sub(r'\s+', ' ', title).strip()
         # 첫 문장만 (마침표·줄바꿈 기준 자르기)
         title = re.split(r'[\.…\n□]', title)[0].strip()
-        title = title[:60].strip()  # 최대 60자
+        # 본문 내용이 붙어있는 경우 제거 (교육부(장관..., 한국교육과정평가원... 이후 자르기)
+        title = re.split(r'\s+교육부\(|\s+한국교육과정', title)[0].strip()
+        title = title[:55].strip()  # 최대 55자
         if len(title) < 5:
             continue
         # newsId 또는 제목 중복 제거

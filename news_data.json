@@ -2309,14 +2309,15 @@
       "items": [
         {
           "id": "ff97bf68dc48afea042558afe3ef18d9",
-          "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다 교육부(장관 최교진)는 2026학년도 대학수학",
+          "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156744193",
           "source": "정책브리핑(교육부)",
           "published": "2026-06-10T22:32:40.993918+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": true
         },
         {
           "id": "81cc9d4901eab2123aafc010a4bf1e09",
@@ -2327,7 +2328,8 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": false
         },
         {
           "id": "74bf032e61514a3bbecbf0f6f913c257",
@@ -2338,7 +2340,8 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": false
         },
         {
           "id": "4dbab64cc2008e2ce63f74455c1209fb",
@@ -2349,18 +2352,20 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": true
         },
         {
           "id": "a6707dd58f56cbd1af6d3b812401ca22",
-          "title": "수능 어떻게 준비할까? 교육부(장관 최교진)와 한국교육과정평가원(원장 김문희, 이하 평가원)은 2027학년도",
+          "title": "수능 어떻게 준비할까?",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026",
           "source": "정책브리핑(교육부)",
           "published": "2026-06-10T16:25:47.680862+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": true
         },
         {
           "id": "829f05d8c06934f20265a62d9a754e58",
@@ -2371,7 +2376,8 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": false
+          "is_new": false,
+          "pinned": false
         }
       ]
     },
