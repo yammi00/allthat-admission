@@ -358,6 +358,9 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
     for item in items:
         if item["id"] in seen_ids:
             continue
+        # 블로그·카페 타입 전부 차단
+        if item.get("type") in ("blog", "cafearticle"):
+            continue
         if is_too_old(item["published"]):
             continue
         if BLACKLIST_RE.search(item["title"]):

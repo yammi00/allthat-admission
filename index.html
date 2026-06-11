@@ -518,6 +518,7 @@ function getVisibleItems(items) {
   const noise = getNoise();
   const { sources: noiseSrc, keywords: noiseKws } = getNoisePatterns();
   return items.filter(i => {
+    if (i.type === 'blog' || i.type === 'cafearticle') return false;
     if (deleted[i.id] || noise[i.id]) return false;
     if (noiseSrc.has(i.source)) return false;
     if (noiseKws.some(kw => i.title.includes(kw))) return false;
