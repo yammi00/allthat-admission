@@ -98,23 +98,6 @@
     font-size: 0.75rem; color: var(--muted); padding: 4px 0 0 2px;
   }
 
-  /* 필터 바 (뉴스만 토글) */
-  .filter-bar {
-    display: flex; align-items: center; justify-content: flex-end;
-    padding: 7px 16px; background: var(--bg);
-    position: sticky; top: 93px; z-index: 98;
-    border-bottom: 1px solid var(--border);
-  }
-  .news-only-toggle {
-    display: flex; align-items: center; gap: 6px;
-    background: var(--surface); border: 1px solid var(--border);
-    padding: 4px 11px; border-radius: 14px; cursor: pointer;
-    font-size: 0.74rem; color: var(--muted); transition: all .15s;
-    white-space: nowrap;
-  }
-  .news-only-toggle:hover { border-color: var(--accent); }
-  .news-only-toggle.active { background: #2563eb; border-color: #2563eb; color: #fff; }
-  .toggle-dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
 
   /* 검색 오버레이 */
   .search-overlay {
@@ -360,11 +343,6 @@
 </div>
 
 <nav class="tabs" id="tabs"></nav>
-<div class="filter-bar" id="filter-bar">
-  <button class="news-only-toggle" id="news-only-btn" onclick="toggleNewsOnly()">
-    <span class="toggle-dot"></span> 📰 뉴스만
-  </button>
-</div>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
 
 <script>
@@ -523,22 +501,9 @@ function refreshItemState(id) {
 
 // ── 필터 상태 ─────────────────────────────────────────────────
 let currentCat = 'all';
-let newsOnly = false;
-
-function toggleNewsOnly() {
-  newsOnly = !newsOnly;
-  const btn = document.getElementById('news-only-btn');
-  if (btn) btn.classList.toggle('active', newsOnly);
-  applyFilters();
-}
 
 function applyFilters() {
-  document.querySelectorAll('.section.active .news-item').forEach(el => {
-    const type = el.dataset.type || 'news';
-    const del  = el.classList.contains('deleted');
-    const newsOk = !newsOnly || type === 'news' || type === 'official';
-    if (!del) el.classList.toggle('filter-hidden', !newsOk);
-  });
+  // 블로그 수집 없으므로 별도 필터 불필요
 }
 
 function formatDate(iso) {
@@ -879,9 +844,6 @@ function switchTab(catId, btn) {
   if (catId === 'home') renderDashboard();
   if (catId === 'bookmarks') renderBookmarks();
   if (catId === 'noise') renderNoise();
-  const filterBar = document.getElementById('filter-bar');
-  const isSpecial = catId === 'noise' || catId === 'bookmarks' || catId === 'home';
-  if (filterBar) filterBar.style.display = isSpecial ? 'none' : '';
   if (catId !== 'home') applyFilters();
 }
 
