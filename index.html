@@ -390,7 +390,7 @@ function extractPatterns(item) {
   }
   // 2) 제목에서 의미 있는 고유 키워드 추출 (2글자 이상, 불용어 제외)
   const words = (item.title || '').match(/[가-힣a-zA-Z0-9]{2,}/g) || [];
-  const keywords = words.filter(w => w.length >= 3 && !STOPWORDS_NOISE.has(w)).slice(0, 3);
+  const keywords = words.filter(w => w.length >= 2 && !STOPWORDS_NOISE.has(w)).slice(0, 3);
   keywords.forEach(k => patterns.push({ type: 'keyword', value: k }));
   return patterns;
 }
@@ -613,11 +613,9 @@ function renderList(items, showCat) {
   const bm = getBookmarks(); const del = getDeleted(); const memos = getMemos(); const noise = getNoise();
   const { sources: noiseSrc, keywords: noiseKws } = getNoisePatterns();
 
-  // 뉴스 먼저, 그 다음 블로그·카페 (같은 타입 내에서는 시간순)
+  // NEW 먼저 → 최신 날짜순 (뉴스/블로그 구분 없이)
   const sorted = [...items].sort((a, b) => {
-    const typeOrder = t => t === 'news' ? 0 : 1;
-    const to = typeOrder(a.type) - typeOrder(b.type);
-    if (to !== 0) return to;
+    if (!!b.is_new !== !!a.is_new) return b.is_new ? 1 : -1;
     return new Date(b.published) - new Date(a.published);
   });
 
@@ -770,16 +768,12 @@ function renderDashboard() {
 
   cats.forEach(c => {
     const visible = getVisibleItems(c.items);
-    // ④ NEW+뉴스/공식 → NEW → 뉴스/공식 → 나머지 순
-    const score = i => {
-      const isNew = !!i.is_new;
-      const isQuality = i.type === 'news' || i.type === 'official';
-      if (isNew && isQuality) return 0;
-      if (isNew) return 1;
-      if (isQuality) return 2;
-      return 3;
-    };
-    const sorted = [...visible].sort((a, b) => score(a) - score(b));
+    // 뉴스 타입만, is_new 우선 → 최신순
+    const newsOnly = visible.filter(i => i.type === 'news');
+    const sorted = [...newsOnly].sort((a, b) => {
+      if (!!b.is_new !== !!a.is_new) return b.is_new ? 1 : -1;
+      return new Date(b.published) - new Date(a.published);
+    });
     const recent = sorted.slice(0, 3);
     html += `<div class="dash-card" onclick="switchToTab('${c.id}')">
       <div class="dash-card-top">

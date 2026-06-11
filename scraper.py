@@ -1,7 +1,8 @@
 """
 수학 입시 뉴스 수집기
-- 소스: 구글 뉴스 RSS + 네이버 검색 API (뉴스·블로그·카페)
-- 대상: 서울권 35개 4년제 대학 / 서울·경기 수도권
+- 소스: 구글 뉴스 RSS + 입시 전문 언론 RSS + 공식 사이트 + 네이버 뉴스 API
+- 대상: 서울권 35개 4년제 대학 / 서울·경기 수도권 / 수학 과목 한정
+- 블로그·카페 수집 없음 (품질 관리)
 - NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 환경변수 필요
 """
 
@@ -38,8 +39,22 @@ TIER_QUERIES = {
 # 지역 필터
 REGION_KW = ["서울", "경기", "수도권", "강남", "분당", "수원", "목동", "노원"]
 
+# ── 입시 전문 언론 RSS ────────────────────────────────────────
+# 블로그 대신 신뢰할 수 있는 입시 전문 언론 RSS 직접 수집
+EDU_RSS_FEEDS = [
+    # 입시 전문
+    ("https://www.veritas-a.com/rss/allArticle.xml",   "베리타스알파"),
+    ("https://www.edujin.co.kr/rss/allArticle.xml",    "에듀진"),
+    ("https://edu.chosun.com/site/data/rss/rss.xml",   "조선에듀"),
+    ("https://www.unn.net/news/rss",                    "한국대학신문"),
+    ("https://www.dhnews.co.kr/rss/allArticle.xml",    "대학저널"),
+    # 일반 신문 교육 섹션
+    ("https://rss.edaily.co.kr/edaily/section/education/rss.xml", "이데일리 교육"),
+    ("https://www.yna.co.kr/rss/education.xml",        "연합뉴스 교육"),
+]
+
 # ── 카테고리 정의 ─────────────────────────────────────────────
-# 각 카테고리: 구글 뉴스 쿼리 + 네이버 블로그 쿼리 + 네이버 카페 쿼리
+# 블로그·카페 수집 없음. 구글 뉴스 RSS + 네이버 뉴스 + 전문 RSS + 공식 사이트만.
 CATEGORIES = [
     {
         "id": "exam",
@@ -50,20 +65,18 @@ CATEGORIES = [
             "6월 모의평가 수학 등급컷 분석",
             "9월 모의평가 수학 등급컷 분석",
             "평가원 수학 출제 경향 분석",
-            "수능 수학 1등급 컷 서울 경기",
-            "EBS 수학 연계 수능 서울 경기",
-            "수능 EBS 수학 연계율 분석",
-            "EBS 수학 킬러 준킬러 연계",
+            "수능 수학 1등급컷 난이도 분석",
+            "EBS 수능 수학 연계율 분석",
+            "수능 수학 킬러 준킬러 출제 경향",
         ],
-        "naver_blog": [
-            "3월 모의고사 수학 풀이 분석",
-            "6월 모의평가 수학 풀이 분석",
-            "9월 모의평가 수학 풀이 분석",
-            "평가원 수학 킬러문항 해설",
-            "수능 수학 출제 경향 서울 경기",
-            "EBS 수학 연계 수능 풀이 분석",
-            "수능 EBS 수학 연계 킬러문항 분석",
+        "naver_news": [
+            "6월 모의평가 수학 등급컷",
+            "9월 모의평가 수학 등급컷",
+            "수능 수학 난이도 분석",
+            "평가원 수학 출제 경향",
         ],
+        # 전문 RSS 키워드 필터 (해당 키워드 포함 기사만)
+        "rss_keywords": ["모의고사", "모의평가", "등급컷", "수능 수학", "평가원", "EBS 연계"],
     },
     {
         "id": "sushi",
@@ -71,17 +84,18 @@ CATEGORIES = [
         "emoji": "🎓",
         "google": [
             "서울대 연세대 고려대 수시 수학 최저",
-            "성균관대 한양대 서강대 수시 수학 논술",
-            "중앙대 경희대 수시 수학 논술 서울",
+            "성균관대 한양대 서강대 수시 수학 최저",
             "인서울 수시 수학 최저학력기준 2027",
-            "서울권 대학 수학 논술 전형 분석",
+            "서울권 대학 수시 전형 분석 2027",
+            "2028 수시 수학 학생부 개편",
         ],
-        "naver_blog": [
-            "서울권 대학 수시 수학 최저학력기준 2027",
-            "강남 분당 수시 수학 논술 전략",
-            "인서울 수시 수학 논술 기출 분석",
-            "서울대 연세대 수시 수학 최저 전략",
+        "naver_news": [
+            "인서울 수시 수학 최저학력기준",
+            "서울대 수시 수학 최저",
+            "연세대 고려대 수시 전형",
+            "2028 수시 개편 수학",
         ],
+        "rss_keywords": ["수시", "학생부", "수능 최저", "논술전형", "수시 전형", "SKY 수시"],
     },
     {
         "id": "jeongshi",
@@ -90,31 +104,33 @@ CATEGORIES = [
         "google": [
             "서울대 연세대 고려대 정시 수학 반영비율",
             "성균관대 한양대 정시 수학 가중치 2027",
-            "수도권 대학 정시 수학 컷 서울 경기",
             "인서울 정시 수학 반영비율 유불리",
             "서울권 정시 수학 가중치 비교 분석",
+            "2028 정시 수학 반영 개편",
         ],
-        "naver_blog": [
-            "서울권 35개 대학 정시 수학 반영비율 분석",
-            "강남 분당 정시 수학 컨설팅 전략",
-            "인서울 정시 수학 가중치 유불리 분석",
-            "서울대 연세대 정시 수학 반영 전략",
+        "naver_news": [
+            "인서울 정시 수학 반영비율",
+            "서울대 정시 수학 가중치",
+            "정시 수학 반영 유불리",
+            "2028 정시 개편 수학",
         ],
+        "rss_keywords": ["정시", "정시 수학", "수능 반영", "가중치", "정시 전략"],
     },
     {
         "id": "policy",
         "name": "교육과정·정책",
         "emoji": "📋",
-        # 공식 사이트는 main()에서 fetch_suneung() + fetch_korea_kr()로 별도 수집
         "google": [
-            "site:moe.go.kr 수능 수학",
-            "site:suneung.re.kr 수학 모의평가",
             "교육부 수능 수학 교육과정 개편 발표",
             "2028 수능 수학 개편 교육부",
+            "수능 출제 체계 개편 교육부",
         ],
-        "naver_blog": [],
-        "naver_cafe": [],
-        "official": True,   # 공식 사이트 수집 플래그
+        "naver_news": [
+            "교육부 수능 개편 수학",
+            "2028 수능 개편 발표",
+        ],
+        "rss_keywords": ["교육과정", "수능 개편", "교육부", "출제 체계", "사교육", "EBS 연계율"],
+        "official": True,
     },
     {
         "id": "yaksuljul",
@@ -123,20 +139,17 @@ CATEGORIES = [
         "google": [
             "약술형 논술 수학 2027 대학",
             "국민대 가천대 약술 논술 수학 전형",
-            "상명대 삼육대 서경대 약술 논술 수학",
-            "약술형 논술 수1 수2 EBS 출제 분석",
             "수리논술 수학 2027 서울 경기 대학",
             "연세대 성균관대 수리논술 수학 기출",
             "인서울 수리논술 준비 전략 수학",
+            "약술형 논술 수능최저 없는 전형 2027",
         ],
-        "naver_blog": [
-            "약술형 논술 수학 준비 전략 2027",
-            "약술형 논술 대학별 기출 분석 수학",
-            "수리논술 수학 기출 분석 서울 경기",
-            "수리논술 준비 방법 수학 인서울",
-            "수능최저 없는 약술 논술 수학 전형",
-            "국민대 가천대 약술 논술 수학 기출",
+        "naver_news": [
+            "약술형 논술 수학 2027",
+            "수리논술 기출 분석 2027",
+            "인서울 논술 수학 최저 없는",
         ],
+        "rss_keywords": ["약술형 논술", "수리논술", "논술 수학", "논술전형 수학"],
     },
     {
         "id": "schedule",
@@ -144,14 +157,16 @@ CATEGORIES = [
         "emoji": "📅",
         "google": [
             "서울권 대학 수시 원서접수 일정 2027",
-            "서울대 연세대 고려대 합격자 발표",
-            "수능 원서접수 수도권 일정",
-            "수학 논술 고사 일정 서울 경기",
+            "서울대 연세대 고려대 수시 접수 일정",
+            "수능 원서접수 일정 2027",
+            "인서울 논술 고사 일정 2027",
         ],
-        "naver_blog": [
-            "서울 경기 대입 수학 관련 일정 2027",
-            "수도권 대학 수학 논술 일정 정리",
+        "naver_news": [
+            "수능 원서접수 일정",
+            "수시 원서접수 일정 2027",
+            "대입 논술 고사 일정",
         ],
+        "rss_keywords": ["원서접수", "수시 일정", "수능 일정", "논술 일정", "입시 일정", "접수 기간"],
     },
 ]
 
@@ -164,7 +179,29 @@ BLACKLIST_RE = re.compile(
     r"영어\s*(과외|학원|노트|문법)|국어\s*과외|"
     r"선관위|기본권|이념|정치|부동산|청약|맛집|여행|육아|"
     r"뉴스\s*브리핑|간추린\s*뉴스|정책뉴스\d|칼럼.*IB|"
-    r"전기박사|철물|AI\s*패권",
+    r"전기박사|철물|AI\s*패권|"
+    r"코스닥|코스피|주식|테마주|외인|기관매수|장중|주린이|차트|"
+    r"PHEV|풀체인지|신형.*출시|자동차|전기차|SUV|세단|"
+    r"그날그날|오늘의\s*일기|소소한\s*일상|맛집\s*후기",
+    re.IGNORECASE,
+)
+
+# 타지역 필터 (수도권=서울·경기·인천 외 지역 언급 기사 제거)
+# 수학 관련 키워드 (제목에 하나도 없으면 제거) — 정책 카테고리 제외
+MATH_RE = re.compile(
+    r"수학|수능|모의고사|모의평가|등급컷|킬러|준킬러|수리|논술|EBS|수1|수2|"
+    r"미적분|확통|기하|행렬|수열|적분|미분|함수|벡터|통계|대입|입시|전형|최저|"
+    r"반영비율|가중치|약술|서울대|연세대|고려대|성균관|한양|서강|중앙대|경희|"
+    r"이화|숙명|한국외대|서울시립|건국|동국|홍익|숭실|세종대|국민대|가천|"
+    r"수시|정시|논술|원서|접수",
+    re.IGNORECASE,
+)
+
+# 타지역 필터 (수도권=서울·경기·인천 외 지역 언급 기사 제거)
+REGION_RE = re.compile(
+    r"부산|대구|광주|대전|울산|세종|강원|충북|충남|전북|전남|전주|"
+    r"경북|경남|제주|춘천|청주|천안|포항|창원|진주|여수|순천|목포|"
+    r"구미|안동|김천|경주|통영|거제|울산|속초|강릉|원주",
     re.IGNORECASE,
 )
 
@@ -227,7 +264,10 @@ def fetch_google_news(query: str, n=10) -> list[dict]:
     return items
 
 
-def fetch_naver(query: str, endpoint: str, n=10) -> list[dict]:
+def fetch_naver(query: str, endpoint: str = "news", n=10) -> list[dict]:
+    """네이버 API 수집. news만 허용 (blog/cafe 사용 안 함)."""
+    if endpoint not in ("news",):
+        return []  # 블로그·카페 수집 비활성화
     if not NAVER_ID:
         return []
     url = (f"https://openapi.naver.com/v1/search/{endpoint}.json"
@@ -322,6 +362,12 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
             continue
         if BLACKLIST_RE.search(item["title"]):
             continue
+        # 타지역(수도권 외) 기사 제거
+        if REGION_RE.search(item["title"]):
+            continue
+        # 수학 관련 키워드 없는 기사 제거 (정책 카테고리 제외)
+        if cat_id != 'policy' and not MATH_RE.search(item["title"]):
+            continue
         # 블로그·카페는 광고 추가 필터 적용
         if item.get("type") in ("blog", "cafearticle") and BLOG_AD_RE.search(item["title"]):
             continue
@@ -337,6 +383,36 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
         seen_tok.append(tok)
         out.append(item)
     return out
+
+
+# ── 전문 언론 RSS 수집 ───────────────────────────────────────
+def fetch_edu_rss(rss_url: str, source_name: str, keywords: list[str], n=20) -> list[dict]:
+    """입시 전문 언론 RSS 직접 파싱. keywords 중 하나라도 제목에 있어야 통과."""
+    try:
+        feed = feedparser.parse(rss_url)
+    except Exception as e:
+        print(f"  RSS 오류 ({source_name}): {e}")
+        return []
+    kw_re = re.compile("|".join(re.escape(k) for k in keywords), re.IGNORECASE) if keywords else None
+    items = []
+    for entry in feed.entries[:n]:
+        title = entry.get("title", "").strip()
+        if not title:
+            continue
+        if kw_re and not kw_re.search(title):
+            continue
+        link = entry.get("link", "#")
+        try:
+            pub = parsedate_to_datetime(entry.get("published", ""))
+            pub_iso = pub.astimezone(timezone.utc).isoformat()
+        except Exception:
+            pub_iso = datetime.now(timezone.utc).isoformat()
+        uid = hashlib.md5(link.encode()).hexdigest()
+        items.append({
+            "id": uid, "title": title, "link": link,
+            "source": source_name, "published": pub_iso, "type": "news",
+        })
+    return items
 
 
 # ── 공식 사이트 직접 수집 ──────────────────────────────────────
@@ -454,6 +530,7 @@ def main():
             pass
 
     categories_out = []
+    seen_global_ids = set()  # 카테고리 간 중복 제거용
     for cat in CATEGORIES:
         raw = []
 
@@ -467,15 +544,29 @@ def main():
 
         for q in cat.get("google", []):
             raw.extend(fetch_google_news(q))
-        for q in cat.get("naver_blog", []):
-            raw.extend(fetch_naver(q, "blog"))
+        # 네이버 뉴스 (블로그·카페 없음)
+        for q in cat.get("naver_news", []):
+            raw.extend(fetch_naver(q, "news"))
+        # 입시 전문 언론 RSS
+        rss_kws = cat.get("rss_keywords", [])
+        for rss_url, src_name in EDU_RSS_FEEDS:
+            raw.extend(fetch_edu_rss(rss_url, src_name, rss_kws))
 
         raw.sort(key=lambda x: x["published"], reverse=True)
         fresh = clean(raw, cat_id=cat["id"])
 
         prev = existing.get(cat["id"], {})
+        now = datetime.now(timezone.utc)
         for item in fresh:
-            item["is_new"] = item["id"] not in prev
+            # 발행일 기준 24시간 이내인 것만 NEW (놓쳤다가 나중에 발견한 구기사 제외)
+            try:
+                pub = datetime.fromisoformat(item["published"])
+                if pub.tzinfo is None:
+                    pub = pub.replace(tzinfo=timezone.utc)
+                is_recent = (now - pub).total_seconds() < 86400
+            except Exception:
+                is_recent = False
+            item["is_new"] = (item["id"] not in prev) and is_recent
 
         # no_expire 항목은 만료 안 됨 (정책 기사 영구 보관)
         _BAD_TITLE = re.compile(r'suneung\.re\.kr|^-\s*$|^https?://')
@@ -495,7 +586,10 @@ def main():
                 print(f"  ⚠ 공식 수집 0건 → no_expire 기사 {len(no_expire_backup)}건 강제 보존")
         merged = {**{i["id"]: i for i in fresh}, **{iid: {**item, "is_new": False}
                   for iid, item in kept_old.items() if iid not in {i["id"] for i in fresh}}}
-        result = sorted(merged.values(), key=lambda x: x["published"], reverse=True)[:MAX_PER_CAT]
+        # 앞 카테고리에 이미 있는 기사는 제거 (카테고리 간 중복 방지)
+        deduped = {iid: item for iid, item in merged.items() if iid not in seen_global_ids}
+        seen_global_ids.update(deduped.keys())
+        result = sorted(deduped.values(), key=lambda x: x["published"], reverse=True)[:MAX_PER_CAT]
 
         expired = len(prev) - len(kept_old)
         print(f"[{cat['name']}] 신규 {len(fresh)}건 · 누적 {len(result)}건 · 만료 {expired}건")
