@@ -391,6 +391,21 @@ function toggleNoise(id) {
   refreshItemState(id);
   updateNoiseBadge();
   if (currentCat === 'home') renderDashboard();
+  // 노이즈 추가 시 자동으로 패턴 파일 다운로드 → 저장소에 커밋하면 영구 적용
+  autoExportNoise();
+}
+
+function autoExportNoise() {
+  const noise = getNoise();
+  const sources = [...new Set(Object.values(noise).map(n => n.source).filter(Boolean))];
+  const keywords = [...new Set(Object.values(noise).flatMap(n =>
+    (n.patterns||[]).filter(p=>p.type==='keyword').map(p=>p.value)
+  ))];
+  const blob = new Blob([JSON.stringify({sources, title_keywords: keywords}, null, 2)], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'noise_patterns.json';
+  a.click();
 }
 
 function removeNoiseItem(id) {
@@ -850,8 +865,39 @@ function switchTab(catId, btn) {
   if (catId !== 'home') applyFilters();
 }
 
+// ── 서버 노이즈 패턴 로드 (noise_patterns.json → localStorage 병합) ──
+async function loadServerNoisePatterns() {
+  try {
+    const res = await fetch(`noise_patterns.json?t=${Date.now()}`);
+    if (!res.ok) return;
+    const data = await res.json();
+    const noise = getNoise();
+    let added = 0;
+    // 서버 출처 → localStorage noise에 등록 (없는 것만)
+    for (const src of (data.sources || [])) {
+      const key = 'srv_src_' + btoa(encodeURIComponent(src)).slice(0,16);
+      if (!noise[key]) {
+        noise[key] = { title: src, source: src, type: 'news',
+          patterns: [{ type: 'source', value: src }] };
+        added++;
+      }
+    }
+    // 서버 키워드 → localStorage noise에 등록
+    for (const kw of (data.title_keywords || [])) {
+      const key = 'srv_kw_' + btoa(encodeURIComponent(kw)).slice(0,16);
+      if (!noise[key]) {
+        noise[key] = { title: kw, source: '', type: 'news',
+          patterns: [{ type: 'keyword', value: kw }] };
+        added++;
+      }
+    }
+    if (added > 0) LS.set('noise', noise);
+  } catch { /* noise_patterns.json 없으면 무시 */ }
+}
+
 // ── 데이터 로드 ───────────────────────────────────────────────
 async function loadNews() {
+  await loadServerNoisePatterns();
   try {
     const res = await fetch(`news_data.json?t=${Date.now()}`);
     if (!res.ok) throw new Error();
