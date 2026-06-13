@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:06:58.863263+00:00",
+  "updated_at": "2026-06-13T21:05:04.180721+00:00",
   "categories": [
     {
       "id": "exam",
@@ -11,7 +11,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-13T15:52:03.211303+00:00",
+          "published": "2026-06-13T20:49:54.818522+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -327,16 +327,6 @@
           "is_new": false
         },
         {
-          "id": "d04b3d32eafa40ae6881b572c69409cb",
-          "title": "EBSi 6월 모의평가 시험 직후 '출제 경향 브리핑' 및 '경향분석 LIVE' 제공 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjM2dpd2RzQWhRNVBJUHNUdWRmU0pBWHFrMXhZbDRaTHZwcDhqLXRRZjVIRWstNnJXd1BQY0tDT0tFclBhbTMxNXd2RWQ0YzRjQlg1amx1ZmZCSzhBTnhGQjk5eEtWRlJyUTBXNA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-05-28T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "ce2f28a376c93fbb8563b0ca6a4d20fb",
           "title": "이투스북, 2027 수능 실전력 강화 위한 ‘아삽 모의고사 시즌 2’ 출시",
           "link": "https://www.gosiweek.com/article/1065580842582154",
@@ -448,7 +438,7 @@
           "title": "[2027수시] 중앙대 교과전형 508명 선발.. 중앙대식 환산점수가 당락 가른다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53132",
           "source": "에듀진",
-          "published": "2026-06-13T15:54:34.142872+00:00",
+          "published": "2026-06-13T20:52:23.878562+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -458,7 +448,7 @@
           "title": "[2027수시] 가천대 학종 분석…4등급 후반도 많아",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53153",
           "source": "에듀진",
-          "published": "2026-06-13T15:54:34.142829+00:00",
+          "published": "2026-06-13T20:52:23.878528+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -468,7 +458,7 @@
           "title": "학생부종합전형, 왜 떨어졌을까? 불합격 사례로 본 평가 포인트",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53144",
           "source": "에듀진",
-          "published": "2026-06-13T15:54:34.142802+00:00",
+          "published": "2026-06-13T20:52:23.878494+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -481,7 +471,7 @@
           "published": "2026-06-13T12:22:03+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d9e5002af29cfdb71790df500b681f41",
@@ -784,6 +774,16 @@
           "is_new": false
         },
         {
+          "id": "45bab477d7c12b2d00b90b01a781abd7",
+          "title": "[2027 대입 집중 분석]⑫과기특성화대…AI단과대 신설로 400명 늘린다 - eduplusnews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xSDA3enZ2OUo1QnhSa0NsajNGQUxEMVVERF9kZzliN0p1bzd0aWI2Si1fTXpMUnlGc3BtbWlkNkpTMThFSmVUTmswX3BNd2RSR3BhMV95VUc5TzA2bWh0NGxpMFRzX2xaSHZ5eW1n0gFyQVVfeXFMTXd6aVNETWlLWXdCQmJmWk5maDdLMk11VzVfM2MtcWxVS0RkakhtdE9MaVp2VnVScXVlM0xhSllrdGhQQkNTek85RXUycDU3R0haWnlnYU94VnVvMGw5YThzbkliNFRtcVZxdjFjSHA1b2tn?oc=5",
+          "source": "eduplusnews.com",
+          "published": "2026-05-26T04:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "5e1ab5391f59fe7a9d763166dddf9afb",
           "title": "&quot;내신은 수시 수능은 정시란 이분법에서 벗어나야 대입 성공한다&quot;",
           "link": "https://edu.donga.com/news/articleView.html?idxno=107955",
@@ -799,16 +799,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeTlXUW9nZmhSNldiRktqLVN4RnFHOV80NVh1UWZBQWpkYXJma01ZMEtBTHdka3dOUGI4dFM0SGlacjYwRW9WYWh0SFBCWVl5b0ZJMw?oc=5",
           "source": "이투데이",
           "published": "2026-05-23T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1f656ee93b558b734583f0a4f60a1a1f",
-          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSEZtSGNHT3R6RGJ6ZFkyWmVnRk44aE9KRVB5YXlKZktRd21Pd1ZaWkZTWHNpdkZTaFhnMWxRS0hjWjY2LW1aN1o5RWRxdDJ6RVJ3Q2hB?oc=5",
-          "source": "헤럴드경제",
-          "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -974,16 +964,6 @@
           "is_new": false
         },
         {
-          "id": "f74bb06dfd63098c847d48135ed73dcc",
-          "title": "좁아진 수능의 문, 내신 망친 고2는?…학생 부담 커질 듯 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ybUU0cGo2cGZPR1A0aWxEU2gwcHdyNDFFU2tGS3I0MWQ0VEJXeUVQaFVScnhsWmFEdmMyRzFmZWlhWDllVmNuRnFMbDRxa3ltWVJYQnVsajNhZURyM0huMNIBeEFVX3lxTFBESzNQTFdJb3lHSVhFR2YwRzYtYWtUUndxd0haSl9sN2lEam1YRjJnSWpUUWo5c1JWSE01ckIzMVV1VG5XQzg1bGdDbzBicVF4OV8wWGpTQ0l5Z2FyYTl6d1ROMnZlbldYTmFJcTMtVG1PQ0xIMzNqMw?oc=5",
-          "source": "뉴시스",
-          "published": "2026-04-30T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "6f1edcbfb6d528da35be9b04cbbf78ca",
           "title": "'인서울' 열풍 4년 만에 주춤…수시 지원율 5%p 급감",
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
@@ -1086,6 +1066,16 @@
           "link": "https://www.newspim.com/news/view/20260512000851",
           "source": "www.newspim.com",
           "published": "2026-06-02T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1f656ee93b558b734583f0a4f60a1a1f",
+          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSEZtSGNHT3R6RGJ6ZFkyWmVnRk44aE9KRVB5YXlKZktRd21Pd1ZaWkZTWHNpdkZTaFhnMWxRS0hjWjY2LW1aN1o5RWRxdDJ6RVJ3Q2hB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1212,7 +1202,7 @@
           "title": "교육부, 교권 강화 위한 ‘교육부 고시안’ 8월까지 신속 마련하겠다",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/24/2023072401615.html",
           "source": "조선에듀",
-          "published": "2026-06-13T15:59:54.414916+00:00",
+          "published": "2026-06-13T20:57:50.105212+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1642,16 +1632,6 @@
           "is_new": false
         },
         {
-          "id": "7ce714e0fdae811f390cdfe52e4b985f",
-          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-06T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "0a52d5ce53e3c7756151966eb708a332",
           "title": "[거인의어깨 입시컨설팅] 2027학년도 논술전형 대학별 특징 분석",
           "link": "https://www.newspim.com/news/view/20260331000122",
@@ -1869,6 +1849,16 @@
           "is_new": false
         },
         {
+          "id": "60d5e5b42af36f4dadb83bdef5904572",
+          "title": "서울과기대, '2027 수시 1747명' 확정... 양자융합물리학과 신설·자유전공 확대 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kYU1aREZ4d1E5NjV1Vk5wbHI3TGxBcVBMS3lla0JXbmE3ZXdHUHYxd1FIZHU1YlEyUkNMb09TQncxX3c1cmNXUmZQUk16cTIzR2w1cktrdzUzRUc0djkzQ0xva09oUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "fca17dd4db97c462e8f0060a3c470ab9",
           "title": "아세아항공직업전문학교, 2026학년도 2학기 편입학 원서접수 진행",
           "link": "https://dhnews.co.kr/news/view/1065602567089652",
@@ -1973,16 +1963,6 @@
           "title": "[단독] 2027 서울대 입학전형 공개.. 요강 앞선 대입전형 안내 ‘수요자 친화’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGZwVVN1a1JHZVRsQlJ3MjZkN0lVRTFEMjdndjZGT0toSjBOeGJkSDE1blFMNkM0SFdzbVN2aXpiaEs4dENlaXFFZTdVQmsyS1VkS0U0SUFVNHdmMTc2d1ZiVmRfRWoxMUs5UQ?oc=5",
           "source": "베리타스알파",
-          "published": "2026-04-03T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ac26255f2b667e94c730d71031f275cb",
-          "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 비즈월드",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZEFERWNZTk9Uc09zU1NuNXBkOFRUVTJGUHNWcVU5OUxSa0x3Zk9UZFU1OFNkVVFMUE1rUklXd2V6ZERWbUhYb1FwY29HdG5XU2ZpcFVZYjJJYU5tYkI1Q1NMUVFvMXE3X2JV?oc=5",
-          "source": "비즈월드",
           "published": "2026-04-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
