@@ -672,7 +672,7 @@ function renderList(items, showCat) {
            onclick="markRead('${item.id}'); this.classList.add('read-item')">${item.title}</a>
         <div class="item-actions">
           <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
-          <button class="action-btn" onclick="toggleMemo('${item.id}')" title="메모">✏</button>
+
           ${_isAdmin ? `<button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="노이즈">🚫</button>` : ''}
           <button class="action-btn" onclick="deleteItem('${item.id}')" title="숨기기">✕</button>
         </div>
