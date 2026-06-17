@@ -217,11 +217,12 @@ BLOG_AD_RE = re.compile(
 STOPWORDS = {"수학", "수능", "입시", "학생", "교육", "학교", "대학", "고등", "전국",
              "분석", "결과", "발표", "올해", "이번", "지난", "대비", "위한", "통해"}
 
-KEEP_DAYS   = 3
-MAX_PER_CAT = 150
-DATE_FROM   = datetime(2026, 3, 1, tzinfo=timezone.utc)  # 26년 3월 이후만 보관
+KEEP_DAYS    = 30
+MAX_PER_CAT  = 500
+DATE_FROM    = datetime(2026, 3, 1, tzinfo=timezone.utc)
 OUTPUT_FILE  = Path(__file__).parent / "news_data.json"
 NOISE_FILE   = Path(__file__).parent / "noise_patterns.json"
+ARCHIVE_DIR  = Path(__file__).parent
 
 # 사용자 노이즈 패턴 로드
 def load_noise_patterns() -> tuple[set, list]:
@@ -603,9 +604,54 @@ def main():
         categories_out.append({"id": cat["id"], "name": cat["name"],
                                 "emoji": cat["emoji"], "items": result})
 
+    # ── 만료 기사 아카이브 저장 ──────────────────────────────────
+    archive_months = set()
+    for cat_data in categories_out:
+        cat_id = cat_data["id"]
+        prev = existing.get(cat_id, {})
+        _BAD = re.compile(r'suneung\.re\.kr|^-\s*$|^https?://')
+        expired_items = [
+            item for iid, item in prev.items()
+            if is_expired(item["published"], no_expire=item.get("no_expire", False))
+            and not _BAD.search(item.get("title", ""))
+            and len(item.get("title", "").strip()) >= 5
+        ]
+        for item in expired_items:
+            try:
+                pub = datetime.fromisoformat(item["published"])
+                if pub.tzinfo is None:
+                    pub = pub.replace(tzinfo=timezone.utc)
+                ym = pub.strftime("%Y_%m")
+                archive_months.add(ym)
+                arc_file = ARCHIVE_DIR / f"archive_{ym}.json"
+                if arc_file.exists():
+                    arc = json.loads(arc_file.read_text(encoding="utf-8"))
+                else:
+                    arc = {"month": ym, "generated_at": datetime.now(timezone.utc).isoformat(), "categories": {}}
+                cats_arc = arc.get("categories", {})
+                if cat_id not in cats_arc:
+                    cats_arc[cat_id] = {"id": cat_id, "name": cat_data["name"], "emoji": cat_data["emoji"], "items": {}}
+                cats_arc[cat_id]["items"][item["id"]] = item
+                arc["categories"] = cats_arc
+                arc_file.write_text(json.dumps(arc, ensure_ascii=False, indent=2), encoding="utf-8")
+            except Exception as e:
+                print(f"  아카이브 저장 오류: {e}")
+
+    if archive_months:
+        print(f"📦 아카이브 저장: {', '.join(sorted(archive_months))}")
+
+    # available_archives 목록 자동 생성
+    available = sorted([
+        f.stem.replace("archive_", "").replace("_", "-")
+        for f in ARCHIVE_DIR.glob("archive_*.json")
+    ], reverse=True)
+
     OUTPUT_FILE.write_text(
-        json.dumps({"updated_at": datetime.now(timezone.utc).isoformat(),
-                    "categories": categories_out}, ensure_ascii=False, indent=2),
+        json.dumps({
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+            "available_archives": available,
+            "categories": categories_out
+        }, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
     print(f"\n저장 완료 → {OUTPUT_FILE}")

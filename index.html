@@ -281,6 +281,11 @@
 
   /* 노이즈 탭 */
   .tab-btn.noise-tab.active { background: #f97316; border-color: #f97316; color: #fff; }
+  .tab-btn.archive-tab.active { background: #6b7280; border-color: #6b7280; color: #fff; }
+  .archive-month-btn { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 8px 14px; font-size: .85rem; cursor: pointer; color: var(--text-2); }
+  .archive-month-btn:hover, .archive-month-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .archive-search { width: 100%; box-sizing: border-box; padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--card); color: var(--text); font-size: .9rem; margin-bottom: 12px; }
+  #archive-month-list { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
   .noise-header {
     display: flex; align-items: center; justify-content: space-between;
     margin-bottom: 14px; padding-bottom: 10px; border-bottom: 1px solid var(--border);
@@ -576,6 +581,7 @@ function renderTabs(categories) {
   categories.forEach(c => {
     html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name}</button>`;
   });
+  html += `<button class="tab-btn archive-tab" onclick="switchTab('archive',this)">📦 아카이브</button>`;
   html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크</button>`;
   html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링</button>`;
   el.innerHTML = html;
@@ -598,6 +604,7 @@ function renderMain(categories) {
     const sorted = [...c.items].sort((a,b) => new Date(b.published) - new Date(a.published));
     html += `<section class="section" data-cat="${c.id}">${renderList(sorted, false)}</section>`;
   });
+  html += `<section class="section" data-cat="archive"><div id="archive-container"></div></section>`;
   html += `<section class="section" data-cat="bookmarks"></section>`;
   html += `<section class="section" data-cat="noise"></section>`;
   main.innerHTML = html;
@@ -897,7 +904,73 @@ function switchTab(catId, btn) {
   if (catId === 'home') renderDashboard();
   if (catId === 'bookmarks') renderBookmarks();
   if (catId === 'noise') renderNoise();
+  if (catId === 'archive') renderArchive();
   if (catId !== 'home') applyFilters();
+}
+
+// ── 아카이브 탭 ──────────────────────────────────────────────
+let _arcLoaded = {};
+let _arcMonth = null;
+
+function renderArchive() {
+  const el = document.getElementById('archive-container');
+  const available = window._data?.available_archives || [];
+  if (!available.length) {
+    el.innerHTML = '<div class="empty" style="padding:40px 0;text-align:center;">아직 아카이브가 없습니다.<br><small style="color:var(--text-3)">30일이 지난 기사가 자동으로 저장됩니다.</small></div>';
+    return;
+  }
+  const monthBtns = available.map(m => {
+    const [y, mo] = m.split('-');
+    const label = `${y}년 ${parseInt(mo)}월`;
+    return `<button class="archive-month-btn${_arcMonth === m ? ' active' : ''}" onclick="loadArchiveMonth('${m}')">${label}</button>`;
+  }).join('');
+  el.innerHTML = `
+    <div id="archive-month-list">${monthBtns}</div>
+    <input class="archive-search" id="archive-search-input" type="text" placeholder="아카이브 내 키워드 검색..." oninput="filterArchive(this.value)">
+    <div id="archive-results">${_arcMonth ? '' : '<div class="empty" style="padding:20px 0;text-align:center;color:var(--text-3);">월을 선택하면 해당 월 기사를 볼 수 있습니다.</div>'}</div>
+  `;
+  if (_arcMonth && _arcLoaded[_arcMonth]) {
+    _renderArchiveItems(_arcLoaded[_arcMonth], document.getElementById('archive-search-input')?.value || '');
+  }
+}
+
+async function loadArchiveMonth(month) {
+  _arcMonth = month;
+  if (!_arcLoaded[month]) {
+    document.getElementById('archive-results').innerHTML = '<div class="empty" style="padding:20px 0;text-align:center;">불러오는 중...</div>';
+    try {
+      const ym = month.replace('-', '_');
+      const res = await fetch(`archive_${ym}.json?t=${Date.now()}`);
+      if (!res.ok) throw new Error();
+      _arcLoaded[month] = await res.json();
+    } catch {
+      document.getElementById('archive-results').innerHTML = '<div class="empty" style="padding:20px 0;text-align:center;color:var(--text-3);">아카이브를 불러올 수 없습니다.</div>';
+      return;
+    }
+  }
+  renderArchive();
+  _renderArchiveItems(_arcLoaded[month], '');
+}
+
+function _renderArchiveItems(arc, query) {
+  const el = document.getElementById('archive-results');
+  if (!el) return;
+  const cats = Object.values(arc.categories || {});
+  const q = (query || '').trim().toLowerCase();
+  let allItems = cats.flatMap(c => (Object.values(c.items || {})).map(i => ({...i, catName: c.name, catEmoji: c.emoji})));
+  if (q) allItems = allItems.filter(i => i.title.toLowerCase().includes(q) || (i.source||'').toLowerCase().includes(q));
+  allItems.sort((a,b) => new Date(b.published) - new Date(a.published));
+  if (!allItems.length) {
+    el.innerHTML = '<div class="empty" style="padding:20px 0;text-align:center;">기사가 없습니다.</div>';
+    return;
+  }
+  el.innerHTML = `<div style="color:var(--text-3);font-size:.8rem;margin-bottom:8px;">${allItems.length}건</div>` + renderList(allItems, true);
+}
+
+function filterArchive(q) {
+  if (_arcMonth && _arcLoaded[_arcMonth]) {
+    _renderArchiveItems(_arcLoaded[_arcMonth], q);
+  }
 }
 
 // ── 서버 노이즈 패턴 로드 (noise_patterns.json → localStorage 병합) ──
