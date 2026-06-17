@@ -319,6 +319,73 @@ def is_dup(tok: frozenset, seen: list, thr=0.80) -> bool:
             return True
     return False
 
+# ── 핵심 키워드 추출 (숫자 포함 명사, 2자 이상 한글/영문+숫자) ──
+_NUM_RE   = re.compile(r'\d+')
+_NOUN_RE  = re.compile(r'[가-힣]{2,}')
+# 의미 없는 조각 제거 (stopwords + 1글자 조사류)
+_KW_STOP  = {"대한", "대해", "위해", "통해", "이후", "이전", "이번", "지난", "올해",
+             "예정", "진행", "실시", "공개", "발표", "결과", "분석", "관련", "기반",
+             "강화", "확대", "변화", "유지", "증가", "감소", "개선", "제시", "적용",
+             "우리", "이상", "이하", "이내", "이외", "이유", "경우", "현재", "최근"}
+
+def key_tokens(title: str) -> frozenset:
+    """제목에서 핵심 명사+숫자 조합을 추출한다."""
+    words = set()
+    # 숫자는 그대로 보존
+    for n in _NUM_RE.findall(title):
+        words.add(n)
+    # 한글 명사 (2자 이상, 불용어 제거)
+    for w in _NOUN_RE.findall(title):
+        if w not in _KW_STOP and w not in STOPWORDS:
+            words.add(w)
+    # 복합어 분해: 4자 이상 한글 단어는 가능한 모든 2+n 분할점 시도
+    # 예: "반도체학과"(5) → split@2("반도","체학과"), split@3("반도체","학과") 모두 추가
+    for w in list(words):
+        if len(w) >= 4 and _NOUN_RE.fullmatch(w):
+            for split in range(2, len(w) - 1):
+                left, right = w[:split], w[split:]
+                if len(left) >= 2 and left not in _KW_STOP and left not in STOPWORDS:
+                    words.add(left)
+                if len(right) >= 2 and right not in _KW_STOP and right not in STOPWORDS:
+                    words.add(right)
+    return frozenset(words)
+
+def semantic_dedup(items: list[dict], overlap: int = 3) -> list[dict]:
+    """
+    같은 날 기사 중 핵심 키워드가 overlap개 이상 겹치면
+    가장 오래된 기사 하나만 남긴다.
+    """
+    def day_key(pub: str) -> str:
+        try:
+            d = datetime.fromisoformat(pub)
+            return d.strftime("%Y-%m-%d")
+        except Exception:
+            return pub[:10]
+
+    kept: list[dict] = []
+    kept_kw: list[tuple[str, frozenset]] = []  # (day, keytokens)
+
+    # 오래된 것 우선 (가장 먼저 나온 기사 보존)
+    for item in sorted(items, key=lambda x: x.get("published", "")):
+        day  = day_key(item["published"])
+        ktok = key_tokens(item["title"])
+        dup  = False
+        for (kday, kkw) in kept_kw:
+            if kday != day:
+                continue
+            if len(ktok) == 0 or len(kkw) == 0:
+                continue
+            if len(ktok & kkw) >= overlap:
+                dup = True
+                break
+        if not dup:
+            kept.append(item)
+            kept_kw.append((day, ktok))
+
+    # 원래 시간 역순 정렬 복원
+    kept.sort(key=lambda x: x.get("published", ""), reverse=True)
+    return kept
+
 def is_expired(pub: str, no_expire: bool = False) -> bool:
     if no_expire:
         return False  # 정책 기사는 영구 보관
@@ -596,10 +663,13 @@ def main():
         # 앞 카테고리에 이미 있는 기사는 제거 (카테고리 간 중복 방지)
         deduped = {iid: item for iid, item in merged.items() if iid not in seen_global_ids}
         seen_global_ids.update(deduped.keys())
-        result = sorted(deduped.values(), key=lambda x: x["published"], reverse=True)[:MAX_PER_CAT]
+        result_raw = sorted(deduped.values(), key=lambda x: x["published"], reverse=True)[:MAX_PER_CAT]
+        result = semantic_dedup(result_raw)
 
+        sem_removed = len(result_raw) - len(result)
         expired = len(prev) - len(kept_old)
-        print(f"[{cat['name']}] 신규 {len(fresh)}건 · 누적 {len(result)}건 · 만료 {expired}건")
+        print(f"[{cat['name']}] 신규 {len(fresh)}건 · 누적 {len(result)}건 · 만료 {expired}건" +
+              (f" · 의미중복 제거 {sem_removed}건" if sem_removed else ""))
 
         categories_out.append({"id": cat["id"], "name": cat["name"],
                                 "emoji": cat["emoji"], "items": result})
