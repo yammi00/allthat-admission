@@ -217,6 +217,8 @@
   }
   .news-item:hover { border-color: var(--accent); }
   .news-item.bookmarked { border-left: 3px solid var(--yellow); }
+  a.read-item { color: #aaa !important; text-decoration: none !important; }
+  a.read-item::after { content: ' ✓'; font-size: 11px; color: #aaa; }
   .news-item.deleted { display: none; }
   .news-item.filter-hidden { display: none; }
 
@@ -354,6 +356,23 @@ const LS = {
 function getBookmarks() { return LS.get('bookmarks') || {}; }
 function getDeleted()   { return LS.get('deleted')   || {}; }
 function getMemos()     { return LS.get('memos')      || {}; }
+
+// ── 사용자 ID (고유 링크 ?u=xxx) ─────────────────────────────
+function getUserId() {
+  const param = new URLSearchParams(location.search).get('u');
+  if (param) {
+    LS.set('uid', param);
+    return param;
+  }
+  return LS.get('uid') || null;
+}
+const _uid = getUserId();
+function readKey() { return _uid ? `read_${_uid}` : 'read_guest'; }
+function getRead() { return LS.get(readKey()) || {}; }
+function markRead(id) {
+  const r = getRead();
+  if (!r[id]) { r[id] = Date.now(); LS.set(readKey(), r); }
+}
 
 // ── 노이즈 관련 ───────────────────────────────────────────────
 function getNoise() { return LS.get('noise') || {}; }  // {id: {title, source, patterns}}
@@ -631,7 +650,9 @@ function renderList(items, showCat) {
     <li class="news-item${isBookmarked?' bookmarked':''}${isDeleted||isNoise||isAutoNoise?' deleted':''}"
         data-id="${item.id}" data-grade="${grade}" data-type="${type}">
       <div class="news-title-row">
-        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+        <a href="${item.link}" target="_blank" rel="noopener"
+           class="${getRead()[item.id] ? 'read-item' : ''}"
+           onclick="markRead('${item.id}'); this.classList.add('read-item')">${item.title}</a>
         <div class="item-actions">
           <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
           <button class="action-btn" onclick="toggleMemo('${item.id}')" title="메모">✏</button>
@@ -779,7 +800,7 @@ function renderDashboard() {
         <span class="dash-card-arrow">→</span>
       </div>
       <ul class="dash-card-items">
-        ${recent.map(i=>`<li><a href="${i.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${i.title}</a></li>`).join('')}
+        ${recent.map(i=>`<li><a href="${i.link}" target="_blank" rel="noopener" class="${getRead()[i.id]?'read-item':''}" onclick="markRead('${i.id}');this.classList.add('read-item');event.stopPropagation()">${i.title}</a></li>`).join('')}
       </ul>
     </div>`;
   });
