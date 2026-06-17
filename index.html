@@ -910,7 +910,7 @@ function switchTab(catId, btn) {
 
 // ── 아카이브 탭 ──────────────────────────────────────────────
 let _arcLoaded = {};
-let _arcMonth = null;
+let _arcMonth = null; // null = 전체
 
 function renderArchive() {
   const el = document.getElementById('archive-container');
@@ -919,19 +919,58 @@ function renderArchive() {
     el.innerHTML = '<div class="empty" style="padding:40px 0;text-align:center;">아직 아카이브가 없습니다.<br><small style="color:var(--text-3)">30일이 지난 기사가 자동으로 저장됩니다.</small></div>';
     return;
   }
+  const allBtn = `<button class="archive-month-btn${_arcMonth === null ? ' active' : ''}" onclick="loadArchiveAll()">전체</button>`;
   const monthBtns = available.map(m => {
     const [y, mo] = m.split('-');
     const label = `${y}년 ${parseInt(mo)}월`;
     return `<button class="archive-month-btn${_arcMonth === m ? ' active' : ''}" onclick="loadArchiveMonth('${m}')">${label}</button>`;
   }).join('');
+  const placeholder = _arcMonth === null ? '전체 아카이브 키워드 검색...' : '이 달 키워드 검색...';
   el.innerHTML = `
-    <div id="archive-month-list">${monthBtns}</div>
-    <input class="archive-search" id="archive-search-input" type="text" placeholder="아카이브 내 키워드 검색..." oninput="filterArchive(this.value)">
-    <div id="archive-results">${_arcMonth ? '' : '<div class="empty" style="padding:20px 0;text-align:center;color:var(--text-3);">월을 선택하면 해당 월 기사를 볼 수 있습니다.</div>'}</div>
+    <div id="archive-month-list">${allBtn}${monthBtns}</div>
+    <input class="archive-search" id="archive-search-input" type="text" placeholder="${placeholder}" oninput="filterArchive(this.value)">
+    <div id="archive-results"></div>
   `;
-  if (_arcMonth && _arcLoaded[_arcMonth]) {
-    _renderArchiveItems(_arcLoaded[_arcMonth], document.getElementById('archive-search-input')?.value || '');
+  const q = '';
+  if (_arcMonth === null) {
+    _renderArchiveAll(q);
+  } else if (_arcLoaded[_arcMonth]) {
+    _renderArchiveItems(_arcLoaded[_arcMonth], q);
   }
+}
+
+async function loadArchiveAll() {
+  _arcMonth = null;
+  const available = window._data?.available_archives || [];
+  document.getElementById('archive-results').innerHTML = '<div class="empty" style="padding:20px 0;text-align:center;">불러오는 중...</div>';
+  await Promise.all(available.map(async m => {
+    if (_arcLoaded[m]) return;
+    try {
+      const ym = m.replace('-', '_');
+      const res = await fetch(`archive_${ym}.json?t=${Date.now()}`);
+      if (res.ok) _arcLoaded[m] = await res.json();
+    } catch {}
+  }));
+  renderArchive();
+  _renderArchiveAll('');
+}
+
+function _renderArchiveAll(query) {
+  const el = document.getElementById('archive-results');
+  if (!el) return;
+  const q = (query || '').trim().toLowerCase();
+  let allItems = [];
+  for (const arc of Object.values(_arcLoaded)) {
+    const cats = Object.values(arc.categories || {});
+    allItems.push(...cats.flatMap(c => Object.values(c.items || {}).map(i => ({...i, catName: c.name, catEmoji: c.emoji}))));
+  }
+  if (q) allItems = allItems.filter(i => i.title.toLowerCase().includes(q) || (i.source||'').toLowerCase().includes(q));
+  allItems.sort((a,b) => new Date(b.published) - new Date(a.published));
+  if (!allItems.length) {
+    el.innerHTML = '<div class="empty" style="padding:20px 0;text-align:center;">기사가 없습니다.</div>';
+    return;
+  }
+  el.innerHTML = `<div style="color:var(--text-3);font-size:.8rem;margin-bottom:8px;">${allItems.length}건</div>` + renderList(allItems, true);
 }
 
 async function loadArchiveMonth(month) {
@@ -968,7 +1007,9 @@ function _renderArchiveItems(arc, query) {
 }
 
 function filterArchive(q) {
-  if (_arcMonth && _arcLoaded[_arcMonth]) {
+  if (_arcMonth === null) {
+    _renderArchiveAll(q);
+  } else if (_arcLoaded[_arcMonth]) {
     _renderArchiveItems(_arcLoaded[_arcMonth], q);
   }
 }
