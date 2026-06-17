@@ -49,10 +49,23 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
+  /* 섹션 스위처 */
+  .section-switcher {
+    display: flex; background: #16123d; border-bottom: 1px solid rgba(255,255,255,.1);
+    position: sticky; top: 49px; z-index: 101;
+  }
+  .section-btn {
+    padding: 8px 20px; font-size: 0.82rem; color: #a5b4fc; cursor: pointer;
+    border: none; background: none; border-bottom: 2px solid transparent;
+    transition: all .15s; white-space: nowrap;
+  }
+  .section-btn:hover { color: #fff; }
+  .section-btn.active { color: #fff; border-bottom-color: #818cf8; font-weight: 600; }
+
   .tabs {
     display: flex; gap: 5px; padding: 10px 16px 0;
     overflow-x: auto; border-bottom: 1px solid var(--border);
-    background: var(--bg); position: sticky; top: 49px; z-index: 99;
+    background: var(--bg); position: sticky; top: 81px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
@@ -272,6 +285,20 @@
   .empty { color: var(--muted); font-size: .88rem; padding: 50px 0; text-align: center; }
   .loading { text-align: center; padding: 60px 0; color: var(--muted); font-size: .88rem; }
 
+  /* 고교입시 섹션 */
+  .hs-region-tabs { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
+  .hs-rtab { border: 1px solid var(--border); background: var(--card); border-radius: 20px;
+    padding: 5px 14px; font-size: .78rem; cursor: pointer; color: var(--muted); }
+  .hs-rtab.active { background: #0f6e56; border-color: #0f6e56; color: #fff; font-weight: 600; }
+  .hs-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+  @media (max-width: 600px) { .hs-grid { grid-template-columns: 1fr; } }
+  .hs-card { background: var(--card); border: 0.5px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .hs-card-title { font-size: .78rem; font-weight: 600; color: var(--muted); margin-bottom: 8px; }
+  .badge-su { background: #E6F1FB; color: #0C447C; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
+  .badge-hs { background: #EAF3DE; color: #27500A; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
+  .badge-yi { background: #FAECE7; color: #712B13; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
+  .badge-gy { background: #EEEDFE; color: #3C3489; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
+
   /* 삭제된 항목 복원 버튼 */
   .restore-bar {
     font-size: .75rem; color: var(--muted); text-align: center;
@@ -349,8 +376,13 @@
   </div>
 </div>
 
+<div class="section-switcher" id="section-switcher">
+  <button class="section-btn active" onclick="switchSection('daip', this)">대입</button>
+  <button class="section-btn" onclick="switchSection('highschool', this)">🏫 고교입시</button>
+</div>
 <nav class="tabs" id="tabs"></nav>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
+<div id="hs-main" style="display:none;padding:12px 16px;"></div>
 
 <script>
 // ── localStorage 저장소 ──────────────────────────────────────
@@ -588,7 +620,7 @@ function getVisibleItems(items) {
 function renderTabs(categories) {
   const el = document.getElementById('tabs');
   let html = `<button class="tab-btn active" onclick="switchTab('home',this)">🏠 홈</button>`;
-  categories.forEach(c => {
+  categories.filter(c => c.id !== 'highschool').forEach(c => {
     html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name}</button>`;
   });
   html += `<button class="tab-btn archive-tab" onclick="switchTab('archive',this)">📦 아카이브</button>`;
@@ -918,6 +950,145 @@ function switchTab(catId, btn) {
   if (catId !== 'home') applyFilters();
 }
 
+// ── 섹션 스위처 (대입 / 고교입시) ────────────────────────────
+let currentSection = 'daip';
+let _hsRegion = 'all'; // 고교입시 지역 필터
+
+const HS_REGION_MAP = {
+  '수원': ['수원', '광교', '영통', '팔달', '장안', '권선'],
+  '화성': ['화성', '동탄', '봉담', '향남'],
+  '용인': ['용인', '수지', '기흥', '처인'],
+};
+
+function switchSection(section, btn) {
+  currentSection = section;
+  document.querySelectorAll('.section-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
+  const daipEl = document.getElementById('main');
+  const hsEl   = document.getElementById('hs-main');
+  const tabsEl = document.getElementById('tabs');
+
+  if (section === 'daip') {
+    daipEl.style.display = '';
+    hsEl.style.display   = 'none';
+    tabsEl.style.display = '';
+  } else {
+    daipEl.style.display = 'none';
+    hsEl.style.display   = '';
+    tabsEl.style.display = 'none';
+    renderHSMain();
+  }
+}
+
+function getHSItems() {
+  const cats = window._data?.categories || [];
+  const hsCat = cats.find(c => c.id === 'highschool');
+  return hsCat ? hsCat.items : [];
+}
+
+function hsRegionMatch(title, region) {
+  if (region === 'all') return true;
+  const kws = HS_REGION_MAP[region] || [];
+  return kws.some(k => title.includes(k));
+}
+
+function renderHSMain() {
+  const el = document.getElementById('hs-main');
+  if (!el) return;
+  const items = getHSItems();
+  const filtered = _hsRegion === 'all' ? items : items.filter(i => hsRegionMatch(i.title, _hsRegion));
+  const read = getRead();
+
+  const regionBtns = ['all','수원','화성','용인'].map(r =>
+    `<button class="hs-rtab${_hsRegion===r?' active':''}" onclick="setHSRegion('${r}')">${r==='all'?'전체':r}</button>`
+  ).join('');
+
+  // 최신 5건 카드
+  const recent5 = filtered.slice(0,5);
+  const recentHtml = recent5.length
+    ? recent5.map(item => {
+        const isToday = isPublishedToday(item.published);
+        const regionBadge = hsRegionBadge(item.title);
+        const isRead = !!read[item.id];
+        return `<li class="news-item" id="ni-hs-${item.id}">
+          <div class="news-title-row">
+            ${(item.is_new||isToday)?'<span class="badge-new">NEW</span>':''}
+            ${regionBadge}
+            <a href="${item.link}" target="_blank" rel="noopener"
+               class="${isRead?'read-item':''}"
+               onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
+          </div>
+          <div class="news-meta">
+            <span class="badge-type news">📰 뉴스</span>
+            <span class="source-tag">${item.source||''}</span>
+            <span class="date-tag">${formatDate(item.published)}</span>
+          </div>
+        </li>`;
+      }).join('')
+    : '<li class="empty" style="padding:20px 0;">기사가 없습니다.</li>';
+
+  // 전체 목록
+  const allHtml = filtered.length
+    ? filtered.map(item => {
+        const isToday = isPublishedToday(item.published);
+        const regionBadge = hsRegionBadge(item.title);
+        const isRead = !!read[item.id];
+        return `<li class="news-item" id="ni-hs2-${item.id}">
+          <div class="news-title-row">
+            ${(item.is_new||isToday)?'<span class="badge-new">NEW</span>':''}
+            ${regionBadge}
+            <a href="${item.link}" target="_blank" rel="noopener"
+               class="${isRead?'read-item':''}"
+               onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
+          </div>
+          <div class="news-meta">
+            <span class="badge-type news">📰 뉴스</span>
+            <span class="source-tag">${item.source||''}</span>
+            <span class="date-tag">${formatDate(item.published)}</span>
+            <button class="action-btn btn-bm${getBookmarks()[item.id]?' active-bookmark':''}"
+              onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
+            <button class="action-btn" onclick="hsDeleteItem('${item.id}')" title="숨기기">✕</button>
+          </div>
+        </li>`;
+      }).join('')
+    : '<li class="empty" style="padding:20px 0;">해당 지역 기사가 없습니다.</li>';
+
+  el.innerHTML = `
+    <div class="hs-region-tabs">${regionBtns}</div>
+    <div class="hs-card" style="margin-bottom:14px;">
+      <div class="hs-card-title">🔔 최신 ${recent5.length}건</div>
+      <ul class="news-list">${recentHtml}</ul>
+    </div>
+    <div class="hs-card">
+      <div class="hs-card-title">📰 전체 기사 <span style="font-weight:400;color:var(--muted);">${filtered.length}건</span></div>
+      <ul class="news-list">${allHtml}</ul>
+    </div>
+  `;
+}
+
+function hsRegionBadge(title) {
+  if (['수원','광교','영통','팔달'].some(k => title.includes(k))) return '<span class="badge-su">수원</span>';
+  if (['화성','동탄','봉담','향남'].some(k => title.includes(k))) return '<span class="badge-hs">화성</span>';
+  if (['용인','수지','기흥','처인'].some(k => title.includes(k))) return '<span class="badge-yi">용인</span>';
+  return '<span class="badge-gy">경기</span>';
+}
+
+function setHSRegion(region) {
+  _hsRegion = region;
+  renderHSMain();
+}
+
+function hsDeleteItem(id) {
+  const del = getDeleted();
+  del[id] = Date.now();
+  LS.set('deleted', del);
+  ['ni-hs-'+id, 'ni-hs2-'+id].forEach(nid => {
+    const el = document.getElementById(nid);
+    if (el) el.style.display = 'none';
+  });
+}
+
 // ── 아카이브 탭 ──────────────────────────────────────────────
 let _arcLoaded = {};
 let _arcMonth = null; // null = 전체
@@ -1089,6 +1260,8 @@ async function loadNews() {
       const btn = [...document.querySelectorAll('.tab-btn')].find(b => b.getAttribute('onclick')?.includes(`'${currentCat}'`));
       switchTab(currentCat, btn || null);
     }
+    // 고교입시 섹션이 열려있으면 다시 렌더
+    if (currentSection === 'highschool') renderHSMain();
   } catch {
     document.getElementById('main').innerHTML = '<div class="empty">뉴스 데이터를 불러올 수 없습니다.<br><small>scraper.py를 먼저 실행해주세요.</small></div>';
     const ut2 = document.getElementById('update-time'); if(ut2) ut2.textContent = '데이터 없음';

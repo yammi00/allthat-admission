@@ -168,6 +168,31 @@ CATEGORIES = [
         ],
         "rss_keywords": ["원서접수", "수시 일정", "수능 일정", "논술 일정", "입시 일정", "접수 기간"],
     },
+    # ── 고교입시 (경기 남부 — 수원·화성·용인 일반고) ──────────────
+    {
+        "id": "highschool",
+        "name": "고교입시",
+        "emoji": "🏫",
+        "section": "highschool",   # 섹션 구분 플래그
+        "google": [
+            "수원 일반고 고등학교 배정 학군 2026",
+            "화성 동탄 일반고 배정 학군 내신",
+            "용인 수지 기흥 일반고 배정 학군",
+            "광교 고등학교 학군 내신 등급컷",
+            "동탄 고등학교 내신 학군 배정",
+            "경기 남부 일반고 입시 전략 2026",
+            "수원 화성 용인 고등학교 입시",
+        ],
+        "naver_news": [
+            "수원 일반고 배정 학군",
+            "화성 동탄 고등학교 배정",
+            "용인 수지 일반고 학군",
+            "광교 고등학교 내신",
+            "경기 남부 고교 입시",
+        ],
+        "rss_keywords": ["일반고", "고등학교 배정", "학군", "고교 입시", "내신 등급"],
+        "no_math_filter": True,   # 수학 키워드 필터 미적용
+    },
 ]
 
 # ── 필터 ──────────────────────────────────────────────────────
@@ -433,11 +458,11 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
             continue
         if BLACKLIST_RE.search(item["title"]):
             continue
-        # 타지역(수도권 외) 기사 제거
-        if REGION_RE.search(item["title"]):
+        # 타지역(수도권 외) 기사 제거 (고교입시는 제외 — 경기 남부 특화)
+        if cat_id != 'highschool' and REGION_RE.search(item["title"]):
             continue
-        # 수학 관련 키워드 없는 기사 제거 (정책 카테고리 제외)
-        if cat_id != 'policy' and not MATH_RE.search(item["title"]):
+        # 수학 관련 키워드 없는 기사 제거 (정책·고교입시 카테고리 제외)
+        if cat_id not in ('policy', 'highschool') and not MATH_RE.search(item["title"]):
             continue
         # 블로그·카페는 광고 추가 필터 적용
         if item.get("type") in ("blog", "cafearticle") and BLOG_AD_RE.search(item["title"]):
