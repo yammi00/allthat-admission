@@ -311,7 +311,7 @@ def fetch_naver(query: str, endpoint: str = "news", n=10) -> list[dict]:
 def tokenize(t: str) -> frozenset:
     return frozenset(w for w in re.findall(r"[가-힣a-zA-Z0-9]{2,}", t) if w not in STOPWORDS)
 
-def is_dup(tok: frozenset, seen: list, thr=0.55) -> bool:
+def is_dup(tok: frozenset, seen: list, thr=0.80) -> bool:
     for s in seen:
         u = tok | s
         if u and len(tok & s) / len(u) >= thr:

@@ -525,7 +525,17 @@ function applyFilters() {
 
 function formatDate(iso) {
   const d = new Date(iso);
-  return d.toLocaleDateString('ko-KR', {month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit'});
+  const today = new Date();
+  const isToday = d.toDateString() === today.toDateString();
+  const hhmm = d.toLocaleTimeString('ko-KR', {hour:'2-digit', minute:'2-digit', hour12: false});
+  if (isToday) return hhmm;
+  return d.toLocaleDateString('ko-KR', {month:'numeric', day:'numeric'}) + ' ' + hhmm;
+}
+
+function isPublishedToday(iso) {
+  const d = new Date(iso);
+  const today = new Date();
+  return d.toDateString() === today.toDateString();
 }
 
 function getVisibleItems(items) {
@@ -598,7 +608,9 @@ function renderList(items, showCat) {
 
   // NEW 먼저 → 최신 날짜순 (뉴스/블로그 구분 없이)
   const sorted = [...items].sort((a, b) => {
-    if (!!b.is_new !== !!a.is_new) return b.is_new ? 1 : -1;
+    const aTodayNew = a.is_new || isPublishedToday(a.published);
+    const bTodayNew = b.is_new || isPublishedToday(b.published);
+    if (bTodayNew !== aTodayNew) return bTodayNew ? 1 : -1;
     return new Date(b.published) - new Date(a.published);
   });
 
@@ -628,7 +640,7 @@ function renderList(items, showCat) {
         </div>
       </div>
       <div class="news-meta">
-        ${item.is_new ? '<span class="badge-new">NEW</span>' : ''}
+        ${(item.is_new || isPublishedToday(item.published)) ? '<span class="badge-new">NEW</span>' : ''}
         ${typeBadge(type)}
         ${gradeBadge(grade)}
         ${showCat && item.catName ? `<span>${item.catEmoji} ${item.catName}</span>` : ''}
@@ -751,13 +763,15 @@ function renderDashboard() {
 
   cats.forEach(c => {
     const visible = getVisibleItems(c.items);
-    // pinned 우선 → is_new → 최신순
+    // pinned 우선 → 당일 NEW → is_new → 최신순
     const sorted = [...visible].sort((a, b) => {
       if (!!b.pinned !== !!a.pinned) return b.pinned ? 1 : -1;
-      if (!!b.is_new !== !!a.is_new) return b.is_new ? 1 : -1;
+      const aTodayNew = a.is_new || isPublishedToday(a.published);
+      const bTodayNew = b.is_new || isPublishedToday(b.published);
+      if (bTodayNew !== aTodayNew) return bTodayNew ? 1 : -1;
       return new Date(b.published) - new Date(a.published);
     });
-    const recent = sorted.slice(0, 3);
+    const recent = sorted.slice(0, 5);
     html += `<div class="dash-card" onclick="switchToTab('${c.id}')">
       <div class="dash-card-top">
         <span class="dash-card-title">${c.emoji} ${c.name}</span>
