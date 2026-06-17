@@ -22,8 +22,8 @@
   body { font-family: -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
   header {
-    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
-    box-shadow: 0 2px 12px rgba(37,99,235,0.25);
+    background: #0f172a;
+    box-shadow: 0 1px 0 rgba(255,255,255,.06);
     padding: 10px 18px;
     display: flex; align-items: center; justify-content: space-between;
     position: sticky; top: 0; z-index: 100;
@@ -49,36 +49,37 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
-  /* 섹션 스위처 — 헤더 내부 */
-  .section-switcher {
-    display: flex; align-items: stretch; margin-left: 20px;
+  /* 섹션 스위처 — 탭바 내부 pill */
+  .section-btn-tab {
+    background: none; border: none; border-radius: 6px;
+    color: rgba(255,255,255,.45); padding: 5px 11px; font-size: .78rem;
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    margin: 5px 2px; transition: all .15s; font-family: inherit;
   }
-  .section-btn {
-    padding: 0 16px; font-size: 0.8rem; color: rgba(255,255,255,.55); cursor: pointer;
-    border: none; background: none; border-bottom: 2px solid transparent;
-    transition: all .15s; white-space: nowrap; line-height: 1;
-  }
-  .section-btn:hover { color: #fff; }
-  .section-btn.active { color: #fff; border-bottom-color: #818cf8; font-weight: 600; }
+  .section-btn-tab:hover { color: rgba(255,255,255,.82); background: rgba(255,255,255,.07); }
+  .section-btn-tab.active { background: #3b82f6; color: #fff; font-weight: 600; }
+  .tab-divider { width: 1px; background: rgba(255,255,255,.12); margin: 8px 4px; align-self: stretch; flex-shrink: 0; }
 
   .tabs {
-    display: flex; gap: 5px; padding: 10px 16px 0;
-    overflow-x: auto; border-bottom: 1px solid var(--border);
-    background: var(--bg); position: sticky; top: 49px; z-index: 99;
+    display: flex; gap: 0; padding: 0 8px;
+    overflow-x: auto; border-bottom: 1px solid rgba(255,255,255,.08);
+    background: #0f172a; position: sticky; top: 49px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
   .tab-btn {
-    background: none; border: 1px solid var(--border); color: var(--muted);
-    padding: 6px 12px; border-radius: 20px; font-size: 0.78rem;
+    background: none; border: none; border-bottom: 2px solid transparent;
+    color: rgba(255,255,255,.38); padding: 10px 13px; font-size: 0.78rem;
     cursor: pointer; transition: all .15s; white-space: nowrap;
-    flex-shrink: 0; margin-bottom: 8px;
+    flex-shrink: 0;
   }
-  .tab-btn:hover { border-color: var(--accent); color: var(--text); }
-  .tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
-  .tab-btn .cnt { background: rgba(255,255,255,.22); border-radius: 10px; font-size: .66rem; padding: 1px 5px; margin-left: 3px; }
-  .tab-btn.bookmark-tab.active { background: var(--yellow); border-color: var(--yellow); color: #000; }
-  .tab-btn.search-tab.active { background: #7c3aed; border-color: #7c3aed; color: #fff; }
+  .tab-btn:hover { color: rgba(255,255,255,.75); }
+  .tab-btn.active { color: #60a5fa; border-bottom-color: #3b82f6; font-weight: 600; }
+  .tab-btn .cnt { background: rgba(255,255,255,.15); border-radius: 10px; font-size: .66rem; padding: 1px 5px; margin-left: 3px; }
+  .tab-btn.bookmark-tab.active { color: #fbbf24; border-bottom-color: #f59e0b; }
+  .tab-btn.search-tab.active { color: #a78bfa; border-bottom-color: #7c3aed; }
+  .tab-btn.noise-tab.active { color: #fb923c; border-bottom-color: #f97316; }
+  .tab-btn.archive-tab.active { color: #94a3b8; border-bottom-color: #6b7280; }
 
   /* 검색창 */
   .search-bar {
@@ -239,8 +240,9 @@
   }
   .news-item:hover { border-color: var(--accent); }
   .news-item.bookmarked { border-left: 3px solid var(--yellow); }
-  a.read-item { color: #aaa !important; text-decoration: none !important; }
-  a.read-item::after { content: ' ✓'; font-size: 11px; color: #aaa; }
+  a.read-item { color: #c0c4cc !important; text-decoration: none !important; }
+  a.read-item::after { content: ' ✓'; font-size: 10px; color: #b0b5be; }
+  .news-item:has(a.read-item) { opacity: 0.55; }
   .news-item.deleted { display: none; }
   .news-item.filter-hidden { display: none; }
 
@@ -355,17 +357,9 @@
 <body>
 
 <header>
-  <div style="display:flex;align-items:center;">
-    <div class="header-logo">
-      <div class="header-logo-icon">🎓</div>
-      <div class="header-logo-text">
-        <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
-        <span class="sub">대입 · 수능 · 논술 · 입시 뉴스</span>
-      </div>
-    </div>
-    <div class="section-switcher" id="section-switcher">
-      <button class="section-btn active" onclick="switchSection('daip', this)">대입</button>
-      <button class="section-btn" onclick="switchSection('highschool', this)">고교입시</button>
+  <div class="header-logo">
+<div class="header-logo-text">
+      <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
     </div>
   </div>
   <div style="display:flex;align-items:center;gap:8px;">
@@ -378,7 +372,7 @@
 <div class="search-overlay" id="search-overlay" onclick="closeSearchOnBg(event)">
   <div class="search-box">
     <div class="search-input-wrap">
-      <span style="font-size:1rem;color:var(--muted)">🔍</span>
+      <span style="font-size:.85rem;color:var(--muted);font-weight:500;">검색</span>
       <input class="search-input" id="search-input" type="text" placeholder="키워드 검색 (예: 킬러문항, 논술, 수시 최저…)"
         oninput="onSearchInput(this.value)"
         onkeydown="if(event.key==='Escape')closeSearch()">
@@ -507,7 +501,7 @@ function renderNoise() {
   const noise = getNoise();
   const items = Object.entries(noise);
   if (!items.length) {
-    section.innerHTML = '<div class="empty">노이즈로 표시한 기사가 없습니다.<br><small style="color:#9ca3af;font-size:.8rem">기사 오른쪽 🚫 버튼으로 추가하세요.</small></div>';
+    section.innerHTML = '<div class="empty">필터링한 기사가 없습니다.<br><small style="color:#9ca3af;font-size:.8rem">기사 오른쪽 차단 버튼으로 추가하세요.</small></div>';
     return;
   }
   const sources = [...new Set(items.map(([,n]) => n.source).filter(Boolean))];
@@ -515,10 +509,10 @@ function renderNoise() {
 
   let html = `<div class="noise-header">
     <div>
-      <h3>🚫 노이즈 패턴 ${items.length}건</h3>
+      <h3>필터링 패턴 ${items.length}건</h3>
       <p>출처 ${sources.length}개 · 키워드 ${keywords.length}개가 다음 수집부터 필터됩니다</p>
     </div>
-    <button class="export-btn" onclick="exportNoisePatterns()">💾 패턴 저장</button>
+    <button class="export-btn" onclick="exportNoisePatterns()">패턴 저장</button>
   </div><ul class="news-list">`;
 
   items.forEach(([id, n]) => {
@@ -629,13 +623,22 @@ function getVisibleItems(items) {
 
 function renderTabs(categories) {
   const el = document.getElementById('tabs');
-  let html = `<button class="tab-btn active" onclick="switchTab('home',this)">🏠 홈</button>`;
-  categories.filter(c => c.id !== 'highschool').forEach(c => {
-    html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.emoji} ${c.name}</button>`;
-  });
-  html += `<button class="tab-btn archive-tab" onclick="switchTab('archive',this)">📦 아카이브</button>`;
-  html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크</button>`;
-  if (_isAdmin) html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링</button>`;
+  // 섹션 스위처 pill — 탭바 맨 앞
+  let html = `
+    <button class="section-btn-tab${currentSection==='daip'?' active':''}" onclick="switchSection('daip',this)">대입</button>
+    <button class="section-btn-tab${currentSection==='highschool'?' active':''}" onclick="switchSection('highschool',this)">고교입시</button>
+    <div class="tab-divider"></div>
+  `;
+  // 대입일 때만 카테고리 탭 표시
+  if (currentSection === 'daip') {
+    html += `<button class="tab-btn active" onclick="switchTab('home',this)">홈</button>`;
+    categories.filter(c => c.id !== 'highschool').forEach(c => {
+      html += `<button class="tab-btn" onclick="switchTab('${c.id}',this)">${c.name}</button>`;
+    });
+    html += `<button class="tab-btn archive-tab" onclick="switchTab('archive',this)">아카이브</button>`;
+    html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크</button>`;
+    if (_isAdmin) html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">필터링</button>`;
+  }
   el.innerHTML = html;
 }
 
@@ -665,10 +668,10 @@ function renderMain(categories) {
 }
 
 function typeBadge(type) {
-  if (type === 'official') return '<span class="badge-type official">🏛 공식</span>';
-  if (type === 'news') return '<span class="badge-type news">📰 뉴스</span>';
-  if (type === 'blog') return '<span class="badge-type blog">📝 블로그</span>';
-  if (type === 'cafearticle') return '<span class="badge-type cafe">💬 카페</span>';
+  if (type === 'official') return '<span class="badge-type official">공식</span>';
+  if (type === 'news') return '<span class="badge-type news">뉴스</span>';
+  if (type === 'blog') return '<span class="badge-type blog">블로그</span>';
+  if (type === 'cafearticle') return '<span class="badge-type cafe">카페</span>';
   return '';
 }
 
@@ -715,7 +718,7 @@ function renderList(items, showCat) {
         <div class="item-actions">
           <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
 
-          ${_isAdmin ? `<button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="노이즈">🚫</button>` : ''}
+          ${_isAdmin ? `<button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="필터링" style="font-size:.65rem;font-weight:600;">차단</button>` : ''}
           <button class="action-btn" onclick="deleteItem('${item.id}')" title="숨기기">✕</button>
         </div>
       </div>
@@ -723,7 +726,7 @@ function renderList(items, showCat) {
         ${(item.is_new || isPublishedToday(item.published)) ? '<span class="badge-new">NEW</span>' : ''}
         ${typeBadge(type)}
         ${gradeBadge(grade)}
-        ${showCat && item.catName ? `<span>${item.catEmoji} ${item.catName}</span>` : ''}
+        ${showCat && item.catName ? `<span>${item.catName}</span>` : ''}
         ${item.source ? `<span>${item.source}</span>` : ''}
         <span>${formatDate(item.published)}</span>
       </div>
@@ -826,13 +829,19 @@ function renderDashboard() {
   const diff = (Date.now() - new Date(d)) / 1000;
   const ago = diff < 60 ? '방금 전' : diff < 3600 ? `${Math.floor(diff/60)}분 전` : `${Math.floor(diff/3600)}시간 전`;
 
+  const allVisible = cats.flatMap(c => getVisibleItems(c.items));
+  const todayCount = allVisible.filter(i => i.is_new || isPublishedToday(i.published)).length;
+
   let html = `
   <div class="dash-summary">
     <div class="dash-stat" onclick="switchToTab('all')" style="cursor:pointer;transition:all .15s;" onmouseover="this.style.borderColor='var(--accent)'" onmouseout="this.style.borderColor=''">
       <strong>${total}</strong><span>총 기사 →</span>
     </div>
-    <div class="dash-stat" style="display:flex;align-items:center;gap:8px;padding:8px 14px;">
-      <span style="font-size:.9rem;color:var(--muted);">🔍</span>
+    <div class="dash-stat">
+      <strong style="color:var(--new)">${todayCount}</strong><span>오늘 NEW</span>
+    </div>
+    <div class="dash-stat" style="display:flex;align-items:center;gap:8px;padding:8px 14px;flex:2;">
+      <span style="font-size:.85rem;color:var(--muted);font-weight:500;">검색</span>
       <input type="text" placeholder="키워드 검색…"
         style="border:none;outline:none;background:none;font-size:.85rem;flex:1;color:var(--text);font-family:inherit;min-width:0;"
         oninput="onDashSearch(this.value)"
@@ -852,10 +861,12 @@ function renderDashboard() {
       return new Date(b.published) - new Date(a.published);
     });
     const recent = sorted.slice(0, 5);
+    const dotColor = CAT_COLORS[c.id] || '#6b7280';
     html += `<div class="dash-card" onclick="switchToTab('${c.id}')">
       <div class="dash-card-top">
-        <span class="dash-card-title">${c.emoji} ${c.name}</span>
-        <span class="dash-card-cnt">${visible.length}</span>
+        <span style="width:7px;height:7px;border-radius:50%;background:${dotColor};display:inline-block;flex-shrink:0;margin-right:2px;margin-top:1px;"></span>
+        <span class="dash-card-title">${c.name}</span>
+        <span class="dash-card-cnt" style="background:${dotColor}">${visible.length}</span>
         <span class="dash-card-arrow">→</span>
       </div>
       <ul class="dash-card-items">
@@ -898,7 +909,7 @@ function onDashSearch(q) {
     matched.map(i => `<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:10px 13px;margin-bottom:6px;">
       <a href="${i.link}" target="_blank" rel="noopener" style="color:var(--text);text-decoration:none;font-size:.87rem;font-weight:500;line-height:1.5;display:block;"
          onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text)'">${i.title}</a>
-      <div style="font-size:.7rem;color:var(--muted);margin-top:3px;">${i.catEmoji} ${i.catName} · ${i.source||''}</div>
+      <div style="font-size:.7rem;color:var(--muted);margin-top:3px;">${i.catName} · ${i.source||''}</div>
     </div>`).join('');
 }
 
@@ -960,6 +971,17 @@ function switchTab(catId, btn) {
   if (catId !== 'home') applyFilters();
 }
 
+// ── 카테고리 컬러 ─────────────────────────────────────────────
+const CAT_COLORS = {
+  exam:       '#3b82f6',
+  sushi:      '#8b5cf6',
+  jeongshi:   '#ec4899',
+  policy:     '#f59e0b',
+  yaksuljul:  '#10b981',
+  schedule:   '#06b6d4',
+  highschool: '#0f9b72',
+};
+
 // ── 섹션 스위처 (대입 / 고교입시) ────────────────────────────
 let currentSection = 'daip';
 let _hsRegion = 'all'; // 고교입시 지역 필터
@@ -972,23 +994,19 @@ const HS_REGION_MAP = {
 
 function switchSection(section, btn) {
   currentSection = section;
-  document.querySelectorAll('.section-btn').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
-
   const daipEl = document.getElementById('main');
   const hsEl   = document.getElementById('hs-main');
-  const tabsEl = document.getElementById('tabs');
 
   if (section === 'daip') {
     daipEl.style.display = '';
     hsEl.style.display   = 'none';
-    tabsEl.style.display = '';
   } else {
     daipEl.style.display = 'none';
     hsEl.style.display   = '';
-    tabsEl.style.display = 'none';
     renderHSMain();
   }
+  // 탭바 재렌더 (섹션 버튼 active 상태 + 카테고리 탭 표시 여부)
+  if (window._data) renderTabs(window._data.categories);
 }
 
 function getHSItems() {
@@ -1030,7 +1048,7 @@ function renderHSMain() {
                onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
           </div>
           <div class="news-meta">
-            <span class="badge-type news">📰 뉴스</span>
+            <span class="badge-type news">뉴스</span>
             <span class="source-tag">${item.source||''}</span>
             <span class="date-tag">${formatDate(item.published)}</span>
           </div>
@@ -1053,7 +1071,7 @@ function renderHSMain() {
                onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
           </div>
           <div class="news-meta">
-            <span class="badge-type news">📰 뉴스</span>
+            <span class="badge-type news">뉴스</span>
             <span class="source-tag">${item.source||''}</span>
             <span class="date-tag">${formatDate(item.published)}</span>
             <button class="action-btn btn-bm${getBookmarks()[item.id]?' active-bookmark':''}"
@@ -1067,11 +1085,11 @@ function renderHSMain() {
   el.innerHTML = `
     <div class="hs-region-tabs">${regionBtns}</div>
     <div class="hs-card" style="margin-bottom:14px;">
-      <div class="hs-card-title">🔔 최신 ${recent5.length}건</div>
+      <div class="hs-card-title">최신 ${recent5.length}건</div>
       <ul class="news-list">${recentHtml}</ul>
     </div>
     <div class="hs-card">
-      <div class="hs-card-title">📰 전체 기사 <span style="font-weight:400;color:var(--muted);">${filtered.length}건</span></div>
+      <div class="hs-card-title">전체 기사 <span style="font-weight:400;color:var(--muted);">${filtered.length}건</span></div>
       <ul class="news-list">${allHtml}</ul>
     </div>
   `;
