@@ -49,15 +49,14 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
-  /* 섹션 스위처 */
+  /* 섹션 스위처 — 헤더 내부 */
   .section-switcher {
-    display: flex; background: #16123d; border-bottom: 1px solid rgba(255,255,255,.1);
-    position: sticky; top: 49px; z-index: 101;
+    display: flex; align-items: stretch; margin-left: 20px;
   }
   .section-btn {
-    padding: 8px 20px; font-size: 0.82rem; color: #a5b4fc; cursor: pointer;
+    padding: 0 16px; font-size: 0.8rem; color: rgba(255,255,255,.55); cursor: pointer;
     border: none; background: none; border-bottom: 2px solid transparent;
-    transition: all .15s; white-space: nowrap;
+    transition: all .15s; white-space: nowrap; line-height: 1;
   }
   .section-btn:hover { color: #fff; }
   .section-btn.active { color: #fff; border-bottom-color: #818cf8; font-weight: 600; }
@@ -65,7 +64,7 @@
   .tabs {
     display: flex; gap: 5px; padding: 10px 16px 0;
     overflow-x: auto; border-bottom: 1px solid var(--border);
-    background: var(--bg); position: sticky; top: 81px; z-index: 99;
+    background: var(--bg); position: sticky; top: 49px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
@@ -346,11 +345,17 @@
 <body>
 
 <header>
-  <div class="header-logo">
-    <div class="header-logo-icon">🎓</div>
-    <div class="header-logo-text">
-      <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
-      <span class="sub">대입 · 수능 · 논술 · 입시 뉴스</span>
+  <div style="display:flex;align-items:center;">
+    <div class="header-logo">
+      <div class="header-logo-icon">🎓</div>
+      <div class="header-logo-text">
+        <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
+        <span class="sub">대입 · 수능 · 논술 · 입시 뉴스</span>
+      </div>
+    </div>
+    <div class="section-switcher" id="section-switcher">
+      <button class="section-btn active" onclick="switchSection('daip', this)">대입</button>
+      <button class="section-btn" onclick="switchSection('highschool', this)">고교입시</button>
     </div>
   </div>
   <div style="display:flex;align-items:center;gap:8px;">
@@ -374,11 +379,6 @@
       <div class="empty" style="padding:20px 0;font-size:.85rem;">키워드를 입력하세요</div>
     </div>
   </div>
-</div>
-
-<div class="section-switcher" id="section-switcher">
-  <button class="section-btn active" onclick="switchSection('daip', this)">대입</button>
-  <button class="section-btn" onclick="switchSection('highschool', this)">🏫 고교입시</button>
 </div>
 <nav class="tabs" id="tabs"></nav>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
