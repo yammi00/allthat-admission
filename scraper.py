@@ -646,6 +646,39 @@ def main():
         for f in ARCHIVE_DIR.glob("archive_*.json")
     ], reverse=True)
 
+    # 경량 검색 인덱스 생성 (제목+링크+날짜+카테고리만)
+    index_items = []
+    for arc_ym in available:
+        arc_file = ARCHIVE_DIR / f"archive_{arc_ym.replace('-', '_')}.json"
+        try:
+            arc = json.loads(arc_file.read_text(encoding="utf-8"))
+            month_str = arc_ym  # "2026-05"
+            for cat_id, cat_data_arc in arc.get("categories", {}).items():
+                for item in cat_data_arc.get("items", {}).values():
+                    index_items.append({
+                        "id": item["id"],
+                        "title": item["title"],
+                        "link": item["link"],
+                        "published": item["published"],
+                        "source": item.get("source", ""),
+                        "cat": cat_id,
+                        "catName": cat_data_arc["name"],
+                        "catEmoji": cat_data_arc["emoji"],
+                        "month": month_str,
+                    })
+        except Exception as e:
+            print(f"  인덱스 생성 오류 ({arc_ym}): {e}")
+
+    index_items.sort(key=lambda x: x["published"], reverse=True)
+    index_file = ARCHIVE_DIR / "archive_index.json"
+    index_file.write_text(
+        json.dumps({"generated_at": datetime.now(timezone.utc).isoformat(),
+                    "total": len(index_items), "items": index_items},
+                   ensure_ascii=False, separators=(',', ':')),
+        encoding="utf-8"
+    )
+    print(f"🔍 인덱스 생성: {len(index_items)}건 → archive_index.json")
+
     OUTPUT_FILE.write_text(
         json.dumps({
             "updated_at": datetime.now(timezone.utc).isoformat(),
