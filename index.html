@@ -372,6 +372,12 @@ function getUserId() {
   return LS.get('uid') || null;
 }
 const _uid = getUserId();
+function isAdmin() {
+  const param = new URLSearchParams(location.search).get('admin');
+  if (param === '1') { LS.set('admin', '1'); return true; }
+  return LS.get('admin') === '1';
+}
+const _isAdmin = isAdmin();
 function readKey() { return _uid ? `read_${_uid}` : 'read_guest'; }
 function getRead() { return LS.get(readKey()) || {}; }
 function markRead(id) {
@@ -410,7 +416,7 @@ function toggleNoise(id) {
   const all = window._data?.categories.flatMap(c => c.items.map(i => ({...i, catName:c.name, catEmoji:c.emoji}))) || [];
   const item = all.find(i => i.id === id);
   if (!item) return;
-  noise[id] = { title: item.title, source: item.source || '', type: item.type || 'news', patterns: extractPatterns(item) };
+  noise[id] = { title: item.title, source: item.source || '', type: item.type || 'news', patterns: extractPatterns(item), added_at: new Date().toISOString() };
   LS.set('noise', noise);
   refreshItemState(id);
   updateNoiseBadge();
@@ -477,10 +483,14 @@ function renderNoise() {
     const tagHtml = n.patterns.map(p =>
       `<span class="noise-pattern-tag">${p.type === 'source' ? '출처: ' : '키워드: '}${p.value}</span>`
     ).join(' ');
+    const addedStr = n.added_at
+      ? new Date(n.added_at).toLocaleString('ko-KR', {month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false})
+      : '날짜 미상';
     html += `<li class="noise-item">
       <div class="noise-item-title">${n.title}</div>
       <div class="noise-item-meta">
         ${tagHtml}
+        <span style="margin-left:auto;color:var(--text-3);font-size:.7rem;">${addedStr} 등록</span>
         <button class="noise-remove-btn" onclick="removeNoiseItem('${id}')">✕ 제거</button>
       </div>
     </li>`;
@@ -583,7 +593,7 @@ function renderTabs(categories) {
   });
   html += `<button class="tab-btn archive-tab" onclick="switchTab('archive',this)">📦 아카이브</button>`;
   html += `<button class="tab-btn bookmark-tab" onclick="switchTab('bookmarks',this)">★ 북마크</button>`;
-  html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링</button>`;
+  if (_isAdmin) html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">🚫 필터링</button>`;
   el.innerHTML = html;
 }
 
@@ -663,7 +673,7 @@ function renderList(items, showCat) {
         <div class="item-actions">
           <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
           <button class="action-btn" onclick="toggleMemo('${item.id}')" title="메모">✏</button>
-          <button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="노이즈">🚫</button>
+          ${_isAdmin ? `<button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="노이즈">🚫</button>` : ''}
           <button class="action-btn" onclick="deleteItem('${item.id}')" title="숨기기">✕</button>
         </div>
       </div>
