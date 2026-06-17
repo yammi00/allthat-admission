@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T16:11:14.563789+00:00",
+  "updated_at": "2026-06-17T21:47:52.327012+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -353,7 +353,7 @@
           "title": "[2027수시] 연세대 교과 추천형, AI 모집인원 확대… 교과 100% 유지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53175",
           "source": "에듀진",
-          "published": "2026-06-17T15:59:08.361712+00:00",
+          "published": "2026-06-17T21:33:09.460683+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -366,7 +366,7 @@
           "published": "2026-06-17T06:58:15+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "161926895aadaefe3858f22934c45de3",
@@ -603,7 +603,7 @@
           "title": "서울대·연세대·고려대, 2028학년도 대입 전형 변화…지원 전략 점검 필요 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWkRLN0xZS3Z4Uk9sSkd4MHRNdWpCZkhOdXhQZ1NMS3VlSTF6WGhaQ2FDc1UyMkxteEdVYm1TVVA2cWtlSXVsTldiT21LRmllbTlMM1Nxd1BpdlVFbjBWRFlJX3BaNDA?oc=5",
           "source": "E동아",
-          "published": "2026-06-06T07:00:00+00:00",
+          "published": "2026-06-06T03:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1107,7 +1107,7 @@
           "title": "교육부, 교권 강화 위한 ‘교육부 고시안’ 8월까지 신속 마련하겠다",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/24/2023072401615.html",
           "source": "조선에듀",
-          "published": "2026-06-17T16:04:02.447674+00:00",
+          "published": "2026-06-17T21:38:07.987793+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1117,7 +1117,7 @@
           "title": "안정적 수능 출제를 위해 출제 체계를 근본적으로 개선하겠습니다",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156744193",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-17T16:03:57.125314+00:00",
+          "published": "2026-06-17T21:38:00.774008+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1128,7 +1128,7 @@
           "title": "2025년 초중고 사교육비 조사 결과",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156748555",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-17T16:03:55.979872+00:00",
+          "published": "2026-06-17T21:37:59.132780+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1139,7 +1139,7 @@
           "title": "수능 어떻게 준비할까?",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156752026",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-17T16:03:55.979774+00:00",
+          "published": "2026-06-17T21:37:59.132686+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1150,7 +1150,7 @@
           "title": "2026년 대학부설 과학영재교육원 공동 온라인 선교육과정 수강생 모집",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766312",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-17T16:03:55.979555+00:00",
+          "published": "2026-06-17T21:37:59.132468+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1161,7 +1161,7 @@
           "title": "[설명자료] 2026년 대학수학능력시험일 기상전망_수능일 한파 없이 맑고 일교차 큰 날씨",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156727208",
           "source": "정책브리핑(교육부)",
-          "published": "2026-06-17T16:03:54.242543+00:00",
+          "published": "2026-06-17T21:37:57.572281+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
@@ -1302,6 +1302,16 @@
           "title": "‘불영어’ 논란 교육부… “2027학년도 수능 적정 난이도로 출제” - 문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RdW9mSGR2UUtrVFZFSUcybTQ0SFZ5ZTJxbnNEb2RUb0RhcDFrYllDQW5maGlQY3czN0lmUFpRMGFPOTh2ZXN6ZUxGWTlFMkww?oc=5",
           "source": "문화일보",
+          "published": "2026-03-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "ab24f307e3290cd1a8e8eee42bbfac4c",
+          "title": "2027수능 11월 19일 실시…출제위원 절반 현장 교사로 채운다 - 열린뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NbHpxa1FGQTFIYTlZWWh6dHQ5Tk9MaHRRNlpUamhqc2hVM1JaOG05b3BxbHozOHkybDMxdFNMeTl1OGEzSXJMNWlzdFo2RU9aMUI2aTllWEg5cmJjMlk0UXhDcTYzUQ?oc=5",
+          "source": "열린뉴스통신",
           "published": "2026-03-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1882,6 +1892,16 @@
           "is_new": false
         },
         {
+          "id": "ac26255f2b667e94c730d71031f275cb",
+          "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 비즈월드",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZEFERWNZTk9Uc09zU1NuNXBkOFRUVTJGUHNWcVU5OUxSa0x3Zk9UZFU1OFNkVVFMUE1rUklXd2V6ZERWbUhYb1FwY29HdG5XU2ZpcFVZYjJJYU5tYkI1Q1NMUVFvMXE3X2JV?oc=5",
+          "source": "비즈월드",
+          "published": "2026-04-03T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "87493c9b9b9866da196cfd1c2685a316",
           "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
@@ -1897,6 +1917,163 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
           "source": "생글생글",
           "published": "2026-03-03T08:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "id": "highschool",
+      "name": "고교입시",
+      "emoji": "🏫",
+      "items": [
+        {
+          "id": "cb58c00e8a0474e6104a6cfa924b1e23",
+          "title": "KAIST·POSTECH 입시 한자리에서…경기도교육청 이공계 대입설명회 열어",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=706372",
+          "source": "www.newstown.co.kr",
+          "published": "2026-06-16T11:27:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "efb335f529aadfeec8cca6e0094d7d51",
+          "title": "연세대·고려대·성균관대 입학사정관 한자리에…경기도교육청, 오는 2...",
+          "link": "https://www.gosiweek.com/article/1065602419149007",
+          "source": "www.gosiweek.com",
+          "published": "2026-06-15T08:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "c6021cc1e41ea89b180541f54cc7f0ce",
+          "title": "“주말인데 730명 몰렸다”… 안양과천교육지원청, 대입 컨설팅 성황",
+          "link": "https://n.news.naver.com/mnews/article/666/0000111097?sid=102",
+          "source": "www.kyeonggi.com",
+          "published": "2026-06-13T23:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "0bb665a7c23eb0e6fba423f712fc94bd",
+          "title": "안민석 경기도교육감 당선인, 고양서 통학·학군 현안 청취…&quot;학생 중심...",
+          "link": "https://www.ajunews.com/view/20260610151749930",
+          "source": "www.ajunews.com",
+          "published": "2026-06-10T06:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "949cc9cd620fd27c2a9ce5a44d3eb4b7",
+          "title": "K반도체 ‘셔세권’ 바람 탔다, 용인 수지의 화려한 부활",
+          "link": "https://n.news.naver.com/mnews/article/023/0003979228?sid=004",
+          "source": "www.chosun.com",
+          "published": "2026-05-29T14:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "836351847418f959b846788238b90b50",
+          "title": "경기도교육청, 고3 담임 저경력 교사 대상 '2027 대입 진학지도' 밀착 지...",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1003101",
+          "source": "www.cnbnews.com",
+          "published": "2026-05-29T04:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5000c184cb289827547d13e467e957de",
+          "title": "유의동 &quot;서초구 금싸라기 아파트 팔아라&quot;…조국 &quot;굳이&quot;",
+          "link": "https://n.news.naver.com/mnews/article/079/0004151408?sid=100",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-05-27T13:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5692da4ea0af39ad6bc651d35e753595",
+          "title": "경기 평택을 CBS 후보 토론회①[한판승부]",
+          "link": "https://n.news.naver.com/mnews/article/079/0004151404?sid=100",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-05-27T12:47:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "ccf7f28b393092462e8c9ea1c8f26e0f",
+          "title": "안산시, 공교육 기반 맞춤형 진로진학상담센터 본격 운영",
+          "link": "http://www.breaknews.com/1209717",
+          "source": "www.breaknews.com",
+          "published": "2026-05-26T03:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "27555bc66c4c49fc2d5deec478285244",
+          "title": "6·3 경기도 교육감 선거, 미래교육·교육복지 정책 경쟁",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260523010006337",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-05-23T07:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "680dd709d9ffaac27449cdf650b46431",
+          "title": "서툰 한국어에 겉돌던 아이도 ‘열공’… 맞춤 교육, 편견을 깨다 [심층...",
+          "link": "https://n.news.naver.com/mnews/article/022/0004129416?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-05-19T21:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a71ae5a6334ff5e56e535c1bd53d1a42",
+          "title": "[영어 교육, 현장 전문가의 시선] “화석에서 생명력으로”…2028 대입과...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/05/15/2026051580015.html",
+          "source": "edu.chosun.com",
+          "published": "2026-05-14T23:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "1a9c3296e210c26a7777f140127b433a",
+          "title": "“5월 18일부터 일반전형 접수”…경찰대학, 2027학년도 신입생 50명 선...",
+          "link": "https://www.gosiweek.com/article/1065577236921314",
+          "source": "www.gosiweek.com",
+          "published": "2026-05-13T23:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "94cc8c16305b1440cad9c7e3fb39f9a5",
+          "title": "[Who Is ?] 현정은 현대그룹 회장",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436513",
+          "source": "www.businesspost.co.kr",
+          "published": "2026-04-28T22:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "7ff944eebb69eacc3bf2dfa3002c03ba",
+          "title": "고교 입학 전형 8월 시작…경기교육청, 2027학년도 기본계획 발표",
+          "link": "https://n.news.naver.com/mnews/article/022/0004116970?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-03-30T23:07:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
