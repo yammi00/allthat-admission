@@ -49,21 +49,25 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
-  /* 섹션 스위처 — 탭바 내부 pill */
-  .section-btn-tab {
-    background: none; border: none; border-radius: 6px;
-    color: rgba(255,255,255,.45); padding: 5px 11px; font-size: .78rem;
-    cursor: pointer; white-space: nowrap; flex-shrink: 0;
-    margin: 5px 2px; transition: all .15s; font-family: inherit;
+  /* 섹션 스위처 — 탭 위 별도 행 */
+  .section-bar {
+    background: #0f172a; padding: 8px 16px 0;
+    display: flex; gap: 4px;
+    position: sticky; top: 49px; z-index: 100;
   }
-  .section-btn-tab:hover { color: rgba(255,255,255,.82); background: rgba(255,255,255,.07); }
-  .section-btn-tab.active { background: #3b82f6; color: #fff; font-weight: 600; }
-  .tab-divider { width: 1px; background: rgba(255,255,255,.12); margin: 8px 4px; align-self: stretch; flex-shrink: 0; }
+  .section-btn-tab {
+    background: none; border: none; border-bottom: 2px solid transparent;
+    color: rgba(255,255,255,.4); padding: 6px 14px; font-size: .85rem;
+    cursor: pointer; white-space: nowrap; font-weight: 500;
+    transition: all .15s; font-family: inherit; border-radius: 0;
+  }
+  .section-btn-tab:hover { color: rgba(255,255,255,.8); }
+  .section-btn-tab.active { color: #fff; border-bottom-color: #3b82f6; font-weight: 700; }
 
   .tabs {
     display: flex; gap: 0; padding: 0 8px;
     overflow-x: auto; border-bottom: 1px solid rgba(255,255,255,.08);
-    background: #0f172a; position: sticky; top: 49px; z-index: 99;
+    background: #0f172a; position: sticky; top: 87px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
@@ -384,6 +388,10 @@
     </div>
   </div>
 </div>
+<div class="section-bar" id="section-bar">
+  <button class="section-btn-tab active" onclick="switchSection('daip',this)">대입</button>
+  <button class="section-btn-tab" onclick="switchSection('highschool',this)">고교입시</button>
+</div>
 <nav class="tabs" id="tabs"></nav>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
 <div id="hs-main" style="display:none;padding:12px 16px;"></div>
@@ -623,13 +631,8 @@ function getVisibleItems(items) {
 
 function renderTabs(categories) {
   const el = document.getElementById('tabs');
-  // 섹션 스위처 pill — 탭바 맨 앞
-  let html = `
-    <button class="section-btn-tab${currentSection==='daip'?' active':''}" onclick="switchSection('daip',this)">대입</button>
-    <button class="section-btn-tab${currentSection==='highschool'?' active':''}" onclick="switchSection('highschool',this)">고교입시</button>
-    <div class="tab-divider"></div>
-  `;
   // 대입일 때만 카테고리 탭 표시
+  let html = '';
   if (currentSection === 'daip') {
     html += `<button class="tab-btn active" onclick="switchTab('home',this)">홈</button>`;
     categories.filter(c => c.id !== 'highschool').forEach(c => {
@@ -640,6 +643,7 @@ function renderTabs(categories) {
     if (_isAdmin) html += `<button class="tab-btn noise-tab" onclick="switchTab('noise',this)">필터링</button>`;
   }
   el.innerHTML = html;
+  el.style.display = currentSection === 'daip' ? '' : 'none';
 }
 
 function updateBookmarkTab() {
@@ -994,6 +998,9 @@ const HS_REGION_MAP = {
 
 function switchSection(section, btn) {
   currentSection = section;
+  document.querySelectorAll('.section-btn-tab').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
   const daipEl = document.getElementById('main');
   const hsEl   = document.getElementById('hs-main');
 
@@ -1005,7 +1012,6 @@ function switchSection(section, btn) {
     hsEl.style.display   = '';
     renderHSMain();
   }
-  // 탭바 재렌더 (섹션 버튼 active 상태 + 카테고리 탭 표시 여부)
   if (window._data) renderTabs(window._data.categories);
 }
 
