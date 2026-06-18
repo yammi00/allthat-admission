@@ -1044,6 +1044,60 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "f07ff5dedf3a3c37df8e4a08d48ae467",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 시행계획 공고",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095440&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-17T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
+          "id": "5a5cf437fef1d3f10d13abfd9d3a23b4",
+          "title": "2027학년도 대학수학능력시험 6월 모의평가 문제 및 정답 이의신청 심사 결과 보도...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095436&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-16T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
+          "id": "9eeb1b805d005b2852a11a9f91541e7c",
+          "title": "2027학년도 대학수학능력시험 6월 모의평가 출제방향 보도자료",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095248&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-04T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
+          "id": "f07ff5dedf3a3c37df8e4a08d48ae467",
+          "title": "2027학년도 대학수학능력시험 9월 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095440&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-17T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
+          "id": "5a5cf437fef1d3f10d13abfd9d3a23b4",
+          "title": "2027학년도 대학수학능력시험 6월 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095436&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-16T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
+          "id": "9eeb1b805d005b2852a11a9f91541e7c",
+          "title": "2027학년도 대학수학능력시험 6월 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095248&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-04T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true
+        },
+        {
           "id": "e1e919da632b29060aec85389f0cd7a7",
           "title": "교육부, 교권 강화 위한 ‘교육부 고시안’ 8월까지 신속 마련하겠다",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/24/2023072401615.html",
