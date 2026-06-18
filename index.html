@@ -295,14 +295,23 @@
   .loading { text-align: center; padding: 60px 0; color: var(--muted); font-size: .88rem; }
 
   /* 고교입시 섹션 */
-  .hs-region-tabs { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
-  .hs-rtab { border: 1px solid var(--border); background: var(--card); border-radius: 20px;
-    padding: 5px 14px; font-size: .78rem; cursor: pointer; color: var(--muted); }
-  .hs-rtab.active { background: #0f6e56; border-color: #0f6e56; color: #fff; font-weight: 600; }
-  .hs-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
-  @media (max-width: 600px) { .hs-grid { grid-template-columns: 1fr; } }
-  .hs-card { background: var(--card); border: 0.5px solid var(--border); border-radius: 10px; padding: 12px 14px; }
-  .hs-card-title { font-size: .78rem; font-weight: 600; color: var(--muted); margin-bottom: 8px; }
+  .hs-tab-bar {
+    display: flex; gap: 0; padding: 0 16px;
+    overflow-x: auto; border-bottom: 1px solid var(--border);
+    background: var(--bg); -webkit-overflow-scrolling: touch; scrollbar-width: none;
+  }
+  .hs-tab-bar::-webkit-scrollbar { display: none; }
+  .hs-rtab {
+    background: none; border: none; border-bottom: 2px solid transparent;
+    color: var(--muted); padding: 12px 18px; font-size: 0.85rem;
+    cursor: pointer; transition: all .15s; white-space: nowrap; flex-shrink: 0;
+    font-family: inherit; font-weight: 500;
+  }
+  .hs-rtab:hover { color: var(--text); }
+  .hs-rtab.active { color: #0f9b72; border-bottom-color: #0f9b72; font-weight: 700; }
+  .hs-list-header {
+    padding: 14px 16px 4px; font-size: .75rem; color: var(--muted); font-weight: 500;
+  }
   .badge-su { background: #E6F1FB; color: #0C447C; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
   .badge-hs { background: #EAF3DE; color: #27500A; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
   .badge-yi { background: #FAECE7; color: #712B13; font-size: .68rem; padding: 1px 6px; border-radius: 10px; }
@@ -389,7 +398,7 @@
   <nav class="tabs" id="tabs"></nav>
 </div>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
-<div id="hs-main" style="display:none;padding:12px 16px;"></div>
+<div id="hs-main" style="display:none;"></div>
 
 <script>
 // ── localStorage 저장소 ──────────────────────────────────────
@@ -1091,13 +1100,9 @@ function renderHSMain() {
     : '<li class="empty" style="padding:20px 0;">해당 지역 기사가 없습니다.</li>';
 
   el.innerHTML = `
-    <div class="hs-region-tabs">${regionBtns}</div>
-    <div class="hs-card" style="margin-bottom:14px;">
-      <div class="hs-card-title">최신 ${recent5.length}건</div>
-      <ul class="news-list">${recentHtml}</ul>
-    </div>
-    <div class="hs-card">
-      <div class="hs-card-title">전체 기사 <span style="font-weight:400;color:var(--muted);">${filtered.length}건</span></div>
+    <div class="hs-tab-bar">${regionBtns}</div>
+    <div class="hs-list-header">전체 ${filtered.length}건 · 최신순</div>
+    <div style="padding: 0 16px 20px;">
       <ul class="news-list">${allHtml}</ul>
     </div>
   `;
