@@ -369,16 +369,6 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "1547b2bc3b28df9d62a73e76c1add22d",
-          "title": "[2027수시] 연세대 교과 추천형, AI 모집인원 확대… 교과 100% 유지",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53175",
-          "source": "에듀진",
-          "published": "2026-06-18T12:05:59.988959+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "54e161fb861b8a6f89f47b02d5130fbc",
           "title": "대입정보 박람회, 내달 17∼18일 원광대서 개최…73개 대학 참여",
           "link": "https://n.news.naver.com/mnews/article/001/0016146296?sid=102",
@@ -469,51 +459,11 @@
           "is_new": false
         },
         {
-          "id": "0f9d8915748c69beeb52dda3de3be38b",
-          "title": "학생부종합전형, 왜 떨어졌을까? 불합격 사례로 본 평가 포인트",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53144",
-          "source": "에듀진",
-          "published": "2026-06-16T22:24:29.132975+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "16ba5288d414582ba1700d15c91afed0",
-          "title": "[2027수시] 서울대 학종 분석, 어디가 늘고 어디가 줄었나",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53164",
-          "source": "에듀진",
-          "published": "2026-06-16T22:24:29.132958+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2596746fa75bb669e0a5e08caa21eeb0",
-          "title": "“논술은 내신 4~5등급도 뒤집는다”… 단국대 논술전형이 보여준 역전의 공식",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53176",
-          "source": "에듀진",
-          "published": "2026-06-16T22:24:29.132948+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "f9263a7776d5cceb83b14041ae30b4b7",
           "title": "[에듀플러스][2027 대입 집중 분석]⑭기회균형전형 “876명 줄었다…자격 요건·전형 방식 따라 판도 달라져” - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Eb0F0Mjdid1NxZ1pEc1ZlNGFXaGVFUjEwZmxfa0lmaF9QSmphTzRYTkFBNkROWWluZmlvNFNIeERjam9uTUlQcTNJX2x1dw?oc=5",
           "source": "전자신문",
           "published": "2026-06-16T03:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "91760404aa765b469c4ccb477a153367",
-          "title": "[2027수시] 가천대 학종 분석…4등급 후반도 많아",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53153",
-          "source": "에듀진",
-          "published": "2026-06-15T18:12:52.225905+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -564,16 +514,6 @@
           "link": "https://www.ajunews.com/view/20260615092441958",
           "source": "www.ajunews.com",
           "published": "2026-06-15T00:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "4a0e06d29be4c50b7e854c51e0d03189",
-          "title": "[2027수시] 중앙대 교과전형 508명 선발.. 중앙대식 환산점수가 당락 가른다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53132",
-          "source": "에듀진",
-          "published": "2026-06-14T22:03:43.396505+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
