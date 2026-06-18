@@ -534,6 +534,7 @@ def fetch_suneung() -> list[dict]:
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(days=KEEP_DAYS)
 
+    seen_seq = set()
     items = []
     # goView('boardID','boardSeq',...) 방식 — 제목 + boardSeq + 날짜(YYYY-MM-DD) 추출
     block_re = re.compile(
@@ -542,6 +543,9 @@ def fetch_suneung() -> list[dict]:
         re.DOTALL
     )
     for seq, title, raw_date in block_re.findall(html)[:20]:
+        if seq in seen_seq:
+            continue
+        seen_seq.add(seq)
         try:
             pub_dt = datetime.strptime(raw_date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
         except ValueError:
