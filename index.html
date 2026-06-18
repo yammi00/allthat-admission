@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>올댓 입시 정보 ver.2026</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
 <style>
   :root {
     --bg: #f0f2f5;
@@ -19,7 +20,7 @@
     --radius: 10px;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  body { font-family: "Pretendard", -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
   header {
     background: #0f172a;
@@ -49,21 +50,27 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
-  /* 섹션 스위처 — 탭바 내부 pill */
-  .section-btn-tab {
-    background: none; border: none; border-radius: 6px;
-    color: rgba(255,255,255,.45); padding: 5px 12px; font-size: .78rem;
-    cursor: pointer; white-space: nowrap; flex-shrink: 0;
-    margin: 5px 2px; transition: all .15s; font-family: inherit;
+  /* 섹션 스위처 bar */
+  .section-bar {
+    background: #0f172a; padding: 0 16px;
+    display: flex; align-items: center; gap: 4px;
+    position: sticky; top: 49px; z-index: 100;
+    border-bottom: 1px solid rgba(255,255,255,.06);
   }
-  .section-btn-tab:hover { color: rgba(255,255,255,.82); background: rgba(255,255,255,.07); }
-  .section-btn-tab.active { background: #3b82f6; color: #fff; font-weight: 600; }
+  .section-btn-tab {
+    background: none; border: none; border-bottom: 3px solid transparent;
+    color: rgba(255,255,255,.45); padding: 10px 14px; font-size: .82rem;
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    transition: all .15s; font-family: inherit; font-weight: 500;
+  }
+  .section-btn-tab:hover { color: rgba(255,255,255,.82); }
+  .section-btn-tab.active { color: #fff; border-bottom-color: #3b82f6; font-weight: 700; }
   .tab-divider { width: 1px; background: rgba(255,255,255,.12); margin: 8px 4px; align-self: stretch; flex-shrink: 0; }
 
   .tabs {
     display: flex; gap: 0; padding: 0 8px;
     overflow-x: auto; border-bottom: 1px solid rgba(255,255,255,.08);
-    background: #0f172a; position: sticky; top: 87px; z-index: 99;
+    background: #0f172a; position: sticky; top: 94px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
@@ -177,7 +184,8 @@
   .dash-search-bar input::placeholder { color: var(--muted); }
   .dash-search-bar .search-icon { font-size: 1rem; color: var(--muted); }
   .dash-summary {
-    padding: 0 16px 8px; display: flex; gap: 10px; flex-wrap: wrap;
+    padding: 12px 16px 8px; display: flex; gap: 10px; flex-wrap: wrap;
+    background: #0f172a;
   }
   .dash-stat {
     background: var(--surface); border: 1px solid var(--border);
@@ -187,11 +195,8 @@
   .dash-stat span { font-size: .72rem; color: var(--muted); }
   .dashboard {
     padding: 0 16px 16px; display: grid;
-    grid-template-columns: repeat(2, 1fr); gap: 10px;
+    grid-template-columns: repeat(3, 1fr); gap: 10px;
   }
-  @media (min-width: 600px)  { .dashboard { grid-template-columns: repeat(3, 1fr); } }
-  @media (min-width: 1100px) { .dashboard { grid-template-columns: repeat(4, 1fr); } }
-  @media (min-width: 1400px) { .dashboard { grid-template-columns: repeat(6, 1fr); } }
   .dash-card {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 12px; padding: 13px; cursor: pointer;
