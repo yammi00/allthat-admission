@@ -507,11 +507,40 @@ def fetch_edu_rss(rss_url: str, source_name: str, keywords: list[str], n=20) -> 
         except Exception:
             pub_iso = datetime.now(timezone.utc).isoformat()
         uid = hashlib.md5(link.encode()).hexdigest()
+        # 유료화 출처는 본문에서 paywall 여부 확인
+        if any(ps in link for ps in PAYWALL_SOURCES):
+            if is_paywalled(link):
+                continue
         items.append({
             "id": uid, "title": title, "link": link,
             "source": source_name, "published": pub_iso, "type": "news",
         })
     return items
+
+
+PAYWALL_SOURCES = {"edujin.co.kr"}  # 본문 체크할 유료화 출처
+# 에듀진: panel-block이 display:block → 유료, display:none → 무료
+EDUJIN_PAYWALL_RE = re.compile(
+    r'class="panel\s+panel-block[^"]*"[^>]*style="[^"]*display\s*:\s*block',
+    re.IGNORECASE
+)
+# 기타 출처용 범용 유료 감지
+PAYWALL_RE = re.compile(
+    r"유료회원전용기사|유료회원만\s*열람|구독\s*후\s*이용|프리미엄\s*회원전용",
+    re.IGNORECASE
+)
+
+def is_paywalled(url: str) -> bool:
+    """유료화 출처의 기사 본문에서 paywall 여부 확인"""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=7) as r:
+            html = r.read(100000).decode("utf-8", errors="ignore")
+        if "edujin.co.kr" in url:
+            return bool(EDUJIN_PAYWALL_RE.search(html))
+        return bool(PAYWALL_RE.search(html))
+    except Exception:
+        return False  # fetch 실패 시 일단 포함
 
 
 # ── 공식 사이트 직접 수집 ──────────────────────────────────────
