@@ -1043,13 +1043,15 @@ function renderHSMain() {
         const isToday = isPublishedToday(item.published);
         const regionBadge = hsRegionBadge(item.title);
         const isRead = !!read[item.id];
-        return `<li class="news-item" id="ni-hs-${item.id}">
+        const isNoiseHS = !!getNoise()[item.id];
+        return `<li class="news-item${isNoiseHS?' deleted':''}" id="ni-hs-${item.id}">
           <div class="news-title-row">
             ${(item.is_new||isToday)?'<span class="badge-new">NEW</span>':''}
             ${regionBadge}
             <a href="${item.link}" target="_blank" rel="noopener"
                class="${isRead?'read-item':''}"
                onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
+            ${_isAdmin ? `<div class="item-actions"><button class="action-btn btn-noise${isNoiseHS?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="필터링" style="font-size:.65rem;font-weight:600;">차단</button></div>` : ''}
           </div>
           <div class="news-meta">
             <span class="badge-type news">뉴스</span>
@@ -1066,21 +1068,25 @@ function renderHSMain() {
         const isToday = isPublishedToday(item.published);
         const regionBadge = hsRegionBadge(item.title);
         const isRead = !!read[item.id];
-        return `<li class="news-item" id="ni-hs2-${item.id}">
+        const isNoiseHS2 = !!getNoise()[item.id];
+        return `<li class="news-item${isNoiseHS2?' deleted':''}" id="ni-hs2-${item.id}">
           <div class="news-title-row">
             ${(item.is_new||isToday)?'<span class="badge-new">NEW</span>':''}
             ${regionBadge}
             <a href="${item.link}" target="_blank" rel="noopener"
                class="${isRead?'read-item':''}"
                onclick="markRead('${item.id}');this.classList.add('read-item')">${item.title}</a>
+            <div class="item-actions">
+              <button class="action-btn btn-bm${getBookmarks()[item.id]?' active-bookmark':''}"
+                onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
+              ${_isAdmin ? `<button class="action-btn btn-noise${isNoiseHS2?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="필터링" style="font-size:.65rem;font-weight:600;">차단</button>` : ''}
+              <button class="action-btn" onclick="hsDeleteItem('${item.id}')" title="숨기기">✕</button>
+            </div>
           </div>
           <div class="news-meta">
             <span class="badge-type news">뉴스</span>
             <span class="source-tag">${item.source||''}</span>
             <span class="date-tag">${formatDate(item.published)}</span>
-            <button class="action-btn btn-bm${getBookmarks()[item.id]?' active-bookmark':''}"
-              onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
-            <button class="action-btn" onclick="hsDeleteItem('${item.id}')" title="숨기기">✕</button>
           </div>
         </li>`;
       }).join('')
