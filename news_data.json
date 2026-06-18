@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T03:55:30.679959+00:00",
+  "updated_at": "2026-06-18T12:20:28.827109+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -12,6 +12,16 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "c2e65c9f954bdd448631ecef4239f617",
+          "title": "수학 선택과목 고민하는 N수생들… 미적분 유지와 확률과 통계 전향 사...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109020",
+          "source": "edu.donga.com",
+          "published": "2026-06-18T07:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "89571c73c86e5806dd3577f1c544ba03",
           "title": "㈜잇올, 수능 전 마지막 9월 모의평가 전국 시행",
           "link": "https://edu.donga.com/news/articleView.html?idxno=108975",
@@ -19,7 +29,7 @@
           "published": "2026-06-18T02:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "490a7c8cda99168e49447b5172315664",
@@ -363,7 +373,17 @@
           "title": "[2027수시] 연세대 교과 추천형, AI 모집인원 확대… 교과 100% 유지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53175",
           "source": "에듀진",
-          "published": "2026-06-18T03:40:50.186315+00:00",
+          "published": "2026-06-18T12:05:59.988959+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "54e161fb861b8a6f89f47b02d5130fbc",
+          "title": "대입정보 박람회, 내달 17∼18일 원광대서 개최…73개 대학 참여",
+          "link": "https://n.news.naver.com/mnews/article/001/0016146296?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-06-18T06:03:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -376,7 +396,7 @@
           "published": "2026-06-18T03:40:48.185762+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "47213ea6cc0e88f11346b063976dd888",
@@ -633,7 +653,7 @@
           "title": "서울대·연세대·고려대, 2028학년도 대입 전형 변화…지원 전략 점검 필요 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWkRLN0xZS3Z4Uk9sSkd4MHRNdWpCZkhOdXhQZ1NMS3VlSTF6WGhaQ2FDc1UyMkxteEdVYm1TVVA2cWtlSXVsTldiT21LRmllbTlMM1Nxd1BpdlVFbjBWRFlJX3BaNDA?oc=5",
           "source": "E동아",
-          "published": "2026-06-06T03:00:00+00:00",
+          "published": "2026-06-06T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -709,20 +729,10 @@
           "is_new": false
         },
         {
-          "id": "3d476bc970ae5873a890aea91d09dc09",
-          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qUXVIZE5oQ2d5MUpvb2oyanpfRlA3clJYQ2JXTEZsVUlRbjBnNFhwb2xJeThzMzhxdWx6UWw5X2dwQWZaMGZrRmQwYzc4RUplR1hxSA?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-05-22T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "fc28279776a00ccf51d2728ddd51e669",
-          "title": "수능만 잘 봐선 안 된다…서성한, 2028 대입서 출결·학생부 반영 확대 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZHByN3hzU1NUVU9aaE9abVVETnFjY05uNFdpY19MS2kwWkQyRV9TYnEwcmQyWUcwSGwzaks4Nmk3bXVKZ1JoR3IzQ3VoYkJ6RzZROTRLRTRhQQ?oc=5",
-          "source": "뉴스1",
+          "id": "2d97a648254fb6b10a4d74ee46b0802d",
+          "title": "서성한, 2028 대입서 수시 확대하고 학생부 영향력 강화 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9INFJoVnRZRlVBNFdEUEgtSHJvdkNxNzBGSVhpMUV2M0xkNWk4ajA2Nkl1M1U4X3h2Z0RhTGNnV3BPdTkxQ3htZUpOQ29wQXRsZmdtNG90bVdhU19OZ2dkd0xBc25iQ3c1Nk83c21JZDc5OVhzVVdHeQ?oc=5",
+          "source": "네이트",
           "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -905,6 +915,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "7ba42dffff0ae60a07590d542e85a0fa",
+          "title": "[단독] 경기대 2026입결.. 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’ 전자공 미디어영상 톱3",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=615403",
+          "source": "베리타스알파",
+          "published": "2026-06-18T12:08:24.579906+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "8d2a325608ccc34ad6cb511ddefb86a2",
           "title": "서강대·성균관대·한양대, 2028 대입 전형 변화…수시 확대·정시 평가...",
@@ -1132,6 +1152,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "befa28b2150b39c7d5a336d97340f197",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.18. 16:45 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095456&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-18T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f07ff5dedf3a3c37df8e4a08d48ae467",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 시행계획 공고",
@@ -1470,6 +1501,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8aabc37576224462bd7eb6be093bd097",
+          "title": "반수 준비, 지원 전형·취약 과목에 따라 학습 전략 달라야",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/18/2026061880124.html",
+          "source": "edu.chosun.com",
+          "published": "2026-06-18T06:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "05137bf671d4f7d69c072b33d3b2cb3d",
           "title": "유니브클래스, 수시 설명회 전개...2027학년도 대입 학부모 대상",
           "link": "https://edu.donga.com/news/articleView.html?idxno=108964",
@@ -1485,6 +1526,16 @@
           "link": "https://www.lecturernews.com/news/articleView.html?idxno=204460",
           "source": "www.lecturernews.com",
           "published": "2026-06-17T23:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "0817f96534e532dd4cdd06dcad6140aa",
+          "title": "[윤한울의 입시 큐레이팅] 2027·2028 의대 입시 지형도: 지역의사제와 수능 최저가 쏘아 올린 대입 생태계의 재편 - E동아",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eV9SWElsWDk2a0x0anNSMUFpRllHZG10b2h6X0JhNkU3WV9GUkg0QWVHM0hQQlJMRG5BaDRkOFRtbTRYMC0xV2owbnp4eGMwc0RkSTBBTUxyTDJPc2ctQjJCdjNmYlk?oc=5",
+          "source": "E동아",
+          "published": "2026-06-17T05:56:55+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1700,16 +1751,6 @@
           "is_new": false
         },
         {
-          "id": "ab6700bff425f88135e4503b470e5f9f",
-          "title": "[유성룡의 입시포인트] 경찰대학 2027학년도 입학전형 가이드 - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdTE5NERVZ0YzcjlVWWk3Mkx6OXRrLWxwY3F2ZnJvRmtaZjdNaVJLbFNuMExEcHcyTGpCRlZBZjVwOUwwYXpqbEVyMjBKYlJQQW5qajEwbUwwVWlpTFlGckxkNzFTMTVvZ1hCaHUwWQ?oc=5",
-          "source": "조선에듀",
-          "published": "2026-04-28T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "a5fa23c0733e3f57f5b6fb26c94a885e",
           "title": "비중 커진 논술…교과 개념으로 돌파하라!",
           "link": "https://www.naeil.com/news/read/586302?ref=naver",
@@ -1744,16 +1785,6 @@
           "title": "[단독] 2027 서울대 입학전형 공개.. 요강 앞선 대입전형 안내 ‘수요자 친화’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGZwVVN1a1JHZVRsQlJ3MjZkN0lVRTFEMjdndjZGT0toSjBOeGJkSDE1blFMNkM0SFdzbVN2aXpiaEs4dENlaXFFZTdVQmsyS1VkS0U0SUFVNHdmMTc2d1ZiVmRfRWoxMUs5UQ?oc=5",
           "source": "베리타스알파",
-          "published": "2026-04-03T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ac26255f2b667e94c730d71031f275cb",
-          "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 비즈월드",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZEFERWNZTk9Uc09zU1NuNXBkOFRUVTJGUHNWcVU5OUxSa0x3Zk9UZFU1OFNkVVFMUE1rUklXd2V6ZERWbUhYb1FwY29HdG5XU2ZpcFVZYjJJYU5tYkI1Q1NMUVFvMXE3X2JV?oc=5",
-          "source": "비즈월드",
           "published": "2026-04-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
