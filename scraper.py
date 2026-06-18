@@ -656,15 +656,15 @@ def main():
             raw.extend(fetch_suneung())
             raw.extend(fetch_korea_kr_press())
 
-        for q in cat.get("google", []):
-            raw.extend(fetch_google_news(q))
-        # 네이버 뉴스 (블로그·카페 없음)
-        for q in cat.get("naver_news", []):
-            raw.extend(fetch_naver(q, "news"))
-        # 입시 전문 언론 RSS
-        rss_kws = cat.get("rss_keywords", [])
-        for rss_url, src_name in EDU_RSS_FEEDS:
-            raw.extend(fetch_edu_rss(rss_url, src_name, rss_kws))
+        # policy 카테고리는 공식 사이트만 — 구글/네이버/RSS 수집 없음
+        if cat_id != 'policy':
+            for q in cat.get("google", []):
+                raw.extend(fetch_google_news(q))
+            for q in cat.get("naver_news", []):
+                raw.extend(fetch_naver(q, "news"))
+            rss_kws = cat.get("rss_keywords", [])
+            for rss_url, src_name in EDU_RSS_FEEDS:
+                raw.extend(fetch_edu_rss(rss_url, src_name, rss_kws))
 
         raw.sort(key=lambda x: x["published"], reverse=True)
         fresh = clean(raw, cat_id=cat["id"])
