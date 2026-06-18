@@ -55,7 +55,6 @@
     background: #0f172a; padding: 0 16px;
     display: flex; align-items: center; gap: 4px;
     position: sticky; top: 49px; z-index: 100;
-    border-bottom: 1px solid rgba(255,255,255,.06);
   }
   .section-btn-tab {
     background: none; border: none; border-bottom: 3px solid transparent;
@@ -69,7 +68,7 @@
 
   .tabs {
     display: flex; gap: 0; padding: 0 8px;
-    overflow-x: auto; border-bottom: 1px solid rgba(255,255,255,.08);
+    overflow-x: auto; border-bottom: none;
     background: #0f172a; position: sticky; top: 94px; z-index: 99;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
@@ -185,7 +184,6 @@
   .dash-search-bar .search-icon { font-size: 1rem; color: var(--muted); }
   .dash-summary {
     padding: 12px 16px 8px; display: flex; gap: 10px; flex-wrap: wrap;
-    background: #0f172a;
   }
   .dash-stat {
     background: var(--surface); border: 1px solid var(--border);
