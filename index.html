@@ -22,12 +22,14 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: "Pretendard", -apple-system, "Malgun Gothic", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
+  .nav-wrap {
+    position: sticky; top: 0; z-index: 100;
+    background: #0f172a;
+  }
   header {
     background: #0f172a;
-    box-shadow: 0 1px 0 rgba(255,255,255,.06);
     padding: 10px 18px;
     display: flex; align-items: center; justify-content: space-between;
-    position: sticky; top: 0; z-index: 100;
     gap: 8px;
   }
   .header-logo {
@@ -54,7 +56,6 @@
   .section-bar {
     background: #0f172a; padding: 0 16px;
     display: flex; align-items: center; gap: 4px;
-    position: sticky; top: 49px; z-index: 100;
   }
   .section-btn-tab {
     background: none; border: none; border-bottom: 3px solid transparent;
@@ -68,8 +69,8 @@
 
   .tabs {
     display: flex; gap: 0; padding: 0 8px;
-    overflow-x: auto; border-bottom: 3px solid var(--bg);
-    background: #0f172a; position: sticky; top: 94px; z-index: 99;
+    overflow-x: auto; border-bottom: none;
+    background: #0f172a;
     -webkit-overflow-scrolling: touch; scrollbar-width: none;
   }
   .tabs::-webkit-scrollbar { display: none; }
@@ -361,18 +362,6 @@
 </head>
 <body>
 
-<header>
-  <div class="header-logo">
-<div class="header-logo-text">
-      <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
-    </div>
-  </div>
-  <div style="display:flex;align-items:center;gap:8px;">
-    <span id="update-time"></span>
-    <button class="refresh-btn" onclick="manualRefresh()">↻ 새로고침</button>
-  </div>
-</header>
-
 <!-- 검색 오버레이 -->
 <div class="search-overlay" id="search-overlay" onclick="closeSearchOnBg(event)">
   <div class="search-box">
@@ -389,11 +378,24 @@
     </div>
   </div>
 </div>
-<div class="section-bar" id="section-bar">
-  <button class="section-btn-tab active" onclick="switchSection('daip',this)">대입</button>
-  <button class="section-btn-tab" onclick="switchSection('highschool',this)">고교입시</button>
+<div class="nav-wrap">
+  <header>
+    <div class="header-logo">
+      <div class="header-logo-text">
+        <span class="brand"><em>올댓</em> 입시정보 <small style="font-size:.6em;opacity:.7;font-weight:400;">ver.2026</small></span>
+      </div>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px;">
+      <span id="update-time"></span>
+      <button class="refresh-btn" onclick="manualRefresh()">↻ 새로고침</button>
+    </div>
+  </header>
+  <div class="section-bar" id="section-bar">
+    <button class="section-btn-tab active" onclick="switchSection('daip',this)">대입</button>
+    <button class="section-btn-tab" onclick="switchSection('highschool',this)">고교입시</button>
+  </div>
+  <nav class="tabs" id="tabs"></nav>
 </div>
-<nav class="tabs" id="tabs"></nav>
 <main id="main"><div class="loading">뉴스를 불러오는 중…</div></main>
 <div id="hs-main" style="display:none;padding:12px 16px;"></div>
 
