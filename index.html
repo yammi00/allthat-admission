@@ -38,7 +38,7 @@
     font-size: 1.1rem; flex-shrink: 0;
   }
   .header-logo-text { display: flex; flex-direction: column; line-height: 1.2; }
-  .header-logo-text .brand { font-size: .95rem; font-weight: 800; color: #fff; letter-spacing: -0.3px; }
+  .header-logo-text .brand { font-size: .95rem; font-weight: 800; color: #fff; letter-spacing: -0.3px; white-space: nowrap; }
   .header-logo-text .brand em { color: #93c5fd; font-style: normal; }
   .header-logo-text .sub { font-size: .62rem; color: rgba(255,255,255,.65); letter-spacing: 0.3px; font-weight: 400; }
   #update-time { font-size: 0.65rem; color: rgba(255,255,255,.6); white-space: nowrap; }
@@ -49,20 +49,16 @@
   }
   .refresh-btn:hover { background: rgba(255,255,255,.22); color: #fff; }
 
-  /* 섹션 스위처 — 탭 위 별도 행 */
-  .section-bar {
-    background: #0f172a; padding: 8px 16px 0;
-    display: flex; gap: 4px;
-    position: sticky; top: 49px; z-index: 100;
-  }
+  /* 섹션 스위처 — 탭바 내부 pill */
   .section-btn-tab {
-    background: none; border: none; border-bottom: 2px solid transparent;
-    color: rgba(255,255,255,.4); padding: 6px 14px; font-size: .85rem;
-    cursor: pointer; white-space: nowrap; font-weight: 500;
-    transition: all .15s; font-family: inherit; border-radius: 0;
+    background: none; border: none; border-radius: 6px;
+    color: rgba(255,255,255,.45); padding: 5px 12px; font-size: .78rem;
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    margin: 5px 2px; transition: all .15s; font-family: inherit;
   }
-  .section-btn-tab:hover { color: rgba(255,255,255,.8); }
-  .section-btn-tab.active { color: #fff; border-bottom-color: #3b82f6; font-weight: 700; }
+  .section-btn-tab:hover { color: rgba(255,255,255,.82); background: rgba(255,255,255,.07); }
+  .section-btn-tab.active { background: #3b82f6; color: #fff; font-weight: 600; }
+  .tab-divider { width: 1px; background: rgba(255,255,255,.12); margin: 8px 4px; align-self: stretch; flex-shrink: 0; }
 
   .tabs {
     display: flex; gap: 0; padding: 0 8px;
