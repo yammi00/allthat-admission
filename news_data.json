@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T21:47:52.327012+00:00",
+  "updated_at": "2026-06-18T02:17:41.034472+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -11,6 +11,26 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-06-18T01:59:55.727103+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "490a7c8cda99168e49447b5172315664",
+          "title": "반수 도전한다면 작년 수능부터 풀어보자…유형별 전략은",
+          "link": "https://n.news.naver.com/mnews/article/003/0014013137?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-06-18T00:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "915f5e4a7565996943a33d7635f0b3a4",
           "title": "'불수능' 이후 첫 수능, 올해 '물영어' 될까… 국어·수학 변별력, N수생...",
@@ -212,16 +232,6 @@
           "is_new": false
         },
         {
-          "id": "73782df835d1909147a0ab354d84f494",
-          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
-          "source": "위키트리",
-          "published": "2026-06-04T08:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "ad6a10d08cd6200d27a413d2140485b0",
           "title": "종로학원 \"6월 모평 국어·수학 1등급 컷 상승할 듯…영어 1등급 3.5% 안팎 추정\" - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0QTFZV2t4Q0tLRlNIQzIyaFVGeHdva191NEdGRlNxeHJWdEtkRGNET3VOZ21rTG5RQVJDMVFrbkNZbUEyOHo1aVB6SXJ0Z21kdTFtekJwbUN5NXFj?oc=5",
@@ -256,6 +266,16 @@
           "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
           "source": "뉴시스",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -353,10 +373,20 @@
           "title": "[2027수시] 연세대 교과 추천형, AI 모집인원 확대… 교과 100% 유지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53175",
           "source": "에듀진",
-          "published": "2026-06-17T21:33:09.460683+00:00",
+          "published": "2026-06-18T02:02:24.259723+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3e561021ee1d16334401885127db3552",
+          "title": "[2027수시] 가천대 논술전형 분석.. AI·반도체 확대, 의예과 577.17대1 '압도적'",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53156",
+          "source": "에듀진",
+          "published": "2026-06-18T02:02:24.259697+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "47213ea6cc0e88f11346b063976dd888",
@@ -1107,7 +1137,7 @@
           "title": "교육부, 교권 강화 위한 ‘교육부 고시안’ 8월까지 신속 마련하겠다",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/24/2023072401615.html",
           "source": "조선에듀",
-          "published": "2026-06-17T21:38:07.987793+00:00",
+          "published": "2026-06-18T02:07:50.537641+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1324,6 +1354,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "0396d72fe02c1a6bc5b97c5d47a840ce",
+          "title": "목동씨사이트학원, 2027 약술형 논술 7월 설명회 개최",
+          "link": "https://www.hinews.co.kr/view.php?ud=2026061810225116786cf2d78c68_48",
+          "source": "www.hinews.co.kr",
+          "published": "2026-06-18T01:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "9c7f7a30e23e3c2e95bf2d0b6777c00a",
           "title": "대성학원, 2027학년도 수시 논술전형 분석... 메디컬 계열·대학별 전형...",
@@ -1555,6 +1595,16 @@
           "is_new": false
         },
         {
+          "id": "6b538300e3e7fb58c1b72d0e25a63d21",
+          "title": "국민대, '2027학년도 약술형 논술'... 인문 국어 8·자연 수학 8문항 출제 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDOXY4NS1EYlJHaEt4Z2ZXUGkyR202bmZURFpEbks4TWY3OERrLTloU0FUdzM3WDlOTXptUHZXWWdrVnV0WU8yZE40UmJ1cjBhWFN5WnZieTM4NWg0dlg2c0dXQVNCQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-15T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "7ce714e0fdae811f390cdfe52e4b985f",
           "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
@@ -1642,6 +1692,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "05137bf671d4f7d69c072b33d3b2cb3d",
+          "title": "유니브클래스, 수시 설명회 전개...2027학년도 대입 학부모 대상",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=108964",
+          "source": "edu.donga.com",
+          "published": "2026-06-18T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "83a01e713a26033edeccfc0d52c8d2ec",
+          "title": "유니브클래스, 2027학년도 대입 준비 학부모 대상 수시설명회 진행",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=204460",
+          "source": "www.lecturernews.com",
+          "published": "2026-06-17T23:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "11f189311d5bed5e1cc32361f3e1d7e8",
           "title": "건국대, 2027학년도 모의논술 추가모집 실시... 준비 전략 챙겨야 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNGc5UkdSUDktZnlvOXZVVkR5S29ZUUFSaTR0T3NEQWJrRF9JWFZ5ckRNbmYzQ29yVDRlQnRNbm9zSlNiS1dxS1B5b1JxTV9qUmVzRkJ0LUFqTGc5UURwUW54Sm1DUQ?oc=5",
@@ -1717,6 +1787,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14M1RrTDdtSWdUNFhEZTZVVHdMWDRqYU9LSVgyOGFPYWlqekRLVV9mVHp6Z09YVjlEcHNQV09fUDZNWEZXcElYZ0MtQlA5RUNVWUpEVk5ZLWNCbFRXenhIZGYtUTE4dw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-06-06T14:32:19+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "2ce5a1678e96ad0e00cbb5a493aff11c",
+          "title": "연세대학교 2027학년도 수시모집 요강 공개… 인공지능융합대학 개편·첨단약과학과 신설 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdEpyV3VXTVNWcVk0b2NUd1c0dU4xUzhjaWF0VUhseTFiQUxYeFpnSjNhMm5UelBLd3JRcmZrSjdhZnJySmJOZHJrczdnaEl5enQwRFBCZWRiSllPRUxJVmt0cUhiUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-06-05T04:40:37+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1892,26 +1972,6 @@
           "is_new": false
         },
         {
-          "id": "ac26255f2b667e94c730d71031f275cb",
-          "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 비즈월드",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZEFERWNZTk9Uc09zU1NuNXBkOFRUVTJGUHNWcVU5OUxSa0x3Zk9UZFU1OFNkVVFMUE1rUklXd2V6ZERWbUhYb1FwY29HdG5XU2ZpcFVZYjJJYU5tYkI1Q1NMUVFvMXE3X2JV?oc=5",
-          "source": "비즈월드",
-          "published": "2026-04-03T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "87493c9b9b9866da196cfd1c2685a316",
-          "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -2034,36 +2094,6 @@
           "link": "https://n.news.naver.com/mnews/article/022/0004129416?sid=102",
           "source": "www.segye.com",
           "published": "2026-05-19T21:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a71ae5a6334ff5e56e535c1bd53d1a42",
-          "title": "[영어 교육, 현장 전문가의 시선] “화석에서 생명력으로”…2028 대입과...",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/05/15/2026051580015.html",
-          "source": "edu.chosun.com",
-          "published": "2026-05-14T23:54:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "1a9c3296e210c26a7777f140127b433a",
-          "title": "“5월 18일부터 일반전형 접수”…경찰대학, 2027학년도 신입생 50명 선...",
-          "link": "https://www.gosiweek.com/article/1065577236921314",
-          "source": "www.gosiweek.com",
-          "published": "2026-05-13T23:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "94cc8c16305b1440cad9c7e3fb39f9a5",
-          "title": "[Who Is ?] 현정은 현대그룹 회장",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436513",
-          "source": "www.businesspost.co.kr",
-          "published": "2026-04-28T22:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
