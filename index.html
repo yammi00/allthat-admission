@@ -228,20 +228,13 @@
 
   .section { display: none; }
   .section.active { display: block; padding: 0 16px; }
-  @media (min-width: 1100px) {
-    .section.active { padding: 0 16px; }
-    .news-list { column-count: 2; column-gap: 10px; }
-    .news-item { break-inside: avoid; }
-  }
-  @media (min-width: 1600px) {
-    .news-list { column-count: 3; }
-  }
+  .news-list { column-count: 1; }
 
   /* 뉴스 아이템 */
   .news-list { list-style: none; }
   .news-item {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 14px 16px; margin-bottom: 10px;
+    border-radius: var(--radius); padding: 14px 16px; margin-bottom: 14px;
     transition: border-color .15s; position: relative;
   }
   .news-item:hover { border-color: var(--accent); }
