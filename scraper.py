@@ -531,31 +531,41 @@ def fetch_suneung() -> list[dict]:
         print(f"  평가원 수집 오류: {e}")
         return []
 
+    now_utc = datetime.now(timezone.utc)
+    cutoff = now_utc - timedelta(days=KEEP_DAYS)
+
     items = []
-    # td 안의 링크 전체 추출
-    rows = re.findall(
-        r'<a[^>]+href="(/boardCnts/view\.do\?boardID=1500229[^"]+)"[^>]*>\s*(.*?)\s*</a>',
-        html, re.DOTALL
+    # goView('boardID','boardSeq',...) 방식 — 제목 + boardSeq + 날짜(YYYY-MM-DD) 추출
+    block_re = re.compile(
+        r"goView\('1500229','(\d+)'[^)]*\)[^>]*>\s*(.*?)\s*(?:<img[^>]*>)?\s*</a>"
+        r".*?(\d{4}-\d{2}-\d{2})",
+        re.DOTALL
     )
-    for href, title in rows[:20]:
-        title = re.sub(r'<[^>]+>', '', title).strip()
-        title = re.sub(r'\s+', ' ', title).strip()
-        if len(title) < 5 or title.startswith('-') or 'suneung.re.kr' in title:
+    for seq, title, raw_date in block_re.findall(html)[:20]:
+        try:
+            pub_dt = datetime.strptime(raw_date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
             continue
-        full_url = "https://www.suneung.re.kr" + href
-        uid = hashlib.md5(full_url.encode()).hexdigest()
+        if pub_dt < cutoff or pub_dt < DATE_FROM:
+            continue
+        title = re.sub(r'<[^>]+>', '', title).strip()
+        title = re.sub(r'&nbsp;|\s+', ' ', title).strip()
+        if len(title) < 5:
+            continue
+        full_url = f"https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq={seq}&lev=0&m=0301&s=suneung"
+        uid = hashlib.md5(seq.encode()).hexdigest()
         items.append({
             "id": uid, "title": title, "link": full_url,
             "source": "한국교육과정평가원",
-            "published": datetime.now(timezone.utc).isoformat(),
+            "published": pub_dt.isoformat(),
             "type": "official", "no_expire": True,
         })
     return items
 
 
-def fetch_korea_kr(keyword: str, n=10) -> list[dict]:
-    """정책브리핑 키워드 검색"""
-    url = f"https://www.korea.kr/briefing/pressReleaseList.do?srchWord={urllib.parse.quote(keyword)}"
+def fetch_korea_kr_press(n=20) -> list[dict]:
+    """정책브리핑 보도자료 목록 직접 수집 — 실제 게시일 파싱, 30일 초과 기사 제외"""
+    url = "https://www.korea.kr/briefing/pressReleaseList.do"
     headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
     try:
         req = urllib.request.Request(url, headers=headers)
@@ -565,41 +575,43 @@ def fetch_korea_kr(keyword: str, n=10) -> list[dict]:
         print(f"  정책브리핑 수집 오류: {e}")
         return []
 
-    items = []
-    links = re.findall(
-        r'<a[^>]+href="(/briefing/pressReleaseView\.do\?newsId=(\d+)[^"]*)"[^>]*>(.*?)</a>',
-        html, re.DOTALL
-    )
-    # 수능·대입·고등부 관련 키워드 (이 중 하나 있어야 통과)
     POLICY_KEEP_RE = re.compile(
         r'수능|대입|대학수학능력|수시|정시|교육과정|고등학교|고등부|'
-        r'학력평가|모의평가|출제|입시|수학능력|EBS|내신|논술|수학 교육|'
-        r'사교육|킬러|입학전형|대학입학', re.IGNORECASE
+        r'학력평가|모의평가|출제|입시|수학능력|EBS|내신|논술|수학\s*교육|'
+        r'사교육|킬러|입학전형|대학입학|학사|교육부', re.IGNORECASE
     )
-    # 완전히 무관한 내용 차단
     POLICY_BLOCK_RE = re.compile(
-        r'베트남|TOPIK|한국어능력|직업훈련|내일배움|발달장애|인공지능\s*앱|'
-        r'AI\s*앱|크루즈|청소년증|해수부|농식품|청렴|캠페인|포럼|간담회|'
-        r'초중등\s*이외|특수학교(?!.*수능)|유아|어린이|돌봄', re.IGNORECASE
+        r'베트남|TOPIK|한국어능력|직업훈련|내일배움|발달장애|크루즈|청소년증|'
+        r'해수부|농식품|청렴|유치원|어린이|돌봄|마이스터고|거점국립|지방대학|'
+        r'사립대학\s*육성|영어마을|장학재단', re.IGNORECASE
     )
+    # korea.kr 목록: <strong>제목</strong> + <span class="source"><span>YYYY.MM.DD</span>
+    block_re = re.compile(
+        r'pressReleaseView\.do\?newsId=(\d+)[^"]*"[^>]*>.*?'
+        r'<strong>(.*?)</strong>.*?'
+        r'class="source">\s*<span>(\d{4}\.\d{2}\.\d{2})</span>',
+        re.DOTALL
+    )
+    now_utc = datetime.now(timezone.utc)
+    cutoff = now_utc - timedelta(days=KEEP_DAYS)
 
-    seen_nid = set()   # newsId 기준 중복 방지
-    seen_title = set() # 제목 기준 중복 방지
-    for href, nid, title in links:
-        title = re.sub(r'<[^>]+>', '', title).strip()
+    seen_nid, seen_title, items = set(), set(), []
+    for nid, raw_title, raw_date in block_re.findall(html):
+        try:
+            pub_dt = datetime.strptime(raw_date, "%Y.%m.%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+        if pub_dt < cutoff or pub_dt < DATE_FROM:
+            continue
+        title = re.sub(r'<[^>]+>', '', raw_title).strip()
         title = re.sub(r'\s+', ' ', title).strip()
-        # 첫 문장만 (마침표·줄바꿈 기준 자르기)
         title = re.split(r'[\.…\n□]', title)[0].strip()
-        # 본문 내용이 붙어있는 경우 제거 (교육부(장관..., 한국교육과정평가원... 이후 자르기)
-        title = re.split(r'\s+교육부\(|\s+한국교육과정', title)[0].strip()
-        title = title[:55].strip()  # 최대 55자
+        title = title[:70].strip()
         if len(title) < 5:
             continue
-        # newsId 또는 제목 중복 제거
-        title_key = re.sub(r'\s+', '', title)  # 공백 제거 후 비교
+        title_key = re.sub(r'\s+', '', title)
         if nid in seen_nid or title_key in seen_title:
             continue
-        # 관련 없는 정책 기사 차단
         if not POLICY_KEEP_RE.search(title):
             continue
         if POLICY_BLOCK_RE.search(title):
@@ -607,11 +619,11 @@ def fetch_korea_kr(keyword: str, n=10) -> list[dict]:
         seen_nid.add(nid)
         seen_title.add(title_key)
         full_url = f"https://www.korea.kr/briefing/pressReleaseView.do?newsId={nid}"
-        uid = hashlib.md5(nid.encode()).hexdigest()  # newsId 기준 uid (안정적)
+        uid = hashlib.md5(nid.encode()).hexdigest()
         items.append({
             "id": uid, "title": title, "link": full_url,
             "source": "정책브리핑(교육부)",
-            "published": datetime.now(timezone.utc).isoformat(),
+            "published": pub_dt.isoformat(),
             "type": "official", "no_expire": True,
         })
         if len(items) >= n:
@@ -643,9 +655,7 @@ def main():
         if cat.get("official"):
             print(f"  [{cat['name']}] 공식 사이트 수집 중...")
             raw.extend(fetch_suneung())
-            raw.extend(fetch_korea_kr("수능 수학"))
-            raw.extend(fetch_korea_kr("교육과정 수학"))
-            raw.extend(fetch_korea_kr("대입 수학"))
+            raw.extend(fetch_korea_kr_press())
 
         for q in cat.get("google", []):
             raw.extend(fetch_google_news(q))
