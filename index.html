@@ -852,7 +852,7 @@ function renderDashboard() {
   </div>
   <div class="dashboard" id="dash-grid">`;
 
-  cats.forEach(c => {
+  cats.filter(c => c.id !== 'highschool').forEach(c => {
     const visible = getVisibleItems(c.items);
     // pinned 우선 → 당일 NEW → is_new → 최신순
     const sorted = [...visible].sort((a, b) => {
