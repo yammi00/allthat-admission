@@ -1014,7 +1014,8 @@ function switchSection(section, btn) {
     hsEl.style.display   = 'none';
     if (window._data) {
       renderTabs(window._data.categories);
-      showSection('home', window._data.categories);
+      const homeBtn = document.querySelector('.tab-btn');
+      switchTab('home', homeBtn);
     }
   } else {
     daipEl.style.display = 'none';
