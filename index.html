@@ -1012,12 +1012,16 @@ function switchSection(section, btn) {
   if (section === 'daip') {
     daipEl.style.display = '';
     hsEl.style.display   = 'none';
+    if (window._data) {
+      renderTabs(window._data.categories);
+      showSection('home', window._data.categories);
+    }
   } else {
     daipEl.style.display = 'none';
     hsEl.style.display   = '';
     renderHSMain();
+    if (window._data) renderTabs(window._data.categories);
   }
-  if (window._data) renderTabs(window._data.categories);
 }
 
 function getHSItems() {
