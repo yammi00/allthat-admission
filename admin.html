@@ -119,6 +119,18 @@ tr.deleted td { opacity: 0.35; text-decoration: line-through; }
   </div>
 </header>
 
+<!-- 섹션 탭 -->
+<div style="background:#fff;border-bottom:2px solid #e2e8f0;padding:0 24px;display:flex;gap:0;">
+  <button id="tab-daip" onclick="switchAdminSection('daip')"
+    style="padding:12px 20px;border:none;background:none;cursor:pointer;font-size:.88rem;font-weight:700;color:#3b82f6;border-bottom:2px solid #3b82f6;margin-bottom:-2px;font-family:inherit;">
+    🎓 대학입시
+  </button>
+  <button id="tab-highschool" onclick="switchAdminSection('highschool')"
+    style="padding:12px 20px;border:none;background:none;cursor:pointer;font-size:.88rem;font-weight:600;color:#94a3b8;border-bottom:2px solid transparent;margin-bottom:-2px;font-family:inherit;">
+    🏫 고교입시
+  </button>
+</div>
+
 <div class="toolbar">
   <input type="text" id="search" placeholder="제목 / 출처 검색..." oninput="renderTable()">
   <select id="cat-filter" onchange="renderTable()">
@@ -134,7 +146,7 @@ tr.deleted td { opacity: 0.35; text-decoration: line-through; }
 
 <div class="noise-section">
   <label>출처 차단</label>
-  <input type="text" id="src-input" placeholder="예: www.sedaily.com" onkeydown="if(e.key==='Enter')addNoise('source')">
+  <input type="text" id="src-input" placeholder="예: www.sedaily.com" onkeydown="if(event.key==='Enter')addNoise('source')">
   <button class="btn btn-ghost" onclick="addNoise('source')" style="padding:6px 12px;">추가</button>
   <label style="margin-left:8px;">키워드 차단</label>
   <input type="text" id="kw-input" placeholder="예: 학원 설명회" onkeydown="if(event.key==='Enter')addNoise('keyword')">
@@ -176,6 +188,34 @@ const API = 'http://localhost:3457';
 let allArticles = [];
 let deletedIds = new Set();
 let changeCount = 0;
+let currentSection = 'daip'; // 현재 선택된 섹션
+
+// 고교입시 카테고리 id
+const HS_CATS = new Set(['highschool']);
+
+function switchAdminSection(section) {
+  currentSection = section;
+  // 탭 스타일
+  ['daip','highschool'].forEach(s => {
+    const btn = document.getElementById(`tab-${s}`);
+    const active = s === section;
+    btn.style.color = active ? '#3b82f6' : '#94a3b8';
+    btn.style.fontWeight = active ? '700' : '600';
+    btn.style.borderBottom = active ? '2px solid #3b82f6' : '2px solid transparent';
+  });
+  // 카테고리 필터 초기화
+  const sel = document.getElementById('cat-filter');
+  sel.innerHTML = '<option value="">전체 카테고리</option>';
+  const sectionCats = allArticles.filter(a =>
+    section === 'highschool' ? HS_CATS.has(a.cat_id) : !HS_CATS.has(a.cat_id)
+  );
+  [...new Map(sectionCats.map(a => [a.cat_id, a.cat_name])).entries()].forEach(([id, name]) => {
+    sel.innerHTML += `<option value="${id}">${name}</option>`;
+  });
+  // noise 칩 갱신
+  fetch(`${API}/api/noise`).then(r => r.json()).then(renderNoiseChips);
+  renderTable();
+}
 
 async function load() {
   try {
@@ -192,9 +232,9 @@ async function load() {
     // 카테고리 목록 저장 (이동용)
     window.allCats = [...new Map(allArticles.map(a => [a.cat_id, a.cat_name])).entries()];
 
-    // 카테고리 필터 옵션
+    // 초기 섹션(대학입시) 기준으로 카테고리 필터 세팅
     const sel = document.getElementById('cat-filter');
-    window.allCats.forEach(([id, name]) => {
+    window.allCats.filter(([id]) => !HS_CATS.has(id)).forEach(([id, name]) => {
       sel.innerHTML += `<option value="${id}">${name}</option>`;
     });
 
@@ -210,27 +250,28 @@ async function load() {
 
 function renderNoiseChips(nData) {
   const el = document.getElementById('noise-chips');
+  const sec = nData[currentSection] || {};
   let html = '';
-  (nData.sources || []).forEach(s => {
+  (sec.sources || []).forEach(s => {
     html += `<span class="chip source">🚫 ${s}
       <button onclick="removeNoise('source','${s.replace(/'/g,"\\'")}')" title="차단 해제"
         style="background:none;border:none;cursor:pointer;color:#991b1b;font-size:.85rem;margin-left:2px;padding:0 2px;line-height:1;">✕</button>
     </span>`;
   });
-  (nData.title_keywords || []).forEach(k => {
+  (sec.title_keywords || []).forEach(k => {
     html += `<span class="chip">🔑 ${k}
       <button onclick="removeNoise('keyword','${k.replace(/'/g,"\\'")}')" title="차단 해제"
         style="background:none;border:none;cursor:pointer;color:#92400e;font-size:.85rem;margin-left:2px;padding:0 2px;line-height:1;">✕</button>
     </span>`;
   });
-  el.innerHTML = html || '<span style="font-size:0.75rem;color:#94a3b8;">차단 목록 없음</span>';
+  el.innerHTML = html || '<span style="font-size:0.75rem;color:#94a3b8;">이 섹션의 차단 목록이 없습니다.</span>';
 }
 
 async function removeNoise(type, val) {
   if (!confirm(`"${val}" 차단을 해제하시겠습니까?`)) return;
   const res = await fetch(`${API}/api/noise/${type}/delete`, {
     method: 'POST', headers: {'Content-Type':'application/json'},
-    body: JSON.stringify({value: val})
+    body: JSON.stringify({value: val, section: currentSection})
   });
   if (res.ok) {
     changeCount++;
@@ -247,6 +288,10 @@ function renderTable() {
   const typeF = document.getElementById('type-filter').value;
 
   let filtered = allArticles.filter(a => {
+    // 현재 섹션 기준 필터
+    const inHS = HS_CATS.has(a.cat_id);
+    if (currentSection === 'highschool' && !inHS) return false;
+    if (currentSection === 'daip' && inHS) return false;
     if (catF && a.cat_id !== catF) return false;
     if (typeF && a.type !== typeF) return false;
     if (q && !a.title.toLowerCase().includes(q) && !a.source.toLowerCase().includes(q)) return false;
@@ -348,10 +393,10 @@ async function blockSource(source) {
     deletedIds.add(a.id);
   }
 
-  // noise_patterns에 추가
+  // noise_patterns에 추가 (현재 섹션에만)
   await fetch(`${API}/api/noise/source`, {
     method: 'POST', headers: {'Content-Type':'application/json'},
-    body: JSON.stringify({value: source})
+    body: JSON.stringify({value: source, section: currentSection})
   });
 
   changeCount += toDelete.length;
@@ -371,7 +416,7 @@ async function addNoise(type) {
 
   const res = await fetch(`${API}/api/noise/${type}`, {
     method: 'POST', headers: {'Content-Type':'application/json'},
-    body: JSON.stringify({value: val})
+    body: JSON.stringify({value: val, section: currentSection})
   });
   if (res.ok) {
     document.getElementById(inputId).value = '';

@@ -120,30 +120,34 @@ class AdminHandler(BaseHTTPRequestHandler):
         length = int(self.headers.get("Content-Length", 0))
         body = json.loads(self.rfile.read(length)) if length else {}
 
-        # POST /api/noise/source  {"value": "출처명"}
+        # POST /api/noise/source  {"value": "출처명", "section": "daip"}
         if path == "/api/noise/source":
             val = body.get("value", "").strip()
+            section = body.get("section", "daip")
             if not val:
                 self.send_json(400, {"error": "value required"})
                 return
             noise = load_noise()
-            if val not in noise.get("sources", []):
-                noise.setdefault("sources", []).append(val)
+            noise.setdefault(section, {}).setdefault("sources", [])
+            if val not in noise[section]["sources"]:
+                noise[section]["sources"].append(val)
                 save_noise(noise)
-            self.send_json(200, {"added": val})
+            self.send_json(200, {"added": val, "section": section})
             return
 
-        # POST /api/noise/keyword  {"value": "키워드"}
+        # POST /api/noise/keyword  {"value": "키워드", "section": "daip"}
         if path == "/api/noise/keyword":
             val = body.get("value", "").strip()
+            section = body.get("section", "daip")
             if not val:
                 self.send_json(400, {"error": "value required"})
                 return
             noise = load_noise()
-            if val not in noise.get("keywords", []):
-                noise.setdefault("keywords", []).append(val)
+            noise.setdefault(section, {}).setdefault("title_keywords", [])
+            if val not in noise[section]["title_keywords"]:
+                noise[section]["title_keywords"].append(val)
                 save_noise(noise)
-            self.send_json(200, {"added": val})
+            self.send_json(200, {"added": val, "section": section})
             return
 
         # POST /api/articles/<id>/move  {"cat_id": "exam"}
@@ -187,19 +191,23 @@ class AdminHandler(BaseHTTPRequestHandler):
         # POST /api/noise/source/delete  {"value": "출처명"}
         if path == "/api/noise/source/delete":
             val = body.get("value", "").strip()
+            section = body.get("section", "daip")
             noise = load_noise()
-            noise["sources"] = [s for s in noise.get("sources", []) if s != val]
+            if section in noise:
+                noise[section]["sources"] = [s for s in noise[section].get("sources", []) if s != val]
             save_noise(noise)
-            self.send_json(200, {"removed": val})
+            self.send_json(200, {"removed": val, "section": section})
             return
 
-        # POST /api/noise/keyword/delete  {"value": "키워드"}
+        # POST /api/noise/keyword/delete  {"value": "키워드", "section": "daip"}
         if path == "/api/noise/keyword/delete":
             val = body.get("value", "").strip()
+            section = body.get("section", "daip")
             noise = load_noise()
-            noise["title_keywords"] = [k for k in noise.get("title_keywords", []) if k != val]
+            if section in noise:
+                noise[section]["title_keywords"] = [k for k in noise[section].get("title_keywords", []) if k != val]
             save_noise(noise)
-            self.send_json(200, {"removed": val})
+            self.send_json(200, {"removed": val, "section": section})
             return
 
         # POST /api/push  → git add + commit + push

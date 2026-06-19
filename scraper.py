@@ -257,22 +257,25 @@ OUTPUT_FILE  = Path(__file__).parent / "news_data.json"
 NOISE_FILE   = Path(__file__).parent / "noise_patterns.json"
 ARCHIVE_DIR  = Path(__file__).parent
 
-# 사용자 노이즈 패턴 로드
-def load_noise_patterns() -> tuple[set, list]:
+# 사용자 노이즈 패턴 로드 (섹션별)
+def load_noise_patterns() -> dict:
     if not NOISE_FILE.exists():
-        return set(), []
+        return {}
     try:
         data = json.loads(NOISE_FILE.read_text(encoding="utf-8"))
-        sources = set(data.get("sources", []))
-        keywords = data.get("title_keywords", [])
-        print(f"노이즈 패턴 로드: 출처 {len(sources)}개 · 키워드 {len(keywords)}개")
-        return sources, keywords
+        result = {}
+        for section, val in data.items():
+            sources = set(val.get("sources", []))
+            keywords = val.get("title_keywords", [])
+            kw_re = re.compile("|".join(re.escape(k) for k in keywords), re.IGNORECASE) if keywords else None
+            result[section] = {"sources": sources, "kw_re": kw_re}
+            print(f"노이즈 패턴 [{section}]: 출처 {len(sources)}개 · 키워드 {len(keywords)}개")
+        return result
     except Exception as e:
         print(f"노이즈 패턴 로드 실패: {e}")
-        return set(), []
+        return {}
 
-NOISE_SOURCES, NOISE_KEYWORDS = load_noise_patterns()
-NOISE_KW_RE = re.compile("|".join(re.escape(k) for k in NOISE_KEYWORDS), re.IGNORECASE) if NOISE_KEYWORDS else None
+NOISE_PATTERNS = load_noise_patterns()
 
 NAVER_ID  = os.environ.get("NAVER_CLIENT_ID", "")
 NAVER_SEC = os.environ.get("NAVER_CLIENT_SECRET", "")
@@ -432,10 +435,12 @@ def is_expired(pub: str, no_expire: bool = False) -> bool:
     except Exception:
         return False
 
-def is_user_noise(item: dict) -> bool:
-    if item.get("source") in NOISE_SOURCES:
+def is_user_noise(item: dict, section: str = "daip") -> bool:
+    pat = NOISE_PATTERNS.get(section, {})
+    if item.get("source") in pat.get("sources", set()):
         return True
-    if NOISE_KW_RE and NOISE_KW_RE.search(item.get("title", "")):
+    kw_re = pat.get("kw_re")
+    if kw_re and kw_re.search(item.get("title", "")):
         return True
     return False
 
@@ -481,7 +486,8 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
         # 블로그·카페는 광고 추가 필터 적용
         if item.get("type") in ("blog", "cafearticle") and BLOG_AD_RE.search(item["title"]):
             continue
-        if is_user_noise(item):
+        section = "highschool" if cat_id == "highschool" else "daip"
+        if is_user_noise(item, section):
             continue
         tok = tokenize(item["title"])
         if tok and is_dup(tok, seen_tok):
