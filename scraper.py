@@ -172,6 +172,10 @@ CATEGORIES = [
             "동탄 고등학교 내신 학군 배정",
             "경기 남부 일반고 입시 전략 2026",
             "수원 화성 용인 고등학교 입시",
+            "내신 5등급제 일반고 2026",
+            "특목고 자사고 입시 2026",
+            "고교 선택 전략 자사고 특목고",
+            "일반고 학업중단 고교 양극화",
         ],
         "naver_news": [
             "수원 일반고 배정 학군",
@@ -179,15 +183,19 @@ CATEGORIES = [
             "용인 수지 일반고 학군",
             "광교 고등학교 내신",
             "경기 남부 고교 입시",
+            "내신 5등급제 고등학교",
+            "특목고 자사고 입시 전략",
+            "고교 양극화 일반고",
         ],
-        "rss_keywords": ["일반고 배정", "고등학교 배정", "학군 내신", "고교 입시 전략", "내신 등급컷"],
+        "rss_keywords": ["일반고 배정", "고등학교 배정", "학군 내신", "고교 입시 전략", "내신 등급컷", "내신 5등급", "특목고", "자사고"],
         "no_math_filter": True,   # 수학 키워드 필터 미적용
     },
 ]
 
-# 고교입시 전용 whitelist: 반드시 지역 + 학교 관련 키워드 동시 포함
+# 고교입시 전용 whitelist: 지역+학교 키워드 동시 포함 OR 전국 단위 고교 이슈
 HS_REGION_RE = re.compile(r"수원|화성|동탄|광교|용인|수지|기흥|영통|팔달|봉담|향남|처인|경기\s*(남부|도교육청|교육청)", re.IGNORECASE)
 HS_TOPIC_RE  = re.compile(r"고등학교|일반고|학군|배정|내신|등급컷|입학|고교|학교\s*선택|진학|자사고|특목고|과학고|외고", re.IGNORECASE)
+HS_BROAD_RE  = re.compile(r"내신\s*5등급|특목고|자사고|과학고|외고|고교\s*서열|고교\s*양극화|학업\s*중단|일반고\s*위기|고교\s*입시\s*전략|고교\s*선택|자율형\s*사립고|영재학교", re.IGNORECASE)
 
 # ── 필터 ──────────────────────────────────────────────────────
 BLACKLIST_RE = re.compile(
@@ -464,9 +472,12 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
         # 수학 관련 키워드 없는 기사 제거 (정책·고교입시 카테고리 제외)
         if cat_id not in ('policy', 'highschool') and not MATH_RE.search(item["title"]):
             continue
-        # 고교입시: 지역 키워드 + 학교/학군 키워드 둘 다 있어야 통과
-        if cat_id == 'highschool' and not (HS_REGION_RE.search(item["title"]) and HS_TOPIC_RE.search(item["title"])):
-            continue
+        # 고교입시: (지역+학교 키워드) 또는 (전국 단위 고교 이슈) 중 하나 충족
+        if cat_id == 'highschool':
+            local_pass  = HS_REGION_RE.search(item["title"]) and HS_TOPIC_RE.search(item["title"])
+            broad_pass  = HS_BROAD_RE.search(item["title"])
+            if not (local_pass or broad_pass):
+                continue
         # 블로그·카페는 광고 추가 필터 적용
         if item.get("type") in ("blog", "cafearticle") and BLOG_AD_RE.search(item["title"]):
             continue
