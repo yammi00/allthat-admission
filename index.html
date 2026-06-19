@@ -1061,7 +1061,8 @@ function switchSection(section, btn) {
 function getHSItems() {
   const cats = window._data?.categories || [];
   const hsCat = cats.find(c => c.id === 'highschool');
-  return hsCat ? hsCat.items : [];
+  const items = hsCat ? [...hsCat.items] : [];
+  return items.sort((a, b) => new Date(b.published) - new Date(a.published));
 }
 
 function hsRegionMatch(title, region) {
