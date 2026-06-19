@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: "0 */2 * * *"    # 2시간마다 실행
   workflow_dispatch:          # 수동 실행 버튼
-  push:
-    branches: [main]
-    paths:
-      - 'scraper.py'
-      - 'requirements.txt'
 
 jobs:
   scrape:
