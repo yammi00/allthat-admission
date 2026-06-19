@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T12:20:28.827109+00:00",
+  "updated_at": "2026-06-19T00:29:28.618520+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -12,6 +12,16 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-06-19T00:14:25.821865+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "c2e65c9f954bdd448631ecef4239f617",
           "title": "수학 선택과목 고민하는 N수생들… 미적분 유지와 확률과 통계 전향 사...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=109020",
@@ -19,7 +29,7 @@
           "published": "2026-06-18T07:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89571c73c86e5806dd3577f1c544ba03",
@@ -262,20 +272,20 @@
           "is_new": false
         },
         {
-          "id": "b3a3ec863f3c4d24691f5c30f407c750",
-          "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
-          "source": "뉴시스",
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "73782df835d1909147a0ab354d84f494",
-          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
-          "source": "위키트리",
+          "id": "b3a3ec863f3c4d24691f5c30f407c750",
+          "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
+          "source": "뉴시스",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -369,6 +379,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "514ada69cbfa25d6b52a0767abc0b0c4",
+          "title": "[2027수시] 서강대 교과전형 내신 90%+성취도 10% 반영.. 수능최저 '3개 합 7'",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53198",
+          "source": "에듀진",
+          "published": "2026-06-19T00:16:54.390153+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "54e161fb861b8a6f89f47b02d5130fbc",
           "title": "대입정보 박람회, 내달 17∼18일 원광대서 개최…73개 대학 참여",
           "link": "https://n.news.naver.com/mnews/article/001/0016146296?sid=102",
@@ -376,7 +396,7 @@
           "published": "2026-06-18T06:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3628722904d20a4f544ef6ce69a08c8",
@@ -569,11 +589,11 @@
           "is_new": false
         },
         {
-          "id": "7b4889e195886b9d7dfda8dc68f37594",
-          "title": "[거인의어깨 입시컨설팅] 수시컨설팅:내신 4등급대 지원 전략 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11Y3lBZU16dmhJSEhrX0FDNk1BMm1ERUFvNzZYUS16OE54X2F5c0oxNVZtQjJxOWZUUVZiZ0FZN3FGZmlZODJyUFBqUUJVa3NHMy11cmNIRVBvVmg5QUszQ2J1QXhYT0xOMXNyTVR5d25BNTROel9zVw?oc=5",
-          "source": "네이트",
-          "published": "2026-06-09T22:03:00+00:00",
+          "id": "c4866d1130e9a99ee9e99a15c0652f6f",
+          "title": "[거인의어깨 입시컨설팅] 수시컨설팅:내신 4등급대 지원 전략",
+          "link": "https://www.newspim.com/news/view/20260609001268",
+          "source": "www.newspim.com",
+          "published": "2026-06-09T22:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -863,7 +883,7 @@
           "published": "2026-06-18T12:08:24.579906+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8d2a325608ccc34ad6cb511ddefb86a2",
@@ -1101,7 +1121,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f07ff5dedf3a3c37df8e4a08d48ae467",
@@ -1441,6 +1461,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "993b63788a32cbde00093476f91cb732",
+          "title": "유니브클래스, 대입 준비 학부모 대상 수시설명회 진행",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=869403",
+          "source": "www.gokorea.kr",
+          "published": "2026-06-19T00:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8aabc37576224462bd7eb6be093bd097",
           "title": "반수 준비, 지원 전형·취약 과목에 따라 학습 전략 달라야",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/06/18/2026061880124.html",
@@ -1448,7 +1478,7 @@
           "published": "2026-06-18T06:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "05137bf671d4f7d69c072b33d3b2cb3d",
@@ -1545,7 +1575,7 @@
           "title": "명지대 2027학년도 수시 9월 7일 접수… 모든 전형 수능최저 미적용 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14M1RrTDdtSWdUNFhEZTZVVHdMWDRqYU9LSVgyOGFPYWlqekRLVV9mVHp6Z09YVjlEcHNQV09fUDZNWEZXcElYZ0MtQlA5RUNVWUpEVk5ZLWNCbFRXenhIZGYtUTE4dw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-06-06T14:32:19+00:00",
+          "published": "2026-06-06T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1556,6 +1586,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdEpyV3VXTVNWcVk0b2NUd1c0dU4xUzhjaWF0VUhseTFiQUxYeFpnSjNhMm5UelBLd3JRcmZrSjdhZnJySmJOZHJrczdnaEl5enQwRFBCZWRiSllPRUxJVmt0cUhiUQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-06-05T04:40:37+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "198158974cad8cc84608976ba792b650",
+          "title": "김영편입, 6월 예비 배치고사 대학별 지원컷 공개.. 주요 모의고사 일정 공개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVGpiN2hzclZDanVxRlgzMzM3eDhHOTRyQ0phQ1lzcjR5dVVPMEpGM2I0d0JQMWJEUU1FcG9OUDh2dGlTSDNodFBZTnE4aTBlN1NnQW1NSU43bktEbGp0QjlaSDIyUkFpZnk1Tg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-06-04T23:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1883,16 +1923,6 @@
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260523010006337",
           "source": "www.joongdo.co.kr",
           "published": "2026-05-23T07:42:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "680dd709d9ffaac27449cdf650b46431",
-          "title": "서툰 한국어에 겉돌던 아이도 ‘열공’… 맞춤 교육, 편견을 깨다 [심층...",
-          "link": "https://n.news.naver.com/mnews/article/022/0004129416?sid=102",
-          "source": "www.segye.com",
-          "published": "2026-05-19T21:04:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
