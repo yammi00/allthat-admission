@@ -687,7 +687,7 @@ def main():
             raw.extend(fetch_korea_kr_press())
 
         # policy 카테고리는 공식 사이트만 — 구글/네이버/RSS 수집 없음
-        if cat_id != 'policy':
+        if cat.get("id") != 'policy':
             for q in cat.get("google", []):
                 raw.extend(fetch_google_news(q))
             for q in cat.get("naver_news", []):
