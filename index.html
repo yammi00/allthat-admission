@@ -729,7 +729,6 @@ function renderList(items, showCat) {
           <button class="action-btn btn-bm${isBookmarked?' active-bookmark':''}" onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
           <button class="action-btn" onclick="copyLink('${item.link.replace(/'/g,"\\'")}')" title="링크 복사" style="font-size:.7rem;">🔗</button>
           ${_isAdmin ? `<button class="action-btn btn-noise${isNoise?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="필터링" style="font-size:.65rem;font-weight:600;">차단</button>` : ''}
-          <button class="action-btn" onclick="deleteItem('${item.id}')" title="숨기기">✕</button>
         </div>
       </div>
       <div class="news-meta">
@@ -1126,7 +1125,6 @@ function renderHSMain() {
               <button class="action-btn btn-bm${getBookmarks()[item.id]?' active-bookmark':''}"
                 onclick="toggleBookmark('${item.id}')" title="북마크">★</button>
               ${_isAdmin ? `<button class="action-btn btn-noise${isNoiseHS2?' active-noise':''}" onclick="toggleNoise('${item.id}')" title="필터링" style="font-size:.65rem;font-weight:600;">차단</button>` : ''}
-              <button class="action-btn" onclick="hsDeleteItem('${item.id}')" title="숨기기">✕</button>
             </div>
           </div>
           <div class="news-meta">
