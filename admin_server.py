@@ -110,6 +110,12 @@ class AdminHandler(BaseHTTPRequestHandler):
                 cat["items"] = [i for i in cat["items"] if i["id"] != art_id]
                 removed += before - len(cat["items"])
             save_news(data)
+            # ID 영구 블랙리스트 등록
+            noise = load_noise()
+            ids = noise.setdefault("blocked_ids", [])
+            if art_id not in ids:
+                ids.append(art_id)
+                save_noise(noise)
             self.send_json(200, {"deleted": removed, "id": art_id})
             return
 

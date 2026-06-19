@@ -265,11 +265,16 @@ def load_noise_patterns() -> dict:
         data = json.loads(NOISE_FILE.read_text(encoding="utf-8"))
         result = {}
         for section, val in data.items():
+            if section == "blocked_ids":
+                result["blocked_ids"] = set(val)
+                continue
             sources = set(val.get("sources", []))
             keywords = val.get("title_keywords", [])
             kw_re = re.compile("|".join(re.escape(k) for k in keywords), re.IGNORECASE) if keywords else None
             result[section] = {"sources": sources, "kw_re": kw_re}
             print(f"노이즈 패턴 [{section}]: 출처 {len(sources)}개 · 키워드 {len(keywords)}개")
+        blocked = result.get("blocked_ids", set())
+        print(f"영구 차단 ID: {len(blocked)}개")
         return result
     except Exception as e:
         print(f"노이즈 패턴 로드 실패: {e}")
@@ -459,10 +464,14 @@ def tag_grade(cat_id: str) -> str:
         return '3'
     return 'all'  # policy, schedule, trend → 전체
 
+BLOCKED_IDS = NOISE_PATTERNS.get("blocked_ids", set())
+
 def clean(items: list[dict], cat_id: str = '') -> list[dict]:
     seen_ids, seen_tok, out = set(), [], []
     for item in items:
         if item["id"] in seen_ids:
+            continue
+        if item["id"] in BLOCKED_IDS:
             continue
         # 블로그·카페 타입 전부 차단
         if item.get("type") in ("blog", "cafearticle"):
