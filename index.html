@@ -668,6 +668,7 @@ function renderMain(categories) {
     const sorted = [...c.items].sort((a,b) => new Date(b.published) - new Date(a.published));
     html += `<section class="section" data-cat="${c.id}">${renderList(sorted, false)}</section>`;
   });
+  html += `<section class="section" data-cat="today"></section>`;
   html += `<section class="section" data-cat="archive"><div id="archive-container"></div></section>`;
   html += `<section class="section" data-cat="bookmarks"></section>`;
   html += `<section class="section" data-cat="noise"></section>`;
@@ -753,6 +754,38 @@ function renderList(items, showCat) {
     html += `<div class="restore-bar" onclick="restoreAll()">숨긴 항목 ${deletedCount}개 · 클릭하여 모두 복원</div>`;
   }
   return html;
+}
+
+function renderToday() {
+  const section = document.querySelector('[data-cat="today"]');
+  if (!section) return;
+  const cats = window._data?.categories || [];
+  const all = cats.flatMap(c => c.items.map(i => ({...i, catName: c.name, catEmoji: c.emoji})));
+  const todayItems = all
+    .filter(i => i.is_new || isPublishedToday(i.published))
+    .sort((a, b) => new Date(b.published) - new Date(a.published));
+
+  if (!todayItems.length) {
+    section.innerHTML = '<div class="empty" style="padding:40px 0;">오늘 새 기사가 없습니다.</div>';
+    return;
+  }
+
+  // 카테고리별 그룹핑
+  const groups = {};
+  todayItems.forEach(i => {
+    const key = i.catName;
+    if (!groups[key]) groups[key] = { emoji: i.catEmoji, items: [] };
+    groups[key].items.push(i);
+  });
+
+  let html = `<div style="padding:16px 0 4px;font-size:.8rem;color:var(--muted);font-weight:600;">오늘 NEW — ${todayItems.length}건</div>`;
+  Object.entries(groups).forEach(([name, g]) => {
+    html += `<div style="margin-bottom:8px;">
+      <div style="font-size:.78rem;color:var(--muted);font-weight:700;padding:10px 0 4px;">${g.emoji} ${name}</div>
+      ${renderList(g.items, true)}
+    </div>`;
+  });
+  section.innerHTML = html;
 }
 
 function renderBookmarks() {
@@ -846,8 +879,8 @@ function renderDashboard() {
     <div class="dash-stat" onclick="switchToTab('all')" style="cursor:pointer;transition:all .15s;" onmouseover="this.style.borderColor='var(--accent)'" onmouseout="this.style.borderColor=''">
       <strong>${total}</strong><span>총 기사 →</span>
     </div>
-    <div class="dash-stat">
-      <strong style="color:var(--new)">${todayCount}</strong><span>오늘 NEW</span>
+    <div class="dash-stat" onclick="switchToTab('today')" style="cursor:pointer;transition:all .15s;" onmouseover="this.style.borderColor='var(--new)'" onmouseout="this.style.borderColor=''">
+      <strong style="color:var(--new)">${todayCount}</strong><span>오늘 NEW →</span>
     </div>
     <div class="dash-stat" style="display:flex;align-items:center;gap:8px;padding:8px 14px;flex:2;">
       <span style="font-size:.85rem;color:var(--muted);font-weight:500;">검색</span>
@@ -974,10 +1007,11 @@ function switchTab(catId, btn) {
   if (btn) btn.classList.add('active');
   document.querySelectorAll('.section').forEach(s => s.classList.toggle('active', s.dataset.cat === catId));
   if (catId === 'home') renderDashboard();
+  if (catId === 'today') renderToday();
   if (catId === 'bookmarks') renderBookmarks();
   if (catId === 'noise') renderNoise();
   if (catId === 'archive') renderArchive();
-  if (catId !== 'home') applyFilters();
+  if (catId !== 'home' && catId !== 'today') applyFilters();
 }
 
 // ── 카테고리 컬러 ─────────────────────────────────────────────
