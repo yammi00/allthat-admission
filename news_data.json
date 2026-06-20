@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:23:41.810391+00:00",
+  "updated_at": "2026-06-20T22:11:28.517694+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-20T17:08:52.777258+00:00",
+          "published": "2026-06-20T21:56:52.260282+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -372,9 +372,9 @@
           "is_new": false
         },
         {
-          "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
+          "id": "74aea9fffb8c8f03e66eb7eab0a87205",
           "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUWRYNXNXcXltUkRZdk9Oa25ncGp2WTZzSnNqOW4xZVVOb1hKU2dNak12bmp1Um94RWJuQ2oxUXRxanVqblZFQmVhSWZhWG1Cdjhaa0xaOE02MUlEaW85VVZhdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUm1GTjRYSnktaFpiNG1iSHhnbDBNUDRVOTJUQkVhVzlqWURkU3A0YkdxWldibXJKR0FMaDJqLUZtRG8xaFBFUXN2RjllWGszVWwzUTJUa1ZnQkowUEtGMHZsSWY3OXVp?oc=5",
           "source": "CBC뉴스",
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
@@ -393,7 +393,7 @@
           "title": "[2027수시] AI 시대 본격화… 연세대 학종 변화에서 읽어야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53177",
           "source": "에듀진",
-          "published": "2026-06-20T17:11:25.564210+00:00",
+          "published": "2026-06-20T21:59:20.001493+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -403,7 +403,7 @@
           "title": "[2027수시] 고려대 교과전형, 내신만 보면 될까?… 서류평가 10% 반영",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53182",
           "source": "에듀진",
-          "published": "2026-06-20T17:11:15.999289+00:00",
+          "published": "2026-06-20T21:59:15.441120+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -849,6 +849,16 @@
           "is_new": false
         },
         {
+          "id": "978c44608a7e942d569f689fd437fe93",
+          "title": "2028대입, 교과·논술까지 번지는 '수능최저'... 수능 학습 약한 학생 대비 시급 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FYlB2ZURZV0I0VDE4dmlLZXFPT3JKUVItOXV6dXdjUjd5OEpGaXBQN3dOVkVHbV9QQXVoWlQ0M3dNblA4ZmZ6czBUNHB1SEpIak1yWW5QWkJOeGNlazBfWW5ISU1Wdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "6f1edcbfb6d528da35be9b04cbbf78ca",
           "title": "'인서울' 열풍 4년 만에 주춤…수시 지원율 5%p 급감",
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
@@ -874,16 +884,6 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xTEhqLUN1dGE2OHFZTWVJUzRiblRGV29Pa1V0ZHRhNkxrbERkdjIzRWw5QnU4bWNJeEhMaWRNcGZ4NHIydm5qTVJDWUlWUHpVOE94XzQ5XzhXUU9Zanc?oc=5",
           "source": "아시아타임즈",
           "published": "2026-04-27T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-04-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1846,16 +1846,6 @@
           "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
           "source": "연합뉴스",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
-          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
-          "source": "뉴스핌",
           "published": "2026-03-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
