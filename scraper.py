@@ -351,6 +351,8 @@ def fetch_naver(query: str, endpoint: str = "news", n=10) -> list[dict]:
 
 # ── 정제 ─────────────────────────────────────────────────────
 def tokenize(t: str) -> frozenset:
+    # 괄호 이후 날짜/시간 정보 제거 후 비교 (업데이트 시간 차이로 중복 못 잡는 문제 방지)
+    t = re.sub(r'\([^)]*\d{1,2}\.\s*\d{2}.*$', '', t).strip()
     return frozenset(w for w in re.findall(r"[가-힣a-zA-Z0-9]{2,}", t) if w not in STOPWORDS)
 
 def is_dup(tok: frozenset, seen: list, thr=0.80) -> bool:
@@ -467,7 +469,8 @@ def tag_grade(cat_id: str) -> str:
 BLOCKED_IDS = NOISE_PATTERNS.get("blocked_ids", set())
 
 def clean(items: list[dict], cat_id: str = '') -> list[dict]:
-    seen_ids, seen_tok, out = set(), [], []
+    seen_ids, out = set(), []
+    seen_tok_by_src: dict[str, list] = {}  # 출처별 토큰 목록
     for item in items:
         if item["id"] in seen_ids:
             continue
@@ -499,13 +502,15 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
         if is_user_noise(item, section):
             continue
         tok = tokenize(item["title"])
-        if tok and is_dup(tok, seen_tok):
+        src = item.get("source", "")
+        src_toks = seen_tok_by_src.setdefault(src, [])
+        if tok and is_dup(tok, src_toks):
             continue
         # 제목 최대 60자로 자르기 (공식 사이트 긴 설명문 방지)
         item["title"] = item["title"][:80].strip()
         item["grade"] = tag_grade(cat_id)
         seen_ids.add(item["id"])
-        seen_tok.append(tok)
+        src_toks.append(tok)
         out.append(item)
     return out
 
