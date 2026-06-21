@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T17:26:55.862144+00:00",
+  "updated_at": "2026-06-21T22:37:49.868191+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-21T17:12:00.716944+00:00",
+          "published": "2026-06-21T22:22:53.706346+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -393,7 +393,7 @@
           "title": "[2027수시] AI 시대 본격화… 연세대 학종 변화에서 읽어야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53177",
           "source": "에듀진",
-          "published": "2026-06-21T17:14:30.935317+00:00",
+          "published": "2026-06-21T22:25:25.816860+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -403,7 +403,7 @@
           "title": "[2027수시] 고려대 교과전형, 내신만 보면 될까?… 서류평가 10% 반영",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53182",
           "source": "에듀진",
-          "published": "2026-06-21T17:14:25.636028+00:00",
+          "published": "2026-06-21T22:25:20.064870+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -779,6 +779,16 @@
           "is_new": false
         },
         {
+          "id": "22520e7a7ddd9eea452a92b780ef6a4f",
+          "title": "SKY, 학생부 중요성 커진다… 수시 58% ‘수능 최저’ 없애 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuU0FSWnJWa0RQZnNNNnhwS25OWHRESVpYX3d4X3pnT0RwVUFHMXpxbWw1WjZpeTdaWUlwVEt6X2FfUVFqWENoVlJXbnBqay1qZi1BLURFdGg3Z3NLcXZnRHdCNTBUcHFIYUhsMkMzSmxqcWFXQ1HSAWZBVV95cUxNX1d2UFE2MDJ5T1Z4TWpDYTdlcUgzcGZzOUZIR1JrNGtXVnp0b291T3lIUmZqS05fNko1dGtrWmlrODdwT19Nb1RQQ1UzMlBfSnREVjg1R29hbVhHMUNUMjFMZWxMTkE?oc=5",
+          "source": "동아일보",
+          "published": "2026-05-11T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "3802402b328c579200e4f3abc7c296fa",
           "title": "서울대 수시, 수능 최저 없앤다…정시는 교과역량평가 40% 반영 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RjB6WVFRckhoMnc1d2hSenhhM1JjdUFZTEoxY2NpMm41bHlnNEVVOEJlNXFJWF9vT0ZlUkwtbGFSajlZRW8xQ0UweVFXekpCOG9oV1hxd2V0Z9IBVEFVX3lxTFBjQkx1X3ZSaDlGTVh4bGRLTFQ2X0k0ZUY3ZktMUEwxWjZrUXp5R08wOHUwa2xicml5VGp4ZjBZTlVxTUxhRG9kOE1uTDl0THZzQ0ZiTQ?oc=5",
@@ -789,10 +799,10 @@
           "is_new": false
         },
         {
-          "id": "0aadb21b9fe952175f3302a043699d40",
-          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
-          "source": "v.daum.net",
+          "id": "e5e2d778534807e3d46fd70c97b12d91",
+          "title": "‘수능 올인’ 안 통한다…2028 SKY 입시, 학생부가 핵심 변수 - issueon.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTjdiX09LUEp3QzNrcEtiOEU2Z2hxUTUwdTNFU2p4ZnJ4WGxzS2l0c3NBNEU0Vlc5NmkzTV9sckZrZTlPVE0xNENQbllhdjRWWW4xNTc2N1hZOHFFdXdvb01DYVFtd0lYMGFV?oc=5",
+          "source": "issueon.co.kr",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -809,10 +819,10 @@
           "is_new": false
         },
         {
-          "id": "e5e2d778534807e3d46fd70c97b12d91",
-          "title": "‘수능 올인’ 안 통한다…2028 SKY 입시, 학생부가 핵심 변수 - issueon.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTjdiX09LUEp3QzNrcEtiOEU2Z2hxUTUwdTNFU2p4ZnJ4WGxzS2l0c3NBNEU0Vlc5NmkzTV9sckZrZTlPVE0xNENQbllhdjRWWW4xNTc2N1hZOHFFdXdvb01DYVFtd0lYMGFV?oc=5",
-          "source": "issueon.co.kr",
+          "id": "98ca92ab87554ba9137754a60c739605",
+          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS2VCUnVRMkt1dy1YWDlIZnV5TGk0ZG1ZeE1LX0YwXzF2MkVPV0tISEl5OHFpVDBoVWg3VlJjV3Z6cktUQVRzNkFmWjFGSDVybGloaw?oc=5",
+          "source": "v.daum.net",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -874,6 +884,16 @@
           "link": "http://news.ebs.co.kr/ebsnews/allView/60721080/N",
           "source": "news.ebs.co.kr",
           "published": "2026-05-05T09:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b7308fcc287de0a89df6c26b0a8e25ff",
+          "title": "2028학년도 대입 `인서울` 수시 확대…`지방권 대학 수시 미충원 가능성 커져` - 매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SHVSVjMzVXlZNTMtOHd6Qm1FRlhMZUttdDJPc2ZJUHAyN2Fudko2RlJ1dTdTZ1BxbkJ5dFlualk4TTFpNnUxSjlhWV9ZWXh6TmN5WC1DTnRDSkFHbjlNSHFR?oc=5",
+          "source": "매일신문",
+          "published": "2026-05-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1444,16 +1464,6 @@
           "is_new": false
         },
         {
-          "id": "9a03781b9dfc1b06bebd71f437fbe995",
-          "title": "“영어 1등급 비율까지 보겠다”… 평가원장이 직접 밝힌 2027 수능 '출제 방향' - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mb21zcm9HSmRsOXVEMXpUYVFodGRCZHd6NzBfUGY2VVVacktTaUFSaVc4Q01LM29lYTBMQURpR2RJZFRmLTRoZ1p2YTV5bVB1RC02aHd3?oc=5",
-          "source": "위키트리",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "d6daf41056582f04f90a42fb5a91ec9f",
           "title": "중하위권 학생의 합격 가능한 전략, 약술형 논술이 정답인 이유",
           "link": "https://www.naeil.com/news/read/582628?ref=naver",
@@ -1490,6 +1500,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "db32550133e023bd5c3974d64cef9d5b",
+          "title": "성동구, 수험생 맞춤형 ‘2027학년도 대입 수시 설명회’ 개최 | - HeraldK.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTUUtdFdoTE9vVVdDS19WNDhQMll5VUJaeTdtX3hGUTBBZU1zS21EYzJqTWQ4ZkJzbVN3ampyWGVIazhHZl9XRmp1cG9wY0dfWnZXVU9LdlRaQTJTYjVEdmgxekpxTjVGOWpLU01xY1pCLW45a2NrUlBocTMzU1lySHVockVvM0FCQjVnejVEMEVzTUlHNzdPMl9Tak92c3V1NS1OWERONzM1OXI2MDFwTlNsNFpPbFNmd0gxbTlZc2pjV2hGZkNiQ1B0ZVJxSlNWX3AybWh0SGczNWc2bDRjXy1PQ3RnZnNCT3RVZ2I3bkpvQ1p5SmdSaU1QQmxfb0dmSlZMdHJnWThWN2x4XzA4c1ZRMGVhWnFmV2YwbGtMQ1FxM2dUX015aV9faFdhY0NNcjFOSUhZcjM1dEVTeEExUWFqSXBSbUlQVFlIU1haNjg?oc=5",
+          "source": "HeraldK.com",
+          "published": "2026-06-21T20:31:03+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3cccc67b4e382cd6423a8918a5cf73cb",
           "title": "[AI입시 A to Z] 낮은 내신, 논술로 커버될까",
@@ -1775,7 +1795,7 @@
           "title": "[유성룡의 입시포인트] 사관학교 2027학년도 입학전형 가이드 - 조선에듀",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85WkE0dWNhbmEzNGxubkREVE1aVzhhTlVQZzNkWDduM1F1OU1CNGgxalNhejNndmN4QTNhNmtjWWIyQnBrS0M3THRUeEJNYUlKQ2JxWjVfN0d3djBHQUhGVWVnVVFJRnVvZm0wODVCbw?oc=5",
           "source": "조선에듀",
-          "published": "2026-05-14T00:00:00+00:00",
+          "published": "2026-05-12T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1855,16 +1875,6 @@
           "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
           "source": "연합뉴스",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
-          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
-          "source": "뉴스핌",
           "published": "2026-03-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
