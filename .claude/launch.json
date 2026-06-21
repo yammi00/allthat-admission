@@ -5,7 +5,9 @@
       "name": "math-news",
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "3456"],
-      "port": 3456
+      "cwd": "/Users/park-young-mi/Desktop/클로드코드/math-news-site",
+      "port": 3456,
+      "autoPort": false
     }
   ]
 }
