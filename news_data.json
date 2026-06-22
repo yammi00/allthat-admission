@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:11:30.415865+00:00",
+  "updated_at": "2026-06-22T23:21:04.756985+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -19,7 +19,7 @@
           "published": "2026-06-22T07:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53db59c7dd4cf74a1d9278106346911b",
@@ -29,7 +29,7 @@
           "published": "2026-06-22T00:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a4b571cf52e30e59c916e416157a991",
@@ -403,20 +403,20 @@
           "title": "세특은 화려한데 왜 떨어질까?… 학생부종합전형 당락 가르는 행특의 힘",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53247",
           "source": "에듀진",
-          "published": "2026-06-22T17:59:07.349734+00:00",
+          "published": "2026-06-22T23:08:28.681842+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f91c0293c11fdb80216917126bb51890",
           "title": "[2027수시] 서강대 학종 개편.. 일반전형Ⅰ·Ⅱ 분리, 자유전공 확대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53199",
           "source": "에듀진",
-          "published": "2026-06-22T17:59:05.800483+00:00",
+          "published": "2026-06-22T23:08:26.674856+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e603be60baeb578b4e1a409f9ea393c1",
@@ -426,7 +426,7 @@
           "published": "2026-06-22T05:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f5d3d0b06eadb9bc88e44309327fd013",
@@ -436,7 +436,7 @@
           "published": "2026-06-22T02:05:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b0538e56f6a9b15a29a5e04202353f78",
@@ -819,6 +819,16 @@
           "is_new": false
         },
         {
+          "id": "22520e7a7ddd9eea452a92b780ef6a4f",
+          "title": "SKY, 학생부 중요성 커진다… 수시 58% ‘수능 최저’ 없애 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuU0FSWnJWa0RQZnNNNnhwS25OWHRESVpYX3d4X3pnT0RwVUFHMXpxbWw1WjZpeTdaWUlwVEt6X2FfUVFqWENoVlJXbnBqay1qZi1BLURFdGg3Z3NLcXZnRHdCNTBUcHFIYUhsMkMzSmxqcWFXQ1HSAWZBVV95cUxNX1d2UFE2MDJ5T1Z4TWpDYTdlcUgzcGZzOUZIR1JrNGtXVnp0b291T3lIUmZqS05fNko1dGtrWmlrODdwT19Nb1RQQ1UzMlBfSnREVjg1R29hbVhHMUNUMjFMZWxMTkE?oc=5",
+          "source": "동아일보",
+          "published": "2026-05-11T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "3802402b328c579200e4f3abc7c296fa",
           "title": "서울대 수시, 수능 최저 없앤다…정시는 교과역량평가 40% 반영 - 한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RjB6WVFRckhoMnc1d2hSenhhM1JjdUFZTEoxY2NpMm41bHlnNEVVOEJlNXFJWF9vT0ZlUkwtbGFSajlZRW8xQ0UweVFXekpCOG9oV1hxd2V0Z9IBVEFVX3lxTFBjQkx1X3ZSaDlGTVh4bGRLTFQ2X0k0ZUY3ZktMUEwxWjZrUXp5R08wOHUwa2xicml5VGp4ZjBZTlVxTUxhRG9kOE1uTDl0THZzQ0ZiTQ?oc=5",
@@ -839,9 +849,9 @@
           "is_new": false
         },
         {
-          "id": "98ca92ab87554ba9137754a60c739605",
+          "id": "0aadb21b9fe952175f3302a043699d40",
           "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS2VCUnVRMkt1dy1YWDlIZnV5TGk0ZG1ZeE1LX0YwXzF2MkVPV0tISEl5OHFpVDBoVWg3VlJjV3Z6cktUQVRzNkFmWjFGSDVybGloaw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
           "source": "v.daum.net",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
@@ -1191,7 +1201,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b91c45387f01e46a3439cae38e2eca0d",
@@ -1539,7 +1549,7 @@
           "published": "2026-06-22T01:17:50+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "db32550133e023bd5c3974d64cef9d5b",
@@ -1902,16 +1912,6 @@
           "is_new": false
         },
         {
-          "id": "87493c9b9b9866da196cfd1c2685a316",
-          "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -1936,7 +1936,7 @@
           "published": "2026-06-22T00:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7da3da1fb1ac2677df1fb2507beb0481",
@@ -1946,7 +1946,7 @@
           "published": "2026-06-21T23:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2bb0b808ea90ba647c5344d30154c9d2",
