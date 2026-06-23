@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T11:57:50.281730+00:00",
+  "updated_at": "2026-06-23T14:48:57.969993+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,10 +16,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-23T11:43:11.567216+00:00",
+          "published": "2026-06-23T14:34:03.336878+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "adf8247c61b66e53dacef8a5343b3c22",
@@ -29,7 +29,7 @@
           "published": "2026-06-23T07:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "63e993bd8854ee2e7a759ac074e92d87",
@@ -380,6 +380,36 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "44457bf29b2183214fd3346a4719a1cc",
+          "title": "2026 고1 3월 모의고사 예상 등급컷 : 일반 - 크리스천투데이",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9USXdrVk11RkR4MFc4U2x6bXBnZ0FjZlhWUk5LeDVXbkw5YVk0WlNoOHhLT211cV8xbzJLMnlnNW5TdDNoSXVibE5XeDBLMTdLSVNxM3lxYw?oc=5",
+          "source": "크리스천투데이",
+          "published": "2026-03-25T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
+          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-03-24T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
+          "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUWRYNXNXcXltUkRZdk9Oa25ncGp2WTZzSnNqOW4xZVVOb1hKU2dNak12bmp1Um94RWJuQ2oxUXRxanVqblZFQmVhSWZhWG1Cdjhaa0xaOE02MUlEaW85VVZhdw?oc=5",
+          "source": "CBC뉴스",
+          "published": "2026-03-24T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         }
       ]
     },
@@ -393,7 +423,7 @@
           "title": "세특은 화려한데 왜 떨어질까?… 학생부종합전형 당락 가르는 행특의 힘",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53247",
           "source": "에듀진",
-          "published": "2026-06-23T11:45:41.677462+00:00",
+          "published": "2026-06-23T14:36:35.962766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -403,7 +433,7 @@
           "title": "[2027수시] 서강대 학종 개편.. 일반전형Ⅰ·Ⅱ 분리, 자유전공 확대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53199",
           "source": "에듀진",
-          "published": "2026-06-23T11:45:40.283423+00:00",
+          "published": "2026-06-23T14:36:33.817364+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -416,7 +446,7 @@
           "published": "2026-06-23T04:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e603be60baeb578b4e1a409f9ea393c1",
@@ -899,6 +929,16 @@
           "is_new": false
         },
         {
+          "id": "573dff0981ff4ed7945b939e0f542eac",
+          "title": "[단독] [2028전형계획] SKY 1만1657명 수시66.7%'확대'..서울대 정시30.7% 연대 31% - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZTc5OXFMQjRkMEs4UkpSRlZrSWU2ZmVUZExlczhleG9xU29uZkx3S1RHUG84YmUyamF6MVdRbWF1NEtkQ1QxdmNEQWE0Tkp5LXg1SGp6ZmVKeTRNYkpfTWk2aHJ6cGUxalVocg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-04-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "978c44608a7e942d569f689fd437fe93",
           "title": "2028대입, 교과·논술까지 번지는 '수능최저'... 수능 학습 약한 학생 대비 시급 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FYlB2ZURZV0I0VDE4dmlLZXFPT3JKUVItOXV6dXdjUjd5OEpGaXBQN3dOVkVHbV9QQXVoWlQ0M3dNblA4ZmZ6czBUNHB1SEpIak1yWW5QWkJOeGNlazBfWW5ISU1Wdw?oc=5",
@@ -929,31 +969,11 @@
           "is_new": false
         },
         {
-          "id": "627f18a80d62c0dd06340e1c986984b1",
-          "title": "동국대, 2028학년도 정시 '수능 80%+학생부 20%' 개편 - 아시아타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xTEhqLUN1dGE2OHFZTWVJUzRiblRGV29Pa1V0ZHRhNkxrbERkdjIzRWw5QnU4bWNJeEhMaWRNcGZ4NHIydm5qTVJDWUlWUHpVOE94XzQ5XzhXUU9Zanc?oc=5",
-          "source": "아시아타임즈",
-          "published": "2026-04-27T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "6bacc803df640779c373086ab854e081",
           "title": "[유성룡의 입시포인트] 2027학년도 인서울 대학 수시 학생부교과전형 선발 방법 - 조선에듀",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAybVlJdEw4MXQzaTJfaHFTa2VrNFF1dENxYWFzTC01OXB5WEdxOWRoMGVGdkExTm1IVTY3RzFyVmItV1pBbWRnNWlOT2dzdXgyaTQwX2ZjM3dRM0FnY2ZtdjQ3MWdrdmpvVlYta0E5aw?oc=5",
           "source": "조선에듀",
           "published": "2026-04-09T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a03e8671bb373ab7c8cace678f0b893d",
-          "title": "2027학년도 대입 논술전형, '창의형 신설·과학논술 도입'... 대학별 고사 판도 바뀐다 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12OFJQTTNZQ21LNEZwdU1Rdnp6a05lTzkwWUhCdDRZWU5BOXhKWEJFRUJSbkU1TnpZaW51Y1Qxcm9KcEZRTTFqTTI0MWZXZmtkaDlFN241Umw0NEw1YjQ2T1hTTGV0UQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-03-01T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1181,7 +1201,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b0daab51ebd6a173932ca16b53a87bea",
@@ -1253,7 +1273,7 @@
           "published": "2026-06-23T00:00:04+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9c7f7a30e23e3c2e95bf2d0b6777c00a",
@@ -1524,6 +1544,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "a03e8671bb373ab7c8cace678f0b893d",
+          "title": "2027학년도 대입 논술전형, '창의형 신설·과학논술 도입'... 대학별 고사 판도 바뀐다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12OFJQTTNZQ21LNEZwdU1Rdnp6a05lTzkwWUhCdDRZWU5BOXhKWEJFRUJSbkU1TnpZaW51Y1Qxcm9KcEZRTTFqTTI0MWZXZmtkaDlFN241Umw0NEw1YjQ2T1hTTGV0UQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-03-01T08:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         }
       ]
     },
@@ -1540,7 +1570,7 @@
           "published": "2026-06-23T00:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "96a2612b36c0bede7803bd3fb2cdb0af",
@@ -1903,6 +1933,16 @@
           "is_new": false
         },
         {
+          "id": "87493c9b9b9866da196cfd1c2685a316",
+          "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-03-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -1927,7 +1967,7 @@
           "published": "2026-06-23T01:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ce6a5962261a4a4a4aaeb12fb446379f",
@@ -1937,7 +1977,7 @@
           "published": "2026-06-23T01:44:19+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6f42c65d4842c87ce2b86c0e96a6da6e",
