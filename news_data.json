@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T20:07:46.152027+00:00",
+  "updated_at": "2026-06-23T21:41:55.864300+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-23T19:52:40.325268+00:00",
+          "published": "2026-06-23T21:26:57.525580+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -423,7 +423,7 @@
           "title": "세특은 화려한데 왜 떨어질까?… 학생부종합전형 당락 가르는 행특의 힘",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53247",
           "source": "에듀진",
-          "published": "2026-06-23T19:55:17.205856+00:00",
+          "published": "2026-06-23T21:29:34.405682+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -433,10 +433,20 @@
           "title": "[2027수시] 서강대 학종 개편.. 일반전형Ⅰ·Ⅱ 분리, 자유전공 확대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53199",
           "source": "에듀진",
-          "published": "2026-06-23T19:55:15.249569+00:00",
+          "published": "2026-06-23T21:29:32.478221+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "89b719d05d9306e9d26760e86f607d50",
+          "title": "내신 5등급제·통합수능 시대… 학생부·정성평가 비중 는다",
+          "link": "https://n.news.naver.com/mnews/article/081/0003655224?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-06-23T20:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4d47f991639f84dfb5dfddd3d3d2b61d",
@@ -873,16 +883,6 @@
           "title": "2028학년도 SKY 입시, 학생부 영향력 커진다 - 대경일보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbDZ2UE14OUlSR01tc0VLV2R0NVFvZDllLUVqVENWaWRPQjdBTk1heE1DaWJ4SjJsdFltc3BqWldJYURWdi1RNU5GdmNnWHJJdlg1cEF1SzloWEhXVjJ3TEk4SC16UUxS?oc=5",
           "source": "대경일보",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "69acdc0fa3d119aa32aee118ccbe229c",
-          "title": "내년 'SKY 대입' 핵심 평가 요소는 학생부…수능 영향력 ↓ - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSmZLaldUU3FaTjctSkJuSFNIZkVZUGJrRmJsT2JDN1p2ZDBXejViUkFDODJyREpaQlhlbUVmUVM4LW01SFZsVnRxTXJDVUhTdXNIa0tLRUtPQnlyTmNkRnpyalNYbjFGcVHSAW9BVV95cUxOaVRDcVRBRFFWVnpwMzNBRWN6TVM4RHlXQTM1b3pza09ZY3JRcWY3N2ZlYURrNEZ1UGpCcV9UeU9wSE15NWgxMW1pVnhNMTdLdk50U2NrWEkzMl9obHRLRXduRlE1NHFMejAzN0NfMzA?oc=5",
-          "source": "머니투데이",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
