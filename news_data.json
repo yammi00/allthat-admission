@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:04:28.088454+00:00",
+  "updated_at": "2026-06-24T19:47:24.793467+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -1057,6 +1057,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a03e8671bb373ab7c8cace678f0b893d",
+          "title": "2027학년도 대입 논술전형, '창의형 신설·과학논술 도입'... 대학별 고사 판도 바뀐다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12OFJQTTNZQ21LNEZwdU1Rdnp6a05lTzkwWUhCdDRZWU5BOXhKWEJFRUJSbkU1TnpZaW51Y1Qxcm9KcEZRTTFqTTI0MWZXZmtkaDlFN241Umw0NEw1YjQ2T1hTTGV0UQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-03-01T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         }
       ]
     },
@@ -1191,6 +1201,16 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DSk12cU14dWZxb1BWT2dTRnFPLVQxM2wxd3JvQThsNFNNaGZUVUhvWF9Fd1Mteks1MmwzRVlNbENkZWhRSFNna01UTWVkUkJoTXfSAVNBVV95cUxQYk1waFhMVUx6ell2LUU3eXFqeGlHZlZJUEtXTTN4NjlDTnlLM0hzSm8ydVczMUN0OFdqUlVERVNaMmxXWENCeEVZUFZLc2owbUsySQ?oc=5",
           "source": "서울경제",
           "published": "2026-06-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "12d6a62a2cc84f066749ed2a1c6b340f",
+          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WYkM4elo5NjVmUkhmcE13aVpxUkhEdjBZZk1Fb25Od2ttMXlaZHpnNDE1ZmFvb1B5TTRYNkhYd3NBd3NNUUJYbXh3NA?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1675,16 +1695,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "a03e8671bb373ab7c8cace678f0b893d",
-          "title": "2027학년도 대입 논술전형, '창의형 신설·과학논술 도입'... 대학별 고사 판도 바뀐다 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12OFJQTTNZQ21LNEZwdU1Rdnp6a05lTzkwWUhCdDRZWU5BOXhKWEJFRUJSbkU1TnpZaW51Y1Qxcm9KcEZRTTFqTTI0MWZXZmtkaDlFN241Umw0NEw1YjQ2T1hTTGV0UQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-03-01T08:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2014,6 +2024,16 @@
           "is_new": false
         },
         {
+          "id": "60ba37eae1bdec9ef55c1a45e29aea58",
+          "title": "2028 서·연·고 수시, '수능최저 폐지' 이면... 입시 난이도는 오히려 상승 우려 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwbV9OLTlQTThndl9ya1FHeW5EY1h2aFZsa2NDVWtQWlQ2RzV5bHdzWVFGX0lCOW5md1o4V0pENmxSdVl1MGNWWlpJblFqcUNjTXM4UHpBRGtacVg2cThVQmlIS2Fldw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-21T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "1db3112de35be2959861122dd359a59a",
           "title": "[입시의 정석] 수시 모집요강 공개 임박…2027학년도 핵심 변수는?",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60726013/N",
@@ -2289,20 +2309,20 @@
           "is_new": false
         },
         {
-          "id": "a1802b3970a05ab277de3005bf19d0ca",
-          "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QTUZzZG1YSEl1NDVtem9VMU8zUEVBUW41ZUZDanQ1NlV0QVZWQ211UE1VVDAzNHZDN1NaYUs5QU9YRUFIY1hmU0lhaXpRbmdIZXlNWVNXT3NBZ2_SAWBBVV95cUxQc2xDeTNXUzRqZ2FyNzFvRTl6blRzdjAzQ2JqV0JRTlBhMFkxanctUklnWm9xS1NwNmREYVJaSFZONDhsaDJtTmZDN3ZVQ25NOEE2QVE0MWFlamVSZ1g0Zl8?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-06-07T07:00:00+00:00",
+          "id": "d8e4bcf7331fe6704f88d403733ec3af",
+          "title": "2028 대입도 결국 특목고·자사고가 유리해졌다 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10ZjcwZk5nVXdsUWUyemJmbEdKWVJ2YmFuWkd6d0JJODlSeDNMOHJWb1phY0ZHenRyWmZhaEtlam51emdpLWhYRUtlM1BDZ0hCTk5fT3lMX2JRRjZLNTBHSy1NTUtMbkphSEHSAW5BVV95cUxQOGZTNFp1aHJFOUlTczNsYURFSVJFZ2loWUc4OWJISkIzLTJwTEx5ODg0LWdzLUFFYVlrZ3ozYWtlLXFZQ1cwTkZWSGpSUklxZEkzeXc2dXM5WDA0R3pBTF92YUhFSFQyOENsMnRXQQ?oc=5",
+          "source": "조선일보",
+          "published": "2026-06-09T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "a9d3e8b849e0dfc4576f26a37688a6bf",
-          "title": "지난해 학업중단 고교생 1만8661명…최근 7년 새 최대 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZTl3bHdpT2hMeGp6ZE5QRHNFUGdvMkxuR2o5TEFiM3p5RUN1eEJYRVVYQWgwQUJBY1hLS19seVpNbFhramZJWk91b3o1R3h4dEVEYi1DWFJ1LVpWbzI0aE1RR2ozMzkyNXNn0gFmQVVfeXFMTlY0RUpBS3VXV0RsWkpDNDVsTlJ0ZFM0eUEzRjFPQVhIX01VeTZzQ1AwTWJDVlkyTmgzLTBZMXRpZmhuYU1WNTFxclFVRFZJQklkZXUyTVlJbldfNTh3c3lJTlNXT3Vn?oc=5",
-          "source": "동아일보",
+          "id": "40f0c8a88899ab70e45b355f42828b01",
+          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwS1BGQjB0OC1xMTVkTVREOGlhVVRqWVowdl8xRHJ2cENXSzltRFg1aU5HaDhqaWJMcUVEbTNGV1ZiN1hreVpndi1GV0RDdjg?oc=5",
+          "source": "v.daum.net",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
