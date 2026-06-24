@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:27:56.574238+00:00",
+  "updated_at": "2026-06-24T18:04:28.088454+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -322,6 +322,16 @@
           "is_new": false
         },
         {
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "b398c104712530e87994ce1898b522c3",
           "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
@@ -336,16 +346,6 @@
           "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
           "source": "뉴시스",
-          "published": "2026-06-04T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "73782df835d1909147a0ab354d84f494",
-          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
-          "source": "위키트리",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1191,16 +1191,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DSk12cU14dWZxb1BWT2dTRnFPLVQxM2wxd3JvQThsNFNNaGZUVUhvWF9Fd1Mteks1MmwzRVlNbENkZWhRSFNna01UTWVkUkJoTXfSAVNBVV95cUxQYk1waFhMVUx6ell2LUU3eXFqeGlHZlZJUEtXTTN4NjlDTnlLM0hzSm8ydVczMUN0OFdqUlVERVNaMmxXWENCeEVZUFZLc2owbUsySQ?oc=5",
           "source": "서울경제",
           "published": "2026-06-07T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "12d6a62a2cc84f066749ed2a1c6b340f",
-          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WYkM4elo5NjVmUkhmcE13aVpxUkhEdjBZZk1Fb25Od2ttMXlaZHpnNDE1ZmFvb1B5TTRYNkhYd3NBd3NNUUJYbXh3NA?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2299,10 +2289,20 @@
           "is_new": false
         },
         {
-          "id": "40f0c8a88899ab70e45b355f42828b01",
-          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwS1BGQjB0OC1xMTVkTVREOGlhVVRqWVowdl8xRHJ2cENXSzltRFg1aU5HaDhqaWJMcUVEbTNGV1ZiN1hreVpndi1GV0RDdjg?oc=5",
-          "source": "v.daum.net",
+          "id": "a1802b3970a05ab277de3005bf19d0ca",
+          "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QTUZzZG1YSEl1NDVtem9VMU8zUEVBUW41ZUZDanQ1NlV0QVZWQ211UE1VVDAzNHZDN1NaYUs5QU9YRUFIY1hmU0lhaXpRbmdIZXlNWVNXT3NBZ2_SAWBBVV95cUxQc2xDeTNXUzRqZ2FyNzFvRTl6blRzdjAzQ2JqV0JRTlBhMFkxanctUklnWm9xS1NwNmREYVJaSFZONDhsaDJtTmZDN3ZVQ25NOEE2QVE0MWFlamVSZ1g0Zl8?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-06-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a9d3e8b849e0dfc4576f26a37688a6bf",
+          "title": "지난해 학업중단 고교생 1만8661명…최근 7년 새 최대 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZTl3bHdpT2hMeGp6ZE5QRHNFUGdvMkxuR2o5TEFiM3p5RUN1eEJYRVVYQWgwQUJBY1hLS19seVpNbFhramZJWk91b3o1R3h4dEVEYi1DWFJ1LVpWbzI0aE1RR2ozMzkyNXNn0gFmQVVfeXFMTlY0RUpBS3VXV0RsWkpDNDVsTlJ0ZFM0eUEzRjFPQVhIX01VeTZzQ1AwTWJDVlkyTmgzLTBZMXRpZmhuYU1WNTFxclFVRFZJQklkZXUyTVlJbldfNTh3c3lJTlNXT3Vn?oc=5",
+          "source": "동아일보",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
