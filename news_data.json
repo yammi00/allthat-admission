@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T18:20:27.894041+00:00",
+  "updated_at": "2026-06-25T21:34:15.784829+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-25T18:05:33.126684+00:00",
+          "published": "2026-06-25T21:25:21.133262+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -443,7 +443,7 @@
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
           "source": "에듀진",
-          "published": "2026-06-25T18:08:04.709936+00:00",
+          "published": "2026-06-25T21:28:11.096211+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -929,16 +929,6 @@
           "is_new": false
         },
         {
-          "id": "60ba37eae1bdec9ef55c1a45e29aea58",
-          "title": "2028 서·연·고 수시, '수능최저 폐지' 이면... 입시 난이도는 오히려 상승 우려 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwbV9OLTlQTThndl9ya1FHeW5EY1h2aFZsa2NDVWtQWlQ2RzV5bHdzWVFGX0lCOW5md1o4V0pENmxSdVl1MGNWWlpJblFqcUNjTXM4UHpBRGtacVg2cThVQmlIS2Fldw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-21T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "3831b61fe44bde9ec034cc7213405a54",
           "title": "[에듀플러스][2028 대입 포인트]①서울대, 수시·정시 다 바꿨다…개편 핵심은 '면접·교과역량' - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1SFpIbnJJUWhvR3hPdjY5ZjJoMExLYmdDYV9hcThSQ3hmbThlNklxV1NObzM4MVJRT2ZKc3ljZjA0WlI1YUltWkJncGM2QQ?oc=5",
@@ -989,11 +979,11 @@
           "is_new": false
         },
         {
-          "id": "6bcea0af2033424d0565bbd024409c86",
-          "title": "SKY, 학생부 중요성 커진다…수시 58% '수능 최저' 없애 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GcklBME1TWkhlakNDOXNsMXJ5VEdFb2NsNjlFaWQ2RHNVVE5hYVN2X0s4TmZKWVhqR1RockRoRlI4c0pYZU5SRzNNYkp1RnA4a0tV?oc=5",
-          "source": "네이트",
-          "published": "2026-05-11T07:00:00+00:00",
+          "id": "0aadb21b9fe952175f3302a043699d40",
+          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1009,21 +999,41 @@
           "is_new": false
         },
         {
-          "id": "7ebb95f4eecab450fa4c776d406ce9b8",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHhZNG9DOXFKQ29fMllPRGJra3prZjVJZmRUYk9tdVVpamdyaHpWVEg4MkVhcmNHWDlMdFVPRFRzUXNIRHJhSHhUc01tNFMxN09OSnF3TzFlN2huYUtNTlNNa0laVmNFY3FKQi0ybGpwQ0dqNTBwQjBjemd0eGhvbQ?oc=5",
-          "source": "이데일리",
+          "id": "3e478a0c8232b9864614a88f9e6ea1d7",
+          "title": "2028학년도 대입, 스카이 수시 수능 최저 미적용 비중 17.7%p 급증 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QcnJQQUJScWVLa1pxZ0pWaTdPRWZ1RUNtN2VUaTdzbWlkdk9pSHk2Mmd3MkRmRTdWaDhZVEo3ZVFaMGFINVdfMl94Yjc2d1g1VnFQZldhRi0xX2VjemxieGZrVnF4a28?oc=5",
+          "source": "2news.co.kr",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "0aadb21b9fe952175f3302a043699d40",
-          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
-          "source": "v.daum.net",
+          "id": "e5e2d778534807e3d46fd70c97b12d91",
+          "title": "‘수능 올인’ 안 통한다…2028 SKY 입시, 학생부가 핵심 변수 - issueon.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTjdiX09LUEp3QzNrcEtiOEU2Z2hxUTUwdTNFU2p4ZnJ4WGxzS2l0c3NBNEU0Vlc5NmkzTV9sckZrZTlPVE0xNENQbllhdjRWWW4xNTc2N1hZOHFFdXdvb01DYVFtd0lYMGFV?oc=5",
+          "source": "issueon.co.kr",
           "published": "2026-05-10T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "ed483f8d02c04865931862acfc1801fe",
+          "title": "2028학년도 SKY 입시, 학생부 영향력 커진다 - 대경일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbDZ2UE14OUlSR01tc0VLV2R0NVFvZDllLUVqVENWaWRPQjdBTk1heE1DaWJ4SjJsdFltc3BqWldJYURWdi1RNU5GdmNnWHJJdlg1cEF1SzloWEhXVjJ3TEk4SC16UUxS?oc=5",
+          "source": "대경일보",
+          "published": "2026-05-10T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "771ed46c3d65c718d51395a37054e8ce",
+          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리TV",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
+          "source": "이데일리TV",
+          "published": "2026-05-09T23:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1049,21 +1059,21 @@
           "is_new": false
         },
         {
-          "id": "7ce714e0fdae811f390cdfe52e4b985f",
-          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-06T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "e150c8607e32dea53a3aaafd5e9e7a81",
           "title": "[입시의 정석] 내신·수능 다 바뀌는 2028 대입…&quot;편식 공부는 금물&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60721080/N",
           "source": "news.ebs.co.kr",
           "published": "2026-05-05T09:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "573dff0981ff4ed7945b939e0f542eac",
+          "title": "[단독] [2028전형계획] SKY 1만1657명 수시66.7%'확대'..서울대 정시30.7% 연대 31% - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZTc5OXFMQjRkMEs4UkpSRlZrSWU2ZmVUZExlczhleG9xU29uZkx3S1RHUG84YmUyamF6MVdRbWF1NEtkQ1QxdmNEQWE0Tkp5LXg1SGp6ZmVKeTRNYkpfTWk2aHJ6cGUxalVocg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-04-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1236,16 +1246,6 @@
           "is_new": false
         },
         {
-          "id": "12d6a62a2cc84f066749ed2a1c6b340f",
-          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WYkM4elo5NjVmUkhmcE13aVpxUkhEdjBZZk1Fb25Od2ttMXlaZHpnNDE1ZmFvb1B5TTRYNkhYd3NBd3NNUUJYbXh3NA?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-05-22T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "90bab9d261435c0ba374beffc84f4d97",
           "title": "[단독] 2028의대 정시 983명(27.2%) '문호 축소'..' '무한N수' 불가능해지...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=610600",
@@ -1271,16 +1271,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxYWljNExzREc0WkQ0UU16eURLSTY5RTNVX1g2NU5aWFp4Nk04NFRUeGJQZEZLMktJYUV6U2d3T1ZrVl9ZSEdqV2o0bHNjcnE3TzJqdVpwZmFCN250dUxtV19Ta2g?oc=5",
           "source": "베타뉴스",
           "published": "2026-05-12T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e5e2d778534807e3d46fd70c97b12d91",
-          "title": "‘수능 올인’ 안 통한다…2028 SKY 입시, 학생부가 핵심 변수 - issueon.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTjdiX09LUEp3QzNrcEtiOEU2Z2hxUTUwdTNFU2p4ZnJ4WGxzS2l0c3NBNEU0Vlc5NmkzTV9sckZrZTlPVE0xNENQbllhdjRWWW4xNTc2N1hZOHFFdXdvb01DYVFtd0lYMGFV?oc=5",
-          "source": "issueon.co.kr",
-          "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
