@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T02:45:51.255009+00:00",
+  "updated_at": "2026-06-25T07:51:58.282451+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,10 +16,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-25T02:39:19.097683+00:00",
+          "published": "2026-06-25T07:36:58.354552+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8f96b707dd489e02d56f5342c1a96977",
@@ -29,7 +29,7 @@
           "published": "2026-06-25T00:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9d3ce014f5f466f3b6c41bdaab5ad001",
@@ -332,16 +332,6 @@
           "is_new": false
         },
         {
-          "id": "fa77710245fa9df65437b833da1b8533",
-          "title": "고3 6월 모의고사 정답지 공개... 출제 경향은? - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZeDdyc2lXOXpNX1lBOXhiekM5aTNUNTQtM1Bhc0c5WThzVUNGMXF6ZVpyX2h3bi1qVWJKTWx4MTNoOG5ZbUI4WndMb1MyRGtHVWhRc1VVMVdzZ3ZyT3dXb2RQYXgzTHNaX1E?oc=5",
-          "source": "금강일보",
-          "published": "2026-06-04T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "73782df835d1909147a0ab354d84f494",
           "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
@@ -366,6 +356,16 @@
           "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
           "source": "뉴시스",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "fa77710245fa9df65437b833da1b8533",
+          "title": "고3 6월 모의고사 정답지 공개... 출제 경향은? - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZeDdyc2lXOXpNX1lBOXhiekM5aTNUNTQtM1Bhc0c5WThzVUNGMXF6ZVpyX2h3bi1qVWJKTWx4MTNoOG5ZbUI4WndMb1MyRGtHVWhRc1VVMVdzZ3ZyT3dXb2RQYXgzTHNaX1E?oc=5",
+          "source": "금강일보",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -453,7 +453,17 @@
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
           "source": "에듀진",
-          "published": "2026-06-25T02:42:03.651642+00:00",
+          "published": "2026-06-25T07:39:31.846413+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "895afdbbc0b5f1e847a0c4dddd1b1367",
+          "title": "[에듀플러스][2028 대입 포인트]⑥한양대, 수시 67%까지 확대…정시 33%로...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003441217?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-06-25T03:21:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -466,7 +476,7 @@
           "published": "2026-06-25T00:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3e8c455d3af49d099f8de77bfcf2fa27",
@@ -1049,6 +1059,16 @@
           "is_new": false
         },
         {
+          "id": "7ce714e0fdae811f390cdfe52e4b985f",
+          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-06T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "e150c8607e32dea53a3aaafd5e9e7a81",
           "title": "[입시의 정석] 내신·수능 다 바뀌는 2028 대입…&quot;편식 공부는 금물&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60721080/N",
@@ -1236,6 +1256,16 @@
           "is_new": false
         },
         {
+          "id": "12d6a62a2cc84f066749ed2a1c6b340f",
+          "title": "‘서성한’ 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WYkM4elo5NjVmUkhmcE13aVpxUkhEdjBZZk1Fb25Od2ttMXlaZHpnNDE1ZmFvb1B5TTRYNkhYd3NBd3NNUUJYbXh3NA?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-05-22T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "90bab9d261435c0ba374beffc84f4d97",
           "title": "[단독] 2028의대 정시 983명(27.2%) '문호 축소'..' '무한N수' 불가능해지...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=610600",
@@ -1343,9 +1373,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "79e107ed49b492e6600d9b8ef6a586f9",
-          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.25. 11시 ...",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095539&lev=0&m=0301&s=suneung",
+          "id": "849d5d8b0f86acffbae61189d95d61f0",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.25. 15:30 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095544&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-06-25T00:00:00+00:00",
           "type": "official",
@@ -1679,16 +1709,6 @@
           "is_new": false
         },
         {
-          "id": "7ce714e0fdae811f390cdfe52e4b985f",
-          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-06T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "88dc6de117eb015adf8aeb4160197faa",
           "title": "2027대입설명회 총망라 ‘대학/공교육/지자체’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KY3NGWGpLOFFVZHpieThKckMzekVRS2VObkE3YU9JME80TWNKaG5UUXB4T0ZPN1BOSG5fQXFiR1BuOHg2NTBXNS1veGx3eng2ZXh3S1JDN3V1STM4OHVOeGs1bVJ0S2VBaVRjbg?oc=5",
@@ -1765,6 +1785,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "30610b727c31163c2c42ff28ecbc9b1f",
+          "title": "&quot;수시 합격 전략 알려준다&quot;… 전국 교육청·지자체 대입박람회 잇따라",
+          "link": "https://news.unn.net/news/articleView.html?idxno=593883",
+          "source": "news.unn.net",
+          "published": "2026-06-25T06:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a028abe0294a862bca9790ab3f6f62e0",
           "title": "입시 논술, ‘글솜씨’가 아닌 ‘독해력’이 당락 가른다 [전문가 칼럼...",
@@ -2406,26 +2436,6 @@
           "link": "https://n.news.naver.com/mnews/article/079/0004151404?sid=100",
           "source": "www.nocutnews.co.kr",
           "published": "2026-05-27T12:47:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f7baf4d7aebf6f1e16eba7f3416b3206",
-          "title": "용인외대부고, '2027 고입' 미리보기... 모집요강 전에 알아야 할 6가지 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yR0NvaDlwcWlPT0t6NWxfNmx4NFVKSFlUbUNFdkhVYnptQ0VsUTc5WC1oUzNUUkM3SDVvaWpsZXlrcjI2c0dxaE9pSE5zbF9UdzJCOVBmMWFFbEpIdkpMUHQ0LXJPQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-26T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ccf7f28b393092462e8c9ea1c8f26e0f",
-          "title": "안산시, 공교육 기반 맞춤형 진로진학상담센터 본격 운영",
-          "link": "http://www.breaknews.com/1209717",
-          "source": "www.breaknews.com",
-          "published": "2026-05-26T03:58:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
