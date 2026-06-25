@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T21:34:15.784829+00:00",
+  "updated_at": "2026-06-25T23:26:27.728265+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-25T21:25:21.133262+00:00",
+          "published": "2026-06-25T23:11:20.862611+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -322,20 +322,20 @@
           "is_new": false
         },
         {
-          "id": "73782df835d1909147a0ab354d84f494",
-          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
-          "source": "위키트리",
+          "id": "b398c104712530e87994ce1898b522c3",
+          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
+          "source": "2news.co.kr",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "b398c104712530e87994ce1898b522c3",
-          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
-          "source": "2news.co.kr",
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -443,7 +443,7 @@
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
           "source": "에듀진",
-          "published": "2026-06-25T21:28:11.096211+00:00",
+          "published": "2026-06-25T23:13:52.389025+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1765,6 +1765,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "0a5d2363149e601dff0155a8dbbc68f0",
+          "title": "작년 입결만 보고 쓰는 수시 원서는 위험…&quot;올해 변수부터 따져야&quot;",
+          "link": "https://www.newspim.com/news/view/20260626000057",
+          "source": "www.newspim.com",
+          "published": "2026-06-25T23:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "30610b727c31163c2c42ff28ecbc9b1f",
           "title": "&quot;수시 합격 전략 알려준다&quot;… 전국 교육청·지자체 대입박람회 잇따라",
