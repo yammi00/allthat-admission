@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T07:51:58.282451+00:00",
+  "updated_at": "2026-06-25T10:51:20.868258+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-25T07:36:58.354552+00:00",
+          "published": "2026-06-25T10:36:36.753149+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -453,7 +453,7 @@
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
           "source": "에듀진",
-          "published": "2026-06-25T07:39:31.846413+00:00",
+          "published": "2026-06-25T10:39:05.881890+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -466,7 +466,7 @@
           "published": "2026-06-25T03:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4e6e416018f55efe190502617b9d28df",
@@ -1373,9 +1373,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "849d5d8b0f86acffbae61189d95d61f0",
-          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.25. 15:30 ...",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095544&lev=0&m=0301&s=suneung",
+          "id": "849c4fd25bacb646a05d9e698e830544",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.25. 17시 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095546&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-06-25T00:00:00+00:00",
           "type": "official",
@@ -1793,7 +1793,7 @@
           "published": "2026-06-25T06:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a028abe0294a862bca9790ab3f6f62e0",
@@ -1940,7 +1940,7 @@
           "title": "[단독] [2027수시] 44개 대학 논술 일정.. ‘수능직후’ 11월21일 고대 성대 경희대 건대 숙대 등 10개교 ‘격전’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSFFvaHF0T2RQbWFNT0Jka1JOZGpHb181dE8wMWluLThaRUlFNVFfNUtRcmo2R3RWcm9RYjJzbFpJbXgyYk9KUVA1Ry1mMEdtVURYY3dwa3NEbzg2aVU1QVFNRjFPOTZNWHZpdw?oc=5",
           "source": "베리타스알파",
-          "published": "2026-06-15T08:46:00+00:00",
+          "published": "2026-06-15T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2186,6 +2186,16 @@
           "is_new": false
         },
         {
+          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
+          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-03-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -2213,11 +2223,11 @@
           "is_new": false
         },
         {
-          "id": "ce6a5962261a4a4a4aaeb12fb446379f",
+          "id": "4aea80a9512adba5e07928c237f73d37",
           "title": "동작구, 특목·자사고 진학 전략 특강 개최 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCV1RmTnNNcHI3OE0xWWZlYmt6QzV6N2t5U01xbGF4VzdQWmJlQ1llR2EyQkdsaGpwU2NhV2FJWV9lRE5reE1DRlBaR2syMkJWMnVZM0l6aVp4clJLMXhzZXZtMzFjZ0FiZlpSdEFMZDd6OTdEUFVj0gF3QVVfeXFMUEJXVGZOc01wcjc4TTFZZmVia3pDNXo3a3lTTXFsYXhXN1BaYmVDWWVHYTJCR2xoanBTY2FXYUlZX2VETmt4TUNGUFpHazIyQlYydVkzSXppWnhyUksxeHNldm0zMWNnQWJmWlJ0QUxkN3o5N0RQVWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaNjBsV2IzNUViVnlfaDQwMWlBRC1VTGVuTHRTN05oNjl2QUFuTXNXR3Viajc3Z3VPdlhVWExmbnVVRTk3dEM0QnphWEhSaFJZS3RwWFptRDF5QVE0bjI2QXo0STNsOWJLOG9NMkhtYW1ubG_SAXdBVV95cUxQQldUZk5zTXByNzhNMVlmZWJrekM1ejdreVNNcWxheFc3UFpiZUNZZUdhMkJHbGhqcFNjYVdhSVlfZUROa3hNQ0ZQWkdrMjJCVjJ1WTNJemlaeHJSSzF4c2V2bTMxY2dBYmZaUnRBTGQ3ejk3RFBVYw?oc=5",
           "source": "핀포인트뉴스",
-          "published": "2026-06-23T01:44:19+00:00",
+          "published": "2026-06-23T01:38:11+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
