@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:57:03.535399+00:00",
+  "updated_at": "2026-06-26T07:58:52.893106+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,10 +16,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-26T02:42:22.582122+00:00",
+          "published": "2026-06-26T07:44:08.352072+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a12d3067b927c0616a853a0dd898f610",
+          "title": "대입 수시 원서 전략, ‘입결’ 뒤 변수까지 따져야",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/26/2026062680096.html",
+          "source": "edu.chosun.com",
+          "published": "2026-06-26T05:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8f96b707dd489e02d56f5342c1a96977",
@@ -322,10 +332,10 @@
           "is_new": false
         },
         {
-          "id": "b398c104712530e87994ce1898b522c3",
-          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
-          "source": "2news.co.kr",
+          "id": "5c56b2cbb69a864c99ee86091f35235f",
+          "title": "2026 6월 모의고사 등급컷 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaXo4NmVOSVVrRzZyMVpCNU5lTnBIQS1UQkxrRGdEMllHVjh0Y0l4NmpJYlVfOXd6aUdiNklxWGM0b2dXc295bjllNm1OOXZGcnptNUU2UFlmeWcxVlJXcWh3bmRmRWtTaGc?oc=5",
+          "source": "금강일보",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -342,20 +352,20 @@
           "is_new": false
         },
         {
-          "id": "b3a3ec863f3c4d24691f5c30f407c750",
-          "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
-          "source": "뉴시스",
+          "id": "b398c104712530e87994ce1898b522c3",
+          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
+          "source": "2news.co.kr",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "fa77710245fa9df65437b833da1b8533",
-          "title": "고3 6월 모의고사 정답지 공개... 출제 경향은? - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZeDdyc2lXOXpNX1lBOXhiekM5aTNUNTQtM1Bhc0c5WThzVUNGMXF6ZVpyX2h3bi1qVWJKTWx4MTNoOG5ZbUI4WndMb1MyRGtHVWhRc1VVMVdzZ3ZyT3dXb2RQYXgzTHNaX1E?oc=5",
-          "source": "금강일보",
+          "id": "b3a3ec863f3c4d24691f5c30f407c750",
+          "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
+          "source": "뉴시스",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -438,6 +448,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "05f52873793254a34f06c92e4c64989c",
+          "title": "[교육칼럼] &quot;내신 명당 찾아 시외곽으로&quot; 옛말, 수능 면학 분위기 갖춘...",
+          "link": "https://n.news.naver.com/mnews/article/088/0001016414?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-06-26T04:35:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "b3a50a5f335f0e03747fdcd0c787b9b0",
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
@@ -979,20 +999,20 @@
           "is_new": false
         },
         {
-          "id": "0aadb21b9fe952175f3302a043699d40",
-          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
-          "source": "v.daum.net",
+          "id": "3802402b328c579200e4f3abc7c296fa",
+          "title": "서울대 수시, 수능 최저 없앤다…정시는 교과역량평가 40% 반영 - 한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RjB6WVFRckhoMnc1d2hSenhhM1JjdUFZTEoxY2NpMm41bHlnNEVVOEJlNXFJWF9vT0ZlUkwtbGFSajlZRW8xQ0UweVFXekpCOG9oV1hxd2V0Z9IBVEFVX3lxTFBjQkx1X3ZSaDlGTVh4bGRLTFQ2X0k0ZUY3ZktMUEwxWjZrUXp5R08wOHUwa2xicml5VGp4ZjBZTlVxTUxhRG9kOE1uTDl0THZzQ0ZiTQ?oc=5",
+          "source": "한국경제",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "3802402b328c579200e4f3abc7c296fa",
-          "title": "서울대 수시, 수능 최저 없앤다…정시는 교과역량평가 40% 반영 - 한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RjB6WVFRckhoMnc1d2hSenhhM1JjdUFZTEoxY2NpMm41bHlnNEVVOEJlNXFJWF9vT0ZlUkwtbGFSajlZRW8xQ0UweVFXekpCOG9oV1hxd2V0Z9IBVEFVX3lxTFBjQkx1X3ZSaDlGTVh4bGRLTFQ2X0k0ZUY3ZktMUEwxWjZrUXp5R08wOHUwa2xicml5VGp4ZjBZTlVxTUxhRG9kOE1uTDl0THZzQ0ZiTQ?oc=5",
-          "source": "한국경제",
+          "id": "0aadb21b9fe952175f3302a043699d40",
+          "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53Yi1udTRaSmZWZlpSOEJUQ3hWSTByT3lXWUFRSkhqdlVMSThhck1fVHNHUFRNeHVzRVFKMnFkS0dVbVFvYUxkMS1ROA?oc=5",
+          "source": "v.daum.net",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1363,9 +1383,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "3b704c7cabf2e2fbff9b59ace49877cc",
-          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.26. 11:30 ...",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095555&lev=0&m=0301&s=suneung",
+          "id": "f5ced432454b2f76b7fd03a3995b2bd9",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.26. 16:30 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095559&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-06-26T00:00:00+00:00",
           "type": "official",
@@ -1487,7 +1507,7 @@
           "published": "2026-06-26T01:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a3e1268f3a3923da990d2312e3e936b7",
@@ -1720,16 +1740,6 @@
           "is_new": false
         },
         {
-          "id": "88dc6de117eb015adf8aeb4160197faa",
-          "title": "2027대입설명회 총망라 ‘대학/공교육/지자체’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KY3NGWGpLOFFVZHpieThKckMzekVRS2VObkE3YU9JME80TWNKaG5UUXB4T0ZPN1BOSG5fQXFiR1BuOHg2NTBXNS1veGx3eng2ZXh3S1JDN3V1STM4OHVOeGs1bVJ0S2VBaVRjbg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-05-04T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "01c41dd825f25449c5d87055fa4b0db9",
           "title": "2028학년도 대입시행계획 3보. 논술전형 증가. - 괜찮은 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd2ZaczV0NTdoU1h0WWFQNlgyLVdUNVg1S3pMZFZ0MlBXUVRXaXd3dWhiVDZhbDVHbVY5U1NLWEdUaWhyUm1qTC1WUi1WYnhuUDlmbks5N21RM0hMTGpoYU1xSnhjYjg?oc=5",
@@ -1755,6 +1765,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxamNhdHBJVC1EYVQ4MkhoNV9ybkxoejB4RVFjUVRpTk42LVREdnRSaXNzM05RTGVwQzlYTU5qLW53VjFwSVNiLXJNVy1pSHhZUEhpNmVVbXZfbG1FcC1HcFpZYnpGQQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-04-10T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "9a03781b9dfc1b06bebd71f437fbe995",
+          "title": "“영어 1등급 비율까지 보겠다”… 평가원장이 직접 밝힌 2027 수능 '출제 방향' - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mb21zcm9HSmRsOXVEMXpUYVFodGRCZHd6NzBfUGY2VVVacktTaUFSaVc4Q01LM29lYTBMQURpR2RJZFRmLTRoZ1p2YTV5bVB1RC02aHd3?oc=5",
+          "source": "위키트리",
+          "published": "2026-03-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2467,6 +2487,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jckp5TDM5bUhVZC1Wbm1reVVUbjhqblN1c3NZcUQwV1ZaRXplZHBQQkFjczItVUNwc1hOWjJIem5hbFl2R0JTeUlUM2RsQldNTlhVaDRjclUzQVNSS3ExaHdJVEZpbUk?oc=5",
           "source": "E동아",
           "published": "2026-05-19T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "6d1115a42476734472a81644e8e36129",
+          "title": "한국교육개발원, '학교알리미' 활용법 공개... 내신 5등급제 학부모 정보 격차 해법 제 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hN1JGb1gycy1mZ0kwQnc3SEdUNFF3US1HZE9pSGtUYUktS0JzdWJmQzFiOTRsd3J6NUt0Z1dua040bm4xUVFxV0RYSjhNZzZYd1QxSExDUXhFNkFoMTRzTzYyTTVFdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
