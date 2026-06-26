@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:26:27.728265+00:00",
+  "updated_at": "2026-06-26T02:57:03.535399+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-25T23:11:20.862611+00:00",
+          "published": "2026-06-26T02:42:22.582122+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -443,7 +443,7 @@
           "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
           "source": "에듀진",
-          "published": "2026-06-25T23:13:52.389025+00:00",
+          "published": "2026-06-26T02:44:53.389224+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1059,6 +1059,16 @@
           "is_new": false
         },
         {
+          "id": "7ce714e0fdae811f390cdfe52e4b985f",
+          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-06T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "e150c8607e32dea53a3aaafd5e9e7a81",
           "title": "[입시의 정석] 내신·수능 다 바뀌는 2028 대입…&quot;편식 공부는 금물&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60721080/N",
@@ -1353,6 +1363,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "3b704c7cabf2e2fbff9b59ace49877cc",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.26. 11:30 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095555&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-06-26T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "849c4fd25bacb646a05d9e698e830544",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.25. 17시 ...",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095546&lev=0&m=0301&s=suneung",
@@ -1458,6 +1479,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "956eb69f8ddf0e28381412e8b519bc29",
+          "title": "GR831약술형논술연구소, 2027학년도 약술형 논술 15개 대학 모집요강 한눈에 정리 - 매일타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pR082Q05LTmxWVXRxM3JNZUxtMXBqS2VTSmJ3VlhWc0pCeDMzQXhJQ2o0QnliT281MmdxYUNuUDZ2aXVlcG04VkxBSUZDa3lVRnhna3BnY1pyUDNTV2c?oc=5",
+          "source": "매일타임즈",
+          "published": "2026-06-26T01:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a3e1268f3a3923da990d2312e3e936b7",
           "title": "‘약술형 논술’ 2027국민대 논술 대비법.. “인문은 독해력, 자연은 수학 기본기 핵심” - 베리타스알파",
@@ -1773,7 +1804,7 @@
           "published": "2026-06-25T23:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "30610b727c31163c2c42ff28ecbc9b1f",
