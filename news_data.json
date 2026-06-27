@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:51:44.654986+00:00",
+  "updated_at": "2026-06-27T13:33:30.271645+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-27T11:36:59.859762+00:00",
+          "published": "2026-06-27T13:18:29.799509+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -282,6 +282,16 @@
           "is_new": false
         },
         {
+          "id": "67612118071ef8f7de996343e7351cee",
+          "title": "6월 모평 이후 대입 전략...\"우선순위 설정하고 취약점 보완해야\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jYjVXR25vZktJYUhFNW5OTFMtUHFuR05ldXRqd1RWeVhEaHI3WC1wUzF2ZHQycWJneUZnN0VCVmktUnRSZDVIX1JDNVY1RFdMVndXM0dld200dUJZ?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-06-06T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "2737ae64837c883464bc48df95614e3e",
           "title": "2026년 6월 모의평가 고3 등급컷 공개… 성적표 통지는 7월",
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3601594",
@@ -412,20 +422,20 @@
           "is_new": false
         },
         {
-          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
-          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
-          "source": "베리타스알파",
+          "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
+          "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUWRYNXNXcXltUkRZdk9Oa25ncGp2WTZzSnNqOW4xZVVOb1hKU2dNak12bmp1Um94RWJuQ2oxUXRxanVqblZFQmVhSWZhWG1Cdjhaa0xaOE02MUlEaW85VVZhdw?oc=5",
+          "source": "CBC뉴스",
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "74aea9fffb8c8f03e66eb7eab0a87205",
-          "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUm1GTjRYSnktaFpiNG1iSHhnbDBNUDRVOTJUQkVhVzlqWURkU3A0YkdxWldibXJKR0FMaDJqLUZtRG8xaFBFUXN2RjllWGszVWwzUTJUa1ZnQkowUEtGMHZsSWY3OXVp?oc=5",
-          "source": "CBC뉴스",
+          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
+          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
+          "source": "베리타스알파",
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -443,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-27T11:39:24.874193+00:00",
+          "published": "2026-06-27T13:20:55.966390+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -649,10 +659,10 @@
           "is_new": false
         },
         {
-          "id": "3ce8149c022fb35ab189706a06b56222",
-          "title": "서울교육청, 수시 설명회부터 1대1 상담까지…2027 대입 진학지원 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HbkhvQjI3MUdXQ181R1JqOGYwWWhBMHNJNTgtZEFTLUhpRUd5XzdWWDFuSFo3TWt4Q1Jma0V0YWlqdGl6djRQNnMzQjBWTThPXzFzQmNDYXVLbzVOQjVZZGJMZWtZdXpuUGNrd0dR?oc=5",
-          "source": "네이트",
+          "id": "6c745aba5bb4bb6c4a3e1d292fb107b3",
+          "title": "서울시교육청, 2027 대입 수시 대비 진학지원 풀가동 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SNUJ4M1FabHVXVTctcHBfamVTdi01aVRBanlvZVREZWJndHVGSzVYdzFXMDNSUmJ0cXhlZ29xVXp2bW81aTNqY1lXWHVpRm9rUE5wMTNOX1dGeW5rNEFkVtIBeEFVX3lxTE9nMXl5aUMyeEx6bGZ1MGVrdldJX1U2ODFtVE03UWliSXBPWFJlOEZYWmU0bGt0SUlNQjBiNF9fRnVXNC1WVk15bTM5SUpPLVRyWk5TeWtEZFFJTjl0bDdXR2x1Mms1dW40X05wazN4Z0NiY1VIN3Jpeg?oc=5",
+          "source": "뉴시스",
           "published": "2026-06-21T00:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1089,16 +1099,6 @@
           "is_new": false
         },
         {
-          "id": "a007a0e9c74b137def68d8e73ae322e7",
-          "title": "2028학년도 입시서 수도권 대학 학생부종합·논술전형 확대 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IOEtSU3VfZkxUUXNCWnppRHotbVdjazlZZVdac1dHSFNrTkNTZmZiNGIxY3JkMHg1ZlJ4c2RRcFVOOFJXTWh1OVJXQXFhdVdPX2JiLVJVdldVbE3SAWBBVV95cUxPVG5LdHZnNnBtRTI4VzVodXJKU2dkUHRBOFBrYXZodHlyV18xM2Q5TU9QZXhNcVVGU2M5NEZLNDFybHBYUTdPcG5pWVVPSGN3aG5tRWtncG50dUhzWXFvQWQ?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-05-07T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "7ce714e0fdae811f390cdfe52e4b985f",
           "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
@@ -1144,6 +1144,16 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
           "source": "www.hankyung.com",
           "published": "2026-04-29T08:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1ac02e4790097648e736f33f012fd42f",
+          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1331,16 +1341,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
           "source": "www.veritas-a.com",
           "published": "2026-04-29T07:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ac02e4790097648e736f33f012fd42f",
-          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2127,9 +2127,9 @@
           "is_new": false
         },
         {
-          "id": "3470cb22598d669ca650c061adc48e5f",
-          "title": "가천대 2027학년도 수시 9월 7일 접수… 인공지능시스템학과 신설 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HTXpfb3duZDY1TjJfdlUzaC1GcjcwY3A2bjA5cDJGNFJqUHJnSF9zSVNldklkcXU0ajNOMEZLT3ZLOElwOGg5ejM5c2NGcWpSY0xPRWZ3SjFsWGl6MDBOblFWRUdodw?oc=5",
+          "id": "82c8c7a86c0e26568172ba689d31904f",
+          "title": "상명대, 2027학년도 수시 재외국민 특별전형 7월 6일 원서접수 개시 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkM3ZHLVY3Yl80NDZ0cTB4RFJ4dDBpMFJxcjRsQThZSHRiemk5dFRJV2NyM1RnS1hGclRIUEVEUDZCX1NiMWU4cE9iMmRPV3g3M0J4MUVmNU1oaFhEN3pYSmtFUklsZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-06-02T07:00:00+00:00",
           "type": "news",
@@ -2172,6 +2172,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=612809",
           "source": "www.veritas-a.com",
           "published": "2026-06-01T06:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "60d5e5b42af36f4dadb83bdef5904572",
+          "title": "서울과기대, '2027 수시 1747명' 확정... 양자융합물리학과 신설·자유전공 확대 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kYU1aREZ4d1E5NjV1Vk5wbHI3TGxBcVBMS3lla0JXbmE3ZXdHUHYxd1FIZHU1YlEyUkNMb09TQncxX3c1cmNXUmZQUk16cTIzR2w1cktrdzUzRUc0djkzQ0xva09oUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
