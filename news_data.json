@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T23:15:30.687292+00:00",
+  "updated_at": "2026-06-27T02:49:17.172918+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-26T23:00:25.636428+00:00",
+          "published": "2026-06-27T02:34:27.850788+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -322,16 +322,6 @@
           "is_new": false
         },
         {
-          "id": "5c56b2cbb69a864c99ee86091f35235f",
-          "title": "2026 6월 모의고사 등급컷 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaXo4NmVOSVVrRzZyMVpCNU5lTnBIQS1UQkxrRGdEMllHVjh0Y0l4NmpJYlVfOXd6aUdiNklxWGM0b2dXc295bjllNm1OOXZGcnptNUU2UFlmeWcxVlJXcWh3bmRmRWtTaGc?oc=5",
-          "source": "금강일보",
-          "published": "2026-06-04T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "e05a156296eaf9dddef588accd60fbd7",
           "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
@@ -366,6 +356,16 @@
           "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
           "source": "뉴시스",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "5c56b2cbb69a864c99ee86091f35235f",
+          "title": "2026 6월 모의고사 등급컷 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaXo4NmVOSVVrRzZyMVpCNU5lTnBIQS1UQkxrRGdEMllHVjh0Y0l4NmpJYlVfOXd6aUdiNklxWGM0b2dXc295bjllNm1OOXZGcnptNUU2UFlmeWcxVlJXcWh3bmRmRWtTaGc?oc=5",
+          "source": "금강일보",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -432,9 +432,9 @@
           "is_new": false
         },
         {
-          "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
+          "id": "74aea9fffb8c8f03e66eb7eab0a87205",
           "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUWRYNXNXcXltUkRZdk9Oa25ncGp2WTZzSnNqOW4xZVVOb1hKU2dNak12bmp1Um94RWJuQ2oxUXRxanVqblZFQmVhSWZhWG1Cdjhaa0xaOE02MUlEaW85VVZhdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUm1GTjRYSnktaFpiNG1iSHhnbDBNUDRVOTJUQkVhVzlqWURkU3A0YkdxWldibXJKR0FMaDJqLUZtRG8xaFBFUXN2RjllWGszVWwzUTJUa1ZnQkowUEtGMHZsSWY3OXVp?oc=5",
           "source": "CBC뉴스",
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-26T23:02:52.417489+00:00",
+          "published": "2026-06-27T02:36:54.721762+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -679,6 +679,16 @@
           "is_new": false
         },
         {
+          "id": "eb950d0dcec8e1517db76e2dad667ee4",
+          "title": "서울권 반도체 일반학과 수시 20.9% 늘었다…계약학과는 정원 유지 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZlAwcXFxaXAtN2wwa3k4bTllS3ZCbFpOd05VM0dEMjU4U3NtSlVWZHJsamlZZTRIc1JZX0hnZ0RJZng2LTYtTGhqTDA0akk4U3JFbDJQSWVQMnRV?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-06-17T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "47213ea6cc0e88f11346b063976dd888",
           "title": "[2027수시] '출렁이는 지형 변화' 논술전형.. 의약계열 지형 급변, 논술 영향력 확대 '주목' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UnI5QUt0S21Da0l5S0t0V2xpNUNmbGFwVUE2eXZPUXVSUGVlWFhtZlYtbk9ydzJlczllVlhYRjI1SDdBY3lvNkVRVm10UHZPcUd2bGNVUWhndU5XYThvb19La2VZS21oakgzWQ?oc=5",
@@ -734,16 +744,6 @@
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qTTdjZElxeDdYRXlzY2gyOUJ1NWJZZDE4eDNlTnNkY1B1bnoweW9VQ2hMUktpVGY0S3pfWDVHMjBONzZOMjhPTFh3eFpkTlFpNVZKaEZnOGY4NjJjSWNYbUlmbWc1dk9OVjRhakljNNIBb0FVX3lxTE1qTTdjZElxeDdYRXlzY2gyOUJ1NWJZZDE4eDNlTnNkY1B1bnoweW9VQ2hMUktpVGY0S3pfWDVHMjBONzZOMjhPTFh3eFpkTlFpNVZKaEZnOGY4NjJjSWNYbUlmbWc1dk9OVjRhakljNA?oc=5",
           "source": "머니투데이",
           "published": "2026-06-17T00:09:54+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "eb950d0dcec8e1517db76e2dad667ee4",
-          "title": "서울권 반도체 일반학과 수시 20.9% 늘었다…계약학과는 정원 유지 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZlAwcXFxaXAtN2wwa3k4bTllS3ZCbFpOd05VM0dEMjU4U3NtSlVWZHJsamlZZTRIc1JZX0hnZ0RJZng2LTYtTGhqTDA0akk4U3JFbDJQSWVQMnRV?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-06-17T00:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1550,21 +1550,21 @@
           "is_new": false
         },
         {
-          "id": "9d156fde2f77b14b2abde5a5cc2f17b6",
-          "title": "[추민규의 입시 돋보기] 2027학년도 약술형 논술, 네 가지 학습법",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/15/2026061580112.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-15T04:12:00+00:00",
+          "id": "0d96dec9c9681b46b06dc0f2a44c95ca",
+          "title": "[수학 논구술] 2027 수시 논술전형 수리논술 대비방안-서강대 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QSTRRWTBneHVPWXdIcm1uWjF0R1d3Y29vZGl6QlNlakd2cktFRUhhaUFoVldJVGlleGhSU3NCSmE5cFAwcEtIZk0yRDc1NWZUSzdoaEd2cW5OSk54eDVNenZmMzJlbjhmblRDYg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-06-15T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "0d96dec9c9681b46b06dc0f2a44c95ca",
-          "title": "[수학 논구술] 2027 수시 논술전형 수리논술 대비방안-서강대 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QSTRRWTBneHVPWXdIcm1uWjF0R1d3Y29vZGl6QlNlakd2cktFRUhhaUFoVldJVGlleGhSU3NCSmE5cFAwcEtIZk0yRDc1NWZUSzdoaEd2cW5OSk54eDVNenZmMzJlbjhmblRDYg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-06-15T00:00:00+00:00",
+          "id": "9d156fde2f77b14b2abde5a5cc2f17b6",
+          "title": "[추민규의 입시 돋보기] 2027학년도 약술형 논술, 네 가지 학습법",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/15/2026061580112.html",
+          "source": "edu.chosun.com",
+          "published": "2026-06-15T04:12:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1827,6 +1827,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "0170d3c8eebd1dc2791fae6700aff1d4",
+          "title": "수원대학교, 2027학년도 대학 입시박람회 참가 일정 공지 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SExwRGRoaTl4d1dZaGZWTUtmS1htQWVUaktUcFF6ZFk2MG1jTmJsZEtON0c5ZjlYSjBTS0YzY3lQSV9nZ2RkVFhkcXlncGd5YXc1MmFLT0JmNzlYdU9GWEEwemhpUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-06-26T14:05:41+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0a5d2363149e601dff0155a8dbbc68f0",
           "title": "작년 입결만 보고 쓰는 수시 원서는 위험…&quot;올해 변수부터 따져야&quot;",
           "link": "https://www.newspim.com/news/view/20260626000057",
@@ -2057,20 +2067,20 @@
           "is_new": false
         },
         {
-          "id": "2ce5a1678e96ad0e00cbb5a493aff11c",
-          "title": "연세대학교 2027학년도 수시모집 요강 공개… 인공지능융합대학 개편·첨단약과학과 신설 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdEpyV3VXTVNWcVk0b2NUd1c0dU4xUzhjaWF0VUhseTFiQUxYeFpnSjNhMm5UelBLd3JRcmZrSjdhZnJySmJOZHJrczdnaEl5enQwRFBCZWRiSllPRUxJVmt0cUhiUQ?oc=5",
-          "source": "교육을 비추다",
+          "id": "198158974cad8cc84608976ba792b650",
+          "title": "김영편입, 6월 예비 배치고사 대학별 지원컷 공개.. 주요 모의고사 일정 공개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVGpiN2hzclZDanVxRlgzMzM3eDhHOTRyQ0phQ1lzcjR5dVVPMEpGM2I0d0JQMWJEUU1FcG9OUDh2dGlTSDNodFBZTnE4aTBlN1NnQW1NSU43bktEbGp0QjlaSDIyUkFpZnk1Tg?oc=5",
+          "source": "베리타스알파",
           "published": "2026-06-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "198158974cad8cc84608976ba792b650",
-          "title": "김영편입, 6월 예비 배치고사 대학별 지원컷 공개.. 주요 모의고사 일정 공개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVGpiN2hzclZDanVxRlgzMzM3eDhHOTRyQ0phQ1lzcjR5dVVPMEpGM2I0d0JQMWJEUU1FcG9OUDh2dGlTSDNodFBZTnE4aTBlN1NnQW1NSU43bktEbGp0QjlaSDIyUkFpZnk1Tg?oc=5",
-          "source": "베리타스알파",
+          "id": "2ce5a1678e96ad0e00cbb5a493aff11c",
+          "title": "연세대학교 2027학년도 수시모집 요강 공개… 인공지능융합대학 개편·첨단약과학과 신설 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdEpyV3VXTVNWcVk0b2NUd1c0dU4xUzhjaWF0VUhseTFiQUxYeFpnSjNhMm5UelBLd3JRcmZrSjdhZnJySmJOZHJrczdnaEl5enQwRFBCZWRiSllPRUxJVmt0cUhiUQ?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-06-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2197,6 +2207,16 @@
           "is_new": false
         },
         {
+          "id": "ab6700bff425f88135e4503b470e5f9f",
+          "title": "[유성룡의 입시포인트] 경찰대학 2027학년도 입학전형 가이드 - 조선에듀",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdTE5NERVZ0YzcjlVWWk3Mkx6OXRrLWxwY3F2ZnJvRmtaZjdNaVJLbFNuMExEcHcyTGpCRlZBZjVwOUwwYXpqbEVyMjBKYlJQQW5qajEwbUwwVWlpTFlGckxkNzFTMTVvZ1hCaHUwWQ?oc=5",
+          "source": "조선에듀",
+          "published": "2026-04-28T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "70e8358f93472443ea50a7ed44e428c9",
           "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBTWlFVkJLVlhhM2FicFN6LXpwX202eDlWbmxhY29uWmhIY0EyeVFZdnJ2X0dCam9NM2ZXQTMwbVB6cDdrUVlnbVAwU2ZUcFpHUDlmcHF0T2JoZmt1REpyQlBrU19NaTg?oc=5",
@@ -2231,16 +2251,6 @@
           "title": "[그래픽] 2027학년도 수능 주요 일정 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVXVoNjNhVzFva3JZOFVxajRwQ0p0MEMzendvRUNrNVdnMzJza1doaXVidllYX2J4eWVwSVBmYWhLSXBYN1NHR1UtaEVDMmRFaGtxT0tMNUZ0dW_SAWBBVV95cUxQTEt5d2ZVajZ5aHhkdHBfUTVJcFc1SnZNajlUaFY4M3htcllXTF9tcmhWcVp0SHFOYmlFWjhTdDkwMTlPTlB3ODBsNTE4SEllMXp3ckFrZTk1LU9rZUJOWk4?oc=5",
           "source": "연합뉴스",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
-          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
-          "source": "뉴스핌",
           "published": "2026-03-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
