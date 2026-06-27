@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T02:49:17.172918+00:00",
+  "updated_at": "2026-06-27T07:02:53.743531+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-27T02:34:27.850788+00:00",
+          "published": "2026-06-27T06:47:58.455103+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-27T02:36:54.721762+00:00",
+          "published": "2026-06-27T06:50:21.795723+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -959,21 +959,21 @@
           "is_new": false
         },
         {
-          "id": "0f0acaf45d77bfed21412533b623ce54",
-          "title": "'서성한' 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNEZIdDFCLUctUWV3NnhCem1OSVE0VVphUDljdmZrZU5sU0NuZWVPUXJJQXlnQngzaWpfV2tQVlZUT2UxYjZRWGhvUHduMF9hSFh3?oc=5",
-          "source": "네이트",
+          "id": "fc28279776a00ccf51d2728ddd51e669",
+          "title": "수능만 잘 봐선 안 된다…서성한, 2028 대입서 출결·학생부 반영 확대 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZHByN3hzU1NUVU9aaE9abVVETnFjY05uNFdpY19MS2kwWkQyRV9TYnEwcmQyWUcwSGwzaks4Nmk3bXVKZ1JoR3IzQ3VoYkJ6RzZROTRLRTRhQQ?oc=5",
+          "source": "뉴스1",
           "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "3831b61fe44bde9ec034cc7213405a54",
-          "title": "[에듀플러스][2028 대입 포인트]①서울대, 수시·정시 다 바꿨다…개편 핵심은 '면접·교과역량' - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1SFpIbnJJUWhvR3hPdjY5ZjJoMExLYmdDYV9hcThSQ3hmbThlNklxV1NObzM4MVJRT2ZKc3ljZjA0WlI1YUltWkJncGM2QQ?oc=5",
-          "source": "전자신문",
-          "published": "2026-05-21T07:00:00+00:00",
+          "id": "0f0acaf45d77bfed21412533b623ce54",
+          "title": "'서성한' 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNEZIdDFCLUctUWV3NnhCem1OSVE0VVphUDljdmZrZU5sU0NuZWVPUXJJQXlnQngzaWpfV2tQVlZUT2UxYjZRWGhvUHduMF9hSFh3?oc=5",
+          "source": "네이트",
+          "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1003,6 +1003,16 @@
           "title": "내년 서연고' 수시 절반 수능 최저 없어…내신 영향력 더 커져 - 시사뉴스",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44UmdfUzlKbE8wazNFMGVKdzE2VTZrTFBoU0xpZjhnVzNNOUFfeXU0TzM4aU5ITVlPNDR2S0NZZnRxV3hVakdlYW5nMzAza2VTd0Z4aE1kaC1UcHZXb2NRU0h4aw?oc=5",
           "source": "시사뉴스",
+          "published": "2026-05-11T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "22520e7a7ddd9eea452a92b780ef6a4f",
+          "title": "SKY, 학생부 중요성 커진다… 수시 58% ‘수능 최저’ 없애 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuU0FSWnJWa0RQZnNNNnhwS25OWHRESVpYX3d4X3pnT0RwVUFHMXpxbWw1WjZpeTdaWUlwVEt6X2FfUVFqWENoVlJXbnBqay1qZi1BLURFdGg3Z3NLcXZnRHdCNTBUcHFIYUhsMkMzSmxqcWFXQ1HSAWZBVV95cUxNX1d2UFE2MDJ5T1Z4TWpDYTdlcUgzcGZzOUZIR1JrNGtXVnp0b291T3lIUmZqS05fNko1dGtrWmlrODdwT19Nb1RQQ1UzMlBfSnREVjg1R29hbVhHMUNUMjFMZWxMTkE?oc=5",
+          "source": "동아일보",
           "published": "2026-05-11T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1124,6 +1134,16 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
           "source": "www.hankyung.com",
           "published": "2026-04-29T08:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1ac02e4790097648e736f33f012fd42f",
+          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1311,16 +1331,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
           "source": "www.veritas-a.com",
           "published": "2026-04-29T07:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ac02e4790097648e736f33f012fd42f",
-          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1650,9 +1660,9 @@
           "is_new": false
         },
         {
-          "id": "c2ac729c23906b41a2c320bad72689c8",
+          "id": "d0e7f743c88592e3aaea1f245a83b072",
           "title": "동덕여대 수시요강 확정. 2027 VS 2026. 무엇이 바뀌었나. - 괜찮은 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydkhQRDVCZFY3cGZYMGpDVkVSMlRpX2NPdWhFZEdFdTJRa0pRZjNqRExmNjExOEhyLTNReExueFRKbktqRXVJS0wxOUVyQmVjMkVyeVhST3J2Ukk3Slhtek9ZRHZBWjl6?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kRURpNEVzUm1scUtZMV9sT0ZFTVJOTTdzWXpFNldETW51b3h0dmlHMWJ6bE9KUE16amVlZHFMSjhDUVVWZDNIVnZjM2ZwMWZtMmtVSzVaWmhaWF94ak82bzdmaTFmLVE?oc=5",
           "source": "괜찮은 뉴스",
           "published": "2026-06-03T07:00:00+00:00",
           "type": "news",
@@ -1827,6 +1837,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "096549d44ab9fbd5e330bdd186ae8968",
+          "title": "‘수시 원서 낭비’ 안하려면…입결 외 변수까지 따져 [톡톡에듀]",
+          "link": "https://n.news.naver.com/mnews/article/009/0005699538?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-06-27T05:27:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0170d3c8eebd1dc2791fae6700aff1d4",
           "title": "수원대학교, 2027학년도 대학 입시박람회 참가 일정 공지 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SExwRGRoaTl4d1dZaGZWTUtmS1htQWVUaktUcFF6ZFk2MG1jTmJsZEtON0c5ZjlYSjBTS0YzY3lQSV9nZ2RkVFhkcXlncGd5YXc1MmFLT0JmNzlYdU9GWEEwemhpUQ?oc=5",
@@ -1834,7 +1854,7 @@
           "published": "2026-06-26T14:05:41+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0a5d2363149e601dff0155a8dbbc68f0",
@@ -2207,21 +2227,11 @@
           "is_new": false
         },
         {
-          "id": "ab6700bff425f88135e4503b470e5f9f",
+          "id": "cddbef1fbff23660fe0cb7d2723ef8e8",
           "title": "[유성룡의 입시포인트] 경찰대학 2027학년도 입학전형 가이드 - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdTE5NERVZ0YzcjlVWWk3Mkx6OXRrLWxwY3F2ZnJvRmtaZjdNaVJLbFNuMExEcHcyTGpCRlZBZjVwOUwwYXpqbEVyMjBKYlJQQW5qajEwbUwwVWlpTFlGckxkNzFTMTVvZ1hCaHUwWQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJcjlHUEhHYkxwMVJHczl4elpqS0ZDblN6QktGUnlsUUJTYXFzZlNnVVFSSzRsaDJPMHAxSXQzYXVMT19BcGhudDYyWnBRbDV5QllnVkZ1QmdoVGNFenpFTklVRFZnSTJmQ0pOY1BOWVYxcnZ4R2tIMVNmZw?oc=5",
           "source": "조선에듀",
           "published": "2026-04-28T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "70e8358f93472443ea50a7ed44e428c9",
-          "title": "숭실대, 2027학년도 지원전략 설명회 개최… 전국 5개 도시 순회 - 교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBTWlFVkJLVlhhM2FicFN6LXpwX202eDlWbmxhY29uWmhIY0EyeVFZdnJ2X0dCam9NM2ZXQTMwbVB6cDdrUVlnbVAwU2ZUcFpHUDlmcHF0T2JoZmt1REpyQlBrU19NaTg?oc=5",
-          "source": "교수신문",
-          "published": "2026-04-25T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2462,10 +2472,20 @@
           "is_new": false
         },
         {
-          "id": "15b8c5fc250951cd2eb468e5a5be8003",
-          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBteU5oX0tNZ09jR3ZSQm9rUjRJZzJyb1NYTzRkNjc4b0JQbnQtaWVENUVNSW9PWEJNZ0FYZnUxNjExSUFfV0lXMGNRcENBRExWZFVQVw?oc=5",
-          "source": "v.daum.net",
+          "id": "30a85b28887a0bb71ea2e53ea759be37",
+          "title": "\"작년 고1 학업중단자 1만 명 넘었다\"…내신 5등급제에도 '자퇴' 늘어 - KBC광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tbm8yOW5PY2ZTVHdTN1dHNUY2WURiSUtZeDBuSzZ2T2JQR1A2UjhEc1J1dnNvMXZiSmlhbmFuclZvZFJ1WDRJcDVYMVNUdldKMjRrR0R6UkplRXBXVWtBdA?oc=5",
+          "source": "KBC광주방송",
+          "published": "2026-06-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a9d3e8b849e0dfc4576f26a37688a6bf",
+          "title": "지난해 학업중단 고교생 1만8661명…최근 7년 새 최대 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZTl3bHdpT2hMeGp6ZE5QRHNFUGdvMkxuR2o5TEFiM3p5RUN1eEJYRVVYQWgwQUJBY1hLS19seVpNbFhramZJWk91b3o1R3h4dEVEYi1DWFJ1LVpWbzI0aE1RR2ozMzkyNXNn0gFmQVVfeXFMTlY0RUpBS3VXV0RsWkpDNDVsTlJ0ZFM0eUEzRjFPQVhIX01VeTZzQ1AwTWJDVlkyTmgzLTBZMXRpZmhuYU1WNTFxclFVRFZJQklkZXUyTVlJbldfNTh3c3lJTlNXT3Vn?oc=5",
+          "source": "동아일보",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
