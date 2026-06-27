@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T10:13:49.515746+00:00",
+  "updated_at": "2026-06-27T11:51:44.654986+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-27T09:58:49.702108+00:00",
+          "published": "2026-06-27T11:36:59.859762+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -382,16 +382,6 @@
           "is_new": false
         },
         {
-          "id": "edd7c550b176526ac3bf24bb08d7d509",
-          "title": "EBSi, 6월 모의평가 당일 출제 경향 브리핑·경향분석 LIVE 제공 - kor.theasian.asia",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85VjZnSERlaG9MbHllVlVfV2ZTMzNvQm9wOWtSQVgwQ01Yb0UySWYyTXZDdUJyaHJrUTg1YlNyRlJnVGV3NTdCMnl3cEdYOTBQR1Jv?oc=5",
-          "source": "kor.theasian.asia",
-          "published": "2026-05-28T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "5e8a921623d8c843d34a6749a025ef3b",
           "title": "2026 고3 5월 모의고사, 국어는 풀리고 수학은 버텼다… EBSi 예상 등급컷이 말하는 6월 모평의 변수 - christiandaily.co",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HMktVcG1vMUhobk5WUlF3cEkyb0owMVJHeXJ4UjNualB0eTNCdDBOdWhuOUFobnV0bkdzTENJM05KYkwtb3N3ajFZa3M3cVZaazBXVjA3UQ?oc=5",
@@ -432,9 +422,9 @@
           "is_new": false
         },
         {
-          "id": "c54cd45dea7fe2ecb1e5896bf7a91810",
+          "id": "74aea9fffb8c8f03e66eb7eab0a87205",
           "title": "고2 3월 모의고사 국어 수학 등급컷은?…다음 시험은 언제 - CBC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nUWRYNXNXcXltUkRZdk9Oa25ncGp2WTZzSnNqOW4xZVVOb1hKU2dNak12bmp1Um94RWJuQ2oxUXRxanVqblZFQmVhSWZhWG1Cdjhaa0xaOE02MUlEaW85VVZhdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUm1GTjRYSnktaFpiNG1iSHhnbDBNUDRVOTJUQkVhVzlqWURkU3A0YkdxWldibXJKR0FMaDJqLUZtRG8xaFBFUXN2RjllWGszVWwzUTJUa1ZnQkowUEtGMHZsSWY3OXVp?oc=5",
           "source": "CBC뉴스",
           "published": "2026-03-24T07:00:00+00:00",
           "type": "news",
@@ -453,7 +443,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-27T10:01:14.582404+00:00",
+          "published": "2026-06-27T11:39:24.874193+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -466,7 +456,7 @@
           "published": "2026-06-27T08:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a14d21b41a9b3f6989b34ed4150f37ce",
@@ -969,6 +959,16 @@
           "is_new": false
         },
         {
+          "id": "fc28279776a00ccf51d2728ddd51e669",
+          "title": "수능만 잘 봐선 안 된다…서성한, 2028 대입서 출결·학생부 반영 확대 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZHByN3hzU1NUVU9aaE9abVVETnFjY05uNFdpY19MS2kwWkQyRV9TYnEwcmQyWUcwSGwzaks4Nmk3bXVKZ1JoR3IzQ3VoYkJ6RzZROTRLRTRhQQ?oc=5",
+          "source": "뉴스1",
+          "published": "2026-05-22T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "0f0acaf45d77bfed21412533b623ce54",
           "title": "'서성한' 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNEZIdDFCLUctUWV3NnhCem1OSVE0VVphUDljdmZrZU5sU0NuZWVPUXJJQXlnQngzaWpfV2tQVlZUT2UxYjZRWGhvUHduMF9hSFh3?oc=5",
@@ -1089,6 +1089,16 @@
           "is_new": false
         },
         {
+          "id": "a007a0e9c74b137def68d8e73ae322e7",
+          "title": "2028학년도 입시서 수도권 대학 학생부종합·논술전형 확대 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IOEtSU3VfZkxUUXNCWnppRHotbVdjazlZZVdac1dHSFNrTkNTZmZiNGIxY3JkMHg1ZlJ4c2RRcFVOOFJXTWh1OVJXQXFhdVdPX2JiLVJVdldVbE3SAWBBVV95cUxPVG5LdHZnNnBtRTI4VzVodXJKU2dkUHRBOFBrYXZodHlyV18xM2Q5TU9QZXhNcVVGU2M5NEZLNDFybHBYUTdPcG5pWVVPSGN3aG5tRWtncG50dUhzWXFvQWQ?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-05-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "7ce714e0fdae811f390cdfe52e4b985f",
           "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
@@ -1134,16 +1144,6 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
           "source": "www.hankyung.com",
           "published": "2026-04-29T08:15:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ac02e4790097648e736f33f012fd42f",
-          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1331,6 +1331,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
           "source": "www.veritas-a.com",
           "published": "2026-04-29T07:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1ac02e4790097648e736f33f012fd42f",
+          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
