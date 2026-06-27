@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:09:04.870221+00:00",
+  "updated_at": "2026-06-27T23:12:26.350735+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-27T20:53:59.869908+00:00",
+          "published": "2026-06-27T22:57:28.087256+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -332,16 +332,6 @@
           "is_new": false
         },
         {
-          "id": "5c56b2cbb69a864c99ee86091f35235f",
-          "title": "2026 6월 모의고사 등급컷 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaXo4NmVOSVVrRzZyMVpCNU5lTnBIQS1UQkxrRGdEMllHVjh0Y0l4NmpJYlVfOXd6aUdiNklxWGM0b2dXc295bjllNm1OOXZGcnptNUU2UFlmeWcxVlJXcWh3bmRmRWtTaGc?oc=5",
-          "source": "금강일보",
-          "published": "2026-06-04T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "e05a156296eaf9dddef588accd60fbd7",
           "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
@@ -376,6 +366,16 @@
           "title": "\"6월 모평 수학, 작년 수능 유사 수준…변별력도 확보\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUlV4U0RKcEhpekhrYlotTVpEaWc1NDdSWVhSZ3hNVW4ycG5Wakp1c28yeklVbG4yTGhBcC1OUjc3SzhiRU5KZWlKbERHX2JteW9wRnpBaDZjb3ZLNmxDZdIBeEFVX3lxTFBnaTV1RjR4Qk5MS2xpNXVZcEViclRULTN6Snk2MmZhNUljMlhramk5T3k5VzNlQUNfdUNfR2lGcXFNMHdUMVdEenJhMk14dEYxa05Ha05INkZhNkRxQnlEcWNNams3cnplSDI4amZ6d2NBSmFMWVllTg?oc=5",
           "source": "뉴시스",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "5c56b2cbb69a864c99ee86091f35235f",
+          "title": "2026 6월 모의고사 등급컷 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uaXo4NmVOSVVrRzZyMVpCNU5lTnBIQS1UQkxrRGdEMllHVjh0Y0l4NmpJYlVfOXd6aUdiNklxWGM0b2dXc295bjllNm1OOXZGcnptNUU2UFlmeWcxVlJXcWh3bmRmRWtTaGc?oc=5",
+          "source": "금강일보",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-27T20:56:26.781237+00:00",
+          "published": "2026-06-27T22:59:51.056481+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1750,6 +1750,16 @@
           "is_new": false
         },
         {
+          "id": "88dc6de117eb015adf8aeb4160197faa",
+          "title": "2027대입설명회 총망라 ‘대학/공교육/지자체’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KY3NGWGpLOFFVZHpieThKckMzekVRS2VObkE3YU9JME80TWNKaG5UUXB4T0ZPN1BOSG5fQXFiR1BuOHg2NTBXNS1veGx3eng2ZXh3S1JDN3V1STM4OHVOeGs1bVJ0S2VBaVRjbg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-05-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "01c41dd825f25449c5d87055fa4b0db9",
           "title": "2028학년도 대입시행계획 3보. 논술전형 증가. - 괜찮은 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd2ZaczV0NTdoU1h0WWFQNlgyLVdUNVg1S3pMZFZ0MlBXUVRXaXd3dWhiVDZhbDVHbVY5U1NLWEdUaWhyUm1qTC1WUi1WYnhuUDlmbks5N21RM0hMTGpoYU1xSnhjYjg?oc=5",
@@ -2472,10 +2482,20 @@
           "is_new": false
         },
         {
-          "id": "15b8c5fc250951cd2eb468e5a5be8003",
-          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBteU5oX0tNZ09jR3ZSQm9rUjRJZzJyb1NYTzRkNjc4b0JQbnQtaWVENUVNSW9PWEJNZ0FYZnUxNjExSUFfV0lXMGNRcENBRExWZFVQVw?oc=5",
-          "source": "v.daum.net",
+          "id": "a1802b3970a05ab277de3005bf19d0ca",
+          "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QTUZzZG1YSEl1NDVtem9VMU8zUEVBUW41ZUZDanQ1NlV0QVZWQ211UE1VVDAzNHZDN1NaYUs5QU9YRUFIY1hmU0lhaXpRbmdIZXlNWVNXT3NBZ2_SAWBBVV95cUxQc2xDeTNXUzRqZ2FyNzFvRTl6blRzdjAzQ2JqV0JRTlBhMFkxanctUklnWm9xS1NwNmREYVJaSFZONDhsaDJtTmZDN3ZVQ25NOEE2QVE0MWFlamVSZ1g0Zl8?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-06-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a9d3e8b849e0dfc4576f26a37688a6bf",
+          "title": "지난해 학업중단 고교생 1만8661명…최근 7년 새 최대 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZTl3bHdpT2hMeGp6ZE5QRHNFUGdvMkxuR2o5TEFiM3p5RUN1eEJYRVVYQWgwQUJBY1hLS19seVpNbFhramZJWk91b3o1R3h4dEVEYi1DWFJ1LVpWbzI0aE1RR2ozMzkyNXNn0gFmQVVfeXFMTlY0RUpBS3VXV0RsWkpDNDVsTlJ0ZFM0eUEzRjFPQVhIX01VeTZzQ1AwTWJDVlkyTmgzLTBZMXRpZmhuYU1WNTFxclFVRFZJQklkZXUyTVlJbldfNTh3c3lJTlNXT3Vn?oc=5",
+          "source": "동아일보",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2527,16 +2547,6 @@
           "link": "https://n.news.naver.com/mnews/article/022/0004116970?sid=102",
           "source": "www.segye.com",
           "published": "2026-03-30T23:07:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "bd8934d5201b99e19023fbc54390b8a9",
-          "title": "\"내신 경쟁 못 버텨\" 과학고·자사고 인기 '뚝'...일반고 선호 '역대 최고' - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbk1VM1ZwOC1BeHhxVVlscmtFSnRJOGtRZlJtSkV0eHVhQkJoQTJsRmxzS0R0U0xtSml4clJXX25lT3phcHRFWVJBazRzM3NJcnpPbWNsUVhWWm1od2s4cFRuZUwyNkVYWlHSAW9BVV95cUxQS0VubW04RjFha0FUVVI5SXdQc1pjQi1uRjBmakxGcU1BUmE3bEwtUEp2TTRKWUZYMXptTmNyTU95MUpUNVctODZoUU52N3RwOGNManpwMXE1UnZSSXZyM1UtTUhzcmJ2dUpNeTN2ck0?oc=5",
-          "source": "머니투데이",
-          "published": "2026-03-16T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
