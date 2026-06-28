@@ -216,7 +216,7 @@ class AdminHandler(BaseHTTPRequestHandler):
             self.send_json(200, {"removed": val, "section": section})
             return
 
-        # POST /api/push  → git add + commit + push
+        # POST /api/push  → git add + commit + pull --rebase + push
         if path == "/api/push":
             try:
                 subprocess.run(
@@ -232,13 +232,19 @@ class AdminHandler(BaseHTTPRequestHandler):
                         ["git", "commit", "-m", "어드민: 기사/필터 수동 수정"],
                         cwd=str(BASE), check=True, capture_output=True
                     )
-                    subprocess.run(
-                        ["git", "push"],
-                        cwd=str(BASE), check=True, capture_output=True
-                    )
+                # 원격 변경사항 먼저 반영 후 push
+                subprocess.run(
+                    ["git", "pull", "--rebase"],
+                    cwd=str(BASE), check=True, capture_output=True
+                )
+                push_result = subprocess.run(
+                    ["git", "push"],
+                    cwd=str(BASE), capture_output=True
+                )
+                if push_result.returncode == 0:
                     self.send_json(200, {"status": "pushed"})
                 else:
-                    self.send_json(200, {"status": "no_changes"})
+                    self.send_json(500, {"error": push_result.stderr.decode()})
             except subprocess.CalledProcessError as e:
                 self.send_json(500, {"error": e.stderr.decode()})
             return
@@ -247,6 +253,12 @@ class AdminHandler(BaseHTTPRequestHandler):
 
 
 if __name__ == "__main__":
+    print("📥 최신 데이터 동기화 중...")
+    try:
+        subprocess.run(["git", "pull", "--rebase"], cwd=str(BASE), capture_output=True)
+        print("✅ git pull 완료")
+    except Exception as e:
+        print(f"⚠️  git pull 실패 (무시): {e}")
     server = HTTPServer(("localhost", 3457), AdminHandler)
     print("🔧 어드민 서버 시작: http://localhost:3457/admin")
     print("   Ctrl+C로 종료")
