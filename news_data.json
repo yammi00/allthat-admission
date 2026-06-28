@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:37:39.046814+00:00",
+  "updated_at": "2026-06-28T13:37:43.423302+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-28T10:22:47.431852+00:00",
+          "published": "2026-06-28T13:22:45.781370+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-28T10:25:11.857052+00:00",
+          "published": "2026-06-28T13:25:12.474136+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1053,6 +1053,16 @@
           "title": "2028학년도 SKY 입시, 학생부 영향력 커진다 - 대경일보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbDZ2UE14OUlSR01tc0VLV2R0NVFvZDllLUVqVENWaWRPQjdBTk1heE1DaWJ4SjJsdFltc3BqWldJYURWdi1RNU5GdmNnWHJJdlg1cEF1SzloWEhXVjJ3TEk4SC16UUxS?oc=5",
           "source": "대경일보",
+          "published": "2026-05-10T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "69acdc0fa3d119aa32aee118ccbe229c",
+          "title": "내년 'SKY 대입' 핵심 평가 요소는 학생부…수능 영향력 ↓ - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSmZLaldUU3FaTjctSkJuSFNIZkVZUGJrRmJsT2JDN1p2ZDBXejViUkFDODJyREpaQlhlbUVmUVM4LW01SFZsVnRxTXJDVUhTdXNIa0tLRUtPQnlyTmNkRnpyalNYbjFGcVHSAW9BVV95cUxOaVRDcVRBRFFWVnpwMzNBRWN6TVM4RHlXQTM1b3pza09ZY3JRcWY3N2ZlYURrNEZ1UGpCcV9UeU9wSE15NWgxMW1pVnhNMTdLdk50U2NrWEkzMl9obHRLRXduRlE1NHFMejAzN0NfMzA?oc=5",
+          "source": "머니투데이",
           "published": "2026-05-10T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1771,11 +1781,31 @@
           "is_new": false
         },
         {
-          "id": "3d4680921004b1890583a0ac0c55f111",
-          "title": "2027·2028학년도 복잡한 대학 입시 정보 쉽게 알려드려요",
-          "link": "https://n.news.naver.com/mnews/article/079/0004162418?sid=102",
-          "source": "www.nocutnews.co.kr",
-          "published": "2026-06-28T00:02:00+00:00",
+          "id": "7fa7094e2bf24949105f861a2f3286b0",
+          "title": "'어디가' AI 챗봇 도입… AI로 대입정보 묻고 답한다",
+          "link": "https://n.news.naver.com/mnews/article/014/0005540446?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-06-28T00:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "97bedb04be25467debd10435452fae4a",
+          "title": "AI 챗봇으로 대학 추천까지…교육부, 하반기 대입 지원 서비스 본격 가...",
+          "link": "https://www.etoday.co.kr/news/view/2597692",
+          "source": "www.etoday.co.kr",
+          "published": "2026-06-28T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d0bedb227c3fad1d1c15ef45a81f8e73",
+          "title": "&quot;복잡한 대입 정보 쉽게&quot;…교육부 AI·온라인 상담 운영",
+          "link": "https://n.news.naver.com/mnews/article/003/0014032185?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1789,16 +1819,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "7f5b86d394fb2a3d6f41c106314d85c9",
-          "title": "교육부, AI 대입 챗봇·대입 박람회로 입시 정보 지원",
-          "link": "https://news.unn.net/news/articleView.html?idxno=594008",
-          "source": "news.unn.net",
-          "published": "2026-06-28T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
         },
         {
           "id": "096549d44ab9fbd5e330bdd186ae8968",
@@ -2241,6 +2261,16 @@
           "is_new": false
         },
         {
+          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
+          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-03-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -2446,9 +2476,9 @@
           "is_new": false
         },
         {
-          "id": "83da02062c96642a5ee145b3c27b3837",
+          "id": "15b8c5fc250951cd2eb468e5a5be8003",
           "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBteU5oX0tNZ09jR3ZSQm9rUjRJZzJyb1NYTzRkNjc4b0JQbnQtaWVENUVNSW9PWEJNZ0FYZnUxNjExSUFfV0lXMGNRcENBRExWZFVQVw?oc=5",
           "source": "v.daum.net",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
