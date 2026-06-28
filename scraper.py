@@ -747,7 +747,8 @@ def main():
         _BAD_TITLE = re.compile(r'suneung\.re\.kr|^-\s*$|^https?://')
         kept_old = {
             iid: item for iid, item in prev.items()
-            if not is_expired(item["published"], no_expire=item.get("no_expire", False))
+            if iid not in BLOCKED_IDS
+            and not is_expired(item["published"], no_expire=item.get("no_expire", False))
             and not _BAD_TITLE.search(item.get("title", ""))
             and len(item.get("title", "").strip()) >= 5
         }
