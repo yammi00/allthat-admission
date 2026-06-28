@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T03:02:32.286440+00:00",
+  "updated_at": "2026-06-28T08:00:25.880661+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-28T02:47:41.863849+00:00",
+          "published": "2026-06-28T07:45:27.521599+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -342,20 +342,20 @@
           "is_new": false
         },
         {
-          "id": "73782df835d1909147a0ab354d84f494",
-          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
-          "source": "위키트리",
+          "id": "b398c104712530e87994ce1898b522c3",
+          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
+          "source": "2news.co.kr",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "b398c104712530e87994ce1898b522c3",
-          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
-          "source": "2news.co.kr",
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-28T02:50:05.579808+00:00",
+          "published": "2026-06-28T07:47:50.264324+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -979,6 +979,16 @@
           "is_new": false
         },
         {
+          "id": "3831b61fe44bde9ec034cc7213405a54",
+          "title": "[에듀플러스][2028 대입 포인트]①서울대, 수시·정시 다 바꿨다…개편 핵심은 '면접·교과역량' - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1SFpIbnJJUWhvR3hPdjY5ZjJoMExLYmdDYV9hcThSQ3hmbThlNklxV1NObzM4MVJRT2ZKc3ljZjA0WlI1YUltWkJncGM2QQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-05-21T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "358ae8710a77824cf5060f39bccb88c5",
           "title": "[거인의어깨 입시컨설팅] 수시컨설팅 내신 1등급대 지원 전략",
           "link": "https://www.newspim.com/news/view/20260512000830",
@@ -1059,11 +1069,41 @@
           "is_new": false
         },
         {
+          "id": "1a2db6e7f29b6ac307765c649d1f2a98",
+          "title": "통합형 수능 앞두고 입학전형 개편…정시 줄고 학생부 반영 늘어 ‘네오’ 전형 면접·서류형 분리, 자연계 수학·과학 가산점 - 경희대학교 미디어센",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IanA3TWQxZjBqQ1VTV05DNkV3YW0xMXZjOFVITk8tQXNFdWx2MmV5ZVBzUXROWW9UZzRWM3hHajNfZVhBdUhZSUE0UWxLM1RUOGgzYy1CNkpMdW9JNnRydGptWHJRVGM2R1pMemtNLVhlSGR5cHc?oc=5",
+          "source": "경희대학교 미디어센터",
+          "published": "2026-05-09T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a007a0e9c74b137def68d8e73ae322e7",
+          "title": "2028학년도 입시서 수도권 대학 학생부종합·논술전형 확대 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IOEtSU3VfZkxUUXNCWnppRHotbVdjazlZZVdac1dHSFNrTkNTZmZiNGIxY3JkMHg1ZlJ4c2RRcFVOOFJXTWh1OVJXQXFhdVdPX2JiLVJVdldVbE3SAWBBVV95cUxPVG5LdHZnNnBtRTI4VzVodXJKU2dkUHRBOFBrYXZodHlyV18xM2Q5TU9QZXhNcVVGU2M5NEZLNDFybHBYUTdPcG5pWVVPSGN3aG5tRWtncG50dUhzWXFvQWQ?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-05-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "e150c8607e32dea53a3aaafd5e9e7a81",
           "title": "[입시의 정석] 내신·수능 다 바뀌는 2028 대입…&quot;편식 공부는 금물&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60721080/N",
           "source": "news.ebs.co.kr",
           "published": "2026-05-05T09:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "03d69a9b3439ced6d2c7f22b63f06ab7",
+          "title": "연세대, '기하·미적분Ⅱ 전면 권장'... 수능서 빠진 심화수학, 자연·의치약 학생부서 부활 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hSlJDMklsdlV3dHkzci1TRldoZmM1cXc4ZnhyYzVZX0RwanBMT29oaVlJTXV0OWZiVS00anVISUwtakx6T051dExLZHlHRThNUVd2eFp3WEtMUVo5aWxWRW1JbWFpQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1094,26 +1134,6 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
           "source": "www.hankyung.com",
           "published": "2026-04-29T08:15:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ac02e4790097648e736f33f012fd42f",
-          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-29T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8f3a6318bdee903aa1cca49232037b1e",
-          "title": "연세대, '2028학년도 전형' 3대 개편 예고... 교과·종합·논술 동시 손질 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xS0F0elNHcG5nbmViMzB4UUFUb1NwN0I3MTdiWUtJbnRtNVlkZnVpVElCNzVPckJiTGFqYXUwQnRaSnpFaS0tcVR2XzE1Wk5zRUkyOFlyRFJ1SW9IaXhKOUh4YlllQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-21T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1296,21 +1316,21 @@
           "is_new": false
         },
         {
-          "id": "1a2db6e7f29b6ac307765c649d1f2a98",
-          "title": "통합형 수능 앞두고 입학전형 개편…정시 줄고 학생부 반영 늘어 ‘네오’ 전형 면접·서류형 분리, 자연계 수학·과학 가산점 - 경희대학교 미디어센",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IanA3TWQxZjBqQ1VTV05DNkV3YW0xMXZjOFVITk8tQXNFdWx2MmV5ZVBzUXROWW9UZzRWM3hHajNfZVhBdUhZSUE0UWxLM1RUOGgzYy1CNkpMdW9JNnRydGptWHJRVGM2R1pMemtNLVhlSGR5cHc?oc=5",
-          "source": "경희대학교 미디어센터",
-          "published": "2026-05-09T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "86beec37893d1b882bf6d5196aec71d7",
           "title": "'수험생 필수' 대입정보포털 2027 '어디가' 활용법.. 성적분석부터 입결...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
           "source": "www.veritas-a.com",
           "published": "2026-04-29T07:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1ac02e4790097648e736f33f012fd42f",
+          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1341,6 +1361,16 @@
           "link": "https://www.newspim.com/news/view/20260331000143",
           "source": "www.newspim.com",
           "published": "2026-04-21T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "8f3a6318bdee903aa1cca49232037b1e",
+          "title": "연세대, '2028학년도 전형' 3대 개편 예고... 교과·종합·논술 동시 손질 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xS0F0elNHcG5nbmViMzB4UUFUb1NwN0I3MTdiWUtJbnRtNVlkZnVpVElCNzVPckJiTGFqYXUwQnRaSnpFaS0tcVR2XzE1Wk5zRUkyOFlyRFJ1SW9IaXhKOUh4YlllQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-21T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1487,7 +1517,7 @@
           "published": "2026-06-28T00:17:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "956eb69f8ddf0e28381412e8b519bc29",
@@ -1650,16 +1680,6 @@
           "is_new": false
         },
         {
-          "id": "2fa678d190c690cad250806f9dac52f1",
-          "title": "이화여대, '2026 입결 전면 공개'... 학종 합격선 일반고 인문 2점대·자연 1등급대 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpOFNrN1ZfbDhYaVZTTW5yWXozYmFWblNIVlZzRXlfYXIzUGxEWE1JNkhZMTBVYVFPR2MySFlsY2laSm9GSEJXVDd0SVpyUnZQRklmTG9DNW5EUEpsVjdQWm1QOUlqZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-29T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "0c68612349c69851dbe8ce191612d4cd",
           "title": "[단독] 경기대 2027논술가이드북 ‘출제/채점위원이 전하는 합격 답안’.. “사고한 흔적 보여야” - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13YldUZXdxNDVjLTNGVTcxY2RYQ2M1Q0szQlA2ZDRPR1B1YTMzSDFvWjJmNFE2R3A2X3hKbmVJMVlmVzJkc2hoZDlDTVJIWUlTQWlJZlRBazZCWVlIU1RtM1RGVHU0cU9VZHF1cA?oc=5",
@@ -1797,11 +1817,51 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "3d4680921004b1890583a0ac0c55f111",
-          "title": "2027·2028학년도 복잡한 대학 입시 정보 쉽게 알려드려요",
-          "link": "https://n.news.naver.com/mnews/article/079/0004162418?sid=102",
-          "source": "www.nocutnews.co.kr",
-          "published": "2026-06-28T00:02:00+00:00",
+          "id": "2daa9b31d19993c6b29c6bb3f447c774",
+          "title": "올 수시부터 AI가 대학 선택 돕는다… 사설 컨설팅 감소 효과엔 ‘의문...",
+          "link": "https://n.news.naver.com/mnews/article/005/0001857546?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-06-28T06:27:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7e9e9aaca512ceb31e6076b82f304b78",
+          "title": "2027 대입 코엑스 수시 박람회 내달 23~25일…AI 챗봇 상담도",
+          "link": "http://www.metroseoul.co.kr/article/20260628500203",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-06-28T04:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7fa7094e2bf24949105f861a2f3286b0",
+          "title": "'어디가' AI 챗봇 도입… AI로 대입정보 묻고 답한다",
+          "link": "https://n.news.naver.com/mnews/article/014/0005540446?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-06-28T00:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "97bedb04be25467debd10435452fae4a",
+          "title": "AI 챗봇으로 대학 추천까지…교육부, 하반기 대입 지원 서비스 본격 가...",
+          "link": "https://www.etoday.co.kr/news/view/2597692",
+          "source": "www.etoday.co.kr",
+          "published": "2026-06-28T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d0bedb227c3fad1d1c15ef45a81f8e73",
+          "title": "&quot;복잡한 대입 정보 쉽게&quot;…교육부 AI·온라인 상담 운영",
+          "link": "https://n.news.naver.com/mnews/article/003/0014032185?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1814,17 +1874,7 @@
           "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "7f5b86d394fb2a3d6f41c106314d85c9",
-          "title": "교육부, AI 대입 챗봇·대입 박람회로 입시 정보 지원",
-          "link": "https://news.unn.net/news/articleView.html?idxno=594008",
-          "source": "news.unn.net",
-          "published": "2026-06-28T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "096549d44ab9fbd5e330bdd186ae8968",
@@ -2472,9 +2522,9 @@
           "is_new": false
         },
         {
-          "id": "15b8c5fc250951cd2eb468e5a5be8003",
+          "id": "83da02062c96642a5ee145b3c27b3837",
           "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBteU5oX0tNZ09jR3ZSQm9rUjRJZzJyb1NYTzRkNjc4b0JQbnQtaWVENUVNSW9PWEJNZ0FYZnUxNjExSUFfV0lXMGNRcENBRExWZFVQVw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
           "source": "v.daum.net",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
