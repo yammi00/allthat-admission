@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T13:37:43.423302+00:00",
+  "updated_at": "2026-06-28T15:28:45.636292+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-28T13:22:45.781370+00:00",
+          "published": "2026-06-28T15:13:58.158666+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -453,7 +453,7 @@
           "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 ‘톱’ 생명시스템 화공생명공 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
           "source": "베리타스알파",
-          "published": "2026-06-28T13:25:12.474136+00:00",
+          "published": "2026-06-28T15:16:21.503464+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1059,16 +1059,6 @@
           "is_new": false
         },
         {
-          "id": "69acdc0fa3d119aa32aee118ccbe229c",
-          "title": "내년 'SKY 대입' 핵심 평가 요소는 학생부…수능 영향력 ↓ - 머니투데이 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSmZLaldUU3FaTjctSkJuSFNIZkVZUGJrRmJsT2JDN1p2ZDBXejViUkFDODJyREpaQlhlbUVmUVM4LW01SFZsVnRxTXJDVUhTdXNIa0tLRUtPQnlyTmNkRnpyalNYbjFGcVHSAW9BVV95cUxOaVRDcVRBRFFWVnpwMzNBRWN6TVM4RHlXQTM1b3pza09ZY3JRcWY3N2ZlYURrNEZ1UGpCcV9UeU9wSE15NWgxMW1pVnhNMTdLdk50U2NrWEkzMl9obHRLRXduRlE1NHFMejAzN0NfMzA?oc=5",
-          "source": "머니투데이",
-          "published": "2026-05-10T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "771ed46c3d65c718d51395a37054e8ce",
           "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리TV",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
@@ -1089,11 +1079,11 @@
           "is_new": false
         },
         {
-          "id": "a007a0e9c74b137def68d8e73ae322e7",
-          "title": "2028학년도 입시서 수도권 대학 학생부종합·논술전형 확대 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IOEtSU3VfZkxUUXNCWnppRHotbVdjazlZZVdac1dHSFNrTkNTZmZiNGIxY3JkMHg1ZlJ4c2RRcFVOOFJXTWh1OVJXQXFhdVdPX2JiLVJVdldVbE3SAWBBVV95cUxPVG5LdHZnNnBtRTI4VzVodXJKU2dkUHRBOFBrYXZodHlyV18xM2Q5TU9QZXhNcVVGU2M5NEZLNDFybHBYUTdPcG5pWVVPSGN3aG5tRWtncG50dUhzWXFvQWQ?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-05-07T07:00:00+00:00",
+          "id": "7ce714e0fdae811f390cdfe52e4b985f",
+          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-05-06T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1674,16 +1664,6 @@
           "is_new": false
         },
         {
-          "id": "7ce714e0fdae811f390cdfe52e4b985f",
-          "title": "주요대 2028 논술, '학생부·최저·트랙'까지 손댔다... 단일 형식 시대 마감 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ac0dDYnh6VThVaU51V28zaWRrcU55TlRfdnh4ZndMa2x2UllEVjl4bWxFaENrZXlYTEdyUVFQekpGclRUT3Z4Qk83YUhKV0U5djFGMVF1LTdUZVFidXFJOElzXzhmUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-05-06T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "01c41dd825f25449c5d87055fa4b0db9",
           "title": "2028학년도 대입시행계획 3보. 논술전형 증가. - 괜찮은 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNd2ZaczV0NTdoU1h0WWFQNlgyLVdUNVg1S3pMZFZ0MlBXUVRXaXd3dWhiVDZhbDVHbVY5U1NLWEdUaWhyUm1qTC1WUi1WYnhuUDlmbks5N21RM0hMTGpoYU1xSnhjYjg?oc=5",
@@ -1788,7 +1768,7 @@
           "published": "2026-06-28T00:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "97bedb04be25467debd10435452fae4a",
@@ -1798,7 +1778,7 @@
           "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d0bedb227c3fad1d1c15ef45a81f8e73",
@@ -1808,7 +1788,7 @@
           "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d21e693bf069b3074de506244a5dbe62",
@@ -2261,16 +2241,6 @@
           "is_new": false
         },
         {
-          "id": "fa94ee075d1841fd852e1edb8cd75b9b",
-          "title": "2027학년도 수능 11월19일 시행…원서 접수 8월24일 시작 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNlRyUnkxeVFMYXB5NlNZeW4zdkRyMDhlYXA4eGhSVXV1QzJCWnBzTWNrU2prMFNUSmpFRjlXMjVxSWVudkZWYlNwLVFYUFc4Zmk1anRjTjR2WnBU?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-03-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "505cc0b999c8a8f6b88ff108b9c8bbaf",
           "title": "[2027학년도 대입 전략] 올해 수능 11월 19일 실시…마지막 통합 수능, 첫 모의고사 3월 24일…수시 접수 9월 7~11일 - 생글생글",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GWjdtdVRzVmhJTGNxa3RNMEpERW5SeTQyTDNDNktBUUx1RHVVb2lRbHJnclZrX2twdkM0cG5tZk1EM1RudEVNQlpGNWZzeHdZMk9wSFBmdHotZTA?oc=5",
@@ -2476,9 +2446,9 @@
           "is_new": false
         },
         {
-          "id": "15b8c5fc250951cd2eb468e5a5be8003",
+          "id": "83da02062c96642a5ee145b3c27b3837",
           "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBteU5oX0tNZ09jR3ZSQm9rUjRJZzJyb1NYTzRkNjc4b0JQbnQtaWVENUVNSW9PWEJNZ0FYZnUxNjExSUFfV0lXMGNRcENBRExWZFVQVw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
           "source": "v.daum.net",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
