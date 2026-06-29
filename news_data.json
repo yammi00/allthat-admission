@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T21:34:30.716237+00:00",
+  "updated_at": "2026-06-29T23:05:08.293998+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-29T21:19:25.622554+00:00",
+          "published": "2026-06-29T22:50:15.673212+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -463,7 +463,7 @@
           "title": "[2027 수시] 경희대 논술, 수능 최저 유지 속 의약학계열 선발 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53265",
           "source": "에듀진",
-          "published": "2026-06-29T21:22:00.937103+00:00",
+          "published": "2026-06-29T22:52:48.760832+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1069,10 +1069,10 @@
           "is_new": false
         },
         {
-          "id": "3831b61fe44bde9ec034cc7213405a54",
-          "title": "[에듀플러스][2028 대입 포인트]①서울대, 수시·정시 다 바꿨다…개편 핵심은 '면접·교과역량' - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1SFpIbnJJUWhvR3hPdjY5ZjJoMExLYmdDYV9hcThSQ3hmbThlNklxV1NObzM4MVJRT2ZKc3ljZjA0WlI1YUltWkJncGM2QQ?oc=5",
-          "source": "전자신문",
+          "id": "3681dc39531d908e06c191fcc75a8fa9",
+          "title": "[2028 대입 포인트]①서울대, 수시·정시 다 바꿨다…개편 핵심은 '면접·교과역량' - eduplusnews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54RkMwWWNsVUpOYUptWGpYdGNKbkZsa0ZfVHlDMFZtM0oxQlh6dFk5UFFmQ09HMmhGZWFUX2NmZFZGZl9SMzBuaWpybUV3RzlDeFFaMzEzbHVZTVIxWUpBLXk4WWtoVzJwMDk3eWtB0gFyQVVfeXFMTTRGeTlILTFTOXdDZ0t1VFUxbmRYOVFsTEhlWFBHcUJWLW9TTDJUb1MyeDNJaWprR1FHY1E3RWtMbTZJRk5jbnhkRnBTT1Zvem1JeW9MeWwyclJ3T3VlN3ZiaXgyLXE2UWdJc0tCUkFERmxn?oc=5",
+          "source": "eduplusnews.com",
           "published": "2026-05-21T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1254,6 +1254,16 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005281347?sid=102",
           "source": "www.hankyung.com",
           "published": "2026-04-29T08:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1ac02e4790097648e736f33f012fd42f",
+          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1451,16 +1461,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
           "source": "www.veritas-a.com",
           "published": "2026-04-29T07:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ac02e4790097648e736f33f012fd42f",
-          "title": "한국항공대 2028 입시안, '수능 100%' 고수... 학교장추천은 'N수생 차단' - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTN5YjFvWVhNdHFFV180UUozUFZNLVVuUGhkSFcyLUE5cEpmdzd2dTBmMmhmV3ZQR2JZVzJkUS01X080Y1pOQ2FUMldXMzdYWlNoZ0lpTlM4QnVZQ3BiR3lsc1VwQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1785,6 +1785,16 @@
           "is_new": false
         },
         {
+          "id": "9fa78328adad5d2bea2dacf685df3a81",
+          "title": "2027 약술형 논술 대비 본격화…대학별 전형 변화 분석 중요 - E동아",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZ0Nvb2NyWVBrTjNOd04yT0J5cDNxbFdZTjdBZUk0bkU1YzhuZXBkR2xHQk5KaE9FMGNhMmFmWng5alpic0pIb09wQVVTcm5HMFNYNTc1VFRTYUE5a0c3dWxqN0pZeEU?oc=5",
+          "source": "E동아",
+          "published": "2026-05-19T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "774bb3523110153611b909c22ad50da4",
           "title": "경기대 2027 논술 239명 선발... 수능최저 없이 자유전공학부로 모집 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRR3RPLTYzY0Ryb1RSbi1EUU1uT2FSay0yWFNneGRCamU5cHB2NkMzVFBDcXp2WncyMDAzbXR4VVJRcG1DNUt0YlRSNXNyQ3hONjZhc2VKeHdaMjhuMk9WLWJnNWpGdw?oc=5",
@@ -1800,6 +1810,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDOXY4NS1EYlJHaEt4Z2ZXUGkyR202bmZURFpEbks4TWY3OERrLTloU0FUdzM3WDlOTXptUHZXWWdrVnV0WU8yZE40UmJ1cjBhWFN5WnZieTM4NWg0dlg2c0dXQVNCQQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-05-15T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "88dc6de117eb015adf8aeb4160197faa",
+          "title": "2027대입설명회 총망라 ‘대학/공교육/지자체’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KY3NGWGpLOFFVZHpieThKckMzekVRS2VObkE3YU9JME80TWNKaG5UUXB4T0ZPN1BOSG5fQXFiR1BuOHg2NTBXNS1veGx3eng2ZXh3S1JDN3V1STM4OHVOeGs1bVJ0S2VBaVRjbg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-05-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
