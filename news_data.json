@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T02:58:57.588917+00:00",
+  "updated_at": "2026-06-29T09:07:07.886252+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-29T02:48:09.199497+00:00",
+          "published": "2026-06-29T08:52:12.207114+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "published": "2026-06-29T00:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a12d3067b927c0616a853a0dd898f610",
@@ -459,6 +459,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "eb01691b86f21c4d07615af6c8089b32",
+          "title": "[2027 수시] 경희대 논술, 수능 최저 유지 속 의약학계열 선발 증가",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53265",
+          "source": "에듀진",
+          "published": "2026-06-29T08:54:44.542731+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b087f82b5efff8d5b2f8b7d55ed48369",
+          "title": "[단독] [2027대입잣대] 상위15개대 2026검정고시 2.01%(1198명) '역대 최고...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617101",
+          "source": "www.veritas-a.com",
+          "published": "2026-06-29T08:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b5322f167f45bc0139634ae4b97c13ff",
           "title": "[임성호의 입시 레이다] 2027 반도체 계약학과 수시, 정시 모두 의대급에...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=109389",
@@ -466,17 +486,17 @@
           "published": "2026-06-29T02:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "399a6c34de2609fa033456b3bd72cc65",
-          "title": "2027수시박람회 내달 23일부터 25일 '150개교 참가'.. 대교협 1대1 상담관...",
+          "title": "2027수시박람회 내달 23일부터 25일 '150개교 참가'.. 사전예매 시작 '내...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616947",
           "source": "www.veritas-a.com",
           "published": "2026-06-29T01:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "301c5a213f2b3db83eb9b339a13224b1",
@@ -486,7 +506,7 @@
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53e480d287bb46f92b13ffe80fe760f7",
@@ -496,7 +516,7 @@
           "published": "2026-06-28T23:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e5a481364c4ec4c3c6795fe86bfd79d",
@@ -506,7 +526,7 @@
           "published": "2026-06-28T23:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6cdd258c76d5f4cdf47e74551c52ffbd",
@@ -1020,9 +1040,19 @@
         },
         {
           "id": "fdbb41c2fb34511cf5d1b0819fdc6db1",
-          "title": "서‧성‧한 2028 대입 전형 확 달라진다… 최저학력 기준 등 변화 살펴야 - 동아일보",
+          "title": "서‧성‧한 2028 대입 전형 확 달라진다… 최저학력 기준 등 변화 살펴야 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JVWRGbUU5LXlRaWZfTGFobFZqRnF2VWg2YjhoZVp2WjhHUlJmRDJoSW14d2tSRzB0aF90WVJKUFBFN0J2UGpMT1J6T3JRVVhWbjdVMjhfejFqcTM3MFB6ajhKRUdtXzg?oc=5",
-          "source": "동아일보",
+          "source": "E동아",
+          "published": "2026-05-22T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "fc28279776a00ccf51d2728ddd51e669",
+          "title": "수능만 잘 봐선 안 된다…서성한, 2028 대입서 출결·학생부 반영 확대 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZHByN3hzU1NUVU9aaE9abVVETnFjY05uNFdpY19MS2kwWkQyRV9TYnEwcmQyWUcwSGwzaks4Nmk3bXVKZ1JoR3IzQ3VoYkJ6RzZROTRLRTRhQQ?oc=5",
+          "source": "뉴스1",
           "published": "2026-05-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1406,16 +1436,6 @@
           "is_new": false
         },
         {
-          "id": "8948e320a46f9b6fb10500cd3a96c12c",
-          "title": "[2028 연세대vs고려대①]입시의 판이 바뀐다: 고려대·연세대 주요 변경 사항 및 핵심 트렌드 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CbTQwWk1UWG15RTItaktGc1BhZzVsZjdtelNvb2E4V29QMU1zNmJ2YlNTN1lXSzZOSkRqQkljZVQ4blo1Q3JyWVdLNFBxV3Y0UDFGeWhSTGNuYkF3NVJkTGNZUUZhQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-30T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "86beec37893d1b882bf6d5196aec71d7",
           "title": "'수험생 필수' 대입정보포털 2027 '어디가' 활용법.. 성적분석부터 입결...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
@@ -1466,6 +1486,16 @@
           "is_new": false
         },
         {
+          "id": "8f3a6318bdee903aa1cca49232037b1e",
+          "title": "연세대, '2028학년도 전형' 3대 개편 예고... 교과·종합·논술 동시 손질 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xS0F0elNHcG5nbmViMzB4UUFUb1NwN0I3MTdiWUtJbnRtNVlkZnVpVElCNzVPckJiTGFqYXUwQnRaSnpFaS0tcVR2XzE1Wk5zRUkyOFlyRFJ1SW9IaXhKOUh4YlllQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-21T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "63ddc400fb1dc105c20c293e786eade9",
           "title": "중앙대, 2028학년도 정시에 '학종49' 전형 신설…학생부 49% 반영 - 네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45SC1rMl9GRHdhd0JVVW9mbV9nR1FiblJqYmg5bFp0THlqQnVveEFVMUpUdU1XTVh6cjNwVXlHTjRha1VjZjFSekVHckJyMklMeE9Z?oc=5",
@@ -1483,9 +1513,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "60e0c0f83fd6103d9fbd99b2966a1ba3",
-          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.29. 09:30 ...",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095575&lev=0&m=0301&s=suneung",
+          "id": "455e7c14cb943b09f4fecb5129371e54",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(6.29. 16시 ...",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095583&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-06-29T00:00:00+00:00",
           "type": "official",
@@ -1552,7 +1582,7 @@
           "published": "2026-06-29T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2477f8c7a96d849d48798f24c38f4553",
@@ -1686,9 +1716,9 @@
         },
         {
           "id": "7b703467381ba7b7f430eb4c92a957a0",
-          "title": "스카이입시교육학원, 2027 가천대 약술형논술 대비 6월 무료 모의고사·개념강좌 운영 - 동아일보",
+          "title": "스카이입시교육학원, 2027 가천대 약술형논술 대비 6월 무료 모의고사·개념강좌 운영 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBELXZTTG1LLTk1V1c3V3UtVUlwd09OVzQ2SkhxVXh2Q3lza0pSMWYtdjh4WnNHTWdzU2pPOFEzbHVTbVJKYWlkbXlTXzFrY05pclBqRVdtM2lZdENCV2ZjeGlCakxoRFU?oc=5",
-          "source": "동아일보",
+          "source": "E동아",
           "published": "2026-06-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1720,6 +1750,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kRURpNEVzUm1scUtZMV9sT0ZFTVJOTTdzWXpFNldETW51b3h0dmlHMWJ6bE9KUE16amVlZHFMSjhDUVVWZDNIVnZjM2ZwMWZtMmtVSzVaWmhaWF94ak82bzdmaTFmLVE?oc=5",
           "source": "괜찮은 뉴스",
           "published": "2026-06-03T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "71a17c902cce34121a451dc150f9ceb7",
+          "title": "씨에스엠17, 약술형논술 대비 ‘2027 수학 유형서’ 출간 - E동아",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XRkZLNDJ5LXdmTUlEWTZDSU1jd1hvYXlaQ01XRDBreTRLemdGbWRQQzlWYXlXRHNuS3diZ1lVWEZJNUtZRGZ4VTNDVTlrNGZ6QklxNG9yX2I3dktSZ0Jpal9kYmhvSU0?oc=5",
+          "source": "E동아",
+          "published": "2026-05-28T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1842,6 +1882,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "c4317df76f7f3de2f72b4baf80ee4bc7",
+          "title": "유니브클래스 &quot;역대 최고 수준 N수생 유입…올해는 수시카드 전략이 합...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=205259",
+          "source": "www.lecturernews.com",
+          "published": "2026-06-29T04:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cb2cc3d6cc06d2156731be2913aa83ae",
           "title": "교육부-대교협, AI 대입 챗봇 시범 운영… 학생부종합전형 온라인 상담...",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/06/29/2026062980028.html",
@@ -1849,7 +1899,7 @@
           "published": "2026-06-29T00:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a8eb3db2acdd79c6e0eb5d2abda8ea73",
@@ -1859,7 +1909,7 @@
           "published": "2026-06-29T00:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "651d272bf311161548f0a05a677890e3",
@@ -1869,7 +1919,7 @@
           "published": "2026-06-29T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5d1d268d96a278a57cccd803b9b93aee",
@@ -1879,7 +1929,7 @@
           "published": "2026-06-28T23:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a1fe6762472e43e3a4c4d10a40f881e1",
@@ -1889,7 +1939,7 @@
           "published": "2026-06-28T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2daa9b31d19993c6b29c6bb3f447c774",
@@ -2608,9 +2658,9 @@
         },
         {
           "id": "63e32d49154cda331fbd366c2df4d89c",
-          "title": "[윤한울의 입시 큐레이팅] 고입 성공이 대입의 독이 될 때 : 뼈아픈 자기객관화와 ‘가성비’ 고교 선택법 - 동아일보",
+          "title": "[윤한울의 입시 큐레이팅] 고입 성공이 대입의 독이 될 때 : 뼈아픈 자기객관화와 ‘가성비’ 고교 선택법 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jckp5TDM5bUhVZC1Wbm1reVVUbjhqblN1c3NZcUQwV1ZaRXplZHBQQkFjczItVUNwc1hOWjJIem5hbFl2R0JTeUlUM2RsQldNTlhVaDRjclUzQVNSS3ExaHdJVEZpbUk?oc=5",
-          "source": "동아일보",
+          "source": "E동아",
           "published": "2026-05-19T07:00:00+00:00",
           "type": "news",
           "grade": "all",
