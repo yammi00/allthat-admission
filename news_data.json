@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T09:07:07.886252+00:00",
+  "updated_at": "2026-06-29T14:31:02.722859+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-29T08:52:12.207114+00:00",
+          "published": "2026-06-29T14:00:04.341033+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -463,7 +463,17 @@
           "title": "[2027 수시] 경희대 논술, 수능 최저 유지 속 의약학계열 선발 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53265",
           "source": "에듀진",
-          "published": "2026-06-29T08:54:44.542731+00:00",
+          "published": "2026-06-29T14:18:37.549666+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "51d1aa2741c9ad2527ecba7702fe9699",
+          "title": "[칼럼] 2024 대입 수능시험 결과 분석 소고(小考)",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=913987",
+          "source": "www.cctimes.kr",
+          "published": "2026-06-29T10:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -476,7 +486,7 @@
           "published": "2026-06-29T08:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5322f167f45bc0139634ae4b97c13ff",
@@ -1436,6 +1446,16 @@
           "is_new": false
         },
         {
+          "id": "8948e320a46f9b6fb10500cd3a96c12c",
+          "title": "[2028 연세대vs고려대①]입시의 판이 바뀐다: 고려대·연세대 주요 변경 사항 및 핵심 트렌드 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CbTQwWk1UWG15RTItaktGc1BhZzVsZjdtelNvb2E4V29QMU1zNmJ2YlNTN1lXSzZOSkRqQkljZVQ4blo1Q3JyWVdLNFBxV3Y0UDFGeWhSTGNuYkF3NVJkTGNZUUZhQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "86beec37893d1b882bf6d5196aec71d7",
           "title": "'수험생 필수' 대입정보포털 2027 '어디가' 활용법.. 성적분석부터 입결...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=607977",
@@ -1486,16 +1506,6 @@
           "is_new": false
         },
         {
-          "id": "8f3a6318bdee903aa1cca49232037b1e",
-          "title": "연세대, '2028학년도 전형' 3대 개편 예고... 교과·종합·논술 동시 손질 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xS0F0elNHcG5nbmViMzB4UUFUb1NwN0I3MTdiWUtJbnRtNVlkZnVpVElCNzVPckJiTGFqYXUwQnRaSnpFaS0tcVR2XzE1Wk5zRUkyOFlyRFJ1SW9IaXhKOUh4YlllQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-21T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "63ddc400fb1dc105c20c293e786eade9",
           "title": "중앙대, 2028학년도 정시에 '학종49' 전형 신설…학생부 49% 반영 - 네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45SC1rMl9GRHdhd0JVVW9mbV9nR1FiblJqYmg5bFp0THlqQnVveEFVMUpUdU1XTVh6cjNwVXlHTjRha1VjZjFSekVHckJyMklMeE9Z?oc=5",
@@ -1521,7 +1531,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c95e231206cfc82abc0586aabf336df5",
@@ -1889,7 +1899,7 @@
           "published": "2026-06-29T04:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cb2cc3d6cc06d2156731be2913aa83ae",
@@ -2627,20 +2637,10 @@
           "is_new": false
         },
         {
-          "id": "83da02062c96642a5ee145b3c27b3837",
-          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-06-07T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5a4cfc58405b3bb4b2667a5d269b79fd",
-          "title": "“고1입니다. 내일 자퇴합니다”…조기 학업중단, 처음으로 1만명 넘은 이유는 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94Q0NJX0FIVWZ3RTRiU0lVNlo1dVZTNkRiNjhIUlhkeGJTVkNaTVF3a1htQlI0b1BOa1hNdFpnQVFfeGV2eWJSaUpIOGlqV0JTS3VzMA?oc=5",
-          "source": "매일경제",
+          "id": "a1802b3970a05ab277de3005bf19d0ca",
+          "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QTUZzZG1YSEl1NDVtem9VMU8zUEVBUW41ZUZDanQ1NlV0QVZWQ211UE1VVDAzNHZDN1NaYUs5QU9YRUFIY1hmU0lhaXpRbmdIZXlNWVNXT3NBZ2_SAWBBVV95cUxQc2xDeTNXUzRqZ2FyNzFvRTl6blRzdjAzQ2JqV0JRTlBhMFkxanctUklnWm9xS1NwNmREYVJaSFZONDhsaDJtTmZDN3ZVQ25NOEE2QVE0MWFlamVSZ1g0Zl8?oc=5",
+          "source": "연합뉴스",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
