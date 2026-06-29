@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T17:10:40.308259+00:00",
+  "updated_at": "2026-06-29T20:02:51.472717+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-29T16:55:42.174187+00:00",
+          "published": "2026-06-29T19:47:57.740753+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -463,7 +463,7 @@
           "title": "[2027 수시] 경희대 논술, 수능 최저 유지 속 의약학계열 선발 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53265",
           "source": "에듀진",
-          "published": "2026-06-29T16:58:17.271592+00:00",
+          "published": "2026-06-29T19:50:27.869299+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -516,7 +516,7 @@
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53e480d287bb46f92b13ffe80fe760f7",
@@ -1059,16 +1059,6 @@
           "is_new": false
         },
         {
-          "id": "fc28279776a00ccf51d2728ddd51e669",
-          "title": "수능만 잘 봐선 안 된다…서성한, 2028 대입서 출결·학생부 반영 확대 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZHByN3hzU1NUVU9aaE9abVVETnFjY05uNFdpY19MS2kwWkQyRV9TYnEwcmQyWUcwSGwzaks4Nmk3bXVKZ1JoR3IzQ3VoYkJ6RzZROTRLRTRhQQ?oc=5",
-          "source": "뉴스1",
-          "published": "2026-05-22T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "0f0acaf45d77bfed21412533b623ce54",
           "title": "'서성한' 2028 대입 개편안…정시 국어·수학 강화, 수시 정성평가 확대[세상&] - 네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNEZIdDFCLUctUWV3NnhCem1OSVE0VVphUDljdmZrZU5sU0NuZWVPUXJJQXlnQngzaWpfV2tQVlZUT2UxYjZRWGhvUHduMF9hSFh3?oc=5",
@@ -1426,11 +1416,31 @@
           "is_new": false
         },
         {
+          "id": "897e07bcf9984aece26fd12ba8384f5a",
+          "title": "“학종 확대 두각” 대학이 본 2028대입 변화.. 교과/정시 ‘정성평가 확대’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdlpOVVBPdDR1ZC0wYW93Rmd6MjhGS01mV0dkR0FfejU0N3poVXdxeEtjZmtFT1pockV2TVYzeWxhckJBckhsZnNhbFRKUDlVY0lqZkUxMU9DbVE2NHdaaEdrSXNTSU9aSEtlSA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-05-14T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "3f5cf22fcba4070f3b2a8c07fa5461e3",
           "title": "[최주영의 입시 해부] 2027 서강대, ‘철저한 학폭 제거’과 ‘1.5:1의 기적’에 주목하라 - 베타뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxYWljNExzREc0WkQ0UU16eURLSTY5RTNVX1g2NU5aWFp4Nk04NFRUeGJQZEZLMktJYUV6U2d3T1ZrVl9ZSEdqV2o0bHNjcnE3TzJqdVpwZmFCN250dUxtV19Ta2g?oc=5",
           "source": "베타뉴스",
           "published": "2026-05-12T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "8948e320a46f9b6fb10500cd3a96c12c",
+          "title": "[2028 연세대vs고려대①]입시의 판이 바뀐다: 고려대·연세대 주요 변경 사항 및 핵심 트렌드 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CbTQwWk1UWG15RTItaktGc1BhZzVsZjdtelNvb2E4V29QMU1zNmJ2YlNTN1lXSzZOSkRqQkljZVQ4blo1Q3JyWVdLNFBxV3Y0UDFGeWhSTGNuYkF3NVJkTGNZUUZhQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-04-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
