@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:31:02.722859+00:00",
+  "updated_at": "2026-06-29T17:10:40.308259+00:00",
   "available_archives": [
     "2026-05",
     "2026-04",
@@ -16,7 +16,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-06-29T14:00:04.341033+00:00",
+          "published": "2026-06-29T16:55:42.174187+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -463,7 +463,7 @@
           "title": "[2027 수시] 경희대 논술, 수능 최저 유지 속 의약학계열 선발 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53265",
           "source": "에듀진",
-          "published": "2026-06-29T14:18:37.549666+00:00",
+          "published": "2026-06-29T16:58:17.271592+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -476,7 +476,7 @@
           "published": "2026-06-29T10:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b087f82b5efff8d5b2f8b7d55ed48369",
@@ -509,14 +509,14 @@
           "is_new": false
         },
         {
-          "id": "301c5a213f2b3db83eb9b339a13224b1",
+          "id": "c47f8b606b5fa1d5c15e7a4e6be36034",
           "title": "서울 구로구, 2027학년도 수시합격전략 설명회 개최…주요 39개 대학 맞춤전략 제공 - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1B3YjViMWZKYnpJWk0yWGw4WVNRZHNhR1V4akpFWGVTR0RzMU94UGNSeUExMVVZWkwtTnB0eTZORTRnV1hrZ0JBLWQwSTZYaHFqMUNNTWcxblVxTGVuNHhoSU5vOEZuZGFGYjVvSWJvWVRFRzhIOURGM2JES2RfeUtwSXF2YXF1X3oxR2VHODVzVjBMN2RVVWxJT3NUVDhBTkVlQ0JGUWtURFZxVTBnNTVqMlBJNXlhNTRCSHZjS1cxUVBQU3VMYzJ4UHBMazVqY3djRVd6WkVwNUZxc2hzUTZHWDNRTVFwMkNsV1kxMFBuclFrazBqQWFwbkdLd2tNSk1jZExB0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNdnYxTWx4c2UybEJGQ2JqMXlWQlRiTkhxWElTQnYyanhKbWE3eTBaMVkyQklvMGtSc0JvdUZwNkRPb2lfSElwbURiRVM5MnFZYnhN0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
           "source": "데일리안",
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "53e480d287bb46f92b13ffe80fe760f7",
@@ -749,10 +749,10 @@
           "is_new": false
         },
         {
-          "id": "6c745aba5bb4bb6c4a3e1d292fb107b3",
-          "title": "서울시교육청, 2027 대입 수시 대비 진학지원 풀가동 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SNUJ4M1FabHVXVTctcHBfamVTdi01aVRBanlvZVREZWJndHVGSzVYdzFXMDNSUmJ0cXhlZ29xVXp2bW81aTNqY1lXWHVpRm9rUE5wMTNOX1dGeW5rNEFkVtIBeEFVX3lxTE9nMXl5aUMyeEx6bGZ1MGVrdldJX1U2ODFtVE03UWliSXBPWFJlOEZYWmU0bGt0SUlNQjBiNF9fRnVXNC1WVk15bTM5SUpPLVRyWk5TeWtEZFFJTjl0bDdXR2x1Mms1dW40X05wazN4Z0NiY1VIN3Jpeg?oc=5",
-          "source": "뉴시스",
+          "id": "3ce8149c022fb35ab189706a06b56222",
+          "title": "서울교육청, 수시 설명회부터 1대1 상담까지…2027 대입 진학지원 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HbkhvQjI3MUdXQ181R1JqOGYwWWhBMHNJNTgtZEFTLUhpRUd5XzdWWDFuSFo3TWt4Q1Jma0V0YWlqdGl6djRQNnMzQjBWTThPXzFzQmNDYXVLbzVOQjVZZGJMZWtZdXpuUGNrd0dR?oc=5",
+          "source": "네이트",
           "published": "2026-06-21T00:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1426,31 +1426,11 @@
           "is_new": false
         },
         {
-          "id": "897e07bcf9984aece26fd12ba8384f5a",
-          "title": "“학종 확대 두각” 대학이 본 2028대입 변화.. 교과/정시 ‘정성평가 확대’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdlpOVVBPdDR1ZC0wYW93Rmd6MjhGS01mV0dkR0FfejU0N3poVXdxeEtjZmtFT1pockV2TVYzeWxhckJBckhsZnNhbFRKUDlVY0lqZkUxMU9DbVE2NHdaaEdrSXNTSU9aSEtlSA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-05-14T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "3f5cf22fcba4070f3b2a8c07fa5461e3",
           "title": "[최주영의 입시 해부] 2027 서강대, ‘철저한 학폭 제거’과 ‘1.5:1의 기적’에 주목하라 - 베타뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxYWljNExzREc0WkQ0UU16eURLSTY5RTNVX1g2NU5aWFp4Nk04NFRUeGJQZEZLMktJYUV6U2d3T1ZrVl9ZSEdqV2o0bHNjcnE3TzJqdVpwZmFCN250dUxtV19Ta2g?oc=5",
           "source": "베타뉴스",
           "published": "2026-05-12T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8948e320a46f9b6fb10500cd3a96c12c",
-          "title": "[2028 연세대vs고려대①]입시의 판이 바뀐다: 고려대·연세대 주요 변경 사항 및 핵심 트렌드 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CbTQwWk1UWG15RTItaktGc1BhZzVsZjdtelNvb2E4V29QMU1zNmJ2YlNTN1lXSzZOSkRqQkljZVQ4blo1Q3JyWVdLNFBxV3Y0UDFGeWhSTGNuYkF3NVJkTGNZUUZhQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-04-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
