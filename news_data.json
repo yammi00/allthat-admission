@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:00:36.736785+00:00",
+  "updated_at": "2026-06-30T21:38:41.853958+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -465,7 +465,7 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-06-30T19:48:18.253798+00:00",
+          "published": "2026-06-30T21:26:09.093798+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1032,7 +1032,7 @@
           "title": "홍익대 2026입결.. 정시 수능 평균점수(환산) 건축(5년제) '톱'  전자·전기공 서울캠자율전공(자연·예능) 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
           "source": "베리타스알파",
-          "published": "2026-06-30T19:50:52.524924+00:00",
+          "published": "2026-06-30T21:28:46.981622+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1433,20 +1433,20 @@
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2098,10 +2098,20 @@
           "is_new": false
         },
         {
-          "id": "83da02062c96642a5ee145b3c27b3837",
+          "id": "0a32b950a75ca094628926e151e7a043",
           "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FUVZzRWZnV1dRbnM0Q20tYUdYcjREMUstQ3l3QmZPSlYtTFhkZWY0b1lPX1FuVV9pOGpmaHQtV1RIdEVBdWc?oc=5",
           "source": "v.daum.net",
+          "published": "2026-06-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5a4cfc58405b3bb4b2667a5d269b79fd",
+          "title": "“고1입니다. 내일 자퇴합니다”…조기 학업중단, 처음으로 1만명 넘은 이유는 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94Q0NJX0FIVWZ3RTRiU0lVNlo1dVZTNkRiNjhIUlhkeGJTVkNaTVF3a1htQlI0b1BOa1hNdFpnQVFfeGV2eWJSaUpIOGlqV0JTS3VzMA?oc=5",
+          "source": "매일경제",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
