@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T18:03:05.447731+00:00",
+  "updated_at": "2026-06-30T20:00:36.736785+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -384,20 +384,40 @@
           "is_new": false
         },
         {
-          "id": "998ce77b91a5db2622be7d845070e0c0",
-          "title": "2027학년도 수능 6월 모의평가, 국어 수학 평이 영어는 여전히 까다로워 - 2news.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uU0xmNkc5R2E4T3d0Z1hCNGlyWFNoNHFyWVNEMXR0d1NTNUhkZFdHaVJ6OTcxblJYTFByVlhhd1FZWjh5emZCMjF0QnQtdzhETlQ4aU5zME5KeVJERndHUjg0VTJRR1E?oc=5",
-          "source": "2news.co.kr",
+          "id": "59c4e6c4c88fcf59f4bc8a6ae22888b1",
+          "title": "6월 모평 국어·수학 쉬웠다…영어는 지난해 수능급 난도 유지 - kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMDNtWXlIOXpuWThPaFZtTnJGVmJZWkY1ZXFxdVdHd3ptUkp5NmhZemFlZnZYenZqeVNnaU5qcEUtYzBMWVZ6UXluWDJWRDVNWmdDekRLbHV4aFhwYWt4QV83M1NmUkZXWXZxV2FKSQ?oc=5",
+          "source": "kyongbuk.co.kr",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "8b276cd6a576196c4ea4ba3d5ec7bc7f",
-          "title": "[6월 모평] \"영어 1등급 3%대 될 듯\"…국어·수학 쉬웠지만 '불영어' 재현 우려 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERnRGMkFia3J0UnF6Ynh5UVhZZmcwRjJzbHNGX3owTW5lR052SEZHNjVwQlIwYzJjb05BUjFQOEMwWktjZHZ0aGljS29MZEhlUzgw?oc=5",
-          "source": "네이트",
+          "id": "e05a156296eaf9dddef588accd60fbd7",
+          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "73782df835d1909147a0ab354d84f494",
+          "title": "국어는 쉬웠는데 수학은… 6월 수능 모평, 난이도 분석 나왔다 - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82anJoXzR6cHNzTnhPZnlYdUI5aHl4cmM5Z0N4NWdVMjNRd1hHd3hWcUVFRDB5SUY2VVZJaDNpcFVidnlQbkZ4UHNmWEdlWkdPT0trRHdB?oc=5",
+          "source": "위키트리",
+          "published": "2026-06-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b398c104712530e87994ce1898b522c3",
+          "title": "2027학년도 수능 6월 모의평가 수학 난이도 엇갈린 평가 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SmkwUGNIZVl3QUNMNGYxaVRUTXNkOF8tdnlJTDFCaGN1YTUydlA3dHVVN2lNRl9pRmtWSnEtdkZBNlJKdnBIRXlqMXRSNEp4eFNfQXp2cVFiaXJOYlFKam5sanZ4ODA?oc=5",
+          "source": "2news.co.kr",
           "published": "2026-06-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -445,7 +465,7 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-06-30T17:50:47.408752+00:00",
+          "published": "2026-06-30T19:48:18.253798+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1012,7 +1032,7 @@
           "title": "홍익대 2026입결.. 정시 수능 평균점수(환산) 건축(5년제) '톱'  전자·전기공 서울캠자율전공(자연·예능) 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
           "source": "베리타스알파",
-          "published": "2026-06-30T17:53:20.182147+00:00",
+          "published": "2026-06-30T19:50:52.524924+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1413,20 +1433,20 @@
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2078,10 +2098,10 @@
           "is_new": false
         },
         {
-          "id": "a1802b3970a05ab277de3005bf19d0ca",
-          "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QTUZzZG1YSEl1NDVtem9VMU8zUEVBUW41ZUZDanQ1NlV0QVZWQ211UE1VVDAzNHZDN1NaYUs5QU9YRUFIY1hmU0lhaXpRbmdIZXlNWVNXT3NBZ2_SAWBBVV95cUxQc2xDeTNXUzRqZ2FyNzFvRTl6blRzdjAzQ2JqV0JRTlBhMFkxanctUklnWm9xS1NwNmREYVJaSFZONDhsaDJtTmZDN3ZVQ25NOEE2QVE0MWFlamVSZ1g0Zl8?oc=5",
-          "source": "연합뉴스",
+          "id": "83da02062c96642a5ee145b3c27b3837",
+          "title": "내신 5등급제에도…1만8661명 일반고 이탈 ‘7년 새 최다’ - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pbWRydnV4cFhMcW9oNERGNVpjTFVMMFhPcXVCWXhtYmZlUlRxNzFPV1ZSMHdWWE1qcXp6RDBSZERKX2JHUUFjdVMxQQ?oc=5",
+          "source": "v.daum.net",
           "published": "2026-06-07T07:00:00+00:00",
           "type": "news",
           "grade": "all",
