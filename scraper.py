@@ -438,7 +438,11 @@ def is_expired(pub: str, no_expire: bool = False) -> bool:
             d = d.replace(tzinfo=timezone.utc)
         if d < DATE_FROM:
             return True  # 26년 3월 이전은 항상 만료
-        return (datetime.now(timezone.utc) - d).days >= KEEP_DAYS
+        now = datetime.now(timezone.utc)
+        age_days = (now - d).days
+        # 이전 달 기사이면서 최소 14일 지난 경우 만료
+        prev_month = (d.year, d.month) < (now.year, now.month)
+        return prev_month and age_days >= 14
     except Exception:
         return False
 
