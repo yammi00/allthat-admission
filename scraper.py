@@ -485,6 +485,8 @@ def clean(items: list[dict], cat_id: str = '') -> list[dict]:
             continue
         if is_too_old(item["published"]):
             continue
+        if is_expired(item["published"], item.get("no_expire", False)):
+            continue
         if BLACKLIST_RE.search(item["title"]):
             continue
         # 타지역(수도권 외) 기사 제거 (고교입시는 제외 — 경기 남부 특화)
