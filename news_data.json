@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T08:20:42.705825+00:00",
+  "updated_at": "2026-07-01T12:40:25.053095+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "[6월 모의평가] 국어·수학도 '쉬운 과목' 쏠림… 화작·확통 선택 역대 최대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53323",
           "source": "에듀진",
-          "published": "2026-07-01T08:05:56.527308+00:00",
+          "published": "2026-07-01T12:29:28.863203+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -202,16 +202,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "915f5e4a7565996943a33d7635f0b3a4",
-          "title": "'불수능' 이후 첫 수능, 올해 '물영어' 될까… 국어·수학 변별력, N수생...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=593569",
-          "source": "news.unn.net",
-          "published": "2026-06-17T08:16:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -225,10 +215,20 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-07-01T08:08:32.564232+00:00",
+          "published": "2026-07-01T12:32:11.255622+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "351f5a8e2c95bdef7d2d9062a803db92",
+          "title": "[단독] [2027대입잣대] 사정관 1명당 서류 322건 평가 '축소'.. 학종 확대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617486",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-01T11:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f618a3b2ba3114c37b3004c5f0f74584",
@@ -603,7 +603,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cc3d662c545ae6d3c40c444789176b9d",
@@ -764,20 +764,20 @@
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
