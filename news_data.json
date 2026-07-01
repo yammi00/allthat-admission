@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T21:36:35.992971+00:00",
+  "updated_at": "2026-07-01T23:21:16.366251+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "[6월 모의평가] 국어·수학도 '쉬운 과목' 쏠림… 화작·확통 선택 역대 최대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53323",
           "source": "에듀진",
-          "published": "2026-07-01T21:21:26.520932+00:00",
+          "published": "2026-07-01T23:06:19.042210+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +215,7 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-07-01T21:24:11.636563+00:00",
+          "published": "2026-07-01T23:09:00.416516+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -764,20 +764,20 @@
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
