@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T03:03:37.903910+00:00",
+  "updated_at": "2026-07-01T08:20:42.705825+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,10 @@
           "title": "[6월 모의평가] 국어·수학도 '쉬운 과목' 쏠림… 화작·확통 선택 역대 최대",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53323",
           "source": "에듀진",
-          "published": "2026-07-01T02:48:22.029227+00:00",
+          "published": "2026-07-01T08:05:56.527308+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21311ee687e87142b6669f556fc04305",
@@ -31,7 +31,7 @@
           "published": "2026-07-01T00:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "11abaa3bcb14f297a1ba9c733db9bd21",
@@ -212,26 +212,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0ec2962bdb3fafa9922c89389425dec1",
-          "title": "[단독] 가천대 전형 안내영상 3종.. 사정관이 제시한 합격 포인트 '눈길...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=615280",
-          "source": "www.veritas-a.com",
-          "published": "2026-06-17T06:30:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d03d666e32f91ab4299c31e74b40adf8",
-          "title": "9월 2일 올해 마지막 수능 모의평가…EBS 연계해 적정 난이도 유지 예정",
-          "link": "https://n.news.naver.com/mnews/article/448/0000620291?sid=102",
-          "source": "news.tvchosun.com",
-          "published": "2026-06-17T04:51:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -245,7 +225,7 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-07-01T02:50:57.274505+00:00",
+          "published": "2026-07-01T08:08:32.564232+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -569,46 +549,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "eb950d0dcec8e1517db76e2dad667ee4",
-          "title": "서울권 반도체 일반학과 수시 20.9% 늘었다…계약학과는 정원 유지 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZlAwcXFxaXAtN2wwa3k4bTllS3ZCbFpOd05VM0dEMjU4U3NtSlVWZHJsamlZZTRIc1JZX0hnZ0RJZng2LTYtTGhqTDA0akk4U3JFbDJQSWVQMnRV?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-06-17T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "47213ea6cc0e88f11346b063976dd888",
-          "title": "[2027수시] '출렁이는 지형 변화' 논술전형.. 의약계열 지형 급변, 논술 영향력 확대 '주목' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UnI5QUt0S21Da0l5S0t0V2xpNUNmbGFwVUE2eXZPUXVSUGVlWFhtZlYtbk9ydzJlczllVlhYRjI1SDdBY3lvNkVRVm10UHZPcUd2bGNVUWhndU5XYThvb19La2VZS21oakgzWQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-06-17T06:58:15+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "161926895aadaefe3858f22934c45de3",
-          "title": "[윤한울의 입시 큐레이팅] 2027·2028 의대 입시 지형도: 지역의사제와 ...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=108957",
-          "source": "edu.donga.com",
-          "published": "2026-06-17T05:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8f755d094e504ef61eefa727e5ef4bf8",
-          "title": "'수능 가늠자' 9월모평 9월2일 시행.. '역대급 반수생' 합류하나",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=615359",
-          "source": "www.veritas-a.com",
-          "published": "2026-06-17T05:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -655,9 +595,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "d4cd0b02c320cd6c0e316e0e540126c4",
-          "title": "2027학년도 대학수학능력시험 9월 모의평가 비학원생 접수 가능 학원 안내(7.1. 11:30 ...",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095616&lev=0&m=0301&s=suneung",
+          "id": "3ed819d2571d37065970bc28afe05c1f",
+          "title": "2027학년도 대학수학능력시험 시행세부계획 공고문 및 보도자료",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095610&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-07-01T00:00:00+00:00",
           "type": "official",
@@ -724,7 +664,7 @@
           "published": "2026-07-01T02:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "150cdc630955abe30e62cbf1f7b2c9fa",
@@ -791,7 +731,7 @@
           "published": "2026-07-01T00:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3b0be8c8ef49e41ff76be2b345654f35",
@@ -824,20 +764,20 @@
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1112,16 +1052,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "0817f96534e532dd4cdd06dcad6140aa",
-          "title": "[윤한울의 입시 큐레이팅] 2027·2028 의대 입시 지형도: 지역의사제와 수능 최저가 쏘아 올린 대입 생태계의 재편 - E동아",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eV9SWElsWDk2a0x0anNSMUFpRllHZG10b2h6X0JhNkU3WV9GUkg0QWVHM0hQQlJMRG5BaDRkOFRtbTRYMC0xV2owbnp4eGMwc0RkSTBBTUxyTDJPc2ctQjJCdjNmYlk?oc=5",
-          "source": "E동아",
-          "published": "2026-06-17T05:56:55+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1186,16 +1116,6 @@
           "link": "https://n.news.naver.com/mnews/article/020/0003727940?sid=102",
           "source": "www.donga.com",
           "published": "2026-06-18T19:34:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "6d61c54ce7a38c55646a62935c82b636",
-          "title": "북일고 도서관, 2026학년도 추가 도서 140권 공개... 자사고 지망생 필독 리스트는 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZTNPbTlIeHZqVkYxWk5iWXlXY1pwdk12RTAwUW1iUURvNTVUXzZmQ2VUb1VOallPZDFVQUFjU1g0YlZSNHlPN1JPNHNTYTZxVURrZmhsUlRORHpueUVPOHVGSmZiQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-06-17T05:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
