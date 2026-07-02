@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T02:53:06.086918+00:00",
+  "updated_at": "2026-07-02T07:40:23.523410+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,6 +14,16 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "dd49742b1c157e3259e57370b11d02cb",
+          "title": "‘불수능’ 비판 의식했나…2027학년도 수능 “적정 변별력 확보”",
+          "link": "https://www.kbmaeil.com/article/20260702500079",
+          "source": "www.kbmaeil.com",
+          "published": "2026-07-02T07:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b4d800e39f5843d45137e8069d1259be",
           "title": "[유성룡의 입시 포인트] 2027학년도 6월 수능 모의평가 채점 결과 분석",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/07/02/2026070280072.html",
@@ -21,7 +31,7 @@
           "published": "2026-07-02T02:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21311ee687e87142b6669f556fc04305",
@@ -191,6 +201,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "80fad355354da04aca48413aaf86fa6d",
+          "title": "[에듀플러스][2028 대입 포인트]⑦중앙대, 입시 확 바뀐다…정시도 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003443785?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-07-02T03:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "ca85d9e191e6b049e94293c1be6fb6b1",
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
@@ -208,7 +228,7 @@
           "published": "2026-07-02T00:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dcd67704e72ac1b0150bb6554f228064",
@@ -218,7 +238,7 @@
           "published": "2026-07-01T23:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "351f5a8e2c95bdef7d2d9062a803db92",
@@ -531,21 +551,11 @@
           "is_new": false
         },
         {
-          "id": "54e161fb861b8a6f89f47b02d5130fbc",
-          "title": "대입정보 박람회, 내달 17∼18일 원광대서 개최…73개 대학 참여",
-          "link": "https://n.news.naver.com/mnews/article/001/0016146296?sid=102",
-          "source": "www.yna.co.kr",
-          "published": "2026-06-18T06:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d3628722904d20a4f544ef6ce69a08c8",
-          "title": "한양대 2027수시 지원전략 설명회 ‘8월1일부터 22일까지 7차례’.. ‘전형안내와 입결 공개’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=615526",
-          "source": "베리타스알파",
-          "published": "2026-06-18T03:40:48.185762+00:00",
+          "id": "46750e3ef660be0421d840829f8bc0d9",
+          "title": "현직 진학 전문가들이 짚는 2027학년도 수시모집 합격 전략 - 더퍼블릭",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLb0xYRUFvUTR6eXNudHFNbGtXdF96a0MyRk8wdjNFZnRHV2hNNElEWTd3bDBCRWNKYk1LNUtxTm9fcDlOb2hidUNpVXk5ell4QUtJeWlzdlYwWnRpRldXYXNjRW1LS0pNcEIw0gFvQVVfeXFMTzRuS3BWb0daX2Nhek1MejNHQWpjTXRXNWlLUGZsTlJwNGh3THNJWkVHODMtLVFPTXpnRy14OVlnUG9MMUJfQmF4UTQ4Y0JBdVNweVZNUlAtTUNGNU9lQ0RWT19pemJVSHUxZkRWUWkw?oc=5",
+          "source": "더퍼블릭",
+          "published": "2026-06-18T21:00:18+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -603,7 +613,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3ed819d2571d37065970bc28afe05c1f",
@@ -734,6 +744,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "91ecdc871ec259e391b0c121fbeb1394",
+          "title": "올해 수능 달라진다···수험표 뒷면에 '가채점표' 제공 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rS09fX3Z0eWcxT01uc0x5Z2NXczVBMHJ5bER4RHZMaG1YN0luZjdlMGNCSlc0WDNiaUs4eDhyT3ppT1g5RmdDVkRfUWxNRU55c0pz?oc=5",
+          "source": "네이트",
+          "published": "2026-07-02T05:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "827827d5bd858e4fdd7a1b50d1f9040e",
           "title": "서초구, 2027 대입 수시 합격드림 설명회...오는 16일",
@@ -1030,16 +1050,6 @@
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=869403",
           "source": "www.gokorea.kr",
           "published": "2026-06-19T00:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8aabc37576224462bd7eb6be093bd097",
-          "title": "반수 준비, 지원 전형·취약 과목에 따라 학습 전략 달라야",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/18/2026061880124.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-18T06:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
