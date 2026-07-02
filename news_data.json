@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T23:21:16.366251+00:00",
+  "updated_at": "2026-07-02T02:53:06.086918+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,14 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "0897b8854efef41875aaefbb9c742320",
-          "title": "[6월 모의평가] 국어·수학도 '쉬운 과목' 쏠림… 화작·확통 선택 역대 최대",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53323",
-          "source": "에듀진",
-          "published": "2026-07-01T23:06:19.042210+00:00",
+          "id": "b4d800e39f5843d45137e8069d1259be",
+          "title": "[유성룡의 입시 포인트] 2027학년도 6월 수능 모의평가 채점 결과 분석",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/02/2026070280072.html",
+          "source": "edu.chosun.com",
+          "published": "2026-07-02T02:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "21311ee687e87142b6669f556fc04305",
@@ -182,26 +182,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "89571c73c86e5806dd3577f1c544ba03",
-          "title": "㈜잇올, 수능 전 마지막 9월 모의평가 전국 시행",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=108975",
-          "source": "edu.donga.com",
-          "published": "2026-06-18T02:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "490a7c8cda99168e49447b5172315664",
-          "title": "반수 도전한다면 작년 수능부터 풀어보자…유형별 전략은",
-          "link": "https://n.news.naver.com/mnews/article/003/0014013137?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-06-18T00:56:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -215,10 +195,30 @@
           "title": "[2027 수시] 한양대 교과전형, 교과 90%+정성평가 10%… 수능최저 3합7 적용",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53232",
           "source": "에듀진",
-          "published": "2026-07-01T23:09:00.416516+00:00",
+          "published": "2026-07-02T02:40:50.867946+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4a2f628adfc46eb03756de3cdf317695",
+          "title": "서울대 2027학년도 수시, 언론정보학과 지역균형 첫 선발",
+          "link": "https://www.newspim.com/news/view/20260702000144",
+          "source": "www.newspim.com",
+          "published": "2026-07-02T00:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "dcd67704e72ac1b0150bb6554f228064",
+          "title": "서울대 2027학년도 수시, 큰 틀 유지… 지역균형 '언론정보학과' 신설 변...",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1387435",
+          "source": "www.m-i.kr",
+          "published": "2026-07-01T23:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "351f5a8e2c95bdef7d2d9062a803db92",
@@ -595,6 +595,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "2fc69c8d033cbf3cd5ab4b8b33fd3fd1",
+          "title": "진료지원간호사 체계적 교육 위한 교육과정 고시 제정안 행정예고",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769275",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-02T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3ed819d2571d37065970bc28afe05c1f",
           "title": "2027학년도 대학수학능력시험 시행세부계획 공고문 및 보도자료",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095610&lev=0&m=0301&s=suneung",
@@ -764,20 +775,20 @@
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1029,26 +1040,6 @@
           "link": "https://edu.chosun.com/site/data/html_dir/2026/06/18/2026061880124.html",
           "source": "edu.chosun.com",
           "published": "2026-06-18T06:56:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "05137bf671d4f7d69c072b33d3b2cb3d",
-          "title": "유니브클래스, 수시 설명회 전개...2027학년도 대입 학부모 대상",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=108964",
-          "source": "edu.donga.com",
-          "published": "2026-06-18T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "83a01e713a26033edeccfc0d52c8d2ec",
-          "title": "유니브클래스, 2027학년도 대입 준비 학부모 대상 수시설명회 진행",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=204460",
-          "source": "www.lecturernews.com",
-          "published": "2026-06-17T23:32:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
