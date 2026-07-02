@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T10:46:23.043596+00:00",
+  "updated_at": "2026-07-02T13:58:38.871251+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -13,6 +13,16 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-02T08:19:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "dd49742b1c157e3259e57370b11d02cb",
           "title": "‘불수능’ 비판 의식했나…2027학년도 수능 “적정 변별력 확보”",
@@ -573,16 +583,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616377",
           "source": "www.veritas-a.com",
           "published": "2026-06-25T00:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7ba42dffff0ae60a07590d542e85a0fa",
-          "title": "[단독] 경기대 2026입결.. 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’ 전자공 미디어영상 톱3",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=615403",
-          "source": "베리타스알파",
-          "published": "2026-06-18T12:08:24.579906+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
