@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T02:28:15.892506+00:00",
+  "updated_at": "2026-07-03T07:11:23.411765+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-03T02:13:33.663066+00:00",
+          "published": "2026-07-03T06:56:20.418521+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fe4fe0eaaf340bf75b74122088e177d4",
@@ -31,7 +31,7 @@
           "published": "2026-07-03T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dd49742b1c157e3259e57370b11d02cb",
@@ -734,6 +734,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "0bc1f43e152b76ea27ce79e7c42f8886",
+          "title": "건국대 2027학년도 수시 학생부종합 1,189명 선발… 인공지능학과 신설 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peUpLQVVmcFQzU0FBQkwydFNyaDQ0ZEIzM3ZXemEwZHE3VEs0Z2kwYmk0UUZrNTNZaFpiTWsxYmRMd2MzSGlXZVVWN0NiY2RacTZ6QWZIZUFhOEc3RFdJb0Q5c2poZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-03T03:09:54+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "91ecdc871ec259e391b0c121fbeb1394",
           "title": "올해 수능 달라진다···수험표 뒷면에 '가채점표' 제공 - 네이트",
