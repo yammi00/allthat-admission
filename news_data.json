@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T07:11:23.411765+00:00",
+  "updated_at": "2026-07-03T10:44:10.048236+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-03T06:56:20.418521+00:00",
+          "published": "2026-07-03T10:29:09.961345+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ecdfb85f7af678e5a01c8231aadcc0b1",
+          "title": "[박원장의 대치동리포트] 수능 신호등 6평, 선택과목과 영어로 갈린다.",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109604",
+          "source": "edu.donga.com",
+          "published": "2026-07-03T08:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "fe4fe0eaaf340bf75b74122088e177d4",
@@ -192,16 +202,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5a4b571cf52e30e59c916e416157a991",
-          "title": "성보현 입시전문가, &quot;6월 평가원 모의고사 이후, 성적 아닌 '전략' 집중...",
-          "link": "https://n.news.naver.com/mnews/article/008/0005374545?sid=101",
-          "source": "www.mt.co.kr",
-          "published": "2026-06-19T08:17:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -210,6 +210,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "e77939cf8bd05bd8643d3b8ca0adfbb8",
+          "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
+          "source": "에듀진",
+          "published": "2026-07-03T10:31:35.596113+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "80fad355354da04aca48413aaf86fa6d",
           "title": "[에듀플러스][2028 대입 포인트]⑦중앙대, 입시 확 바뀐다…정시도 수능...",
@@ -742,7 +752,7 @@
           "published": "2026-07-03T03:09:54+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "91ecdc871ec259e391b0c121fbeb1394",
@@ -1010,16 +1020,6 @@
           "link": "https://www.newspim.com/news/view/20260619000526",
           "source": "www.newspim.com",
           "published": "2026-06-19T21:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b99bf12409c15d277e158e8394e22720",
-          "title": "[2026 디지털 선도 사이버대/한양사이버대학교] 1만 6640명이 선택한 대...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=593559",
-          "source": "news.unn.net",
-          "published": "2026-06-19T09:14:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
