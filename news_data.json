@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T14:08:10.042061+00:00",
+  "updated_at": "2026-07-03T16:05:44.427822+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-03T13:49:37.508537+00:00",
+          "published": "2026-07-03T15:50:25.822296+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +215,7 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-03T13:52:39.420400+00:00",
+          "published": "2026-07-03T15:52:51.551086+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -739,6 +739,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peUpLQVVmcFQzU0FBQkwydFNyaDQ0ZEIzM3ZXemEwZHE3VEs0Z2kwYmk0UUZrNTNZaFpiTWsxYmRMd2MzSGlXZVVWN0NiY2RacTZ6QWZIZUFhOEc3RFdJb0Q5c2poZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-03T03:09:54+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "648c767669d56f0323bc2295c8556af4",
+          "title": "2027학년도 수능, 11월 19일 시행 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXlMTmRYMWU0bnFJbHZVRVdfVDhVYzZPbVdiS3JnQUlsOWdGbE5VR2NueXpFUVpWT3l2ZFNQYVpKWk5pSFktemp5dDcwVmNkdWxmbzF2WEFzYk83d19YUmpiSHNucnJ0ejFweUF4Yk1jNkN5cE5VNW5qOW1lUG96SnZXbGM4aENYWUlnbFhRdzUxMFROUGtFMHJadFIwUlJaVDk0TW9Fa2Nod05QbFFsRkdxX2F0cmR3bTNQcWoxZXhWWjlXT0EyUlI5ZDVVOXhZcVo4R0hnSlA2QQ?oc=5",
+          "source": "MSN",
+          "published": "2026-07-02T08:30:23+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
