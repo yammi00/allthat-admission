@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:14:14.094049+00:00",
+  "updated_at": "2026-07-03T02:28:15.892506+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,24 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "491c589590395b159cf70c71f2a4f089",
-          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-07-02T08:19:00+00:00",
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-07-03T02:13:33.663066+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "fe4fe0eaaf340bf75b74122088e177d4",
+          "title": "2027학년도 수능 최대 변수는 '응시자 구성'… 사회탐구 선택 증가가 의...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109557",
+          "source": "edu.donga.com",
+          "published": "2026-07-03T00:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "dd49742b1c157e3259e57370b11d02cb",
@@ -585,6 +595,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "581c64659c38256862f410d24e619ff7",
+          "title": "교정시설 과밀수용, 민간의 힘으로 푼다",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769459",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-03T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "2fc69c8d033cbf3cd5ab4b8b33fd3fd1",
           "title": "진료지원간호사 체계적 교육 위한 교육과정 고시 제정안 행정예고",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769275",
@@ -1000,36 +1021,6 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=593559",
           "source": "news.unn.net",
           "published": "2026-06-19T09:14:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b6573aae09334166edb4e776b2b74eb6",
-          "title": "&quot;수시 원서 쓰기 전 반드시 거쳐라&quot;…한양대, '대입 타짜'들이 밝히는 수...",
-          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=125776",
-          "source": "www.dailysmart.co.kr",
-          "published": "2026-06-19T01:44:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "1b188576ff54f14cbbb12099104a0381",
-          "title": "한양대, 2027학년도 '하반기 수시 지원전략 설명회' 전국 6개 도시 순회...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=593682",
-          "source": "news.unn.net",
-          "published": "2026-06-19T00:28:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "993b63788a32cbde00093476f91cb732",
-          "title": "유니브클래스, 대입 준비 학부모 대상 수시설명회 진행",
-          "link": "https://www.gokorea.kr/news/articleView.html?idxno=869403",
-          "source": "www.gokorea.kr",
-          "published": "2026-06-19T00:06:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
