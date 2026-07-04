@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T23:11:48.511988+00:00",
+  "updated_at": "2026-07-04T02:27:24.424009+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-03T22:56:56.191343+00:00",
+          "published": "2026-07-04T02:12:10.972127+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +215,7 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-03T22:59:20.616144+00:00",
+          "published": "2026-07-04T02:14:38.538510+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -667,6 +667,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "b97cf2db3a3249fa845ac3c3494c9955",
+          "title": "경기대 2027 논술우수자전형 239명 선발… 논술 90%·학생부교과 10% - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Dei1PanRTSUV2VTNteHpuTTJIT2hSbG1UZENsRXViUjlmaUZZR2pXYXdmSDlDTWdyQmlMMUNWYWtzRHdkNHJRQ19FZ3FUNWljMThRc1hxWW5PSTVQZEx2MmZ6Y3FaZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-04T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c0e7740ce2394e1be519839b4fa031f8",
           "title": "[2027 대학별 수시 분석] 서울시립대 | 교과전형 정성 평가 확대 종합Ⅱ...",
           "link": "https://www.naeil.com/news/read/593820?ref=naver",
@@ -804,20 +814,20 @@
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
