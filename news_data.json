@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T10:21:09.105822+00:00",
+  "updated_at": "2026-07-05T13:31:28.923610+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,14 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-07-05T10:05:36.284245+00:00",
+          "id": "48905aff47e7779b3a4630b70367aba7",
+          "title": "6월 모의평가 채점 결과에 따른 지원가능 대학·학과",
+          "link": "http://www.dynews.co.kr/news/articleView.html?idxno=856784",
+          "source": "www.dynews.co.kr",
+          "published": "2026-07-05T10:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "dbd38feb968be6e29c48d43f0647d39f",
@@ -235,7 +235,7 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-05T10:08:08.984664+00:00",
+          "published": "2026-07-05T13:19:02.058724+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -248,7 +248,7 @@
           "published": "2026-07-05T07:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e6cd6a459243d841aeac5bc4897cd949",
@@ -258,7 +258,7 @@
           "published": "2026-07-05T07:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "362376e78e7ffd52fcd4176f545c9b26",
@@ -1078,7 +1078,7 @@
           "published": "2026-07-04T23:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3ef8d51517deb444971e5d0b98139bd",
