@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T07:34:33.563725+00:00",
+  "updated_at": "2026-07-05T10:21:09.105822+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-05T07:19:14.814674+00:00",
+          "published": "2026-07-05T10:05:36.284245+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-05T05:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "491c589590395b159cf70c71f2a4f089",
@@ -235,10 +235,30 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-05T07:21:39.716035+00:00",
+          "published": "2026-07-05T10:08:08.984664+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "b2753cda6b7e4fededbf4739bde575e8",
+          "title": "이투스에듀, 연고대 수시 분석 발표...&quot;연세대 수능 이전 통합과학논술...",
+          "link": "http://www.lawissue.co.kr/view.php?ud=202607051646174052f4ab64559d_12",
+          "source": "www.lawissue.co.kr",
+          "published": "2026-07-05T07:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e6cd6a459243d841aeac5bc4897cd949",
+          "title": "올해 SKY 수시 큰 틀 유지…서울대, 지역균형 언론정보학과 신설",
+          "link": "https://n.news.naver.com/mnews/article/421/0009041455?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-07-05T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "362376e78e7ffd52fcd4176f545c9b26",
@@ -1038,7 +1058,7 @@
           "published": "2026-07-05T05:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81bf51439ab029e2aa9625e61d61c553",
@@ -1048,17 +1068,17 @@
           "published": "2026-07-05T00:59:16+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "458bc8577fb764485cc2436e81e1edc3",
-          "title": "내신 5등급제 첫해, ‘큰 학교’로 쏠렸다…300명 이상 일반고 진학 31%↑ - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoc2JIR2p6eFB2TGdWUXpBTWprZUR0LWZVaUhaRTZEMGZFLW5rOVVjdFVTNnNzZ09pck5PaEIwVDFZQnd0aElUMk5kRlFvM0l5QlNSRm9LX1BiQzVncWZSTEFRVlZHVHpxbW95TXo3bTdkdjRnU1HSAWZBVV95cUxOWWdPaWMwWTFtRVVTYTFCdUNaemgtV3ZIOHN6WDlSaGs5NnNMelBoTFNKSS1YamtiVzYwLU5KcFlCMXB1cTJxaG0tYzhIQ1gwSTZBTHByYXpuYWxhN1hVTnZBMFFBX2c?oc=5",
-          "source": "동아일보",
-          "published": "2026-07-04T23:07:51+00:00",
+          "id": "ad725762423750218af2c94db3dda154",
+          "title": "내신 5등급제 첫해, '큰 학교'로 쏠렸다…300명 이상 일반고 진학 31%↑ - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53RnFuNDdadzJxQWlLUEJWODgwbVJLcDBPRzgyQTE1YUNuVFBGLVlXdGZnZ3FUYm5ZbjJEQW1zYnY5SEd1ZndtQXpwYXREVzZPdzNV?oc=5",
+          "source": "네이트",
+          "published": "2026-07-04T23:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "d3ef8d51517deb444971e5d0b98139bd",
