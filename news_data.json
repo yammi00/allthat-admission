@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T02:43:04.721015+00:00",
+  "updated_at": "2026-07-05T07:34:33.563725+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,27 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-05T02:27:39.655120+00:00",
+          "published": "2026-07-05T07:19:14.814674+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "dbd38feb968be6e29c48d43f0647d39f",
+          "title": "수능 영어 절대평가 8년 ‘성적’은…사교육잡기커녕 더 키웠다",
+          "link": "https://n.news.naver.com/mnews/article/025/0003535383?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-07-05T05:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-03T08:21:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +235,7 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-05T02:30:05.894855+00:00",
+          "published": "2026-07-05T07:21:39.716035+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -228,7 +248,7 @@
           "published": "2026-07-05T01:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "80fad355354da04aca48413aaf86fa6d",
@@ -546,26 +566,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53177",
           "source": "에듀진",
           "published": "2026-06-21T22:25:25.816860+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6c745aba5bb4bb6c4a3e1d292fb107b3",
-          "title": "서울시교육청, 2027 대입 수시 대비 진학지원 풀가동 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SNUJ4M1FabHVXVTctcHBfamVTdi01aVRBanlvZVREZWJndHVGSzVYdzFXMDNSUmJ0cXhlZ29xVXp2bW81aTNqY1lXWHVpRm9rUE5wMTNOX1dGeW5rNEFkVtIBeEFVX3lxTE9nMXl5aUMyeEx6bGZ1MGVrdldJX1U2ODFtVE03UWliSXBPWFJlOEZYWmU0bGt0SUlNQjBiNF9fRnVXNC1WVk15bTM5SUpPLVRyWk5TeWtEZFFJTjl0bDdXR2x1Mms1dW40X05wazN4Z0NiY1VIN3Jpeg?oc=5",
-          "source": "뉴시스",
-          "published": "2026-06-21T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "3c57ae8ac7cdd6c408608e376cdff637",
-          "title": "2028학년도부터는 정시모집할 때 학생부도 본다···‘성적 올인’ 문 좁아져 - 이대학보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a0MzTXhQTFNzQnllMFJNdVhPaUxvYmV0QldXclpEZVp6aTEzX3NiNUhINThheVRGN2Voa2phOVZmeVprYUxJVVhQTlowZGNVS3E5RGpib0FmZkJCcVROVEFZOWRJLVVTaVHSAW5BVV95cUxOc1FDSm5Zd3c2blRJWHdHMW1icXIzdXVRaDJUdFFZUWN3UWhSSFNoNFB0Qnd4WlNDR3B1SDZMYVZKMXY0ejVuN0VpQ0gxZjBseUNLemF4SER6dnVtX3NEUEVEMzdLWjF0SmtKYnVGZw?oc=5",
-          "source": "이대학보",
-          "published": "2026-06-21T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1031,6 +1031,26 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "084050da65ccd4955be4e913af3cedfa",
+          "title": "내신 5등급제에 '큰 학교' 쏠림‥3백 명 이상 고등학교 신입생 31% 증가",
+          "link": "https://n.news.naver.com/mnews/article/214/0001509654?sid=102",
+          "source": "imnews.imbc.com",
+          "published": "2026-07-05T05:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "81bf51439ab029e2aa9625e61d61c553",
+          "title": "300명 이상 일반고 진학 30.6% 급증…내신 5등급제·신도시 입주 맞물려 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSXIwd2RPRk5QMTZXa1JzV2dSU1o1b0l2SGVob3hDeGtTQW94RnM0TmpKcVc0T1k3cURHRFREZV9mc1AxREQ4S3JyVmRHdkh1NzB3aVE4Q3Z0c2NCNmcwQg?oc=5",
+          "source": "메트로신문",
+          "published": "2026-07-05T00:59:16+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "458bc8577fb764485cc2436e81e1edc3",
           "title": "내신 5등급제 첫해, ‘큰 학교’로 쏠렸다…300명 이상 일반고 진학 31%↑ - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoc2JIR2p6eFB2TGdWUXpBTWprZUR0LWZVaUhaRTZEMGZFLW5rOVVjdFVTNnNzZ09pck5PaEIwVDFZQnd0aElUMk5kRlFvM0l5QlNSRm9LX1BiQzVncWZSTEFRVlZHVHpxbW95TXo3bTdkdjRnU1HSAWZBVV95cUxOWWdPaWMwWTFtRVVTYTFCdUNaemgtV3ZIOHN6WDlSaGs5NnNMelBoTFNKSS1YamtiVzYwLU5KcFlCMXB1cTJxaG0tYzhIQ1gwSTZBTHByYXpuYWxhN1hVTnZBMFFBX2c?oc=5",
@@ -1038,7 +1058,7 @@
           "published": "2026-07-04T23:07:51+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3ef8d51517deb444971e5d0b98139bd",
@@ -1076,16 +1096,6 @@
           "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=360479",
           "source": "www.ftoday.co.kr",
           "published": "2026-06-21T23:58:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2bb0b808ea90ba647c5344d30154c9d2",
-          "title": "중학교 시기부터 체계적 준비...서초구, 고교학점제·내신 5등급제 등 교...",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=306127",
-          "source": "www.cnbizm.com",
-          "published": "2026-06-21T03:20:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
