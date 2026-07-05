@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T23:06:39.248439+00:00",
+  "updated_at": "2026-07-05T02:43:04.721015+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-04T22:51:43.700140+00:00",
+          "published": "2026-07-05T02:27:39.655120+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,10 +215,20 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-04T22:54:08.935465+00:00",
+          "published": "2026-07-05T02:30:05.894855+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "362376e78e7ffd52fcd4176f545c9b26",
+          "title": "변화맞은 2027학년도 수시, '전략'이 당락 갈라",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1388200",
+          "source": "www.m-i.kr",
+          "published": "2026-07-05T01:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "80fad355354da04aca48413aaf86fa6d",
@@ -556,16 +566,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a0MzTXhQTFNzQnllMFJNdVhPaUxvYmV0QldXclpEZVp6aTEzX3NiNUhINThheVRGN2Voa2phOVZmeVprYUxJVVhQTlowZGNVS3E5RGpib0FmZkJCcVROVEFZOWRJLVVTaVHSAW5BVV95cUxOc1FDSm5Zd3c2blRJWHdHMW1icXIzdXVRaDJUdFFZUWN3UWhSSFNoNFB0Qnd4WlNDR3B1SDZMYVZKMXY0ejVuN0VpQ0gxZjBseUNLemF4SER6dnVtX3NEUEVEMzdLWjF0SmtKYnVGZw?oc=5",
           "source": "이대학보",
           "published": "2026-06-21T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e656212c69972ccde005979797a5c252",
-          "title": "서울대 공대 대신 ‘삼전닉스’ 간다… 계약학과 정시 합격선, 서울대 ...",
-          "link": "https://n.news.naver.com/mnews/article/022/0004137006?sid=102",
-          "source": "www.segye.com",
-          "published": "2026-06-21T02:22:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1030,6 +1030,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "458bc8577fb764485cc2436e81e1edc3",
+          "title": "내신 5등급제 첫해, ‘큰 학교’로 쏠렸다…300명 이상 일반고 진학 31%↑ - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoc2JIR2p6eFB2TGdWUXpBTWprZUR0LWZVaUhaRTZEMGZFLW5rOVVjdFVTNnNzZ09pck5PaEIwVDFZQnd0aElUMk5kRlFvM0l5QlNSRm9LX1BiQzVncWZSTEFRVlZHVHpxbW95TXo3bTdkdjRnU1HSAWZBVV95cUxOWWdPaWMwWTFtRVVTYTFCdUNaemgtV3ZIOHN6WDlSaGs5NnNMelBoTFNKSS1YamtiVzYwLU5KcFlCMXB1cTJxaG0tYzhIQ1gwSTZBTHByYXpuYWxhN1hVTnZBMFFBX2c?oc=5",
+          "source": "동아일보",
+          "published": "2026-07-04T23:07:51+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d3ef8d51517deb444971e5d0b98139bd",
           "title": "고1 학업 중단자 1만명 시대… '내신 리셋' 위해 자퇴표 던지는 아이들",
