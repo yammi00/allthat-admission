@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T13:54:48.896879+00:00",
+  "updated_at": "2026-07-06T17:04:05.148080+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-06T13:39:59.146777+00:00",
+          "published": "2026-07-06T16:49:11.124659+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -44,14 +44,14 @@
           "is_new": false
         },
         {
-          "id": "6cac2f9fcd1a9f76b202b5435d483aa1",
-          "title": "[2027 6월모평] '사탐런 극대화' 과탐 13.7% '역대 최저'..'AI시대 역행 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617301",
+          "id": "697c2b274482ecbd8c82d560a2ced37e",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 '최다...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617317",
           "source": "www.veritas-a.com",
           "published": "2026-07-06T00:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "48905aff47e7779b3a4630b70367aba7",
@@ -265,7 +265,7 @@
           "title": "2027 계명대 학생부종합 일반전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53373",
           "source": "에듀진",
-          "published": "2026-07-06T13:42:22.510096+00:00",
+          "published": "2026-07-06T16:51:33.964834+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -275,7 +275,7 @@
           "title": "[단독] [2027수시] 상위15개대 무전공(유형1) 1613명 ‘17명 감소’.. 숙대 수시 합류 ‘중대 제외 14개교 체제’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618145",
           "source": "베리타스알파",
-          "published": "2026-07-06T13:42:21.205114+00:00",
+          "published": "2026-07-06T16:51:32.797942+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -854,6 +854,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "5e2257c644d4fa7a95ed7c6b6c12762e",
+          "title": "성신여대 2027학년도 논술우수자전형 32개 모집단위서 159명 선발… 논술 100% 일괄 반영 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yTDVQb0F5aE9SZHFveFpZd3BpUzdsRmNMU3FoN2VDZmp3a25uTFlJM2hKaVZQcDNJSkxybWNjV1lzT1VINXlFRlVtbUg5VE1PV0lVb3VWeGRwdVpaNmhiOTNiY0RWQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-06T14:55:37+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c3c13a0082dba9810d4892837c57e0a4",
           "title": "한세대, 디자인실기대회 참가 원서 8월 2일까지 접수",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=207310",
@@ -861,7 +871,7 @@
           "published": "2026-07-06T10:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "835050564577ea696570a1ce26c0b40f",
@@ -889,6 +899,16 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXlMTmRYMWU0bnFJbHZVRVdfVDhVYzZPbVdiS3JnQUlsOWdGbE5VR2NueXpFUVpWT3l2ZFNQYVpKWk5pSFktemp5dDcwVmNkdWxmbzF2WEFzYk83d19YUmpiSHNucnJ0ejFweUF4Yk1jNkN5cE5VNW5qOW1lUG96SnZXbGM4aENYWUlnbFhRdzUxMFROUGtFMHJadFIwUlJaVDk0TW9Fa2Nod05QbFFsRkdxX2F0cmR3bTNQcWoxZXhWWjlXT0EyUlI5ZDVVOXhZcVo4R0hnSlA2QQ?oc=5",
           "source": "MSN",
           "published": "2026-07-02T08:30:23+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "b212368ec04f289ec5dc399f5a51623c",
+          "title": "‘불수능’ 비판 의식했나…2027학년도 수능 “적정 변별력 확보” - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MQTFPUjJWVENIc0NoYVd4QmpVNHBLZzBSWjVYZHpRM1UwQ2hfeElBLTU5VkFodFhzLUdYQ2djYXpfR3NtRUNpSVk5SQ?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-02T07:02:34+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -944,20 +964,20 @@
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
