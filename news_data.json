@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T23:11:47.654369+00:00",
+  "updated_at": "2026-07-06T02:47:13.581184+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -13,6 +13,26 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-07-06T02:32:19.062150+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6cac2f9fcd1a9f76b202b5435d483aa1",
+          "title": "[2027 6월모평] '사탐런 극대화' 과탐 13.7% '역대 최저'..'AI시대 역행 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617301",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-06T00:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "48905aff47e7779b3a4630b70367aba7",
           "title": "6월 모의평가 채점 결과에 따른 지원가능 대학·학과",
@@ -204,21 +224,21 @@
           "is_new": false
         },
         {
-          "id": "63e993bd8854ee2e7a759ac074e92d87",
-          "title": "대치명인스카이수학학원 마포지점, 6월 모평 분석 기반 ‘여름방학 수학...",
-          "link": "https://www.gosiweek.com/article/1065597472581968",
-          "source": "www.gosiweek.com",
-          "published": "2026-06-22T07:20:00+00:00",
+          "id": "71d37c789531cc5aee8ac4b31ca6bf5c",
+          "title": "EBS 고교강의(EBSi), 국어 최서희, 수학 정종영, 영어 김수연 등 수능 대표 강사 분석…6월 모의평가 출제 경향 및 학습 전략 공개 -",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SbmxqbHhZWkhiZUdOYUdMcmR0TlBSLU1NMm4yUTRfbG1GdzZPcXdoc1pzdWk0Unczdnd3clEyN0dFWktObldfUmR6YlAwa0tWRFpyc0ZUc2ttQUJEVldsNVBqUGk4TnFhZUdJY2ZzRlM?oc=5",
+          "source": "한국강사신문",
+          "published": "2026-06-22T22:36:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "53db59c7dd4cf74a1d9278106346911b",
-          "title": "EBS 고교강의(EBSi), '6월 모의평가 출제 경향 및 학습 전략' 공개",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109097",
-          "source": "edu.donga.com",
-          "published": "2026-06-22T00:54:00+00:00",
+          "id": "63e993bd8854ee2e7a759ac074e92d87",
+          "title": "대치명인스카이수학학원 마포지점, 6월 모평 분석 기반 ‘여름방학 수학...",
+          "link": "https://www.gosiweek.com/article/1065597472581968",
+          "source": "www.gosiweek.com",
+          "published": "2026-06-22T07:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,10 +255,30 @@
           "title": "2027 경국대 학생부종합 바른인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53357",
           "source": "에듀진",
-          "published": "2026-07-05T22:58:48.976791+00:00",
+          "published": "2026-07-06T02:34:42.428179+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bd9a17dd4a9829a474ff78a7dd832b74",
+          "title": "7월 학평 풀서비스/수시 합격예측/신규 강좌까지…  EBSi, 여름방학 학습 지원 본격화",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618009",
+          "source": "베리타스알파",
+          "published": "2026-07-06T02:34:41.423712+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "60fdf9dbb1c372905df8158f7969d53e",
+          "title": "'역대최대 N수생 전망' 2027수능 11월19일 시행.. '난도예측까지 역대급...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617281",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-06T00:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b2753cda6b7e4fededbf4739bde575e8",
@@ -371,9 +411,9 @@
           "is_new": false
         },
         {
-          "id": "4e16bb99532b5ace858c5e972cdb91b9",
+          "id": "301c5a213f2b3db83eb9b339a13224b1",
           "title": "서울 구로구, 2027학년도 수시합격전략 설명회 개최…주요 39개 대학 맞춤전략 제공 - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU2VyN0lJMXNkVWpQZ0FHV09laUI0aTdPaXZlM043YWNtcExrN0x3UFIwTldTa1FjMGhtQlBMNFlZRnp0a1RIcHBkYlRfTjdYTHpWNXQtMWVVTXZ1Ty1nNmVYMEtnaTNGUU4zT29zbUxrQ0xDa0NGeWRwRC1leHhNRS1xZjhnREo3VnFWc1JkWnVDaFczeW80d21zX1FJbWJ6d2xmbmhwa1dxNVNGUDlQTTlNUUtmMWRLelZ1c0FxVXZIR1R3cU5mclNmeXJPODhFaW8tMmdnSFl5YldOYkZBVGNJdlFidm02d2NjYXV4Y1JkM2luZEF3bmdydUxSMXlSYzFZ0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1B3YjViMWZKYnpJWk0yWGw4WVNRZHNhR1V4akpFWGVTR0RzMU94UGNSeUExMVVZWkwtTnB0eTZORTRnV1hrZ0JBLWQwSTZYaHFqMUNNTWcxblVxTGVuNHhoSU5vOEZuZGFGYjVvSWJvWVRFRzhIOURGM2JES2RfeUtwSXF2YXF1X3oxR2VHODVzVjBMN2RVVWxJT3NUVDhBTkVlQ0JGUWtURFZxVTBnNTVqMlBJNXlhNTRCSHZjS1cxUVBQU3VMYzJ4UHBMazVqY3djRVd6WkVwNUZxc2hzUTZHWDNRTVFwMkNsV1kxMFBuclFrazBqQWFwbkdLd2tNSk1jZExB0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
           "source": "데일리안",
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
@@ -561,21 +601,21 @@
           "is_new": false
         },
         {
-          "id": "e603be60baeb578b4e1a409f9ea393c1",
-          "title": "[임성호의 입시 레이다] 2027 사탐런 크게 발생 예상, 논술 전형 탐구 반...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109135",
-          "source": "edu.donga.com",
-          "published": "2026-06-22T05:00:00+00:00",
+          "id": "0d01c8d0f7ce2ea4947fa43f61ef725a",
+          "title": "서울시교육청, '2027 수시 통합 지원' 가동... 설명회·자료집·1대1 상담 연계 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tNzFGYmNnWE1JYmxVcFF1blZQbU16aENGcWVWMV84ZDRqZEJhcmpzR0pFRWhqbUVHZl9xcjlxWGc4YkRWZUdHRk1yc0N4MzF2QzQyZ29wSkFUVXdRUlhSY3VsamRCQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-06-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "f5d3d0b06eadb9bc88e44309327fd013",
-          "title": "서울교육연구정보원, 2027학년도 수시 맞춤형 진학지원 본격 추진 - 교육연합신문",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GNVJYWVZXand1ZmJHOXFseHlhbnBsdTZSN2RvUEUxMG1vb0ltRlF3b2xnd1dCT01ha0RfdFEzM1JybDF4RDJuLTNXOF8wekROdWJ2cWJnX2ZnQTN0?oc=5",
-          "source": "교육연합신문",
-          "published": "2026-06-22T02:05:00+00:00",
+          "id": "e603be60baeb578b4e1a409f9ea393c1",
+          "title": "[임성호의 입시 레이다] 2027 사탐런 크게 발생 예상, 논술 전형 탐구 반...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109135",
+          "source": "edu.donga.com",
+          "published": "2026-06-22T05:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1014,11 +1054,11 @@
           "is_new": false
         },
         {
-          "id": "96a2612b36c0bede7803bd3fb2cdb0af",
-          "title": "한양대, 2027학년도 ‘하반기 수시 지원전략 설명회’ 전국 6개 도시 순회 개최 - 뉴스H",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lb1B4ellRYkFEMTBMeURBMVpaSno4YUI3eVk3bnhjeGkyeUhLQWhqdG9wYjN3ald4VjAxdzNaTFRWbmZZUGhtb3RzTVdJajhIOGJCQkhBQkNOLXdycFNGLW8ySFJ3QUprZDhR?oc=5",
-          "source": "뉴스H",
-          "published": "2026-06-22T01:17:50+00:00",
+          "id": "feb26840f0119cd955cda510f6bfd79f",
+          "title": "성동구, 수험생 맞춤형 ‘2027학년도 대입 수시 설명회’ 개최 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSMmJremc0WU8yRk5ueDgyd25lLUs2OVgtU0ZPNTNPVnU5LWVoYW10VXRUb3Bud1RrSWhSQXpxUmR6VkZpYjN0V2dCSkNTVDA?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-06-22T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1031,21 +1071,31 @@
       "emoji": "🏫",
       "items": [
         {
-          "id": "084050da65ccd4955be4e913af3cedfa",
-          "title": "내신 5등급제에 '큰 학교' 쏠림‥3백 명 이상 고등학교 신입생 31% 증가",
-          "link": "https://n.news.naver.com/mnews/article/214/0001509654?sid=102",
-          "source": "imnews.imbc.com",
-          "published": "2026-07-05T05:40:00+00:00",
+          "id": "2899cc2612b25688876d2040871b9e9d",
+          "title": "내신 5등급제에 '큰 학교' 쏠림...300명 이상 일반고 진학 30.6%↑",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=310169",
+          "source": "www.thepublic.kr",
+          "published": "2026-07-06T01:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "81bf51439ab029e2aa9625e61d61c553",
-          "title": "300명 이상 일반고 진학 30.6% 급증…내신 5등급제·신도시 입주 맞물려 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSXIwd2RPRk5QMTZXa1JzV2dSU1o1b0l2SGVob3hDeGtTQW94RnM0TmpKcVc0T1k3cURHRFREZV9mc1AxREQ4S3JyVmRHdkh1NzB3aVE4Q3Z0c2NCNmcwQg?oc=5",
-          "source": "메트로신문",
-          "published": "2026-07-05T00:59:16+00:00",
+          "id": "f0334e982e574801a410592d274c82c4",
+          "title": "\"학생 많은 학교가 유리\"…내신 5등급제에 대형 일반고 선호 심화 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LaGFBSFA4VlN2LTA0UERKaWVlSkIyRTV4UHRtb21uSnpDXzZMVlNuZUNlbENlb0w0ODc3QjZTQ2E3SDdhc0tqcTlaRzNmV2dmZm9Z?oc=5",
+          "source": "네이트",
+          "published": "2026-07-05T04:13:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "6fe636344a8258e9fdc926164ca5b1ba",
+          "title": "내신 5등급제 첫해, '큰 학교' 인기…300명 이상 고교 신입생 30%↑ - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UWWc1OWJVekxuVVNZTlhuV1M1eURpVldVY0dmZk9LU2wwOUR0c1h5UUdNb3NXYXdRUmpBUGM1SlkwVF9pblJpMk8yS2o0WVVDd0NSZjZaOEoxLTZMMl9yOGRVMmYxX1RWUVHSAW9BVV95cUxQdG44RGdaN0hyNzhwNXdGcEZFc29ORlZabFFIbmk2VWtyMmV3RFBPT1VrUHZ3d0xpOFJIYnpVWV9ReW1UZE5ha1RZVHpRWDhIUjVzd3c1ZEhPNkdhbGdJbG1uc2tha05SRmV4WmFvU3M?oc=5",
+          "source": "머니투데이",
+          "published": "2026-07-05T00:39:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1076,26 +1126,6 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaNjBsV2IzNUViVnlfaDQwMWlBRC1VTGVuTHRTN05oNjl2QUFuTXNXR3Viajc3Z3VPdlhVWExmbnVVRTk3dEM0QnphWEhSaFJZS3RwWFptRDF5QVE0bjI2QXo0STNsOWJLOG9NMkhtYW1ubG_SAXdBVV95cUxQQldUZk5zTXByNzhNMVlmZWJrekM1ejdreVNNcWxheFc3UFpiZUNZZUdhMkJHbGhqcFNjYVdhSVlfZUROa3hNQ0ZQWkdrMjJCVjJ1WTNJemlaeHJSSzF4c2V2bTMxY2dBYmZaUnRBTGQ3ejk3RFBVYw?oc=5",
           "source": "핀포인트뉴스",
           "published": "2026-06-23T01:38:11+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "6f42c65d4842c87ce2b86c0e96a6da6e",
-          "title": "고교 1학년 자퇴생 1만명 넘어서… ‘내신 5등급제에 정시 집중 늘어’",
-          "link": "https://n.news.naver.com/mnews/article/366/0001173370?sid=102",
-          "source": "biz.chosun.com",
-          "published": "2026-06-22T00:21:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "7da3da1fb1ac2677df1fb2507beb0481",
-          "title": "고1 학업중단 첫 1만 명 돌파…왜 학교를 떠났나[엄마의 눈]",
-          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=360479",
-          "source": "www.ftoday.co.kr",
-          "published": "2026-06-21T23:58:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
