@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T08:29:31.539590+00:00",
+  "updated_at": "2026-07-06T13:54:48.896879+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-06T08:14:11.905056+00:00",
+          "published": "2026-07-06T13:39:59.146777+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-06T07:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ce8b3c6b56f0962940b4ddfd19c3f712",
@@ -41,7 +41,7 @@
           "published": "2026-07-06T06:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6cac2f9fcd1a9f76b202b5435d483aa1",
@@ -265,20 +265,20 @@
           "title": "2027 계명대 학생부종합 일반전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53373",
           "source": "에듀진",
-          "published": "2026-07-06T08:16:36.403735+00:00",
+          "published": "2026-07-06T13:42:22.510096+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "059681b876957b20918db76d70977405",
           "title": "[단독] [2027수시] 상위15개대 무전공(유형1) 1613명 ‘17명 감소’.. 숙대 수시 합류 ‘중대 제외 14개교 체제’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618145",
           "source": "베리타스알파",
-          "published": "2026-07-06T08:16:35.281047+00:00",
+          "published": "2026-07-06T13:42:21.205114+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "da32952d1c5f91d88610dea76c1f2050",
@@ -288,7 +288,7 @@
           "published": "2026-07-06T05:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "68a0d8cf25a11fcb8ea6f677beb742f4",
@@ -298,7 +298,7 @@
           "published": "2026-07-06T04:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c65fb98150f81bcde47ad2cf59f78d3c",
@@ -308,7 +308,7 @@
           "published": "2026-07-06T03:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd9a17dd4a9829a474ff78a7dd832b74",
@@ -665,7 +665,7 @@
           "published": "2026-07-06T07:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ab8b706c2ba5eb1b52905c6af4f4561a",
@@ -764,7 +764,7 @@
           "published": "2026-07-06T07:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c7f1ce381935080ca9c2170ae1a2c04d",
@@ -774,7 +774,7 @@
           "published": "2026-07-06T06:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b97cf2db3a3249fa845ac3c3494c9955",
@@ -854,6 +854,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "c3c13a0082dba9810d4892837c57e0a4",
+          "title": "한세대, 디자인실기대회 참가 원서 8월 2일까지 접수",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=207310",
+          "source": "www.kyosu.net",
+          "published": "2026-07-06T10:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "835050564577ea696570a1ce26c0b40f",
           "title": "고려대, 학교추천·학업우수형 중복지원 불가 유지",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/07/06/2026070680113.html",
@@ -861,7 +871,7 @@
           "published": "2026-07-06T04:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0bc1f43e152b76ea27ce79e7c42f8886",
@@ -1138,7 +1148,7 @@
           "published": "2026-07-06T05:29:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2899cc2612b25688876d2040871b9e9d",
@@ -1181,21 +1191,21 @@
           "is_new": false
         },
         {
-          "id": "d3ef8d51517deb444971e5d0b98139bd",
-          "title": "고1 학업 중단자 1만명 시대… '내신 리셋' 위해 자퇴표 던지는 아이들",
-          "link": "https://lawtalknews.co.kr/article/NB1G5E4GYVV0",
-          "source": "lawtalknews.co.kr",
-          "published": "2026-06-23T01:56:00+00:00",
+          "id": "a19e1ee18603671c1ec70f2f1385bf78",
+          "title": "&quot;특목·자사고 어떻게 고를까&quot;…동작구, 고교선택 특강 진행",
+          "link": "https://n.news.naver.com/mnews/article/421/0009018321?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-06-23T02:11:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4aea80a9512adba5e07928c237f73d37",
-          "title": "동작구, 특목·자사고 진학 전략 특강 개최 - 핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaNjBsV2IzNUViVnlfaDQwMWlBRC1VTGVuTHRTN05oNjl2QUFuTXNXR3Viajc3Z3VPdlhVWExmbnVVRTk3dEM0QnphWEhSaFJZS3RwWFptRDF5QVE0bjI2QXo0STNsOWJLOG9NMkhtYW1ubG_SAXdBVV95cUxQQldUZk5zTXByNzhNMVlmZWJrekM1ejdreVNNcWxheFc3UFpiZUNZZUdhMkJHbGhqcFNjYVdhSVlfZUROa3hNQ0ZQWkdrMjJCVjJ1WTNJemlaeHJSSzF4c2V2bTMxY2dBYmZaUnRBTGQ3ejk3RFBVYw?oc=5",
-          "source": "핀포인트뉴스",
-          "published": "2026-06-23T01:38:11+00:00",
+          "id": "d3ef8d51517deb444971e5d0b98139bd",
+          "title": "고1 학업 중단자 1만명 시대… '내신 리셋' 위해 자퇴표 던지는 아이들",
+          "link": "https://lawtalknews.co.kr/article/NB1G5E4GYVV0",
+          "source": "lawtalknews.co.kr",
+          "published": "2026-06-23T01:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
