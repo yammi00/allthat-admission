@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T10:58:36.856297+00:00",
+  "updated_at": "2026-07-07T14:28:46.733024+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T10:49:27.646961+00:00",
+          "published": "2026-07-07T14:13:42.012165+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-07T08:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8bd3b1aa010f65f7741e46546ea11697",
@@ -265,10 +265,10 @@
           "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
           "source": "에듀진",
-          "published": "2026-07-07T10:52:04.223519+00:00",
+          "published": "2026-07-07T14:16:09.266876+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e390651755c6fb65d37c759f0ee90f43",
@@ -964,20 +964,20 @@
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
