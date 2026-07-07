@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T20:00:52.416733+00:00",
+  "updated_at": "2026-07-07T21:32:59.938122+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T19:45:44.103812+00:00",
+          "published": "2026-07-07T21:18:00.129717+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -74,9 +74,9 @@
           "is_new": false
         },
         {
-          "id": "6cac2f9fcd1a9f76b202b5435d483aa1",
-          "title": "[2027 6월모평] '사탐런 극대화' 과탐 13.7% '역대 최저'..'AI시대 역행 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617301",
+          "id": "697c2b274482ecbd8c82d560a2ced37e",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 '최다...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617317",
           "source": "www.veritas-a.com",
           "published": "2026-07-06T00:26:00+00:00",
           "type": "news",
@@ -275,7 +275,7 @@
           "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
           "source": "에듀진",
-          "published": "2026-07-07T19:48:10.189675+00:00",
+          "published": "2026-07-07T21:20:27.743146+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -646,16 +646,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53199",
           "source": "에듀진",
           "published": "2026-06-24T02:40:26.282531+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "89b719d05d9306e9d26760e86f607d50",
-          "title": "내신 5등급제·통합수능 시대… 학생부·정성평가 비중 는다",
-          "link": "https://n.news.naver.com/mnews/article/081/0003655224?sid=102",
-          "source": "www.seoul.co.kr",
-          "published": "2026-06-23T20:03:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
