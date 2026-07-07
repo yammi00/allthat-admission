@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T07:47:57.102399+00:00",
+  "updated_at": "2026-07-07T10:58:36.856297+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T07:32:40.090821+00:00",
+          "published": "2026-07-07T10:49:27.646961+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1eaf24a4191468a7171c137a10fc0870",
+          "title": "‘오락가락’ 수능 영어 난이도… 독해 기본기 탄탄히 다져야",
+          "link": "https://n.news.naver.com/mnews/article/082/0001388731?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-07-07T08:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8bd3b1aa010f65f7741e46546ea11697",
@@ -251,11 +261,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "3f8c99a44b80122572e2ec1fa8c6528f",
-          "title": "2027 동명대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53392",
+          "id": "0c616c677682979dac05aab3a9123859",
+          "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
           "source": "에듀진",
-          "published": "2026-07-07T07:35:12.768198+00:00",
+          "published": "2026-07-07T10:52:04.223519+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
