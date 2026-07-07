@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T02:43:07.509456+00:00",
+  "updated_at": "2026-07-07T07:47:57.102399+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T02:27:42.945339+00:00",
+          "published": "2026-07-07T07:32:40.090821+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -242,16 +242,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "adf8247c61b66e53dacef8a5343b3c22",
-          "title": "'약술형 논술' 2027국민대 논술 대비법.. &quot;인문은 독해력, 자연은 수학 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=616063",
-          "source": "www.veritas-a.com",
-          "published": "2026-06-23T07:04:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -261,14 +251,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "e48d7bb678f11ff07249b5cf324fb137",
-          "title": "2027 계명대 학생부종합 일반전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53373",
+          "id": "3f8c99a44b80122572e2ec1fa8c6528f",
+          "title": "2027 동명대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53392",
           "source": "에듀진",
-          "published": "2026-07-07T02:30:09.868491+00:00",
+          "published": "2026-07-07T07:35:12.768198+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "e390651755c6fb65d37c759f0ee90f43",
@@ -278,7 +268,7 @@
           "published": "2026-07-07T02:30:08.023613+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "059681b876957b20918db76d70977405",
@@ -649,16 +639,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "4d47f991639f84dfb5dfddd3d3d2b61d",
-          "title": "[2027 대입 집중 분석]⑮대입 수시, '수능최저가' 당락 가른다…신설·강화 대학 어디? - eduplusnews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBISzZrUWp2azlnVU9xZWVtOGlTRDRCRW5EQVBJbmlhQThrS1JsUC10WjNwYnBhNGxEUDJCSnB5M1RseVRXLTNnYmhLaV83cWZRSHR2bXpKbjRQT212Tm9XS3NLYzdwaUI4R2NCaFJ30gFyQVVfeXFMTS1iV2FCNXg3aHEwd2VXSTRReFN6RkxuNndob0FWRGdLVzAzckpuaEdQZTctdy1jQ29pSnl3SFF3MmdodktqaDdiemRBTUFqRXZWTUI4d0dUOXNJLUNtZlc4UGhNZlhfSVl1MzBtcDFDbTZn?oc=5",
-          "source": "eduplusnews.com",
-          "published": "2026-06-23T04:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -774,7 +754,7 @@
           "published": "2026-07-07T00:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7768337c4383159866d1a8a40ee42de6",
@@ -784,7 +764,7 @@
           "published": "2026-07-07T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ef1075d82af111eb3724ac31f5abea95",
@@ -855,16 +835,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "a3e1268f3a3923da990d2312e3e936b7",
-          "title": "‘약술형 논술’ 2027국민대 논술 대비법.. “인문은 독해력, 자연은 수학 기본기 핵심” - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWYUFIbG10ZEFzQXVJRl96MllDdmlFUFRJNDRNT3N0cUd1QUpYWnJZa2pBc3hlS2I2M3hCeVlHN3NvUTVGWldzcnY1Wk5JWHhOTnBDTTlWSWN1UTYtejEzd1N5aTc0QXF1WTVaNA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-06-23T06:49:38+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -873,6 +843,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "648c767669d56f0323bc2295c8556af4",
+          "title": "2027학년도 수능, 11월 19일 시행 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXlMTmRYMWU0bnFJbHZVRVdfVDhVYzZPbVdiS3JnQUlsOWdGbE5VR2NueXpFUVpWT3l2ZFNQYVpKWk5pSFktemp5dDcwVmNkdWxmbzF2WEFzYk83d19YUmpiSHNucnJ0ejFweUF4Yk1jNkN5cE5VNW5qOW1lUG96SnZXbGM4aENYWUlnbFhRdzUxMFROUGtFMHJadFIwUlJaVDk0TW9Fa2Nod05QbFFsRkdxX2F0cmR3bTNQcWoxZXhWWjlXT0EyUlI5ZDVVOXhZcVo4R0hnSlA2QQ?oc=5",
+          "source": "MSN",
+          "published": "2026-07-07T01:33:21+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
         {
           "id": "5e2257c644d4fa7a95ed7c6b6c12762e",
           "title": "성신여대 2027학년도 논술우수자전형 32개 모집단위서 159명 선발… 논술 100% 일괄 반영 - 교육을 비추다",
@@ -909,16 +889,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1peUpLQVVmcFQzU0FBQkwydFNyaDQ0ZEIzM3ZXemEwZHE3VEs0Z2kwYmk0UUZrNTNZaFpiTWsxYmRMd2MzSGlXZVVWN0NiY2RacTZ6QWZIZUFhOEc3RFdJb0Q5c2poZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-03T03:09:54+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "648c767669d56f0323bc2295c8556af4",
-          "title": "2027학년도 수능, 11월 19일 시행 - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXlMTmRYMWU0bnFJbHZVRVdfVDhVYzZPbVdiS3JnQUlsOWdGbE5VR2NueXpFUVpWT3l2ZFNQYVpKWk5pSFktemp5dDcwVmNkdWxmbzF2WEFzYk83d19YUmpiSHNucnJ0ejFweUF4Yk1jNkN5cE5VNW5qOW1lUG96SnZXbGM4aENYWUlnbFhRdzUxMFROUGtFMHJadFIwUlJaVDk0TW9Fa2Nod05QbFFsRkdxX2F0cmR3bTNQcWoxZXhWWjlXT0EyUlI5ZDVVOXhZcVo4R0hnSlA2QQ?oc=5",
-          "source": "MSN",
-          "published": "2026-07-02T08:30:23+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -984,20 +954,20 @@
           "is_new": false
         },
         {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
+          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
+          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
+          "link": "https://www.newspim.com/news/view/20260630000554",
+          "source": "www.newspim.com",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
+          "id": "cb8f41d838f518013a61f42d9d8008f2",
+          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
+          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-06-30T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1178,7 +1148,7 @@
           "published": "2026-07-07T00:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d98abd177a2468d844dd6cf3cec4ae24",
@@ -1226,16 +1196,6 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53RnFuNDdadzJxQWlLUEJWODgwbVJLcDBPRzgyQTE1YUNuVFBGLVlXdGZnZ3FUYm5ZbjJEQW1zYnY5SEd1ZndtQXpwYXREVzZPdzNV?oc=5",
           "source": "네이트",
           "published": "2026-07-04T23:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "aedd2289a02843c4fb423830ce109706",
-          "title": "\"특목·자사고 어떻게 고를까\"…동작구, 고교선택 특강 진행 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoQzYzNWJ3R2NMS0Rlc1hZakF5bzFzZlJ6Zk0xdnNEejA3OE5UYk5HdHRLOVlsblM2WTFSM0F3WWxkQUdhc3Bhc2x0elozSjA?oc=5",
-          "source": "뉴스1",
-          "published": "2026-06-23T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
