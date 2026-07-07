@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T23:15:41.550229+00:00",
+  "updated_at": "2026-07-07T02:43:07.509456+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-06T23:00:47.251339+00:00",
+          "published": "2026-07-07T02:27:42.945339+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-06T21:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "20c6e9e48ead18b9dcb22236980c2c5d",
@@ -265,17 +265,27 @@
           "title": "2027 계명대 학생부종합 일반전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53373",
           "source": "에듀진",
-          "published": "2026-07-06T23:03:09.341802+00:00",
+          "published": "2026-07-07T02:30:09.868491+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "059681b876957b20918db76d70977405",
-          "title": "[단독] [2027수시] 상위15개대 무전공(유형1) 1613명 ‘17명 감소’.. 숙대 수시 합류 ‘중대 제외 14개교 체제’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618145",
+          "id": "e390651755c6fb65d37c759f0ee90f43",
+          "title": "[2027수시특집] ‘경인지역 4년제대 취업률 3위’ 한세대 398명(70.2%) ‘확대’.. 학종 한세인재 ‘신설’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618242",
           "source": "베리타스알파",
-          "published": "2026-07-06T23:03:08.571958+00:00",
+          "published": "2026-07-07T02:30:08.023613+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "059681b876957b20918db76d70977405",
+          "title": "[단독] [2027수시] 상위15개대 무전공(유형1) 1613명 '17명 감소'.. 숙대 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618145",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-06T08:14:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -757,6 +767,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "46f42b3b26de65b401b4cc692df6a62f",
+          "title": "[단독] 이화여대 2027논술 안내 '가이드북 역할'.. '출제의도부터 평가기...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618193",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-07T00:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7768337c4383159866d1a8a40ee42de6",
+          "title": "씨에스엠17, 2027학년도 가천대 약술형 논술 모의고사 출시",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109668",
+          "source": "edu.donga.com",
+          "published": "2026-07-07T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "ef1075d82af111eb3724ac31f5abea95",
           "title": "[단독] '수능 이전 논술' 성신여대 2027논술 가이드북.. '자문교사단이...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618115",
@@ -832,16 +862,6 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWYUFIbG10ZEFzQXVJRl96MllDdmlFUFRJNDRNT3N0cUd1QUpYWnJZa2pBc3hlS2I2M3hCeVlHN3NvUTVGWldzcnY1Wk5JWHhOTnBDTTlWSWN1UTYtejEzd1N5aTc0QXF1WTVaNA?oc=5",
           "source": "베리타스알파",
           "published": "2026-06-23T06:49:38+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b21aa5695fba2e054301d085e2293a94",
-          "title": "의정부 이레학원, 7월 고3 약술형 논술·수능 대비반 운영 - 피앤피뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBubjcxR2VDdHNnUmU2bWdLOEFGMDhYXy1UMFdXelluQTl3bk95Q2VVOFZ4anRIaXl3YXUwdFFvSjNjcnJsSy1HRF9BQW1jdmlkcGlJUl91U19tMlJTdmfSAVZBVV95cUxOZzM5RmFLa190SzJ2b2ZaU0VtdzhnRE9SUzU1MnhtZmh0Qnk2Wlp6Rlk3TWg0aklUWW1sVzZ4SHpJdzFCU3l4X0ZWUms5eWI4MEpNTzJLZw?oc=5",
-          "source": "피앤피뉴스",
-          "published": "2026-06-23T00:00:04+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1142,16 +1162,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "4ed5fb83634336dc4e93ce14b1dbef58",
-          "title": "성동구, 대입 수시 지원전략 설명회 7월 14일 개최",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3614996",
-          "source": "www.gukjenews.com",
-          "published": "2026-06-23T00:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1160,6 +1170,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "af21c0f465b238f991acaa922148631d",
+          "title": "내신 5등급제 &quot;학생 수 많은 학교가 유리&quot;…제주도도 '대규모 일반고' 쏠...",
+          "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320449",
+          "source": "www.jejudomin.co.kr",
+          "published": "2026-07-07T00:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d98abd177a2468d844dd6cf3cec4ae24",
           "title": "내신 5등급제 탓 자퇴?...교육부 &quot;유의미하지 않아&quot;",
@@ -1211,21 +1231,11 @@
           "is_new": false
         },
         {
-          "id": "a19e1ee18603671c1ec70f2f1385bf78",
-          "title": "&quot;특목·자사고 어떻게 고를까&quot;…동작구, 고교선택 특강 진행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009018321?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-06-23T02:11:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d3ef8d51517deb444971e5d0b98139bd",
-          "title": "고1 학업 중단자 1만명 시대… '내신 리셋' 위해 자퇴표 던지는 아이들",
-          "link": "https://lawtalknews.co.kr/article/NB1G5E4GYVV0",
-          "source": "lawtalknews.co.kr",
-          "published": "2026-06-23T01:56:00+00:00",
+          "id": "aedd2289a02843c4fb423830ce109706",
+          "title": "\"특목·자사고 어떻게 고를까\"…동작구, 고교선택 특강 진행 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoQzYzNWJ3R2NMS0Rlc1hZakF5bzFzZlJ6Zk0xdnNEejA3OE5UYk5HdHRLOVlsblM2WTFSM0F3WWxkQUdhc3Bhc2x0elozSjA?oc=5",
+          "source": "뉴스1",
+          "published": "2026-06-23T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
