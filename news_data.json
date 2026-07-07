@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T14:28:46.733024+00:00",
+  "updated_at": "2026-07-07T18:09:15.929677+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T14:13:42.012165+00:00",
+          "published": "2026-07-07T17:54:05.788169+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d68eb52e019c8c42e446c269b7ba18f0",
+          "title": "'2026년 7월 모의고사' 예상 난이도는? 작년 등급컷과 '비교'",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3629159",
+          "source": "www.gukjenews.com",
+          "published": "2026-07-07T15:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1eaf24a4191468a7171c137a10fc0870",
@@ -265,7 +275,7 @@
           "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
           "source": "에듀진",
-          "published": "2026-07-07T14:16:09.266876+00:00",
+          "published": "2026-07-07T17:56:35.411037+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,9 +481,9 @@
           "is_new": false
         },
         {
-          "id": "301c5a213f2b3db83eb9b339a13224b1",
+          "id": "4e16bb99532b5ace858c5e972cdb91b9",
           "title": "서울 구로구, 2027학년도 수시합격전략 설명회 개최…주요 39개 대학 맞춤전략 제공 - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1B3YjViMWZKYnpJWk0yWGw4WVNRZHNhR1V4akpFWGVTR0RzMU94UGNSeUExMVVZWkwtTnB0eTZORTRnV1hrZ0JBLWQwSTZYaHFqMUNNTWcxblVxTGVuNHhoSU5vOEZuZGFGYjVvSWJvWVRFRzhIOURGM2JES2RfeUtwSXF2YXF1X3oxR2VHODVzVjBMN2RVVWxJT3NUVDhBTkVlQ0JGUWtURFZxVTBnNTVqMlBJNXlhNTRCSHZjS1cxUVBQU3VMYzJ4UHBMazVqY3djRVd6WkVwNUZxc2hzUTZHWDNRTVFwMkNsV1kxMFBuclFrazBqQWFwbkdLd2tNSk1jZExB0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU2VyN0lJMXNkVWpQZ0FHV09laUI0aTdPaXZlM043YWNtcExrN0x3UFIwTldTa1FjMGhtQlBMNFlZRnp0a1RIcHBkYlRfTjdYTHpWNXQtMWVVTXZ1Ty1nNmVYMEtnaTNGUU4zT29zbUxrQ0xDa0NGeWRwRC1leHhNRS1xZjhnREo3VnFWc1JkWnVDaFczeW80d21zX1FJbWJ6d2xmbmhwa1dxNVNGUDlQTTlNUUtmMWRLelZ1c0FxVXZIR1R3cU5mclNmeXJPODhFaW8tMmdnSFl5YldOYkZBVGNJdlFidm02d2NjYXV4Y1JkM2luZEF3bmdydUxSMXlSYzFZ0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
           "source": "데일리안",
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
