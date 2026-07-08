@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:25:56.049514+00:00",
+  "updated_at": "2026-07-08T14:02:57.561360+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,17 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-08T10:10:33.262517+00:00",
+          "published": "2026-07-08T13:47:30.105671+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b048981c3d4375ca1d5155286e549ca5",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618531",
+          "source": "베리타스알파",
+          "published": "2026-07-08T13:47:26.291679+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -31,7 +41,7 @@
           "published": "2026-07-08T09:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a504b9b07b3a15bf94f0f83f1176e658",
@@ -41,7 +51,7 @@
           "published": "2026-07-08T09:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ea02519ebcc63ed7c8672a4080ccc5d",
@@ -51,7 +61,7 @@
           "published": "2026-07-08T06:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "45996acddc9180d7cd947d6d323671b1",
@@ -301,21 +311,21 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "f55d292b576002da3252d65a9210a155",
-          "title": "2027 성결대 영암학생부종합전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53416",
-          "source": "에듀진",
-          "published": "2026-07-08T10:13:17.621976+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "0813211a02089ac2b07fcfabc4b8bc20",
           "title": "[2027수시특집] '반도체/방산/로봇 첨단AI인재 양성' 국립금오공대 1103명(84.6%) '확대'.. 첨단학과 AX융합학과 반도체소부장전공",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618504",
           "source": "베리타스알파",
           "published": "2026-07-08T10:13:09.417922+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "f0b430cb2343696b4aa140cedbde1928",
+          "title": "2027 연세대 학생부교과전형 경쟁률 및 등급컷 분석 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VLWU2TEFlVDFuaTg5WFpzZElkRkh0cEpld0ZDZ09YUjV2QnRsaWJSWHdiZUc2TzJfR3pTS2RFc2lRYkY4WmNHR3hpbHlsQzhGa3UxMjBQUmV4MVRxVjhOVmZuU1Z3Z0lDVVE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-07-08T06:22:57+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -744,7 +754,7 @@
           "published": "2026-07-08T07:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cd3c41a8c81526d196a381015bdfb486",
