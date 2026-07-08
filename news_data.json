@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T06:38:24.367167+00:00",
+  "updated_at": "2026-07-08T10:25:56.049514+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,44 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-07-08T06:23:05.239107+00:00",
+          "id": "d499ce38a9c75f6e22f8a48dd3e7e94e",
+          "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
+          "source": "에듀진",
+          "published": "2026-07-08T10:10:33.262517+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "bedb01caaf2b33ef5d57fc5c2daf3f89",
+          "title": "6월 모의평가 서울대 인문 391점·자연 390점 지원 가능",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=916358",
+          "source": "www.namdonews.com",
+          "published": "2026-07-08T09:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a504b9b07b3a15bf94f0f83f1176e658",
+          "title": "고3 7월 모의고사 국어 수학 영어 정답지 공개…'수능 4개월 남은 시점...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=587590",
+          "source": "www.cbci.co.kr",
+          "published": "2026-07-08T09:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0ea02519ebcc63ed7c8672a4080ccc5d",
+          "title": "[단독] 숭실대 2027논술가이드북 '출제위원이 전하는 합격법'.. &quot;생각을...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618497",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-08T06:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "45996acddc9180d7cd947d6d323671b1",
@@ -31,7 +61,7 @@
           "published": "2026-07-08T02:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "30a39098933b2f7df9e848edbf100a73",
@@ -275,7 +305,17 @@
           "title": "2027 성결대 영암학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53416",
           "source": "에듀진",
-          "published": "2026-07-08T06:25:36.838116+00:00",
+          "published": "2026-07-08T10:13:17.621976+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "0813211a02089ac2b07fcfabc4b8bc20",
+          "title": "[2027수시특집] '반도체/방산/로봇 첨단AI인재 양성' 국립금오공대 1103명(84.6%) '확대'.. 첨단학과 AX융합학과 반도체소부장전공",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618504",
+          "source": "베리타스알파",
+          "published": "2026-07-08T10:13:09.417922+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -589,36 +629,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "3e8c455d3af49d099f8de77bfcf2fa27",
-          "title": "AI 시대 인재교육의 답은?… IB 교육, 대학·고교 연계 해법 서울대서 논...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=593925",
-          "source": "news.unn.net",
-          "published": "2026-06-24T09:38:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "bea15dadbf346056419311166b8c6dde",
-          "title": "[단독] [2027수시] 주요22개대 수능최저 총정리.. ‘가장 까다로운 대학’ 가톨릭대/고대/성대/이대/중대 의약 ‘4개합5’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=616348",
-          "source": "베리타스알파",
-          "published": "2026-06-24T07:37:19.491155+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1390e8b7040d6b707d9f6cb1ede7ece3",
-          "title": "[지상범 입시 토크] 5등급제 전환에 막힌 N수생 수시...보완책·대응 전...",
-          "link": "http://www.metroseoul.co.kr/article/20260624500382",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-06-24T06:30:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -726,6 +736,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "64ec9cb8f7037048c75cb17233ba3688",
+          "title": "서강대 2027논술가이드북.. &quot;제시문 분석과 답안 작성 연습 중요&quot;",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618465",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-08T07:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "cd3c41a8c81526d196a381015bdfb486",
           "title": "[2027 대학별 수시 분석] 성균관대 | 종합전형 일부 수능 최저 도입 교과...",
@@ -841,7 +861,7 @@
           "published": "2026-07-08T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "648c767669d56f0323bc2295c8556af4",
