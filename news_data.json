@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T02:17:10.605371+00:00",
+  "updated_at": "2026-07-08T06:38:24.367167+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-08T02:01:48.867715+00:00",
+          "published": "2026-07-08T06:23:05.239107+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "45996acddc9180d7cd947d6d323671b1",
+          "title": "[지상범 입시 토크] 대입 전형의 다각적 상호작용을 고려하지 않는 일방...",
+          "link": "http://www.metroseoul.co.kr/article/20260708500062",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-07-08T02:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "30a39098933b2f7df9e848edbf100a73",
@@ -31,7 +41,7 @@
           "published": "2026-07-07T23:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d68eb52e019c8c42e446c269b7ba18f0",
@@ -109,16 +119,6 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003535383?sid=102",
           "source": "www.joongang.co.kr",
           "published": "2026-07-05T05:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "491c589590395b159cf70c71f2a4f089",
-          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-07-03T08:21:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -262,16 +262,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "289a7205166d33d178f54c0e45e1f23d",
-          "title": "㈜잇올, &quot;9월 평가원 모의고사 외부생 접수 10분 만에 마감&quot;",
-          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=51594",
-          "source": "www.enetnews.co.kr",
-          "published": "2026-06-24T05:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -281,14 +271,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "0c616c677682979dac05aab3a9123859",
-          "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
+          "id": "f55d292b576002da3252d65a9210a155",
+          "title": "2027 성결대 영암학생부종합전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53416",
           "source": "에듀진",
-          "published": "2026-07-08T02:04:18.805983+00:00",
+          "published": "2026-07-08T06:25:36.838116+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "1f1dbfdb59f2cfc5f298f2ff112c0b38",
@@ -629,46 +619,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a9e0e47db99f9b656561d1af7c4d682a",
-          "title": "2027 대입 학부모 아카데미…의대·지역인재 변수 집중 점검",
-          "link": "https://www.wikitree.co.kr/articles/1142809",
-          "source": "www.wikitree.co.kr",
-          "published": "2026-06-24T04:16:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "82ccb6b1dd2a65f7fb91385906c6d275",
-          "title": "[2028 대입 교과전형] 종합전형 닮은꼴 되나…내신 등급 ‘+알파’는?",
-          "link": "https://www.naeil.com/news/read/592974?ref=naver",
-          "source": "www.naeil.com",
-          "published": "2026-06-24T04:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "4e49ae64088263c5035b34d332d536c1",
-          "title": "세특은 화려한데 왜 떨어질까?… 학생부종합전형 당락 가르는 행특의 힘",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53247",
-          "source": "에듀진",
-          "published": "2026-06-24T02:40:28.612690+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f91c0293c11fdb80216917126bb51890",
-          "title": "[2027수시] 서강대 학종 개편.. 일반전형Ⅰ·Ⅱ 분리, 자유전공 확대",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53199",
-          "source": "에듀진",
-          "published": "2026-06-24T02:40:26.282531+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -784,7 +734,7 @@
           "published": "2026-07-08T00:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "46f42b3b26de65b401b4cc692df6a62f",
@@ -883,6 +833,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "86f0e0f08506f1a4aecaf88e4a82e690",
+          "title": "2027 수시지원전략 설명회 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109595",
+          "source": "edu.donga.com",
+          "published": "2026-07-08T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "648c767669d56f0323bc2295c8556af4",
           "title": "2027학년도 수능, 11월 19일 시행 - MSN",
