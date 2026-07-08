@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T19:28:39.612379+00:00",
+  "updated_at": "2026-07-08T21:14:33.112869+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-08T19:13:36.278545+00:00",
+          "published": "2026-07-08T20:59:23.133923+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618531",
           "source": "베리타스알파",
-          "published": "2026-07-08T19:13:33.864010+00:00",
+          "published": "2026-07-08T20:59:20.386648+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -338,7 +338,7 @@
           "published": "2026-07-08T05:54:53+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1f1dbfdb59f2cfc5f298f2ff112c0b38",
@@ -881,7 +881,7 @@
           "published": "2026-07-08T11:59:25+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "86f0e0f08506f1a4aecaf88e4a82e690",
