@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T23:09:52.079654+00:00",
+  "updated_at": "2026-07-08T02:17:10.605371+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-07T22:54:56.242767+00:00",
+          "published": "2026-07-08T02:01:48.867715+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "30a39098933b2f7df9e848edbf100a73",
+          "title": "[2027 7월학평] 지난 2년간 등급컷 어떻게 나왔나.. 지난해 표점 1등급컷...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618282",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-07T23:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d68eb52e019c8c42e446c269b7ba18f0",
@@ -254,11 +264,11 @@
           "is_new": false
         },
         {
-          "id": "9d3ce014f5f466f3b6c41bdaab5ad001",
-          "title": "씨에스엠17, 6월 모의평가 경향 반영한 실전 모의고사 '유니온R2' 예약판...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109220",
-          "source": "edu.donga.com",
-          "published": "2026-06-24T00:50:00+00:00",
+          "id": "289a7205166d33d178f54c0e45e1f23d",
+          "title": "㈜잇올, &quot;9월 평가원 모의고사 외부생 접수 10분 만에 마감&quot;",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=51594",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-06-24T05:14:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -275,7 +285,7 @@
           "title": "2027 동덕여대 학생부종합 동덕창의리더전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53391",
           "source": "에듀진",
-          "published": "2026-07-07T22:57:21.616479+00:00",
+          "published": "2026-07-08T02:04:18.805983+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -288,7 +298,7 @@
           "published": "2026-07-07T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e390651755c6fb65d37c759f0ee90f43",
@@ -767,6 +777,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "cd3c41a8c81526d196a381015bdfb486",
+          "title": "[2027 대학별 수시 분석] 성균관대 | 종합전형 일부 수능 최저 도입 교과...",
+          "link": "https://www.naeil.com/news/read/594541?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-08T00:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "46f42b3b26de65b401b4cc692df6a62f",
           "title": "[단독] 이화여대 2027논술 안내 '가이드북 역할'.. '출제의도부터 평가기...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618193",
@@ -1139,16 +1159,6 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=593883",
           "source": "news.unn.net",
           "published": "2026-06-25T06:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a028abe0294a862bca9790ab3f6f62e0",
-          "title": "입시 논술, ‘글솜씨’가 아닌 ‘독해력’이 당락 가른다 [전문가 칼럼...",
-          "link": "https://www.cfnews.kr/news/article.html?no=109424",
-          "source": "www.cfnews.kr",
-          "published": "2026-06-24T01:42:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
