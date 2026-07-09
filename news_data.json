@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T23:09:20.652418+00:00",
+  "updated_at": "2026-07-09T02:29:42.248623+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,21 +14,31 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-07-09T02:14:19.738694+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "d499ce38a9c75f6e22f8a48dd3e7e94e",
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-08T22:58:03.598884+00:00",
+          "published": "2026-07-09T02:14:10.606545+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
           "id": "b048981c3d4375ca1d5155286e549ca5",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84",
+          "title": "[2027 7월학평] '변별력 유지' 입시기관 원점수 1등급컷.. 화89~91 언87~88...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618531",
-          "source": "베리타스알파",
-          "published": "2026-07-08T22:58:00.876893+00:00",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-08T11:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -292,16 +302,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "8f96b707dd489e02d56f5342c1a96977",
-          "title": "대성학력개발연구소, 27학년도 6평 반영 실전모의고사 'D.FINE' 출시",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109273",
-          "source": "edu.donga.com",
-          "published": "2026-06-25T00:36:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -310,6 +310,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "f55d292b576002da3252d65a9210a155",
+          "title": "2027 성결대 영암학생부종합전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53416",
+          "source": "에듀진",
+          "published": "2026-07-09T02:16:55.457556+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "0813211a02089ac2b07fcfabc4b8bc20",
           "title": "[2027수시특집] '반도체/방산/로봇 첨단AI인재 양성' 국립금오공대 1103명(84.6%) '확대'.. 첨단학과 AX융합학과 반도체소부장전공",
@@ -639,16 +649,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "4e6e416018f55efe190502617b9d28df",
-          "title": "[유성룡의 입시 포인트] 2027학년도 수시 모집 논술고사 시험일",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/23/2026062380044.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-25T00:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -673,16 +673,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
           "source": "베리타스알파",
           "published": "2026-06-30T23:10:06.260673+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "796cd565e0a46641b4d6f99243a5d0f0",
-          "title": "[단독] 경희대 2026입결.. 정시 수능 백분위 평균 70%컷 의예 98.95 '톱' 한...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=616377",
-          "source": "www.veritas-a.com",
-          "published": "2026-06-25T00:08:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -756,6 +746,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "d008fa36cff5599b8d71b51893335954",
+          "title": "[김진선 人터뷰] 대치동 K-고수교육 권기목 대표원장, &quot;약술형 논술 합...",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=387831",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-07-09T01:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "64ec9cb8f7037048c75cb17233ba3688",
           "title": "서강대 2027논술가이드북.. &quot;제시문 분석과 답안 작성 연습 중요&quot;",
@@ -873,6 +873,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
+          "title": "[단독] 단국대 2027 논술전형자료집.. &quot;시기별 준비 로드맵부터 고교교...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618618",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-09T02:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "773003cb934242cfab552573f900a7c1",
           "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - Naver Blog",
