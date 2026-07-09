@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T07:52:51.752249+00:00",
+  "updated_at": "2026-07-09T11:03:26.931892+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-09T07:42:07.040879+00:00",
+          "published": "2026-07-09T10:48:26.127766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-09T07:42:04.448022+00:00",
+          "published": "2026-07-09T10:48:24.041532+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,10 +38,10 @@
           "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
           "source": "에듀진",
-          "published": "2026-07-09T07:41:58.565883+00:00",
+          "published": "2026-07-09T10:48:17.386879+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
@@ -51,7 +51,7 @@
           "published": "2026-07-09T02:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b048981c3d4375ca1d5155286e549ca5",
@@ -331,6 +331,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "c981ad08d51d94a5aaac33f23a6961a0",
+          "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
+          "source": "에듀진",
+          "published": "2026-07-09T10:50:51.262914+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "0427e25bc4c40e200e103adb58e3a26e",
           "title": "2027 고려대 학생부교과전형 경쟁률 및 등급컷 분석 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX0RnYThJRlhYa3BicU92RUtPcnF6aDA2UjRBcTVVV1ExcFJnRTZaRV9iNmdOVzctY2J3Wlk2WnlwUTdDUzlEQjJieUZYQ3IzVVBFTzJjdmtmZDlORkZBdEF5UFlPYTVQSnc?oc=5",
@@ -338,7 +348,7 @@
           "published": "2026-07-09T06:57:57+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0813211a02089ac2b07fcfabc4b8bc20",
@@ -703,7 +713,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3ed819d2571d37065970bc28afe05c1f",
@@ -902,7 +912,7 @@
           "published": "2026-07-09T06:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "773003cb934242cfab552573f900a7c1",
