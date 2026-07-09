@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T02:29:42.248623+00:00",
+  "updated_at": "2026-07-09T07:52:51.752249+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,20 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-09T02:14:19.738694+00:00",
+          "published": "2026-07-09T07:42:07.040879+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d499ce38a9c75f6e22f8a48dd3e7e94e",
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-09T02:14:10.606545+00:00",
+          "published": "2026-07-09T07:42:04.448022+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c334f4222387bd94b929ba6240d3d077",
+          "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
+          "source": "에듀진",
+          "published": "2026-07-09T07:41:58.565883+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
+          "title": "[단독] 단국대 2027 논술전형자료집.. &quot;시기별 준비 로드맵부터 고교교...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618618",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-09T02:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b048981c3d4375ca1d5155286e549ca5",
@@ -311,11 +331,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "f55d292b576002da3252d65a9210a155",
-          "title": "2027 성결대 영암학생부종합전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53416",
-          "source": "에듀진",
-          "published": "2026-07-09T02:16:55.457556+00:00",
+          "id": "0427e25bc4c40e200e103adb58e3a26e",
+          "title": "2027 고려대 학생부교과전형 경쟁률 및 등급컷 분석 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX0RnYThJRlhYa3BicU92RUtPcnF6aDA2UjRBcTVVV1ExcFJnRTZaRV9iNmdOVzctY2J3Wlk2WnlwUTdDUzlEQjJieUZYQ3IzVVBFTzJjdmtmZDlORkZBdEF5UFlPYTVQSnc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-07-09T06:57:57+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -639,16 +659,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "895afdbbc0b5f1e847a0c4dddd1b1367",
-          "title": "[에듀플러스][2028 대입 포인트]⑥한양대, 수시 67%까지 확대…정시 33%로...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003441217?sid=102",
-          "source": "www.etnews.com",
-          "published": "2026-06-25T03:21:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -684,6 +694,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "95f96ba7ae21ce1fe0d01761af0c6661",
+          "title": "2027학년도 대학수학능력시험 응시원서 온라인 사전입력 안내(시범운영 포함)",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095723&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-07-09T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3ed819d2571d37065970bc28afe05c1f",
           "title": "2027학년도 대학수학능력시험 시행세부계획 공고문 및 보도자료",
@@ -754,7 +775,7 @@
           "published": "2026-07-09T01:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "64ec9cb8f7037048c75cb17233ba3688",
@@ -874,11 +895,11 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
-          "title": "[단독] 단국대 2027 논술전형자료집.. &quot;시기별 준비 로드맵부터 고교교...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618618",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-09T02:14:00+00:00",
+          "id": "45a9e1d0d9437198e66004e4a11ca8ba",
+          "title": "[김병진의 아이 이해를 위한 입시] 수시 지원 로드맵",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109810",
+          "source": "edu.donga.com",
+          "published": "2026-07-09T06:10:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1172,16 +1193,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "30610b727c31163c2c42ff28ecbc9b1f",
-          "title": "&quot;수시 합격 전략 알려준다&quot;… 전국 교육청·지자체 대입박람회 잇따라",
-          "link": "https://news.unn.net/news/articleView.html?idxno=593883",
-          "source": "news.unn.net",
-          "published": "2026-06-25T06:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1221,9 +1232,9 @@
           "is_new": false
         },
         {
-          "id": "248e99219e13d4af80d68e31465ca081",
+          "id": "304163146cbba0c09720ace7dac9ef3d",
           "title": "'큰 학교가 유리'…내신 5등급제에 대규모 일반고 선호 뚜렷 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KbzZMTnI3RWgyUVNqUUd2Zi10aHo5WDUxOHNMWHlfSXpkOTI4Q1pGX2JaMlhPNW1CYlBfYXd4SEJNeHBzLUE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nV2htUDg5dUl6NHE0Tnc5ZGV4WVJ4S0JhcG1LdmpQSUY2QkotSzRDWUNXRmdzMGVuNzFRNjJadm1FMVN2bnBhcUtHdGZKc3M?oc=5",
           "source": "v.daum.net",
           "published": "2026-07-05T03:42:13+00:00",
           "type": "news",
