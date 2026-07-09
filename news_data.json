@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T19:42:29.775233+00:00",
+  "updated_at": "2026-07-09T21:31:26.414473+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-09T19:27:28.540231+00:00",
+          "published": "2026-07-09T21:16:22.364033+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-09T19:27:26.058224+00:00",
+          "published": "2026-07-09T21:16:19.774377+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,7 +38,7 @@
           "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
           "source": "에듀진",
-          "published": "2026-07-09T19:27:20.304404+00:00",
+          "published": "2026-07-09T21:16:12.774943+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-09T19:29:54.576771+00:00",
+          "published": "2026-07-09T21:18:47.607050+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -591,9 +591,9 @@
           "is_new": false
         },
         {
-          "id": "4e16bb99532b5ace858c5e972cdb91b9",
+          "id": "a29b2169c412fdd013aa692e7963fe18",
           "title": "서울 구로구, 2027학년도 수시합격전략 설명회 개최…주요 39개 대학 맞춤전략 제공 - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU2VyN0lJMXNkVWpQZ0FHV09laUI0aTdPaXZlM043YWNtcExrN0x3UFIwTldTa1FjMGhtQlBMNFlZRnp0a1RIcHBkYlRfTjdYTHpWNXQtMWVVTXZ1Ty1nNmVYMEtnaTNGUU4zT29zbUxrQ0xDa0NGeWRwRC1leHhNRS1xZjhnREo3VnFWc1JkWnVDaFczeW80d21zX1FJbWJ6d2xmbmhwa1dxNVNGUDlQTTlNUUtmMWRLelZ1c0FxVXZIR1R3cU5mclNmeXJPODhFaW8tMmdnSFl5YldOYkZBVGNJdlFidm02d2NjYXV4Y1JkM2luZEF3bmdydUxSMXlSYzFZ0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbDd6YVduQmJRUmFUVmJHZXVhTUQxM001bXhGNF8yQXZhZVNTbS1vTlpWTFdJN29IYWV6UUtlT2psZ3NRMFdBNDJtTkNkbHI1YU82Ul8wONIBhgJBVV95cUxOT1B3YjViMWZKYnpJWk0yWGw4WVNRZHNhR1V4akpFWGVTR0RzMU94UGNSeUExMVVZWkwtTnB0eTZORTRnV1hrZ0JBLWQwSTZYaHFqMUNNTWcxblVxTGVuNHhoSU5vOEZuZGFGYjVvSWJvWVRFRzhIOURGM2JES2RfeUtwSXF2YXF1X3oxR2VHODVzVjBMN2RVVWxJT3NUVDhBTkVlQ0JGUWtURFZxVTBnNTVqMlBJNXlhNTRCSHZjS1cxUVBQU3VMYzJ4UHBMazVqY3djRVd6WkVwNUZxc2hzUTZHWDNRTVFwMkNsV1kxMFBuclFrazBqQWFwbkdLd2tNSk1jZExB?oc=5",
           "source": "데일리안",
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
