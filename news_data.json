@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T21:31:26.414473+00:00",
+  "updated_at": "2026-07-09T23:20:47.345333+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-09T21:16:22.364033+00:00",
+          "published": "2026-07-09T23:05:21.617586+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-09T21:16:19.774377+00:00",
+          "published": "2026-07-09T23:05:18.008027+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,10 +38,20 @@
           "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
           "source": "에듀진",
-          "published": "2026-07-09T21:16:12.774943+00:00",
+          "published": "2026-07-09T23:05:09.538464+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4afd266ade3bd47dc1758c092f77c808",
+          "title": "김영편입 제3회 상위권 편입 모의고사 18일… '인서울 상위권 대학 합격...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618643",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-09T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
@@ -335,7 +345,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-09T21:18:47.607050+00:00",
+          "published": "2026-07-09T23:07:49.573928+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -778,6 +788,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "09aee1e4147d8cd59337a12003af1454",
+          "title": "[권기목 논술 칼럼] '수리논술', 우리 자녀에게 잘 맞는 대학 선별부터",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=387830",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-07-09T22:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d008fa36cff5599b8d71b51893335954",
           "title": "[김진선 人터뷰] 대치동 K-고수교육 권기목 대표원장, &quot;약술형 논술 합...",
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=387831",
@@ -818,10 +838,10 @@
           "is_new": false
         },
         {
-          "id": "00f5b70090230e4deceff44e5c72e972",
-          "title": "씨에스엠17, 2027학년도 가천대 약술형 논술 모의고사 출시 - E동아",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyMnNHYU5IY0xLQUFuUGcxTHRJNHljbkZNWWthY0hucTNjS3Nhdm4xbnlSaDBEYUZXRHdHbW5iaVdCYVJPeUpkMHhRNW9MbDBtQ1JKRHhaZ1pKT2w1M0pYdE5Vb0ViTm8?oc=5",
-          "source": "E동아",
+          "id": "7768337c4383159866d1a8a40ee42de6",
+          "title": "씨에스엠17, 2027학년도 가천대 약술형 논술 모의고사 출시",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109668",
+          "source": "edu.donga.com",
           "published": "2026-07-07T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -970,6 +990,16 @@
           "link": "https://edu.chosun.com/site/data/html_dir/2026/07/06/2026070680113.html",
           "source": "edu.chosun.com",
           "published": "2026-07-06T04:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "6c836135593e9fc557ec8db4ebaa95c7",
+          "title": "연고대 수시 전형 큰 틀 유지…연대 자연계열 논술에 통합과학논술 도입",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109607",
+          "source": "edu.donga.com",
+          "published": "2026-07-05T22:26:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1190,16 +1220,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SExwRGRoaTl4d1dZaGZWTUtmS1htQWVUaktUcFF6ZFk2MG1jTmJsZEtON0c5ZjlYSjBTS0YzY3lQSV9nZ2RkVFhkcXlncGd5YXc1MmFLT0JmNzlYdU9GWEEwemhpUQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-06-26T14:05:41+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "0a5d2363149e601dff0155a8dbbc68f0",
-          "title": "작년 입결만 보고 쓰는 수시 원서는 위험…&quot;올해 변수부터 따져야&quot;",
-          "link": "https://www.newspim.com/news/view/20260626000057",
-          "source": "www.newspim.com",
-          "published": "2026-06-25T23:12:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
