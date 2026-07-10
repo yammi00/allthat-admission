@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T11:02:11.617606+00:00",
+  "updated_at": "2026-07-10T14:20:02.640533+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-10T10:46:55.711618+00:00",
+          "published": "2026-07-10T14:06:38.446706+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-10T10:49:45.494180+00:00",
+          "published": "2026-07-10T14:07:17.294785+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -345,27 +345,27 @@
           "title": "2027 이화여대 학생부종합 미래인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53434",
           "source": "에듀진",
-          "published": "2026-07-10T10:49:24.594054+00:00",
+          "published": "2026-07-10T14:07:00.394691+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7328e6301934516ef80c51a0f7fcd01a",
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-10T10:49:22.619601+00:00",
+          "published": "2026-07-10T14:06:58.912356+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1c05c70c8d02a9ff2cba91d152b2ec01",
           "title": "[2027수시특집] '자율전공학부 확대 300명 모집' 가톨릭관동대 1534명(94.3%) '축소'.. 지역의사선발 6명 '신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618846",
           "source": "베리타스알파",
-          "published": "2026-07-10T10:49:19.458014+00:00",
+          "published": "2026-07-10T14:06:56.549474+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,10 +375,10 @@
           "title": "[단독] ‘2027수시 논술 최상위권 격전지’ 의약치한수+반도체 318명 ‘12명 감소’.. 의대 121명, 반도체 29명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618860",
           "source": "베리타스알파",
-          "published": "2026-07-10T10:49:19.457960+00:00",
+          "published": "2026-07-10T14:06:56.549425+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "26c64b36a80484c9130e22ba072ee33f",
@@ -1241,16 +1241,6 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005699538?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-06-27T05:27:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "0170d3c8eebd1dc2791fae6700aff1d4",
-          "title": "수원대학교, 2027학년도 대학 입시박람회 참가 일정 공지 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5SExwRGRoaTl4d1dZaGZWTUtmS1htQWVUaktUcFF6ZFk2MG1jTmJsZEtON0c5ZjlYSjBTS0YzY3lQSV9nZ2RkVFhkcXlncGd5YXc1MmFLT0JmNzlYdU9GWEEwemhpUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-06-26T14:05:41+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
