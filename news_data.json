@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T02:29:16.441329+00:00",
+  "updated_at": "2026-07-10T07:44:28.947790+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-10T02:14:18.922841+00:00",
+          "published": "2026-07-10T07:29:29.210899+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c334f4222387bd94b929ba6240d3d077",
+          "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
+          "source": "에듀진",
+          "published": "2026-07-10T07:29:26.609525+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,16 +39,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
           "published": "2026-07-10T02:14:15.958167+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c334f4222387bd94b929ba6240d3d077",
-          "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
-          "source": "에듀진",
-          "published": "2026-07-10T02:14:09.828288+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -322,16 +322,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a12d3067b927c0616a853a0dd898f610",
-          "title": "대입 수시 원서 전략, ‘입결’ 뒤 변수까지 따져야",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/26/2026062680096.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-26T05:12:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -341,24 +331,34 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "0453b6118cbd9b64a17bad5329b468c4",
-          "title": "2027 성신여대 학생부종합 자기주도인재전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53419",
+          "id": "c981ad08d51d94a5aaac33f23a6961a0",
+          "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-10T02:16:51.043699+00:00",
+          "published": "2026-07-10T07:32:05.293589+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "853bd7925726fbd053c9b94ad39c4a08",
+          "title": "2027 인하대 학생부종합 인하미래인재전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53437",
+          "source": "에듀진",
+          "published": "2026-07-10T07:31:52.798672+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
         },
         {
-          "id": "c981ad08d51d94a5aaac33f23a6961a0",
-          "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
-          "source": "에듀진",
-          "published": "2026-07-10T02:16:45.408814+00:00",
+          "id": "1c05c70c8d02a9ff2cba91d152b2ec01",
+          "title": "[2027수시특집] '자율전공학부 확대 300명 모집' 가톨릭관동대 1534명(94.3%) '축소'.. 지역의사선발 6명 '신설’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618846",
+          "source": "베리타스알파",
+          "published": "2026-07-10T07:31:51.902118+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "26c64b36a80484c9130e22ba072ee33f",
@@ -368,7 +368,7 @@
           "published": "2026-07-10T00:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0427e25bc4c40e200e103adb58e3a26e",
@@ -679,26 +679,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "05f52873793254a34f06c92e4c64989c",
-          "title": "[교육칼럼] &quot;내신 명당 찾아 시외곽으로&quot; 옛말, 수능 면학 분위기 갖춘...",
-          "link": "https://n.news.naver.com/mnews/article/088/0001016414?sid=102",
-          "source": "www.imaeil.com",
-          "published": "2026-06-26T04:35:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b3a50a5f335f0e03747fdcd0c787b9b0",
-          "title": "[2027수시] 경희대 학종 자유전공학부 신설·국제학과 확대…의약학계열은 수능최저 적용",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53268",
-          "source": "에듀진",
-          "published": "2026-06-26T02:44:53.389224+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -715,7 +695,7 @@
           "published": "2026-07-10T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "24d008c5b22f50f6a2cf7d1f193db065",
@@ -753,7 +733,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "95f96ba7ae21ce1fe0d01761af0c6661",
@@ -944,16 +924,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWjB5ejFwMWRjQUVsTnpsN0xjN0hSWXlaTk9ZcGJER25VVEhvdVNsOWFaRVF5N0xENnRpOGF3Zk9NdFI5eU5OeXFUdVNZSURaQjkyRlJhRUpkMTRWcERwU3VVdWRuTm84NXAya1Nn?oc=5",
           "source": "koreasprint.com",
           "published": "2026-06-28T00:17:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "31fee2ee2d60e3a759af06639e678a6f",
-          "title": "2027학년도 약술형 논술 15개 대학 모집요강 비교",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/26/2026062680074.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-26T04:08:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
