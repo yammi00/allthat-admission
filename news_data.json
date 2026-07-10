@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T23:20:47.345333+00:00",
+  "updated_at": "2026-07-10T02:29:16.441329+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-09T23:05:21.617586+00:00",
+          "published": "2026-07-10T02:14:18.922841+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53400",
           "source": "에듀진",
-          "published": "2026-07-09T23:05:18.008027+00:00",
+          "published": "2026-07-10T02:14:15.958167+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,7 +38,7 @@
           "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
           "source": "에듀진",
-          "published": "2026-07-09T23:05:09.538464+00:00",
+          "published": "2026-07-10T02:14:09.828288+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -51,7 +51,7 @@
           "published": "2026-07-09T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "54f6f27ad2e804d2dfba9fea9367aeb1",
@@ -341,14 +341,34 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "0453b6118cbd9b64a17bad5329b468c4",
+          "title": "2027 성신여대 학생부종합 자기주도인재전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53419",
+          "source": "에듀진",
+          "published": "2026-07-10T02:16:51.043699+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "c981ad08d51d94a5aaac33f23a6961a0",
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-09T23:07:49.573928+00:00",
+          "published": "2026-07-10T02:16:45.408814+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "26c64b36a80484c9130e22ba072ee33f",
+          "title": "[추민규의 입시 돋보기] 2027학년도 대입 수시, 의예과 유형별 지원 전략",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/09/2026070980140.html",
+          "source": "edu.chosun.com",
+          "published": "2026-07-10T00:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0427e25bc4c40e200e103adb58e3a26e",
@@ -601,9 +621,9 @@
           "is_new": false
         },
         {
-          "id": "a29b2169c412fdd013aa692e7963fe18",
+          "id": "4e16bb99532b5ace858c5e972cdb91b9",
           "title": "서울 구로구, 2027학년도 수시합격전략 설명회 개최…주요 39개 대학 맞춤전략 제공 - 데일리안",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbDd6YVduQmJRUmFUVmJHZXVhTUQxM001bXhGNF8yQXZhZVNTbS1vTlpWTFdJN29IYWV6UUtlT2psZ3NRMFdBNDJtTkNkbHI1YU82Ul8wONIBhgJBVV95cUxOT1B3YjViMWZKYnpJWk0yWGw4WVNRZHNhR1V4akpFWGVTR0RzMU94UGNSeUExMVVZWkwtTnB0eTZORTRnV1hrZ0JBLWQwSTZYaHFqMUNNTWcxblVxTGVuNHhoSU5vOEZuZGFGYjVvSWJvWVRFRzhIOURGM2JES2RfeUtwSXF2YXF1X3oxR2VHODVzVjBMN2RVVWxJT3NUVDhBTkVlQ0JGUWtURFZxVTBnNTVqMlBJNXlhNTRCSHZjS1cxUVBQU3VMYzJ4UHBMazVqY3djRVd6WkVwNUZxc2hzUTZHWDNRTVFwMkNsV1kxMFBuclFrazBqQWFwbkdLd2tNSk1jZExB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU2VyN0lJMXNkVWpQZ0FHV09laUI0aTdPaXZlM043YWNtcExrN0x3UFIwTldTa1FjMGhtQlBMNFlZRnp0a1RIcHBkYlRfTjdYTHpWNXQtMWVVTXZ1Ty1nNmVYMEtnaTNGUU4zT29zbUxrQ0xDa0NGeWRwRC1leHhNRS1xZjhnREo3VnFWc1JkWnVDaFczeW80d21zX1FJbWJ6d2xmbmhwa1dxNVNGUDlQTTlNUUtmMWRLelZ1c0FxVXZIR1R3cU5mclNmeXJPODhFaW8tMmdnSFl5YldOYkZBVGNJdlFidm02d2NjYXV4Y1JkM2luZEF3bmdydUxSMXlSYzFZ0gGGAkFVX3lxTE5PUHdiNWIxZkpieklaTTJYbDhZU1Fkc2FHVXhqSkVYZVNHRHMxT3hQY1J5QTExVVlaTC1OcHR5Nk5FNGdXWGtnQkEtZDBJNlhocWoxQ01NZzFuVXFMZW40eGhJTm84Rm5kYUZiNW9JYm9ZVEVHOEg5REYzYkRLZF95S3BJcXZhcXVfejFHZUc4NXNWMEw3ZFVVbElPc1RUOEFORWVDQkZRa1REVnFVMGc1NWoyUEk1eWE1NEJIdmNLVzFRUFBTdUxjMnhQcExrNWpjd2NFV3paRXA1RnFzaHNRNkdYM1FNUXAyQ2xXWTEwUG5yUWtrMGpBYXBuR0t3a01KTWNkTEE?oc=5",
           "source": "데일리안",
           "published": "2026-06-29T00:22:00+00:00",
           "type": "news",
@@ -688,6 +708,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "edddd7c2aed636f03041dab9486a3574",
+          "title": "[AI입시 A to Z] 정시 20%, 역대급 '좁은문'...전략 어떻게 짤까",
+          "link": "https://www.newspim.com/news/view/20260709001240",
+          "source": "www.newspim.com",
+          "published": "2026-07-10T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "24d008c5b22f50f6a2cf7d1f193db065",
           "title": "교육부, 고1 자퇴 러시에 “수능 준비 자퇴 불리할 수 있어”",
           "link": "https://n.news.naver.com/mnews/article/005/0001859229?sid=102",
@@ -714,6 +744,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "6b29241ca003b010681ad95894f7199f",
+          "title": "법무부, 교정시설 신축에 '공모제' 최초 도입",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156770339",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-10T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "95f96ba7ae21ce1fe0d01761af0c6661",
           "title": "2027학년도 대학수학능력시험 응시원서 온라인 사전입력 안내(시범운영 포함)",
@@ -795,7 +836,7 @@
           "published": "2026-07-09T22:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d008fa36cff5599b8d71b51893335954",
@@ -838,10 +879,10 @@
           "is_new": false
         },
         {
-          "id": "7768337c4383159866d1a8a40ee42de6",
-          "title": "씨에스엠17, 2027학년도 가천대 약술형 논술 모의고사 출시",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109668",
-          "source": "edu.donga.com",
+          "id": "00f5b70090230e4deceff44e5c72e972",
+          "title": "씨에스엠17, 2027학년도 가천대 약술형 논술 모의고사 출시 - E동아",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyMnNHYU5IY0xLQUFuUGcxTHRJNHljbkZNWWthY0hucTNjS3Nhdm4xbnlSaDBEYUZXRHdHbW5iaVdCYVJPeUpkMHhRNW9MbDBtQ1JKRHhaZ1pKT2w1M0pYdE5Vb0ViTm8?oc=5",
+          "source": "E동아",
           "published": "2026-07-07T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -908,11 +949,11 @@
           "is_new": false
         },
         {
-          "id": "956eb69f8ddf0e28381412e8b519bc29",
-          "title": "GR831약술형논술연구소, 2027학년도 약술형 논술 15개 대학 모집요강 한눈에 정리 - 매일타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pR082Q05LTmxWVXRxM3JNZUxtMXBqS2VTSmJ3VlhWc0pCeDMzQXhJQ2o0QnliT281MmdxYUNuUDZ2aXVlcG04VkxBSUZDa3lVRnhna3BnY1pyUDNTV2c?oc=5",
-          "source": "매일타임즈",
-          "published": "2026-06-26T01:00:00+00:00",
+          "id": "31fee2ee2d60e3a759af06639e678a6f",
+          "title": "2027학년도 약술형 논술 15개 대학 모집요강 비교",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/26/2026062680074.html",
+          "source": "edu.chosun.com",
+          "published": "2026-06-26T04:08:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
