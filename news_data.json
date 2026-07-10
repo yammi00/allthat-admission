@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T19:34:45.189897+00:00",
+  "updated_at": "2026-07-10T21:16:25.001140+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-10T19:19:14.855452+00:00",
+          "published": "2026-07-10T21:01:39.274909+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e820874bdc0e20364dc50d986fbe1e79",
+          "title": "서울대 전액 장학금, 美명문대 싹 거절…카이스트 선택한 '베트남 천재...",
+          "link": "https://n.news.naver.com/mnews/article/421/0009053364?sid=104",
+          "source": "www.news1.kr",
+          "published": "2026-07-10T20:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c334f4222387bd94b929ba6240d3d077",
@@ -335,7 +345,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-10T19:22:06.293467+00:00",
+          "published": "2026-07-10T21:04:20.585856+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -345,7 +355,7 @@
           "title": "2027 이화여대 학생부종합 미래인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53434",
           "source": "에듀진",
-          "published": "2026-07-10T19:21:45.904495+00:00",
+          "published": "2026-07-10T21:04:04.842243+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +365,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-10T19:21:44.217546+00:00",
+          "published": "2026-07-10T21:04:03.300026+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +375,7 @@
           "title": "[2027수시특집] '자율전공학부 확대 300명 모집' 가톨릭관동대 1534명(94.3%) '축소'.. 지역의사선발 6명 '신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618846",
           "source": "베리타스알파",
-          "published": "2026-07-10T19:21:41.003026+00:00",
+          "published": "2026-07-10T21:04:00.746520+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +385,7 @@
           "title": "[단독] ‘2027수시 논술 최상위권 격전지’ 의약치한수+반도체 318명 ‘12명 감소’.. 의대 121명, 반도체 29명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618860",
           "source": "베리타스알파",
-          "published": "2026-07-10T19:21:41.002978+00:00",
+          "published": "2026-07-10T21:04:00.746469+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -686,16 +696,6 @@
           "link": "https://www.betanews.net/article/view/beta202606220151",
           "source": "www.betanews.net",
           "published": "2026-06-27T08:12:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a14d21b41a9b3f6989b34ed4150f37ce",
-          "title": "“현역 정시파이터 현실”…수능 최상위권은 이미 ‘N수생 천하’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004635494?sid=102",
-          "source": "www.sedaily.com",
-          "published": "2026-06-26T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
