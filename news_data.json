@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T02:18:41.744078+00:00",
+  "updated_at": "2026-07-12T06:42:37.176770+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-12T02:03:31.645727+00:00",
+          "published": "2026-07-12T06:27:46.756051+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-12T02:03:23.290269+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "188a176e1d1bc81d3e0946071d2c7c38",
@@ -41,7 +41,7 @@
           "published": "2026-07-12T02:03:14.106658+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e820874bdc0e20364dc50d986fbe1e79",
@@ -365,7 +365,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-12T02:06:22.551902+00:00",
+          "published": "2026-07-12T06:30:30.283899+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +375,7 @@
           "title": "2027 이화여대 학생부종합 미래인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53434",
           "source": "에듀진",
-          "published": "2026-07-12T02:06:06.142850+00:00",
+          "published": "2026-07-12T06:30:12.849745+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +385,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-12T02:06:04.678807+00:00",
+          "published": "2026-07-12T06:30:11.571640+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -395,7 +395,7 @@
           "title": "[2027수시특집] '자율전공학부 확대 300명 모집' 가톨릭관동대 1534명(94.3%) '축소'.. 지역의사선발 6명 '신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618846",
           "source": "베리타스알파",
-          "published": "2026-07-12T02:06:02.317057+00:00",
+          "published": "2026-07-12T06:30:08.603246+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -405,10 +405,20 @@
           "title": "[단독] ‘2027수시 논술 최상위권 격전지’ 의약치한수+반도체 318명 ‘12명 감소’.. 의대 121명, 반도체 29명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618860",
           "source": "베리타스알파",
-          "published": "2026-07-12T02:06:02.317008+00:00",
+          "published": "2026-07-12T06:30:08.603189+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3f56e0265177b0a969ae6a41709b7a9d",
+          "title": "강화된 내신에…특목·자사고 출신 SKY 합격자, 6년새 최저",
+          "link": "https://n.news.naver.com/mnews/article/020/0003733247?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-07-12T05:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0da8470130ba9fac3bb6b0c6f673d20c",
@@ -418,7 +428,7 @@
           "published": "2026-07-11T23:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "26c64b36a80484c9130e22ba072ee33f",
@@ -856,7 +866,7 @@
           "published": "2026-07-12T00:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "09aee1e4147d8cd59337a12003af1454",
@@ -1201,26 +1211,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YdzZDajlFM1Z1Q1ZnWXhwRGJ4Zll2dVpPQnBObWFtN1ZZN2dfdjU0UV9tbmh1Z1BSaFR2RmR5VjlhdVFKUnMyRDRscDA2WGRoend2d3hreEZNc1VILVY0c2xCZkdMZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-06-28T22:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2daa9b31d19993c6b29c6bb3f447c774",
-          "title": "올 수시부터 AI가 대학 선택 돕는다… 사설 컨설팅 감소 효과엔 ‘의문...",
-          "link": "https://n.news.naver.com/mnews/article/005/0001857546?sid=102",
-          "source": "www.kmib.co.kr",
-          "published": "2026-06-28T06:27:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "7e9e9aaca512ceb31e6076b82f304b78",
-          "title": "2027 대입 코엑스 수시 박람회 내달 23~25일…AI 챗봇 상담도",
-          "link": "http://www.metroseoul.co.kr/article/20260628500203",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-06-28T04:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
