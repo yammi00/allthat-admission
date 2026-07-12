@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T22:55:18.866332+00:00",
+  "updated_at": "2026-07-12T02:18:41.744078+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-11T22:40:23.316170+00:00",
+          "published": "2026-07-12T02:03:31.645727+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ee61223a10c594c1694409191a95c0ee",
+          "title": "1~3등급 인서울 인공지능학과 교과 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53436",
+          "source": "에듀진",
+          "published": "2026-07-12T02:03:23.290269+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "188a176e1d1bc81d3e0946071d2c7c38",
+          "title": "2027 성균관대 학생부교과전형 경쟁률 및 등급컷 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53443",
+          "source": "에듀진",
+          "published": "2026-07-12T02:03:14.106658+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e820874bdc0e20364dc50d986fbe1e79",
@@ -345,7 +365,7 @@
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
-          "published": "2026-07-11T22:43:07.908714+00:00",
+          "published": "2026-07-12T02:06:22.551902+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +375,7 @@
           "title": "2027 이화여대 학생부종합 미래인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53434",
           "source": "에듀진",
-          "published": "2026-07-11T22:42:51.608338+00:00",
+          "published": "2026-07-12T02:06:06.142850+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +385,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-11T22:42:49.755406+00:00",
+          "published": "2026-07-12T02:06:04.678807+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +395,7 @@
           "title": "[2027수시특집] '자율전공학부 확대 300명 모집' 가톨릭관동대 1534명(94.3%) '축소'.. 지역의사선발 6명 '신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618846",
           "source": "베리타스알파",
-          "published": "2026-07-11T22:42:47.045230+00:00",
+          "published": "2026-07-12T02:06:02.317057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,10 +405,20 @@
           "title": "[단독] ‘2027수시 논술 최상위권 격전지’ 의약치한수+반도체 318명 ‘12명 감소’.. 의대 121명, 반도체 29명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618860",
           "source": "베리타스알파",
-          "published": "2026-07-11T22:42:47.045184+00:00",
+          "published": "2026-07-12T02:06:02.317008+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0da8470130ba9fac3bb6b0c6f673d20c",
+          "title": "올해 특목·자사고 출신 ‘SKY’ 신입생 3252명…6년 새 최저치",
+          "link": "https://n.news.naver.com/mnews/article/018/0006328221?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-07-11T23:21:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "26c64b36a80484c9130e22ba072ee33f",
@@ -819,6 +849,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "3b5c9553e70bd3d1d397ec435c146200",
+          "title": "논술 1만2750명 뽑는데…합격은 실력순이 아니라고? [입시트렌드]",
+          "link": "https://n.news.naver.com/mnews/article/009/0005706079?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-07-12T00:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "09aee1e4147d8cd59337a12003af1454",
           "title": "[권기목 논술 칼럼] '수리논술', 우리 자녀에게 잘 맞는 대학 선별부터",
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=387830",
@@ -924,16 +964,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=616864",
           "source": "www.veritas-a.com",
           "published": "2026-06-29T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2477f8c7a96d849d48798f24c38f4553",
-          "title": "GR831 약술형 논술연구소, 2027학년도 약술형 논술 15개 대학 모집요강 한눈에 정리 - koreasprint.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWjB5ejFwMWRjQUVsTnpsN0xjN0hSWXlaTk9ZcGJER25VVEhvdVNsOWFaRVF5N0xENnRpOGF3Zk9NdFI5eU5OeXFUdVNZSURaQjkyRlJhRUpkMTRWcERwU3VVdWRuTm84NXAya1Nn?oc=5",
-          "source": "koreasprint.com",
-          "published": "2026-06-28T00:17:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1191,36 +1221,6 @@
           "link": "http://www.metroseoul.co.kr/article/20260628500203",
           "source": "www.metroseoul.co.kr",
           "published": "2026-06-28T04:56:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3d4680921004b1890583a0ac0c55f111",
-          "title": "2027·2028학년도 복잡한 대학 입시 정보 쉽게 알려드려요",
-          "link": "https://n.news.naver.com/mnews/article/079/0004162418?sid=102",
-          "source": "www.nocutnews.co.kr",
-          "published": "2026-06-28T00:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d21e693bf069b3074de506244a5dbe62",
-          "title": "&quot;어디가에서 AI에 입학전형 상담해볼까&quot;…교육부, AI챗봇 가동",
-          "link": "https://n.news.naver.com/mnews/article/008/0005378036?sid=102",
-          "source": "www.mt.co.kr",
-          "published": "2026-06-28T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "7f5b86d394fb2a3d6f41c106314d85c9",
-          "title": "교육부, AI 대입 챗봇·대입 박람회로 입시 정보 지원",
-          "link": "https://news.unn.net/news/articleView.html?idxno=594008",
-          "source": "news.unn.net",
-          "published": "2026-06-28T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
