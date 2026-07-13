@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:08:41.901469+00:00",
+  "updated_at": "2026-07-13T14:30:18.685240+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-13T10:53:25.867080+00:00",
+          "published": "2026-07-13T14:14:52.602716+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-13T10:53:18.174983+00:00",
+          "published": "2026-07-13T14:14:45.325969+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +375,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-13T10:56:15.452852+00:00",
+          "published": "2026-07-13T14:17:41.632645+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +385,7 @@
           "title": "2027 한국기술교육대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53461",
           "source": "에듀진",
-          "published": "2026-07-13T10:55:55.745593+00:00",
+          "published": "2026-07-13T14:17:23.630057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -395,10 +395,10 @@
           "title": "[2027수시특집] 'AI혁신대상 2관왕' 안양대 951명(84.2%) 모집.. AI학부 100명 '신설' 수시87명 모집",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=619119",
           "source": "베리타스알파",
-          "published": "2026-07-13T10:55:50.528141+00:00",
+          "published": "2026-07-13T14:17:18.717629+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a4206d339751fabd1e6447714a3bc5a",
@@ -738,6 +738,16 @@
           "is_new": false
         },
         {
+          "id": "440849aceab61a8500347c98b7ee4d22",
+          "title": "[2028 대입 포인트]⑦중앙대, 입시 확 바뀐다…정시도 수능·서류 함께 본다 - eduplusnews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PMkJRTVg5VHZYdnVCRGdxdlZSUTdRQUJoYU1YY3N3X0puY0h1QmNpcmpSVDZ5d1otNDE3NUFXR3VWX3RFTmlhSmVfQTBUdFZlNGlGTFZHUkZfU2N2R0VBM3U5SWdwVktGMEhkemVR0gFyQVVfeXFMTWxpMlpXTzNnd2JQcmVWZ2IyY0g3M3pKd1hHNi1fZjdhUjBrSVh4NGdJdVVZcF9scmNTeENZYzVTZlMxbmRIc1BIeExtaE96eGhDVU1VRUV0a1N2U0dnRlhRY2w3endkeV9Ta3lWNVZ1TGhn?oc=5",
+          "source": "eduplusnews.com",
+          "published": "2026-07-02T02:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "ab8b706c2ba5eb1b52905c6af4f4561a",
           "title": "홍익대 2026입결.. 정시 수능 평균점수(환산) 건축(5년제) '톱'  전자·전기공 서울캠자율전공(자연·예능) 톱3",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
@@ -993,7 +1003,7 @@
           "published": "2026-07-13T09:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e07a2e6b85a4f19ab99599bfd055191a",
