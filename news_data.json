@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:31:30.731636+00:00",
+  "updated_at": "2026-07-13T21:08:48.401480+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-13T19:16:21.344166+00:00",
+          "published": "2026-07-13T20:52:45.316944+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-13T19:16:14.570701+00:00",
+          "published": "2026-07-13T20:52:38.031284+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +375,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-13T19:19:07.616082+00:00",
+          "published": "2026-07-13T20:56:12.331564+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +385,7 @@
           "title": "2027 한국기술교육대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53461",
           "source": "에듀진",
-          "published": "2026-07-13T19:18:52.199635+00:00",
+          "published": "2026-07-13T20:55:27.909241+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -395,7 +395,7 @@
           "title": "[2027수시특집] 'AI혁신대상 2관왕' 안양대 951명(84.2%) 모집.. AI학부 100명 '신설' 수시87명 모집",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=619119",
           "source": "베리타스알파",
-          "published": "2026-07-13T19:18:47.292887+00:00",
+          "published": "2026-07-13T20:55:11.680500+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -876,7 +876,7 @@
           "published": "2026-07-13T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3b5c9553e70bd3d1d397ec435c146200",
