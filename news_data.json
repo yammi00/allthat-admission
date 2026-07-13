@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T02:20:02.133621+00:00",
+  "updated_at": "2026-07-13T07:02:33.430577+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-13T02:05:07.737937+00:00",
+          "published": "2026-07-13T06:47:40.767397+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0c65c56b6e47f7511847d5c24e59ebd0",
+          "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
+          "source": "에듀진",
+          "published": "2026-07-13T06:47:34.846409+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ee61223a10c594c1694409191a95c0ee",
@@ -361,31 +371,41 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "7328e6301934516ef80c51a0f7fcd01a",
+          "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
+          "source": "에듀진",
+          "published": "2026-07-13T06:50:23.147284+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "eff003a56a729eb948c6648ed42aef29",
+          "title": "2027 한국기술교육대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53461",
+          "source": "에듀진",
+          "published": "2026-07-13T06:50:10.070297+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9a4206d339751fabd1e6447714a3bc5a",
+          "title": "[임성호의 입시 레이다] 2027학년도 6월 모의평가 성적표 기준 정시 합격...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109899",
+          "source": "edu.donga.com",
+          "published": "2026-07-13T04:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "c981ad08d51d94a5aaac33f23a6961a0",
           "title": "“교과전형인데 학생부를 본다?”… 동국대 학교장추천인재전형이 달라진 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53448",
           "source": "에듀진",
           "published": "2026-07-13T02:07:50.774682+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "cad0667007bc18e808a5ce5ebe0996e9",
-          "title": "2027 이화여대 학생부종합 미래인재전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53434",
-          "source": "에듀진",
-          "published": "2026-07-13T02:07:34.117675+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7328e6301934516ef80c51a0f7fcd01a",
-          "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
-          "source": "에듀진",
-          "published": "2026-07-13T02:07:32.587081+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -398,7 +418,7 @@
           "published": "2026-07-13T01:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b8d5717fc506b2ef964b42ccb6f82eaf",
@@ -408,7 +428,7 @@
           "published": "2026-07-13T00:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1c05c70c8d02a9ff2cba91d152b2ec01",
@@ -699,16 +719,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b5322f167f45bc0139634ae4b97c13ff",
-          "title": "[임성호의 입시 레이다] 2027 반도체 계약학과 수시, 정시 모두 의대급에...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=109389",
-          "source": "edu.donga.com",
-          "published": "2026-06-29T02:44:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -725,7 +735,7 @@
           "published": "2026-07-12T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edddd7c2aed636f03041dab9486a3574",
@@ -859,6 +869,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "c9569d936cc7d57661b8ce97a81de5dc",
+          "title": "2027학년도 수시 지원 전략 설명회 17일 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109901",
+          "source": "edu.donga.com",
+          "published": "2026-07-13T06:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "702a6ec792d44c47ece3d699292fdd8c",
           "title": "한국공학대, 2027 수시 1176명 선발...학생부전형 늘고 논술 줄어",
           "link": "https://n.news.naver.com/mnews/article/008/0005385057?sid=102",
@@ -866,7 +886,7 @@
           "published": "2026-07-13T02:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3b5c9553e70bd3d1d397ec435c146200",
@@ -986,6 +1006,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "e07a2e6b85a4f19ab99599bfd055191a",
+          "title": "EBSi, 7월 13일부터 '2027 수능 등급 역전 프로젝트' 진행 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lUjN1cTVmY1RlNkQ3d3FQemxiR2lWcFZhM0JoQkRGNzRhcG5GRU56b2o3b0RWaEkxMkRhZmp4eDlMWUVFZG5sN2NOd3hFTFN4NDBuV0JsN1YyVFpyamhlWE85V0toQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-13T04:17:53+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "938ad25d56a7cad7c3909e0e9c9f7706",
           "title": "대입캘린더 (26/07/17~)",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618873",
@@ -993,7 +1023,7 @@
           "published": "2026-07-13T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "45a9e1d0d9437198e66004e4a11ca8ba",
@@ -1164,16 +1194,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "c4317df76f7f3de2f72b4baf80ee4bc7",
-          "title": "유니브클래스 &quot;역대 최고 수준 N수생 유입…올해는 수시카드 전략이 합...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=205259",
-          "source": "www.lecturernews.com",
-          "published": "2026-06-29T04:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1190,7 +1210,7 @@
           "published": "2026-07-13T01:41:26+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0c13b97e867584812d47a479fe9be578",
@@ -1200,7 +1220,7 @@
           "published": "2026-07-13T00:31:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aef76d64cbcef6fe8033b731e4112465",
