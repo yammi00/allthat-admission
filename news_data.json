@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T08:06:17.699688+00:00",
+  "updated_at": "2026-07-14T10:05:48.287555+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-14T07:51:09.316365+00:00",
+          "published": "2026-07-14T09:50:17.063998+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-14T07:51:04.818577+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a9763639e2323fac5fd053009177e02e",
@@ -41,7 +41,7 @@
           "published": "2026-07-14T05:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a91ed0692bc655e28a78367f5b905f0d",
@@ -322,26 +322,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "d150c65462227611063b88acaecc0394",
-          "title": "&quot;D-142&quot;…올 수능, 점수 예측 가장 어렵다",
-          "link": "https://n.news.naver.com/mnews/article/656/0000180336?sid=102",
-          "source": "www.daejonilbo.com",
-          "published": "2026-06-30T08:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1307352524a7c5cc57e031f252d5d006",
-          "title": "6월 모평 2026 수능 이어 또 ‘불영어’…‘사탐런’도 더 극심",
-          "link": "https://n.news.naver.com/mnews/article/666/0000113347?sid=102",
-          "source": "www.kyeonggi.com",
-          "published": "2026-06-30T08:21:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -355,10 +335,10 @@
           "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
           "source": "에듀진",
-          "published": "2026-07-14T07:53:41.969178+00:00",
+          "published": "2026-07-14T09:52:52.285837+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7328e6301934516ef80c51a0f7fcd01a",
@@ -815,7 +795,7 @@
           "published": "2026-07-14T05:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c9569d936cc7d57661b8ce97a81de5dc",
@@ -843,6 +823,16 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005706079?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-07-12T00:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "cd75a6ce9e0f70a483b6a55f796de639",
+          "title": "‘2027수시 6장사수 또다른 관건’ 22개대학 면접일정 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVDNMdlc3STU2QkpzbHJucHVuMzdZZG1ZTEtSTi0zbDJpeGNnZll0RVpuR1dQRGl4QkZEM0ZHMEswbEc1YUFWNDdlR2dMYXFuYU9aeTVSbXRiU19INEFIWGlaUFVBdzJ3T19VRQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-10T04:20:11+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
