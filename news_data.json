@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:05:48.287555+00:00",
+  "updated_at": "2026-07-14T11:35:36.240901+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-14T09:50:17.063998+00:00",
+          "published": "2026-07-14T11:20:37.183894+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -312,16 +312,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "11abaa3bcb14f297a1ba9c733db9bd21",
-          "title": "[입시의 정석] 영어 또 까다로웠다…6월 모의평가 활용법은?",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60742220/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-06-30T10:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -335,10 +325,20 @@
           "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
           "source": "에듀진",
-          "published": "2026-07-14T09:52:52.285837+00:00",
+          "published": "2026-07-14T11:23:07.160635+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0fb2b7693f9530feae3a5863836fc935",
+          "title": "[입시의 정석] 올해 놓치면 불리?…내신 9등급제 마지막 입시 변수",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60747384/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-07-14T10:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "7328e6301934516ef80c51a0f7fcd01a",
