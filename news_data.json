@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:04:47.951437+00:00",
+  "updated_at": "2026-07-14T02:06:54.673262+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-13T22:49:45.547851+00:00",
+          "published": "2026-07-14T01:51:14.915530+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-13T22:49:40.501193+00:00",
+          "published": "2026-07-14T01:51:02.944149+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +375,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-13T22:52:24.648085+00:00",
+          "published": "2026-07-14T01:54:11.286236+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +385,7 @@
           "title": "2027 한국기술교육대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53461",
           "source": "에듀진",
-          "published": "2026-07-13T22:52:11.826136+00:00",
+          "published": "2026-07-14T01:53:52.675949+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -689,16 +689,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "f618a3b2ba3114c37b3004c5f0f74584",
-          "title": "[문성준의 친절한 입시 이야기] 수시 지원 전 확인해야 할 대학별·전형...",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/06/30/2026063080044.html",
-          "source": "edu.chosun.com",
-          "published": "2026-06-30T01:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -753,16 +743,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
           "source": "베리타스알파",
           "published": "2026-06-30T23:10:06.260673+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6cdd258c76d5f4cdf47e74551c52ffbd",
-          "title": "숙명여대 2026수시 입결.. 교과 지균 내신평균 약학 1.1등급 '톱' 생명시...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=616839",
-          "source": "www.veritas-a.com",
-          "published": "2026-06-29T23:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
