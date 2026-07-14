@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:06:54.673262+00:00",
+  "updated_at": "2026-07-14T05:02:10.219303+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,17 +18,27 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-14T01:51:14.915530+00:00",
+          "published": "2026-07-14T04:45:48.691098+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a91ed0692bc655e28a78367f5b905f0d",
+          "title": "2027 중앙대 학생부종합전형 경쟁률 및 등급컷 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53458",
+          "source": "에듀진",
+          "published": "2026-07-14T04:45:39.623230+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-14T01:51:02.944149+00:00",
+          "published": "2026-07-14T04:45:24.196944+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -324,6 +334,16 @@
           "is_new": false
         },
         {
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-06-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "05e50f82325f050ef43b3eeb5ff99102",
           "title": "6월 모평 영어 또 '불수능'…평가원 &quot;본수능은 적정 난도로 출제&quot;(종합)",
           "link": "https://n.news.naver.com/mnews/article/018/0006319060?sid=102",
@@ -342,16 +362,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "28a533b6096006fdfe48c719d52223bb",
-          "title": "6월 모평도 '불영어' 확인…영어 1등급 4.13%, 2027학년도 수능은 11월 1...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=91602",
-          "source": "www.newsian.co.kr",
-          "published": "2026-06-30T04:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -365,7 +375,7 @@
           "title": "[합격사례] 물리 94점인데 3등급?… 동국대 학생부 평가가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53470",
           "source": "에듀진",
-          "published": "2026-07-14T01:54:11.286236+00:00",
+          "published": "2026-07-14T04:49:11.930030+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +385,7 @@
           "title": "2027 한국기술교육대 학생부종합 창의인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53461",
           "source": "에듀진",
-          "published": "2026-07-14T01:53:52.675949+00:00",
+          "published": "2026-07-14T04:48:19.297048+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1115,31 +1125,11 @@
           "is_new": false
         },
         {
-          "id": "ba224cc37a5418f501372653b6a6eb41",
-          "title": "'공교육·EBS 중심' 기조 지속...2027학년도 수능 세부계획 확정 - 청년일보",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zazJUTnZJUlc1N2gtMWJXeGprNEc3enRvWVBFdXNyempKd05LWVAtdUtabGR0TUpTcUd1SHF6MEJQUUJSZEF0UnRxeVFTbHJtdVNPeS1yVjFzbEJRTHRPdlZB?oc=5",
-          "source": "청년일보",
-          "published": "2026-06-30T03:12:19+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "cb8f41d838f518013a61f42d9d8008f2",
-          "title": "올해 수능 11월 19일 실시…8월 20일부터 원서 접수",
-          "link": "https://n.news.naver.com/mnews/article/421/0009031574?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-06-30T03:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "4bc5fb2e86db559d6a3063b83b3e9ab1",
-          "title": "올해 수능 11월19일 시행…가채점표 공식 공개·EBS 연계 50% 유지",
-          "link": "https://www.newspim.com/news/view/20260630000554",
-          "source": "www.newspim.com",
-          "published": "2026-06-30T03:00:00+00:00",
+          "id": "ca6d47fbb5b63117ad801b3304056645",
+          "title": "2027학년도 수능, 11월 19일 시행 - 조선에듀",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aZC1QTG5zSzdRTWw3bmVEdWNEb1ktTWQ2RGtvMUw2R0xReC1kMVlYSWlHQUxteFlBNFVKZFgtMWk3RWt0U294c2R0OFZoNU44dTlXQkdFSUNxMWRpU05zYVBNNWFHRGR5QlhhY2RwV0gweE5oekZILUFfTQ?oc=5",
+          "source": "조선에듀",
+          "published": "2026-06-30T05:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
