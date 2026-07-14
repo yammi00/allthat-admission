@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:08:27.993605+00:00",
+  "updated_at": "2026-07-14T23:07:00.269859+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-14T20:52:51.717862+00:00",
+          "published": "2026-07-14T22:51:31.046320+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,7 +325,7 @@
           "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
           "source": "에듀진",
-          "published": "2026-07-14T20:55:24.121226+00:00",
+          "published": "2026-07-14T22:54:04.755847+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1080,16 +1080,6 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3622652",
           "source": "www.gukjenews.com",
           "published": "2026-07-01T00:14:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3b0be8c8ef49e41ff76be2b345654f35",
-          "title": "서초구, ‘2027 대입 수시 합격드림 설명회’ 개최",
-          "link": "https://n.news.naver.com/mnews/article/021/0002801487?sid=102",
-          "source": "www.munhwa.com",
-          "published": "2026-06-30T22:25:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
