@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T05:00:54.011891+00:00",
+  "updated_at": "2026-07-15T08:09:40.717499+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-15T04:45:35.747542+00:00",
+          "published": "2026-07-15T07:54:43.025318+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "34cf60965961234fec6b79436567c15f",
+          "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
+          "source": "에듀진",
+          "published": "2026-07-15T07:54:36.550424+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
@@ -34,24 +44,14 @@
           "is_new": false
         },
         {
-          "id": "ea917a36f9f30b9ddfc3cc3879f7e44c",
-          "title": "2027 한양대 학생부종합전형 경쟁률 및 등급컷 분석",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53445",
-          "source": "에듀진",
-          "published": "2026-07-15T04:45:30.698578+00:00",
+          "id": "b9e93e4d85e9ece6e9f88ecc52d58292",
+          "title": "대성학원 과목별 실전형 모의고사 '강대모의고사K' 시행.. '실전 감각' '...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619315",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-15T03:52:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b9e93e4d85e9ece6e9f88ecc52d58292",
-          "title": "대성학원 과목별 실전형 모의고사 '강대모의고사K' 시행.. '실전 감각' '수능형 사고' 강화",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619315",
-          "source": "베리타스알파",
-          "published": "2026-07-15T04:45:27.197775+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "35abf05b4246133e001b7f048f8342dd",
@@ -351,21 +351,51 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "b1e0341bacf6a086a4bb7fa0fc42849e",
-          "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
+          "id": "126405b9ee5ba525d463563e8e688f40",
+          "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
           "source": "에듀진",
-          "published": "2026-07-15T04:48:08.035446+00:00",
+          "published": "2026-07-15T07:57:15.992098+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "126405b9ee5ba525d463563e8e688f40",
-          "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
+          "id": "2a87d509cbbd1d8f313d8928239f7833",
+          "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-15T04:48:04.101546+00:00",
+          "published": "2026-07-15T07:57:10.135842+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8ed6444e967062efa0a665b1c20a0c40",
+          "title": "[2027수시특집] '취업사관학교' 경동대 1520명(97.7%) 모집.. '태권도특기자 겨루기/격파 구분모집’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619482",
+          "source": "베리타스알파",
+          "published": "2026-07-15T07:57:04.724745+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5f6d4f45a5bc7d8ea4b38441fc00567d",
+          "title": "[윤한울의 입시 큐레이팅] 2027 수시, '마지막 입시'가 아니라 '첫 리허...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110003",
+          "source": "edu.donga.com",
+          "published": "2026-07-15T07:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7b3e3f648dcdaa68cf82c7dd09c6041f",
+          "title": "스카이입시교육학원, 2027 가천대약술형논술 대학별 현강·화상 8월 강좌...",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=302230",
+          "source": "www.ppss.kr",
+          "published": "2026-07-15T05:42:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -378,7 +408,7 @@
           "published": "2026-07-15T04:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "91dfc76922fa7f21ff2590c612528494",
@@ -1022,7 +1052,7 @@
           "published": "2026-07-15T04:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1cfdf38f5ffd77da93fbfda4dbf37c15",
