@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T23:07:00.269859+00:00",
+  "updated_at": "2026-07-15T02:02:51.782058+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,34 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-07-15T01:47:43.551900+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-14T22:51:31.046320+00:00",
+          "published": "2026-07-15T01:47:38.600926+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ea917a36f9f30b9ddfc3cc3879f7e44c",
+          "title": "2027 한양대 학생부종합전형 경쟁률 및 등급컷 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53445",
+          "source": "에듀진",
+          "published": "2026-07-15T01:47:36.703997+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "35abf05b4246133e001b7f048f8342dd",
@@ -325,10 +345,20 @@
           "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
           "source": "에듀진",
-          "published": "2026-07-14T22:54:04.755847+00:00",
+          "published": "2026-07-15T01:50:10.849919+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "91dfc76922fa7f21ff2590c612528494",
+          "title": "[2027 수시/숙명여자대학교] '아웃씽커스 숙명' 창의융합인재 선발… 고...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594494",
+          "source": "news.unn.net",
+          "published": "2026-07-15T01:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0fb2b7693f9530feae3a5863836fc935",
@@ -696,16 +726,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "ab8b706c2ba5eb1b52905c6af4f4561a",
-          "title": "홍익대 2026입결.. 정시 수능 평균점수(환산) 건축(5년제) '톱'  전자·전기공 서울캠자율전공(자연·예능) 톱3",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=617358",
-          "source": "베리타스알파",
-          "published": "2026-06-30T23:10:06.260673+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -787,6 +807,26 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "09e7de6b97966c7c6d1335773f3d54bd",
+          "title": "[2027 수시/강남대학교] 사람 성장·사회 변혁을 주도하는 혁신 대학... ...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594520",
+          "source": "news.unn.net",
+          "published": "2026-07-15T01:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "def1fc9f64fbd2db222134d22d1904cd",
+          "title": "2027학년도 논술전형, 대학별 변화에 관심…여름방학이 지원 전략 분기...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109950",
+          "source": "edu.donga.com",
+          "published": "2026-07-15T00:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "2eff1f1cd88585465ee2b199df6a18f8",
           "title": "[2027 수시/삼육대학교] 해외취업률 5년 연속 ‘수도권 1위’… 논술전형 대폭 확대 - 한국대학신문",
@@ -944,6 +984,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "1cfdf38f5ffd77da93fbfda4dbf37c15",
+          "title": "[2027 수시/경동대학교] 취업률 1위에 AI캠퍼스까지… '취업사관학교' 끝...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594485",
+          "source": "news.unn.net",
+          "published": "2026-07-15T00:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "e07a2e6b85a4f19ab99599bfd055191a",
           "title": "EBSi, 7월 13일부터 '2027 수능 등급 역전 프로젝트' 진행 - 교육을 비추다",
