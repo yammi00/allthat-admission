@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T02:02:51.782058+00:00",
+  "updated_at": "2026-07-15T05:00:54.011891+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,17 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-15T01:47:43.551900+00:00",
+          "published": "2026-07-15T04:45:35.747542+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
           "title": "1~3등급 인서울 심리학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53424",
           "source": "에듀진",
-          "published": "2026-07-15T01:47:38.600926+00:00",
+          "published": "2026-07-15T04:45:32.721204+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,7 +38,17 @@
           "title": "2027 한양대 학생부종합전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53445",
           "source": "에듀진",
-          "published": "2026-07-15T01:47:36.703997+00:00",
+          "published": "2026-07-15T04:45:30.698578+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b9e93e4d85e9ece6e9f88ecc52d58292",
+          "title": "대성학원 과목별 실전형 모의고사 '강대모의고사K' 시행.. '실전 감각' '수능형 사고' 강화",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619315",
+          "source": "베리타스알파",
+          "published": "2026-07-15T04:45:27.197775+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -345,10 +355,30 @@
           "title": "2027 호서대 학생부종합 호서인재전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53478",
           "source": "에듀진",
-          "published": "2026-07-15T01:50:10.849919+00:00",
+          "published": "2026-07-15T04:48:08.035446+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "126405b9ee5ba525d463563e8e688f40",
+          "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
+          "source": "에듀진",
+          "published": "2026-07-15T04:48:04.101546+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e4f94edee29e274c4aebdcbe87476391",
+          "title": "[올해 합격 못 하면 큰 일?] 현 체제 끝나는 2027 대입, 하향 지원이 답...",
+          "link": "https://www.naeil.com/news/read/595383?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-15T04:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "91dfc76922fa7f21ff2590c612528494",
@@ -358,7 +388,7 @@
           "published": "2026-07-15T01:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0fb2b7693f9530feae3a5863836fc935",
@@ -815,7 +845,7 @@
           "published": "2026-07-15T01:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "def1fc9f64fbd2db222134d22d1904cd",
@@ -825,7 +855,7 @@
           "published": "2026-07-15T00:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2eff1f1cd88585465ee2b199df6a18f8",
@@ -985,6 +1015,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a16888ec11e28b59860ad685080056de",
+          "title": "수시 지원 전 반드시 확인해야 할 체크리스트",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=109983",
+          "source": "edu.donga.com",
+          "published": "2026-07-15T04:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1cfdf38f5ffd77da93fbfda4dbf37c15",
           "title": "[2027 수시/경동대학교] 취업률 1위에 AI캠퍼스까지… '취업사관학교' 끝...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594485",
@@ -992,7 +1032,7 @@
           "published": "2026-07-15T00:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e07a2e6b85a4f19ab99599bfd055191a",
