@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T19:15:04.429799+00:00",
+  "updated_at": "2026-07-15T21:07:27.264845+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-15T19:00:03.248907+00:00",
+          "published": "2026-07-15T20:52:31.718291+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-15T18:59:57.629721+00:00",
+          "published": "2026-07-15T20:52:26.156869+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
           "source": "에듀진",
-          "published": "2026-07-15T19:02:36.243996+00:00",
+          "published": "2026-07-15T20:55:04.756607+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-15T19:02:31.727638+00:00",
+          "published": "2026-07-15T20:54:59.412639+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -551,6 +551,16 @@
           "is_new": false
         },
         {
+          "id": "535343a79f2de8e0d0c8c01115301531",
+          "title": "인하대 '2027 수시 논술전형 컨퍼런스' 8월8일.. 입결 분석부터 출제교수 특강까지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdGxYTnZZRTY1QnBCUmdsaVVYV08yMXI0QVoxOG40RER1STFTN0FYa3BQMHRXckZQam13amRWeDNLOTNDTXhNalhlQnJWVncwb25kQmR2bFZWS0FJVExLWW5GRGZfTHdZOVpvaA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-08T23:13:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "0813211a02089ac2b07fcfabc4b8bc20",
           "title": "[2027수시특집] '반도체/방산/로봇 첨단AI인재 양성' 국립금오공대 1103명(84.6%) '확대'.. 첨단학과 AX융합학과 반도체소부장전공",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618504",
@@ -566,16 +576,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VLWU2TEFlVDFuaTg5WFpzZElkRkh0cEpld0ZDZ09YUjV2QnRsaWJSWHdiZUc2TzJfR3pTS2RFc2lRYkY4WmNHR3hpbHlsQzhGa3UxMjBQUmV4MVRxVjhOVmZuU1Z3Z0lDVVE?oc=5",
           "source": "에듀진 인터넷 교육신문",
           "published": "2026-07-08T06:22:57+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "535343a79f2de8e0d0c8c01115301531",
-          "title": "인하대 '2027 수시 논술전형 컨퍼런스' 8월8일.. 입결 분석부터 출제교수 특강까지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdGxYTnZZRTY1QnBCUmdsaVVYV08yMXI0QVoxOG40RER1STFTN0FYa3BQMHRXckZQam13amRWeDNLOTNDTXhNalhlQnJWVncwb25kQmR2bFZWS0FJVExLWW5GRGZfTHdZOVpvaA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-07-08T05:54:53+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
