@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T05:23:51.806674+00:00",
+  "updated_at": "2026-07-16T08:15:58.078640+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-16T05:10:51.309904+00:00",
+          "published": "2026-07-16T08:00:22.656781+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-16T05:10:48.107589+00:00",
+          "published": "2026-07-16T08:00:17.953799+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-07-16T02:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
@@ -351,21 +351,41 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "126405b9ee5ba525d463563e8e688f40",
-          "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
+          "id": "2a87d509cbbd1d8f313d8928239f7833",
+          "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-16T05:13:28.776275+00:00",
+          "published": "2026-07-16T08:03:07.946027+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "2a87d509cbbd1d8f313d8928239f7833",
-          "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
+          "id": "b1a077527de56a9962a778fd268b1fd4",
+          "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-16T05:13:24.526909+00:00",
+          "published": "2026-07-16T08:02:49.947236+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "083044ccbc302fca8edb893ae08ab7bf",
+          "title": "[단독] [2027수시] 상위15개대 학종 1만7687명(35.6%) '확대'.. 성대 인하...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=613673",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-16T07:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "126405b9ee5ba525d463563e8e688f40",
+          "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
+          "source": "에듀진",
+          "published": "2026-07-16T05:13:28.776275+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -895,7 +915,7 @@
           "published": "2026-07-16T03:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "09e7de6b97966c7c6d1335773f3d54bd",
@@ -913,6 +933,16 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=109950",
           "source": "edu.donga.com",
           "published": "2026-07-15T00:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "2901d93be7a3b9bc4737c40d0796bf73",
+          "title": "[거인의어깨 입시컨설팅] 2027학년도 연세대 수시등급·지원전략 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSDZIUjRWcHlNYmpVaHBrYmxHWm5MU1NNMWU3RFU1Sjg2MHY5Unp6bnhZTFI4eEFJbklMN0VyRUg1NllIbElkNVhqa2N4SkdSdDZTT082YklLeExw?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-07-14T22:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1259,7 +1289,7 @@
           "published": "2026-07-16T04:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c5ea8ca63b0ec23e77f7d8c1f1b4f726",
