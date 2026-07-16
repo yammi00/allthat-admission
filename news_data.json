@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T02:13:05.030617+00:00",
+  "updated_at": "2026-07-16T05:23:51.806674+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-16T01:57:50.076904+00:00",
+          "published": "2026-07-16T05:10:51.309904+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-16T01:57:41.964441+00:00",
+          "published": "2026-07-16T05:10:48.107589+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d9e76cf92d37eb536ceb3bd366460bac",
+          "title": "[2027 수시/한국기술교육대학교] AI로 맞춤형 학생 학습‧성장 지원… 반...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594730",
+          "source": "news.unn.net",
+          "published": "2026-07-16T02:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0c65c56b6e47f7511847d5c24e59ebd0",
@@ -104,16 +114,6 @@
           "is_new": false
         },
         {
-          "id": "c4a553959851bea7c0c07074bda7e7e4",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-07-10T08:21:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "c334f4222387bd94b929ba6240d3d077",
           "title": "1~3등급 인서울 에너지학과 교과 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53404",
@@ -154,11 +154,11 @@
           "is_new": false
         },
         {
-          "id": "b048981c3d4375ca1d5155286e549ca5",
-          "title": "[2027 7월학평] '변별력 유지' 입시기관 원점수 1등급컷.. 화89~91 언87~88...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618531",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-08T11:46:00+00:00",
+          "id": "c4a553959851bea7c0c07074bda7e7e4",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-08T11:45:22+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "수시 지원자 10명 중 6명 \"정시 준비 안 해\"… 그런데 정시 72%는 수시 탈락생",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53501",
           "source": "에듀진",
-          "published": "2026-07-16T02:00:26.287575+00:00",
+          "published": "2026-07-16T05:13:28.776275+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-16T02:00:20.092523+00:00",
+          "published": "2026-07-16T05:13:24.526909+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -378,7 +378,7 @@
           "published": "2026-07-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ed6444e967062efa0a665b1c20a0c40",
@@ -888,6 +888,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "caedef3085de85115ccbfa878251b5d6",
+          "title": "[2027 수시/상명대학교] 자유전공·초유연 학사제도 기반으로 미래형 교...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594577",
+          "source": "news.unn.net",
+          "published": "2026-07-16T03:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "09e7de6b97966c7c6d1335773f3d54bd",
           "title": "[2027 수시/강남대학교] 사람 성장·사회 변혁을 주도하는 혁신 대학... ...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594520",
@@ -1072,7 +1082,7 @@
           "published": "2026-07-16T00:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a16888ec11e28b59860ad685080056de",
@@ -1129,7 +1139,7 @@
           "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEVIMXFDLVJfdUxfUkpJNk1zOGQtVmdvTGtwLW1NemtRRk11QlBiSmc0QnZmRmRoOFU3N1BrS000RFhGR2JGRDFreGRzMFJjcDl5Skl0YmZIM2pUNVF4WDl5LUQ4MThwdVo5dGdIWHRnbzFzRDJIMkhUbXdCSUJuYnhTbWRieGZ6c21ad2RQbw?oc=5",
           "source": "Naver Blog",
-          "published": "2026-07-08T17:59:25+00:00",
+          "published": "2026-07-08T11:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1241,6 +1251,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "24ddd8b482a302d514e626abd2e74ab1",
+          "title": "&quot;선택과목 폐지·내신 5등급제&quot;… 바뀐 입시, 결국 겨울방학 '기본기'가...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110033",
+          "source": "edu.donga.com",
+          "published": "2026-07-16T04:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "c5ea8ca63b0ec23e77f7d8c1f1b4f726",
           "title": "내신 경쟁 부담 커졌나… SKY 특목고·자사고 입학생 ‘최저’ - 한국대학신문",
