@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T08:15:58.078640+00:00",
+  "updated_at": "2026-07-16T10:37:00.975410+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-16T08:00:22.656781+00:00",
+          "published": "2026-07-16T10:18:10.150545+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-16T08:00:17.953799+00:00",
+          "published": "2026-07-16T10:18:06.049965+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-16T08:03:07.946027+00:00",
+          "published": "2026-07-16T10:21:30.060062+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,17 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-16T08:02:49.947236+00:00",
+          "published": "2026-07-16T10:21:13.829988+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "2c6c2c951d2a36984af6ef03a864d00a",
+          "title": "[단독] [2028대입] 'N수생 배제 재학생 전용' 정시 첫 등장.. 고대489명 서...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619621",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-16T09:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -378,7 +388,7 @@
           "published": "2026-07-16T07:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "126405b9ee5ba525d463563e8e688f40",
