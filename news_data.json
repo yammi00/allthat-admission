@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T02:16:54.918388+00:00",
+  "updated_at": "2026-07-17T06:24:55.315266+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-17T02:01:55.606108+00:00",
+          "published": "2026-07-17T06:10:06.075703+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-17T02:01:51.251933+00:00",
+          "published": "2026-07-17T06:10:02.623326+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-17T02:04:39.329674+00:00",
+          "published": "2026-07-17T06:12:42.777461+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-17T02:04:22.484412+00:00",
+          "published": "2026-07-17T06:12:29.355387+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -378,7 +378,7 @@
           "published": "2026-07-17T01:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2c6c2c951d2a36984af6ef03a864d00a",
@@ -1135,6 +1135,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "25a6b059e6538b1e33cb5210af4de8bf",
+          "title": "[2027 수시/조선대학교] 사람의 힘으로 세운 80년… 학생의 미래 여는 1...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594697",
+          "source": "news.unn.net",
+          "published": "2026-07-17T03:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "49191d8c9658145bc1d60ea935fc36e6",
           "title": "[2027 수시/나사렛대학교] 세계와 소통하는 글로벌 교육… 장애학생 교...",
