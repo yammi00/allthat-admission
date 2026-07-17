@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T06:24:55.315266+00:00",
+  "updated_at": "2026-07-17T10:05:32.910040+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-17T06:10:06.075703+00:00",
+          "published": "2026-07-17T09:50:41.361487+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-17T06:10:02.623326+00:00",
+          "published": "2026-07-17T09:50:37.700377+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-17T06:12:42.777461+00:00",
+          "published": "2026-07-17T09:53:20.299446+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-17T06:12:29.355387+00:00",
+          "published": "2026-07-17T09:53:06.992631+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1143,7 +1143,7 @@
           "published": "2026-07-17T03:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49191d8c9658145bc1d60ea935fc36e6",
