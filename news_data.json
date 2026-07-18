@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T11:11:56.090706+00:00",
+  "updated_at": "2026-07-18T13:13:29.433098+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-18T10:57:06.914930+00:00",
+          "published": "2026-07-18T12:58:35.725796+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-18T10:57:03.322493+00:00",
+          "published": "2026-07-18T12:58:32.432632+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-18T10:59:43.575649+00:00",
+          "published": "2026-07-18T13:01:10.903586+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,10 +375,20 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-18T10:59:30.290502+00:00",
+          "published": "2026-07-18T13:00:58.985534+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2ada773afff49f729ea92028d3c8b83b",
+          "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbDktLXRoRE9UWjRUMWJlcWJCeFI5cGluekY2ekNGNXQ4b1BsY2dWUjB5NlBRaXNDd2Z3dlVrWUgtMDhyOUtfMHBJdklsV2tFdTNZRmdBdlpWZEJ6d244YmRRanl6UQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-18T11:40:45+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5494e72e69145fa5ecfe432aed30ce88",
