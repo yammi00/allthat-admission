@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T04:58:11.549396+00:00",
+  "updated_at": "2026-07-18T07:53:53.218216+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-18T04:43:16.455066+00:00",
+          "published": "2026-07-18T07:38:32.644565+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-18T04:43:12.041029+00:00",
+          "published": "2026-07-18T07:38:27.889740+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +355,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-18T04:45:59.692628+00:00",
+          "published": "2026-07-18T07:41:17.485869+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-18T04:45:42.867542+00:00",
+          "published": "2026-07-18T07:40:59.780161+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -948,6 +948,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "e24d4d40851965fc134aaa838947fa97",
+          "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IQk1YcXJYbm5kcUkxNXE2WGh6MTYyZUxsOHJKVzZGMDV6RDlVdFZnR1Vzc1hOODNXc21FN2labTRQSkJsd21RbnFkUHN5OHVqcWRCMVhiRVNQemhjaEwxdUdpRldoZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-18T06:19:51+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "caedef3085de85115ccbfa878251b5d6",
           "title": "[2027 수시/상명대학교] 자유전공·초유연 학사제도 기반으로 미래형 교...",
