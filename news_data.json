@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:58:31.735976+00:00",
+  "updated_at": "2026-07-20T02:37:05.923704+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-19T22:43:49.594675+00:00",
+          "published": "2026-07-20T02:22:25.797091+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
-          "published": "2026-07-19T22:43:46.219114+00:00",
+          "published": "2026-07-20T02:22:22.782883+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -365,7 +365,7 @@
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
           "source": "에듀진",
-          "published": "2026-07-19T22:46:28.603396+00:00",
+          "published": "2026-07-20T02:25:04.210134+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,10 +375,30 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-19T22:46:14.646378+00:00",
+          "published": "2026-07-20T02:24:51.440890+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3846e802ec01be1963309b4591c138ff",
+          "title": "[추민규의 입시 돋보기] 2027학년도 대입 수시, 의예과 합격 내신 성적대...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/20/2026072080027.html",
+          "source": "edu.chosun.com",
+          "published": "2026-07-20T01:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "62634098ae5456f1544c47aefe589828",
+          "title": "[대입정보] 2028 최상위권 학교 내신관리 매우 중요해진 상황 : 고1 때 학...",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=459763",
+          "source": "www.queen.co.kr",
+          "published": "2026-07-19T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2ada773afff49f729ea92028d3c8b83b",
@@ -848,6 +868,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "e8dc1a5184e9087398445a1d04457e8a",
+          "title": "[2027 수시/건국대학교] 2027 수시 1900명 모집… '인공지능학과' 신설 등...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594482",
+          "source": "news.unn.net",
+          "published": "2026-07-15T07:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "0c66acc0dff46ad1e39429d2c84d9065",
           "title": "[재수 반수 대신 편입 93] 수능대란속 '첨단학과 편입카드' 급부상..'1학...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618733",
@@ -978,6 +1008,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "e49b330deb1a8f9c99f3bbd507cc5f9d",
+          "title": "목동씨사이트학원, 2027학년도 대입 대비 ‘약술형 논술 방학종일반’ ...",
+          "link": "https://www.sentv.co.kr/article/view/sentv202607200064",
+          "source": "www.sentv.co.kr",
+          "published": "2026-07-20T01:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "e24d4d40851965fc134aaa838947fa97",
           "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - 교육을 비추다",
@@ -1185,6 +1225,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "72284f43835ade31ca8bf4a33e5f857d",
+          "title": "[2027 수시/장학금·지원제도] 새내기 대학생이 챙길 장학금·응시료 지...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594623",
+          "source": "news.unn.net",
+          "published": "2026-07-20T00:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "25a6b059e6538b1e33cb5210af4de8bf",
           "title": "[2027 수시/조선대학교] 사람의 힘으로 세운 80년… 학생의 미래 여는 1...",
