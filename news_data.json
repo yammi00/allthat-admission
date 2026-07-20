@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T21:19:44.931624+00:00",
+  "updated_at": "2026-07-20T23:07:10.113177+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-20T21:04:27.715431+00:00",
+          "published": "2026-07-20T22:52:29.057651+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
           "source": "에듀진",
-          "published": "2026-07-20T21:04:20.952870+00:00",
+          "published": "2026-07-20T22:52:23.071378+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,7 +38,7 @@
           "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
           "source": "에듀진",
-          "published": "2026-07-20T21:04:16.237969+00:00",
+          "published": "2026-07-20T22:52:19.271341+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -69,6 +69,16 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
           "source": "에듀진",
           "published": "2026-07-20T02:22:22.782883+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
+          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-16T08:19:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -405,7 +415,7 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-20T21:07:02.571908+00:00",
+          "published": "2026-07-20T22:55:01.312356+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -415,7 +425,7 @@
           "title": "전국진로진학상담교사협의회 '2027 수시모집 파이널 설명회' 성료.. 진로진학 담당교사 300여명 집결",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=619802",
           "source": "베리타스알파",
-          "published": "2026-07-20T21:06:52.488053+00:00",
+          "published": "2026-07-20T22:54:53.830249+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -425,7 +435,7 @@
           "title": "[2027수시특집] 아주대 수시 1501명(70.7%) '확대'.. 3개 첨단학과 체제구축 ‘주목’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=619901",
           "source": "베리타스알파",
-          "published": "2026-07-20T21:06:52.488003+00:00",
+          "published": "2026-07-20T22:54:53.830195+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
