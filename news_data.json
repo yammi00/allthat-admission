@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T06:55:47.071697+00:00",
+  "updated_at": "2026-07-20T10:59:11.000666+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-20T06:40:27.626518+00:00",
+          "published": "2026-07-20T10:44:25.459441+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,17 +28,27 @@
           "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
           "source": "에듀진",
-          "published": "2026-07-20T06:40:19.525481+00:00",
+          "published": "2026-07-20T10:44:20.291229+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a50c8bc8758777190af614fc47d3c4b",
           "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
           "source": "에듀진",
-          "published": "2026-07-20T06:40:14.377743+00:00",
+          "published": "2026-07-20T10:44:16.670076+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "351d8cf895fff493c114ba69aa2c3963",
+          "title": "수능 영어 절대평가되자, ‘불국어’ 풍선효과",
+          "link": "https://n.news.naver.com/mnews/article/005/0001862048?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-07-20T10:11:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -51,7 +61,7 @@
           "published": "2026-07-20T05:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "34cf60965961234fec6b79436567c15f",
@@ -64,9 +74,9 @@
           "is_new": false
         },
         {
-          "id": "c4a553959851bea7c0c07074bda7e7e4",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
+          "id": "e05a156296eaf9dddef588accd60fbd7",
+          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
           "source": "베리타스알파",
           "published": "2026-07-16T08:19:00+00:00",
           "type": "news",
@@ -194,16 +204,6 @@
           "is_new": false
         },
         {
-          "id": "b048981c3d4375ca1d5155286e549ca5",
-          "title": "[2027 7월학평] '변별력 유지' 입시기관 원점수 1등급컷.. 화89~91 언87~88...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618531",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-08T11:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "bedb01caaf2b33ef5d57fc5c2daf3f89",
           "title": "6월 모의평가 서울대 인문 391점·자연 390점 지원 가능",
           "link": "https://www.namdonews.com/news/articleView.html?idxno=916358",
@@ -219,6 +219,16 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=587590",
           "source": "www.cbci.co.kr",
           "published": "2026-07-08T09:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c4a553959851bea7c0c07074bda7e7e4",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-08T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -395,10 +405,30 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-20T06:43:01.835146+00:00",
+          "published": "2026-07-20T10:46:52.490995+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9a63183e985354e1168085b02cbda74c",
+          "title": "전국진로진학상담교사협의회 '2027 수시모집 파이널 설명회' 성료.. 진로진학 담당교사 300여명 집결",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619802",
+          "source": "베리타스알파",
+          "published": "2026-07-20T10:46:44.976450+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "fe77fed5dee4df0a73a787c4e14c3162",
+          "title": "[2027수시특집] 아주대 수시 1501명(70.7%) '확대'.. 3개 첨단학과 체제구축 ‘주목’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619901",
+          "source": "베리타스알파",
+          "published": "2026-07-20T10:46:44.976405+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2a87d509cbbd1d8f313d8928239f7833",
@@ -418,7 +448,7 @@
           "published": "2026-07-20T01:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3846e802ec01be1963309b4591c138ff",
@@ -1256,6 +1286,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "16133d270369f40145c535938d60ace5",
+          "title": "기존 입시제도 ‘마지막 수시’…전략적 접근 필요",
+          "link": "https://n.news.naver.com/mnews/article/028/0002814908?sid=102",
+          "source": "www.hani.co.kr",
+          "published": "2026-07-20T08:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "5b6a2139eea387ebb862f009f99b6b5c",
           "title": "중앙대 수시 2862명 모집… 학생부종합 최다 선발, 논술 창의형 신설[중...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594380",
@@ -1263,7 +1303,7 @@
           "published": "2026-07-20T06:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9cf9034908c72ab9bc6ce3f11a5e3842",
@@ -1273,7 +1313,7 @@
           "published": "2026-07-20T06:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "72284f43835ade31ca8bf4a33e5f857d",
