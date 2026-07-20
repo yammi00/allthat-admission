@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T02:37:05.923704+00:00",
+  "updated_at": "2026-07-20T06:55:47.071697+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-20T02:22:25.797091+00:00",
+          "published": "2026-07-20T06:40:27.626518+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a57482da5ff522040ac33c7817b1ac69",
+          "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
+          "source": "에듀진",
+          "published": "2026-07-20T06:40:19.525481+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9a50c8bc8758777190af614fc47d3c4b",
+          "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
+          "source": "에듀진",
+          "published": "2026-07-20T06:40:14.377743+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "28d063679a910585eacce5ebb43be1d9",
+          "title": "[한국기술교육대, 2027 수시 특집] 취업률 82.8% 전국 1위, AI로 학생 맞...",
+          "link": "https://dhnews.co.kr/news/view/1065591378220945",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-20T05:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "34cf60965961234fec6b79436567c15f",
@@ -361,6 +391,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "b1a077527de56a9962a778fd268b1fd4",
+          "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
+          "source": "에듀진",
+          "published": "2026-07-20T06:43:01.835146+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "2a87d509cbbd1d8f313d8928239f7833",
           "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
@@ -371,14 +411,14 @@
           "is_new": false
         },
         {
-          "id": "b1a077527de56a9962a778fd268b1fd4",
-          "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
-          "source": "에듀진",
-          "published": "2026-07-20T02:24:51.440890+00:00",
+          "id": "c175e2ce7febfba1333b7c94d91e591a",
+          "title": "[이종환의 입시큐] 2027 서강대·성균관대·한양대 수시 지원 전략, 전형의 변화를 먼저 읽어라 - 조선에듀",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG92ejZFRmJwdW5jRms5dU9ab0JlQmpscHJ0dFVkbXpaSVVnQ3p1cXI0ZVJpRjhvSUZ6aFE4b0RsMks5aHdRNHhWa0NnTklabnhqbHpYbVpfQ0lsNnl3UkRuVEd2Q3MwRGxfRXBVNnBxZVViZ0VrYm5PYm5LYmVZN1kwdTNXVjA?oc=5",
+          "source": "조선에듀",
+          "published": "2026-07-20T01:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "3846e802ec01be1963309b4591c138ff",
@@ -388,7 +428,7 @@
           "published": "2026-07-20T01:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "62634098ae5456f1544c47aefe589828",
@@ -398,7 +438,7 @@
           "published": "2026-07-19T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ada773afff49f729ea92028d3c8b83b",
@@ -666,16 +706,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jX0RnYThJRlhYa3BicU92RUtPcnF6aDA2UjRBcTVVV1ExcFJnRTZaRV9iNmdOVzctY2J3Wlk2WnlwUTdDUzlEQjJieUZYQ3IzVVBFTzJjdmtmZDlORkZBdEF5UFlPYTVQSnc?oc=5",
           "source": "에듀진 인터넷 교육신문",
           "published": "2026-07-09T06:57:57+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "535343a79f2de8e0d0c8c01115301531",
-          "title": "인하대 '2027 수시 논술전형 컨퍼런스' 8월8일.. 입결 분석부터 출제교수 특강까지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdGxYTnZZRTY1QnBCUmdsaVVYV08yMXI0QVoxOG40RER1STFTN0FYa3BQMHRXckZQam13amRWeDNLOTNDTXhNalhlQnJWVncwb25kQmR2bFZWS0FJVExLWW5GRGZfTHdZOVpvaA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-07-08T23:13:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1016,7 +1046,7 @@
           "published": "2026-07-20T01:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e24d4d40851965fc134aaa838947fa97",
@@ -1226,6 +1256,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "5b6a2139eea387ebb862f009f99b6b5c",
+          "title": "중앙대 수시 2862명 모집… 학생부종합 최다 선발, 논술 창의형 신설[중...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=594380",
+          "source": "news.unn.net",
+          "published": "2026-07-20T06:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "9cf9034908c72ab9bc6ce3f11a5e3842",
+          "title": "광진구, 8월 대입 수시 집중 지원…설명회·컨설팅·특별상담 운영",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=710828",
+          "source": "www.newstnt.com",
+          "published": "2026-07-20T06:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "72284f43835ade31ca8bf4a33e5f857d",
           "title": "[2027 수시/장학금·지원제도] 새내기 대학생이 챙길 장학금·응시료 지...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594623",
@@ -1233,7 +1283,7 @@
           "published": "2026-07-20T00:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "25a6b059e6538b1e33cb5210af4de8bf",
