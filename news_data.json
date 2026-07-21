@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T02:15:00.444423+00:00",
+  "updated_at": "2026-07-21T05:40:55.585424+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-21T01:59:59.818985+00:00",
+          "published": "2026-07-21T05:26:05.876641+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
           "source": "에듀진",
-          "published": "2026-07-21T01:59:52.719777+00:00",
+          "published": "2026-07-21T05:26:02.515027+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,10 +38,20 @@
           "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
           "source": "에듀진",
-          "published": "2026-07-21T01:59:48.664197+00:00",
+          "published": "2026-07-21T05:25:58.800570+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5ffaf62e175acc3e89b6bd891a8f5d4e",
+          "title": "[삼육대, 2027 수시 특집] 논술전형 대폭↑…약학과도 ‘약술형 논술’...",
+          "link": "https://dhnews.co.kr/news/view/1065580507601736",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-21T02:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "40fe653ec1db823fdc8166eb53d86070",
@@ -51,7 +61,7 @@
           "published": "2026-07-21T01:59:47.305453+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "351d8cf895fff493c114ba69aa2c3963",
@@ -425,17 +435,17 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-21T02:02:34.515838+00:00",
+          "published": "2026-07-21T05:28:40.378336+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "a1804a34c7b699a6240c1493240155e0",
-          "title": "2027 동국대 WISE 학생부종합 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53524",
-          "source": "에듀진",
-          "published": "2026-07-21T02:02:27.500450+00:00",
+          "id": "390e0febf6b5dc5713413617258445d5",
+          "title": "[2027학년도 수시 특징] 수도권 학생부종합 44%, 비수도권은 학생부교과 67.9% 가장 많아 - 교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtT2ZkZG5adnQ1a2NUdjJmNGNWZkJaR29zUzRMdWZkY0dXc1lVUDFDZS1hUkpOVVpfak1ielVTT1FoalBKODh1dEZKNlhsR28zMnE3TjNIVHhXdDVVbEhocEFIMUFFaVk?oc=5",
+          "source": "교수신문",
+          "published": "2026-07-21T04:50:37+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -448,7 +458,7 @@
           "published": "2026-07-21T02:02:25.306067+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "30ea0fee5b27c4a55b852b4ad3ed7c90",
@@ -458,7 +468,7 @@
           "published": "2026-07-21T01:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a63183e985354e1168085b02cbda74c",
@@ -491,9 +501,9 @@
           "is_new": false
         },
         {
-          "id": "c175e2ce7febfba1333b7c94d91e591a",
+          "id": "4c35891ebcad397578ff10911549b7ed",
           "title": "[이종환의 입시큐] 2027 서강대·성균관대·한양대 수시 지원 전략, 전형의 변화를 먼저 읽어라 - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG92ejZFRmJwdW5jRms5dU9ab0JlQmpscHJ0dFVkbXpaSVVnQ3p1cXI0ZVJpRjhvSUZ6aFE4b0RsMks5aHdRNHhWa0NnTklabnhqbHpYbVpfQ0lsNnl3UkRuVEd2Q3MwRGxfRXBVNnBxZVViZ0VrYm5PYm5LYmVZN1kwdTNXVjA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kVlRSN1NaWTVyaElnZFJIODA4UWRQWThndDljS3hmYWdYd0ZCYzVhXzlLRWg2ZkhLdWZVUW4tQWota3hqaWlGUE5Od05JalczUlZrZlVOT293RDdwb0gzbmxycEFZM2Ryck4wNVU0Yw?oc=5",
           "source": "조선에듀",
           "published": "2026-07-20T01:12:00+00:00",
           "type": "news",
@@ -1126,7 +1136,7 @@
           "published": "2026-07-21T01:47:15+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e49b330deb1a8f9c99f3bbd507cc5f9d",
@@ -1353,7 +1363,7 @@
           "published": "2026-07-21T02:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bfb66d1368c72570ead07b873e30ab6b",
@@ -1363,7 +1373,7 @@
           "published": "2026-07-21T02:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5618ae580440d13ea306fef18514bc0a",
@@ -1373,7 +1383,7 @@
           "published": "2026-07-21T01:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "16133d270369f40145c535938d60ace5",
