@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T08:28:09.646772+00:00",
+  "updated_at": "2026-07-21T11:58:25.253932+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-21T08:13:02.253999+00:00",
+          "published": "2026-07-21T11:43:25.337472+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,20 +28,20 @@
           "title": "2027 경희대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
           "source": "에듀진",
-          "published": "2026-07-21T08:12:58.218339+00:00",
+          "published": "2026-07-21T11:43:21.149152+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bb9b9c17532ac0bb0f67e6544e6d6ef5",
-          "title": "[단독] [2027 7월학평] 입시기관 등급컷 적중률.. 이투스 2개 '최다' 김영일/대성/EBS/메가/유웨이/진학사 각 1개",
+          "title": "[단독] [2027 7월학평] 입시기관 등급컷 적중률.. 이투스 2개 '최다' 김영...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=620044",
-          "source": "베리타스알파",
-          "published": "2026-07-21T08:12:55.213016+00:00",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-21T06:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a39cb9020ed856b22202b0901f3e715",
@@ -51,7 +51,7 @@
           "published": "2026-07-21T06:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a57482da5ff522040ac33c7817b1ac69",
@@ -460,6 +460,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "74a39041a167d1fc49d6fba37fae6133",
+          "title": "[입시 톡톡] 2027학년도 대입 의예과 지원 전략",
+          "link": "https://n.news.naver.com/mnews/article/082/0001390682?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-07-21T09:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "b1a077527de56a9962a778fd268b1fd4",
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
