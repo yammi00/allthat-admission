@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T23:07:10.113177+00:00",
+  "updated_at": "2026-07-21T02:15:00.444423+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-20T22:52:29.057651+00:00",
+          "published": "2026-07-21T01:59:59.818985+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
           "source": "에듀진",
-          "published": "2026-07-20T22:52:23.071378+00:00",
+          "published": "2026-07-21T01:59:52.719777+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,10 +38,20 @@
           "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
           "source": "에듀진",
-          "published": "2026-07-20T22:52:19.271341+00:00",
+          "published": "2026-07-21T01:59:48.664197+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "40fe653ec1db823fdc8166eb53d86070",
+          "title": "메가스터디교육 김영편입 7월 편입시험 모의고사 실시.. 전국캠퍼스/온라인 응시 가능",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619872",
+          "source": "베리타스알파",
+          "published": "2026-07-21T01:59:47.305453+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "351d8cf895fff493c114ba69aa2c3963",
@@ -415,10 +425,40 @@
           "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
           "source": "에듀진",
-          "published": "2026-07-20T22:55:01.312356+00:00",
+          "published": "2026-07-21T02:02:34.515838+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a1804a34c7b699a6240c1493240155e0",
+          "title": "2027 동국대 WISE 학생부종합 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53524",
+          "source": "에듀진",
+          "published": "2026-07-21T02:02:27.500450+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2be0da82461b289b0ff9084e949fa780",
+          "title": "인하대 2027수시집중 유선상담 8월24일부터 28일까지.. ‘입학사정관과 전화 상담’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619936",
+          "source": "베리타스알파",
+          "published": "2026-07-21T02:02:25.306067+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "30ea0fee5b27c4a55b852b4ad3ed7c90",
+          "title": "[성신여대, 2027 수시 특집] 2027 첨단분야 모집 대폭 확대, ‘융합AI반도...",
+          "link": "https://dhnews.co.kr/news/view/1065574709932058",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-21T01:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9a63183e985354e1168085b02cbda74c",
@@ -1079,6 +1119,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "d3d6990130a17db0ba53beb8334d9e8b",
+          "title": "[2027 수시 미니인터뷰/경기대학교] 김현준 입학처장 “전공자율선택제 유지… 학생 강점 살린 다양한 전형 운영” - 한국대학신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UzM1Wms2eVVLNWEyVUpqUm5VNDBUQ3JsSmpZY1RVR3RaQTNtQ2NESEJmMDdQZ29hcGgya0xEZzFJeFk4OHlDbEJhOWVkSm1rdk9HTC1vUmpyZm9TdHFZVG42azY2UQ?oc=5",
+          "source": "한국대학신문",
+          "published": "2026-07-21T01:47:15+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "e49b330deb1a8f9c99f3bbd507cc5f9d",
           "title": "목동씨사이트학원, 2027학년도 대입 대비 ‘약술형 논술 방학종일반’ ...",
           "link": "https://www.sentv.co.kr/article/view/sentv202607200064",
@@ -1295,6 +1345,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "82ad59773e77d2d4cb74a08730700a39",
+          "title": "수시 원서접수 약 50일 전…지원 전략 위한 5가지 체크포인트",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110131",
+          "source": "edu.donga.com",
+          "published": "2026-07-21T02:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "bfb66d1368c72570ead07b873e30ab6b",
+          "title": "[서울예대, 2027 수시 특집] 서울예대에서 시작된 한 사람의 창작 K-컬처...",
+          "link": "https://dhnews.co.kr/news/view/1065578434264901",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-21T02:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5618ae580440d13ea306fef18514bc0a",
+          "title": "리안헤어, 4개 대학 ‘리안학과’ 2027학년도 수시모집",
+          "link": "http://www.lawissue.co.kr/view.php?ud=2026072110094956169aeda69934_12",
+          "source": "www.lawissue.co.kr",
+          "published": "2026-07-21T01:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "16133d270369f40145c535938d60ace5",
           "title": "기존 입시제도 ‘마지막 수시’…전략적 접근 필요",
