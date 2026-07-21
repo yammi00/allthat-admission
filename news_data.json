@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T05:40:55.585424+00:00",
+  "updated_at": "2026-07-21T08:28:09.646772+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-21T05:26:05.876641+00:00",
+          "published": "2026-07-21T08:13:02.253999+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a3b15e4731d259ab3106cec62449de7a",
+          "title": "2027 경희대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
+          "source": "에듀진",
+          "published": "2026-07-21T08:12:58.218339+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bb9b9c17532ac0bb0f67e6544e6d6ef5",
+          "title": "[단독] [2027 7월학평] 입시기관 등급컷 적중률.. 이투스 2개 '최다' 김영일/대성/EBS/메가/유웨이/진학사 각 1개",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620044",
+          "source": "베리타스알파",
+          "published": "2026-07-21T08:12:55.213016+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9a39cb9020ed856b22202b0901f3e715",
+          "title": "“수능 영어, 美 대학교 1학년 수준…교과서보다 최대 5학년 어려워”",
+          "link": "https://n.news.naver.com/mnews/article/081/0003663058?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-07-21T06:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a57482da5ff522040ac33c7817b1ac69",
@@ -51,7 +81,7 @@
           "published": "2026-07-21T02:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "40fe653ec1db823fdc8166eb53d86070",
@@ -448,7 +478,7 @@
           "published": "2026-07-21T04:50:37+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2be0da82461b289b0ff9084e949fa780",
@@ -1481,6 +1511,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=618873",
           "source": "www.veritas-a.com",
           "published": "2026-07-13T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a830537937b95ba9c05f3fe8d9abd490",
+          "title": "성균관대 2027 수시 입시설명회 8월 9일 전국 순회… 계약학과·코엑스 설명회도 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VbTluNTZzWmxILTV2Rk1mWlF3T2VDMnZSTktKS21XOHNwcUQ0VjRrSFN4NmFMeVQ1V0NxYWQwT0V3RU5HeF83ZHl6a1FuWmZ6cUlOUjF0ZjdJZmZJeEVWOGZBTkw3Zw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-11T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
