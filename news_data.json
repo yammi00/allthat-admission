@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T23:02:32.395387+00:00",
+  "updated_at": "2026-07-22T02:13:40.352123+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-21T22:47:40.634289+00:00",
+          "published": "2026-07-22T01:58:43.019608+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 경희대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
           "source": "에듀진",
-          "published": "2026-07-21T22:47:36.758314+00:00",
+          "published": "2026-07-22T01:58:39.236651+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e8d330f3f0f7da7eb772b283bddec734",
+          "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
+          "source": "에듀진",
+          "published": "2026-07-22T01:58:37.642657+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bb9b9c17532ac0bb0f67e6544e6d6ef5",
@@ -460,6 +470,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "f9e3420e25332cb27e05eed38d90fc6e",
+          "title": "2027 연세대 미래 학생부교과 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53551",
+          "source": "에듀진",
+          "published": "2026-07-22T02:01:11.595246+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3b16c71ded2f4c4d94109786a236bd81",
+          "title": "[2027 대학별 수시 분석] 숙명여대 | 교과전형 서류 평가 도입 최저 기준...",
+          "link": "https://www.naeil.com/news/read/596132?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-22T01:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0ad37d749d39b61d40c1927ddfd1ef8d",
+          "title": "[삼육대] 논술전형 대폭 확대… 학생부 성적 없이 '논술 100%' 선발",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=207919",
+          "source": "www.kyosu.net",
+          "published": "2026-07-21T23:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "74a39041a167d1fc49d6fba37fae6133",
           "title": "[입시 톡톡] 2027학년도 대입 의예과 지원 전략",
@@ -1028,6 +1068,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "ac80299bd1198f5c8dd1919c5c9a8c29",
+          "title": "[2027 대학별 수시 분석] 숭실대 | SSU미래인재전형(서류형) 신설 교과·...",
+          "link": "https://www.naeil.com/news/read/596130?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-22T01:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "e8dc1a5184e9087398445a1d04457e8a",
           "title": "[2027 수시/건국대학교] 2027 수시 1900명 모집… '인공지능학과' 신설 등...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594482",
@@ -1168,6 +1218,26 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "c6204cd8c3540c49ece53c25c0cbbe9e",
+          "title": "[강남대] 2027학년도 수시 1,053명 선발…논술전형으로 309명 모집",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=207871",
+          "source": "www.kyosu.net",
+          "published": "2026-07-22T00:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "33cba8c732b876ef065cb5d1c299b8a2",
+          "title": "[한국기술교육대] 6개까지 복수 지원 가능, 수능최저 '일반전형 공학·I...",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=207838",
+          "source": "www.kyosu.net",
+          "published": "2026-07-21T23:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d3d6990130a17db0ba53beb8334d9e8b",
           "title": "[2027 수시 미니인터뷰/경기대학교] 김현준 입학처장 “전공자율선택제 유지… 학생 강점 살린 다양한 전형 운영” - 한국대학신문",
@@ -1395,6 +1465,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "aa5cc965032316824d36824114e598ca",
+          "title": "대학저널, ‘한 권으로 끝내는 2027학년도 수시모집’ 책자 발간",
+          "link": "https://dhnews.co.kr/news/view/1065575311635831",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-22T01:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ec18d979c2b84bff928790076aa27962",
+          "title": "[가톨릭관동대, 2027 수시 특집] 수시 1671명 선발…면접 없는 학생부 중...",
+          "link": "https://dhnews.co.kr/news/view/1065572919430416",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-22T00:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5e6497be0b74192a3586cf27b2a0683d",
+          "title": "[조선대] 지역의사전형, 학생부교과 19명 선발…간호학과+조선간호대 통...",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=207943",
+          "source": "www.kyosu.net",
+          "published": "2026-07-21T23:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "82ad59773e77d2d4cb74a08730700a39",
           "title": "수시 원서접수 약 50일 전…지원 전략 위한 5가지 체크포인트",
