@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T05:36:21.952647+00:00",
+  "updated_at": "2026-07-22T08:28:26.469329+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-22T05:21:44.662980+00:00",
+          "published": "2026-07-22T08:13:47.314112+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "e8d330f3f0f7da7eb772b283bddec734",
+          "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
+          "source": "에듀진",
+          "published": "2026-07-22T08:13:45.064619+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,16 +39,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
           "source": "에듀진",
           "published": "2026-07-22T05:21:42.640084+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e8d330f3f0f7da7eb772b283bddec734",
-          "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
-          "source": "에듀진",
-          "published": "2026-07-22T05:21:40.926663+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,17 @@
           "title": "2027 동국대 WISE 학생부교과 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53555",
           "source": "에듀진",
-          "published": "2026-07-22T05:24:10.453059+00:00",
+          "published": "2026-07-22T08:16:21.442902+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "42f6135e3bbc57c764b34283d0c642a2",
+          "title": "[단독] [2027수시] 한의대 지역인재 10개교 287명 ‘6명 증가’.. 우석대 2명, 동대(WISE) 4명 '증가'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620288",
+          "source": "베리타스알파",
+          "published": "2026-07-22T08:16:09.518447+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -488,17 +498,7 @@
           "published": "2026-07-22T04:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
-          "published": "2026-07-22T02:04:13+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3b16c71ded2f4c4d94109786a236bd81",
@@ -509,6 +509,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2c417b034762f94f648373b184aafde6",
+          "title": "[종로구정] “대입 첫 단추, 종로구에서 꿴다”… 2027학년도 수시전략 설명회 - 서울시정일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSlpkeXMtbXFvaWJ2RFhmQzh3dlFObW5EQjRpYWtPeDNKOXNtWnRuVUVPX1dRZ0M1enFoRHFRX2ZBNEg3QkJJaFlockpVNXhZT2o3dUhyR0tCN1ltVXhJaWZZZFVzVUttVFFNaE83b9IBb0FVX3lxTE5BSlpkeXMtbXFvaWJ2RFhmQzh3dlFObW5EQjRpYWtPeDNKOXNtWnRuVUVPX1dRZ0M1enFoRHFRX2ZBNEg3QkJJaFlockpVNXhZT2o3dUhyR0tCN1ltVXhJaWZZZFVzVUttVFFNaE83bw?oc=5",
+          "source": "서울시정일보",
+          "published": "2026-07-22T01:33:26+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0ad37d749d39b61d40c1927ddfd1ef8d",
