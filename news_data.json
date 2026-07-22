@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T02:13:40.352123+00:00",
+  "updated_at": "2026-07-22T05:36:21.952647+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-22T01:58:43.019608+00:00",
+          "published": "2026-07-22T05:21:44.662980+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 경희대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
           "source": "에듀진",
-          "published": "2026-07-22T01:58:39.236651+00:00",
+          "published": "2026-07-22T05:21:42.640084+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -38,10 +38,10 @@
           "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
           "source": "에듀진",
-          "published": "2026-07-22T01:58:37.642657+00:00",
+          "published": "2026-07-22T05:21:40.926663+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bb9b9c17532ac0bb0f67e6544e6d6ef5",
@@ -471,11 +471,31 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "f9e3420e25332cb27e05eed38d90fc6e",
-          "title": "2027 연세대 미래 학생부교과 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53551",
+          "id": "00d76fb4b6e907b8a3caab4b228ee25b",
+          "title": "2027 동국대 WISE 학생부교과 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53555",
           "source": "에듀진",
-          "published": "2026-07-22T02:01:11.595246+00:00",
+          "published": "2026-07-22T05:24:10.453059+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d708f979d9e3337e0f25e7abcb93351b",
+          "title": "[2028 체육입시 키워드 ‘다양성’] 스포츠 시장 성장 따라 체육계열 진...",
+          "link": "https://www.naeil.com/news/read/596061?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-22T04:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "705e214039aa070eac1f6501b0ae6b26",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
+          "source": "잡포스트",
+          "published": "2026-07-22T02:04:13+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -488,7 +508,7 @@
           "published": "2026-07-22T01:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ad37d749d39b61d40c1927ddfd1ef8d",
@@ -498,7 +518,7 @@
           "published": "2026-07-21T23:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "74a39041a167d1fc49d6fba37fae6133",
@@ -1075,7 +1095,7 @@
           "published": "2026-07-22T01:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e8dc1a5184e9087398445a1d04457e8a",
@@ -1226,7 +1246,7 @@
           "published": "2026-07-22T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "33cba8c732b876ef065cb5d1c299b8a2",
@@ -1236,7 +1256,7 @@
           "published": "2026-07-21T23:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3d6990130a17db0ba53beb8334d9e8b",
@@ -1473,7 +1493,7 @@
           "published": "2026-07-22T01:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ec18d979c2b84bff928790076aa27962",
@@ -1483,7 +1503,7 @@
           "published": "2026-07-22T00:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5e6497be0b74192a3586cf27b2a0683d",
@@ -1493,7 +1513,7 @@
           "published": "2026-07-21T23:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "82ad59773e77d2d4cb74a08730700a39",
