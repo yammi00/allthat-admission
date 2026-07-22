@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T08:28:26.469329+00:00",
+  "updated_at": "2026-07-22T11:58:52.161625+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-22T08:13:47.314112+00:00",
+          "published": "2026-07-22T11:43:43.562495+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
           "source": "에듀진",
-          "published": "2026-07-22T08:13:45.064619+00:00",
+          "published": "2026-07-22T11:43:40.445486+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 WISE 학생부교과 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53555",
           "source": "에듀진",
-          "published": "2026-07-22T08:16:21.442902+00:00",
+          "published": "2026-07-22T11:46:23.781212+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,10 +485,10 @@
           "title": "[단독] [2027수시] 한의대 지역인재 10개교 287명 ‘6명 증가’.. 우석대 2명, 동대(WISE) 4명 '증가'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=620288",
           "source": "베리타스알파",
-          "published": "2026-07-22T08:16:09.518447+00:00",
+          "published": "2026-07-22T11:46:08.301502+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d708f979d9e3337e0f25e7abcb93351b",
@@ -518,7 +518,7 @@
           "published": "2026-07-22T01:33:26+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ad37d749d39b61d40c1927ddfd1ef8d",
