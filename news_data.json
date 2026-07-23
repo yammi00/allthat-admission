@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T02:21:18.787811+00:00",
+  "updated_at": "2026-07-23T06:39:57.464267+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-23T02:06:18.636681+00:00",
+          "published": "2026-07-23T06:25:06.253753+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,11 +471,31 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "fecb8d89d0ee0c7c127914d868e92e9c",
-          "title": "2027 가톨릭대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53574",
+          "id": "fea5d8ad042b1b80aed1e6774e6a06f4",
+          "title": "2027 한양대 ERICA 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53553",
           "source": "에듀진",
-          "published": "2026-07-23T02:08:45.279751+00:00",
+          "published": "2026-07-23T06:27:30.824031+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8e586f279d7ecc6aac6f982f56a4fe0e",
+          "title": "고려대-경희대 공동연구팀 아시아 기대수명 분석.. '고소득 지역 84.1세...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620304",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-23T04:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "13214eea7ebc432c98247db091df081d",
+          "title": "마지막 선택과목형 수능 앞둔 고3 상담 열기… '2027 수시박람회' 개막[...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=595100",
+          "source": "news.unn.net",
+          "published": "2026-07-23T02:50:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1165,6 +1185,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "c830c8f3da6e4cd77ecdba6821ab4d20",
+          "title": "영주국유림관리소, 가을철 산불 대비 산불진화용수시설 &quot;취수정&quot; 안전점검 실시 - 산불진화용수 공급체계 점검과",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771885",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-23T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "270bb97c030069e504498ba363d14f41",
           "title": "[보도참고자료] 국가교육과정 수립&middot;변경 관련 의결 결과",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771184",
@@ -1256,7 +1287,7 @@
           "published": "2026-07-23T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6204cd8c3540c49ece53c25c0cbbe9e",
