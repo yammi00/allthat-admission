@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:10:19.271929+00:00",
+  "updated_at": "2026-07-23T02:21:18.787811+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-22T22:55:46.175432+00:00",
+          "published": "2026-07-23T02:06:18.636681+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
           "source": "에듀진",
-          "published": "2026-07-22T22:55:44.270828+00:00",
+          "published": "2026-07-23T02:06:15.324740+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,14 +471,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "00d76fb4b6e907b8a3caab4b228ee25b",
-          "title": "2027 동국대 WISE 학생부교과 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53555",
+          "id": "fecb8d89d0ee0c7c127914d868e92e9c",
+          "title": "2027 가톨릭대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53574",
           "source": "에듀진",
-          "published": "2026-07-22T22:58:17.703493+00:00",
+          "published": "2026-07-23T02:08:45.279751+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "42f6135e3bbc57c764b34283d0c642a2",
@@ -1248,6 +1248,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "2174a3969bb8efc992a33c6de864f9c9",
+          "title": "[유성룡의 입시 포인트] 숙명여자대학교 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/21/2026072180040.html",
+          "source": "edu.chosun.com",
+          "published": "2026-07-23T00:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "c6204cd8c3540c49ece53c25c0cbbe9e",
           "title": "[강남대] 2027학년도 수시 1,053명 선발…논술전형으로 309명 모집",
