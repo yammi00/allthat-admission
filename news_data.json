@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T06:39:57.464267+00:00",
+  "updated_at": "2026-07-23T10:28:56.008160+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -14,14 +14,24 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-07-23T06:25:06.253753+00:00",
+          "id": "f70ff31f3a4262ac8c085dc1727f43cb",
+          "title": "킬러문항 없애려다 ‘난이도 참사’… ‘준킬러’ 유탄 맞은 중위권",
+          "link": "https://n.news.naver.com/mnews/article/005/0001862781?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-07-23T10:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "da05b84f06f3e2b9c3c5a268e892515a",
+          "title": "[단독] 한국전통문화대 2026입결.. 정시 수능평균 보존과학 1.5등급 '최고...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620437",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-23T08:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e8d330f3f0f7da7eb772b283bddec734",
@@ -475,7 +485,27 @@
           "title": "2027 한양대 ERICA 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53553",
           "source": "에듀진",
-          "published": "2026-07-23T06:27:30.824031+00:00",
+          "published": "2026-07-23T10:16:18.125984+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "866bc459fcf656abd6c84662cd9be519",
+          "title": "상지대 코엑스서 2027학년도 수시모집 입학정보 제공",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620610",
+          "source": "베리타스알파",
+          "published": "2026-07-23T10:16:16.729121+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3b009c62910093930e3547ac40c41a37",
+          "title": "AI 시대, 수능 봐야 하나요?…입시 판도 바꾸는 인공지능",
+          "link": "https://n.news.naver.com/mnews/article/008/0005390178?sid=104",
+          "source": "www.mt.co.kr",
+          "published": "2026-07-23T09:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -488,7 +518,7 @@
           "published": "2026-07-23T04:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "13214eea7ebc432c98247db091df081d",
@@ -498,7 +528,7 @@
           "published": "2026-07-23T02:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42f6135e3bbc57c764b34283d0c642a2",
@@ -1193,7 +1223,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "270bb97c030069e504498ba363d14f41",
@@ -1536,6 +1566,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "e5a10e4b4a4ab84e7905e65c37356b0d",
+          "title": "안양대 “수험생 맞춤 합격 전략 제시” 수시 입학상담 총력",
+          "link": "https://n.news.naver.com/mnews/article/666/0000116360?sid=102",
+          "source": "www.kyeonggi.com",
+          "published": "2026-07-23T07:59:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "aa5cc965032316824d36824114e598ca",
           "title": "대학저널, ‘한 권으로 끝내는 2027학년도 수시모집’ 책자 발간",
