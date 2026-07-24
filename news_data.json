@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T23:05:24.761804+00:00",
+  "updated_at": "2026-07-24T02:14:32.402728+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -13,6 +13,16 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-07-24T02:01:40.125924+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "f70ff31f3a4262ac8c085dc1727f43cb",
           "title": "킬러문항 없애려다 ‘난이도 참사’… ‘준킬러’ 유탄 맞은 중위권",
@@ -485,7 +495,7 @@
           "title": "2027 한양대 ERICA 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53553",
           "source": "에듀진",
-          "published": "2026-07-23T22:52:43.323320+00:00",
+          "published": "2026-07-24T02:04:06.985084+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1566,6 +1576,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "e843b0487358b55712f620fafb21c7f9",
+          "title": "성신여대, '2027학년도 수시 대학입학정보박람회' 참가... 맞춤형 입학상...",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=127555",
+          "source": "www.popcornnews.net",
+          "published": "2026-07-24T01:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "e5a10e4b4a4ab84e7905e65c37356b0d",
           "title": "안양대 “수험생 맞춤 합격 전략 제시” 수시 입학상담 총력",
