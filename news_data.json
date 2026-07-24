@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T06:35:31.023800+00:00",
+  "updated_at": "2026-07-24T10:25:03.079435+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-24T06:20:34.408657+00:00",
+          "published": "2026-07-24T10:10:23.458183+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,17 @@
           "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
           "source": "에듀진",
-          "published": "2026-07-24T06:23:08.933595+00:00",
+          "published": "2026-07-24T10:12:54.390383+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "de12abe53d3b959b765c5f597ef113e9",
+          "title": "[단독] 가톨릭대 2027수시 지원전략 '합격가이드' 공개.. '입결부터 면접문항 합격사례까지 총망라'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620729",
+          "source": "베리타스알파",
+          "published": "2026-07-24T10:12:47.148094+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -508,7 +518,7 @@
           "published": "2026-07-24T06:23:00.157701+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ddbbe2dd81520f14a5015bfd3c73dfae",
@@ -518,7 +528,7 @@
           "published": "2026-07-24T05:54:55+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "866bc459fcf656abd6c84662cd9be519",
@@ -1253,7 +1263,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c830c8f3da6e4cd77ecdba6821ab4d20",
@@ -1358,7 +1368,7 @@
           "published": "2026-07-24T04:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2174a3969bb8efc992a33c6de864f9c9",
@@ -1635,7 +1645,7 @@
           "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e5a10e4b4a4ab84e7905e65c37356b0d",
