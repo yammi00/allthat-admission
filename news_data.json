@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T02:14:32.402728+00:00",
+  "updated_at": "2026-07-24T06:35:31.023800+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-24T02:01:40.125924+00:00",
+          "published": "2026-07-24T06:20:34.408657+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f70ff31f3a4262ac8c085dc1727f43cb",
@@ -491,14 +491,34 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "fea5d8ad042b1b80aed1e6774e6a06f4",
-          "title": "2027 한양대 ERICA 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53553",
+          "id": "002231a16e6d7e639c0813ecf315bcd5",
+          "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
           "source": "에듀진",
-          "published": "2026-07-24T02:04:06.985084+00:00",
+          "published": "2026-07-24T06:23:08.933595+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "2bdc8703df52a1f5ee65316c6d5ae700",
+          "title": "[2027수시박람회] 동아대 '동아대~쵸베리구~'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620858",
+          "source": "베리타스알파",
+          "published": "2026-07-24T06:23:00.157701+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ddbbe2dd81520f14a5015bfd3c73dfae",
+          "title": "[수시 특집] 2027학년도 한국외대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tbWxKUTFTVnZNYTB6VnZxUXJOaE01NXdUUVhzMl9id3BFaDRKcVhsd1RsaFBUano2SkowUzNkZWFhLUpsWUotMk9OdERoWkh5X3NvVGJCOVhWTjBpYmw2OG1TZEdTVno1ZEE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-07-24T05:54:55+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "866bc459fcf656abd6c84662cd9be519",
@@ -1225,6 +1245,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "f64750a3143a7aa660a5d5c1a35581e0",
+          "title": "교육부, 한&middot;중&middot;일 예비교사 세계시민교육 수업연구 발표회 개최",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772071",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-24T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c830c8f3da6e4cd77ecdba6821ab4d20",
           "title": "영주국유림관리소, 가을철 산불 대비 산불진화용수시설 &quot;취수정&quot; 안전점검 실시 - 산불진화용수 공급체계 점검과",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156771885",
@@ -1319,6 +1350,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "b590b4f1b79de436927212440f865818",
+          "title": "여름방학 활용한 2027학년도 대입 논술 대비",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110275",
+          "source": "edu.donga.com",
+          "published": "2026-07-24T04:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "2174a3969bb8efc992a33c6de864f9c9",
           "title": "[유성룡의 입시 포인트] 숙명여자대학교 2027학년도 수시 모집 가이드",
@@ -1582,6 +1623,16 @@
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=127555",
           "source": "www.popcornnews.net",
           "published": "2026-07-24T01:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "51e388138dd434d67492764170b7e043",
+          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xM1Y2UTU1SlR6MUo4cXRFR3JWUjF4cHZoazV6alF5a0M4YlhiRy05elN5NWV3d3NpUVk0SzB4cHJ2ZDFpdGcwWHhyWG5DUmZUWmpPTEh4YzFHa3YweS10N1hPaGsyQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
