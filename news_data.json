@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T10:07:53.377941+00:00",
+  "updated_at": "2026-07-26T11:30:18.750373+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-26T09:53:14.165339+00:00",
+          "published": "2026-07-26T11:14:59.279245+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
           "source": "에듀진",
-          "published": "2026-07-26T09:55:44.106377+00:00",
+          "published": "2026-07-26T11:17:31.892387+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "[수시 특집] 2027학년도 한국외대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53616",
           "source": "에듀진",
-          "published": "2026-07-26T09:55:38.173953+00:00",
+          "published": "2026-07-26T11:17:23.555450+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1197,6 +1197,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "b85f879aef87b55209ce17954874e06e",
+          "title": "내신·학생부·수능 다 챙겨야… ‘고교학점제’ 학생 부담 키웠다",
+          "link": "https://n.news.naver.com/mnews/article/005/0001863158?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-07-26T10:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "ac80299bd1198f5c8dd1919c5c9a8c29",
           "title": "[2027 대학별 수시 분석] 숭실대 | SSU미래인재전형(서류형) 신설 교과·...",
