@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T07:11:36.786409+00:00",
+  "updated_at": "2026-07-27T11:27:53.083466+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-27T06:56:54.762914+00:00",
+          "published": "2026-07-27T11:12:58.369795+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d14d8f5090161607ff3c094e07a336e7",
+          "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
+          "source": "에듀진",
+          "published": "2026-07-27T11:12:49.948567+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f70ff31f3a4262ac8c085dc1727f43cb",
@@ -491,6 +501,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "89d5d6d0911367c85c7052f27261ad31",
+          "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
+          "source": "에듀진",
+          "published": "2026-07-27T11:15:21.844960+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "002231a16e6d7e639c0813ecf315bcd5",
           "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
@@ -508,7 +528,7 @@
           "published": "2026-07-27T04:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ebc76e289d001287e99e765e7649438",
@@ -1400,6 +1420,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "7672b36d41912f1abbbcf0402455ae64",
+          "title": "[단독]서울여대 2027논술가이드북 '기출부터 입결까지'.. '좋은 논쟁' '과...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621006",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-27T08:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b590b4f1b79de436927212440f865818",
           "title": "여름방학 활용한 2027학년도 대입 논술 대비",
