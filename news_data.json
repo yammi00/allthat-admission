@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T14:24:39.177250+00:00",
+  "updated_at": "2026-07-27T17:52:45.058443+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-27T14:15:53.967510+00:00",
+          "published": "2026-07-27T17:37:35.316969+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
           "source": "에듀진",
-          "published": "2026-07-27T14:15:46.659168+00:00",
+          "published": "2026-07-27T17:37:26.987902+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-27T14:16:19.018550+00:00",
+          "published": "2026-07-27T17:40:02.867596+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1495,7 +1495,7 @@
           "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IQk1YcXJYbm5kcUkxNXE2WGh6MTYyZUxsOHJKVzZGMDV6RDlVdFZnR1Vzc1hOODNXc21FN2labTRQSkJsd21RbnFkUHN5OHVqcWRCMVhiRVNQemhjaEwxdUdpRldoZw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-07-18T06:19:51+00:00",
+          "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1863,6 +1863,16 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=594623",
           "source": "news.unn.net",
           "published": "2026-07-20T00:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "d0d61ff4e4fc791b2cc246b76893d08b",
+          "title": "명지대 2027 수시 면접, 10월 31일부터 나흘… 캠퍼스가 갈린다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wWHNxMVhkaHBvTngta0FpdUZBdTFta2hUTXdsZlRtLW9kTUx5RzhEYXA1RlhOWFJVQVBjbmxXOUtDNHptY2FWaUs5eTBsbjJEVXFnMHYyV2ptOC1nR1ZUZzhZS2FFQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-17T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
