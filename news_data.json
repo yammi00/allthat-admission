@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T21:19:24.185662+00:00",
+  "updated_at": "2026-07-27T23:09:52.663261+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-27T21:04:42.106467+00:00",
+          "published": "2026-07-27T22:54:48.092344+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
           "source": "에듀진",
-          "published": "2026-07-27T21:04:36.219337+00:00",
+          "published": "2026-07-27T22:54:38.601304+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-27T21:07:04.488113+00:00",
+          "published": "2026-07-27T22:57:14.975551+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1314,6 +1314,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "6cf5c3c38bd776f95064cd55f6066e9c",
+          "title": "교육부 2030청년자문단 정책간담회 개최",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772352",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-28T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f64750a3143a7aa660a5d5c1a35581e0",
           "title": "교육부, 한&middot;중&middot;일 예비교사 세계시민교육 수업연구 발표회 개최",
