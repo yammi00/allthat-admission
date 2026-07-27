@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T17:52:45.058443+00:00",
+  "updated_at": "2026-07-27T19:31:45.706087+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-27T17:37:35.316969+00:00",
+          "published": "2026-07-27T19:16:55.672347+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
           "source": "에듀진",
-          "published": "2026-07-27T17:37:26.987902+00:00",
+          "published": "2026-07-27T19:16:48.072705+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-27T17:40:02.867596+00:00",
+          "published": "2026-07-27T19:19:19.239764+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1293,16 +1293,6 @@
           "link": "https://n.news.naver.com/mnews/article/005/0001859229?sid=102",
           "source": "www.kmib.co.kr",
           "published": "2026-07-06T07:32:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "440849aceab61a8500347c98b7ee4d22",
-          "title": "[2028 대입 포인트]⑦중앙대, 입시 확 바뀐다…정시도 수능·서류 함께 본다 - eduplusnews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PMkJRTVg5VHZYdnVCRGdxdlZSUTdRQUJoYU1YY3N3X0puY0h1QmNpcmpSVDZ5d1otNDE3NUFXR3VWX3RFTmlhSmVfQTBUdFZlNGlGTFZHUkZfU2N2R0VBM3U5SWdwVktGMEhkemVR0gFyQVVfeXFMTWxpMlpXTzNnd2JQcmVWZ2IyY0g3M3pKd1hHNi1fZjdhUjBrSVh4NGdJdVVZcF9scmNTeENZYzVTZlMxbmRIc1BIeExtaE96eGhDVU1VRUV0a1N2U0dnRlhRY2w3endkeV9Ta3lWNVZ1TGhn?oc=5",
-          "source": "eduplusnews.com",
-          "published": "2026-07-02T02:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
