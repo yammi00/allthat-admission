@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T02:28:03.392139+00:00",
+  "updated_at": "2026-07-27T07:11:36.786409+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-27T02:12:57.392608+00:00",
+          "published": "2026-07-27T06:56:54.762914+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,10 +495,20 @@
           "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
           "source": "에듀진",
-          "published": "2026-07-27T02:15:33.300289+00:00",
+          "published": "2026-07-27T06:59:28.566200+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "71253b91a6b17b0c4c647c3b1f73c30d",
+          "title": "[임성호의 입시 레이다] 2026학년도 서울권 소재대 내신 합격점수 평균...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110337",
+          "source": "edu.donga.com",
+          "published": "2026-07-27T04:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0ebc76e289d001287e99e765e7649438",
@@ -508,7 +518,7 @@
           "published": "2026-07-27T02:15:24.172795+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6ef4dbb09c54ece755eeacfba6af8f2b",
@@ -518,7 +528,7 @@
           "published": "2026-07-27T02:15:24.172762+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "de12abe53d3b959b765c5f597ef113e9",
@@ -1665,7 +1675,7 @@
           "published": "2026-07-27T01:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0c0683b12c6bba64c45087d64b34dda9",
@@ -1675,7 +1685,7 @@
           "published": "2026-07-27T00:12:12+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3d90b863d77e483fcbfcf4f1af4f3d10",
@@ -1685,7 +1695,7 @@
           "published": "2026-07-27T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ccb09987c6a9e1c06d14ec2a9c30a795",
@@ -1695,7 +1705,7 @@
           "published": "2026-07-26T23:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e843b0487358b55712f620fafb21c7f9",
@@ -2032,7 +2042,7 @@
           "published": "2026-07-27T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d02c12ec7a4555c4b0387d8ce6636627",
@@ -2042,7 +2052,7 @@
           "published": "2026-07-26T23:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "24ddd8b482a302d514e626abd2e74ab1",
