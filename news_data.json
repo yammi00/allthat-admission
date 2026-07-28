@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T05:13:47.243421+00:00",
+  "updated_at": "2026-07-28T08:36:23.103718+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,20 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-28T04:58:42.210730+00:00",
+          "published": "2026-07-28T08:21:39.635195+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "d14d8f5090161607ff3c094e07a336e7",
-          "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
+          "id": "adc79fd89b3b2c4215233826fdf30196",
+          "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-28T04:58:33.883163+00:00",
+          "published": "2026-07-28T08:21:34.583290+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "f70ff31f3a4262ac8c085dc1727f43cb",
@@ -501,24 +501,24 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "ecf4f2ac6e442a5fc868fa67fc9cafcb",
-          "title": "[수시 특집] 2027 성균관대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53623",
-          "source": "에듀진",
-          "published": "2026-07-28T05:01:18.247982+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "89d5d6d0911367c85c7052f27261ad31",
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-28T05:01:13.605683+00:00",
+          "published": "2026-07-28T08:24:14.604338+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2a4e5a9833b8f6ced6c341b95b18f96a",
+          "title": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 수시 1589명(93.6%).. 물리치료학과 ‘4년제 전환’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621218",
+          "source": "베리타스알파",
+          "published": "2026-07-28T08:24:02.813769+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f9de7d890ad36c931099d01e74e24319",
@@ -528,7 +528,7 @@
           "published": "2026-07-28T05:01:07.874766+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "378a2c1891c9fb6ed6fc7e9bad17d36e",
@@ -815,7 +815,7 @@
           "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbDktLXRoRE9UWjRUMWJlcWJCeFI5cGluekY2ekNGNXQ4b1BsY2dWUjB5NlBRaXNDd2Z3dlVrWUgtMDhyOUtfMHBJdklsV2tFdTNZRmdBdlpWZEJ6d244YmRRanl6UQ?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-07-18T11:40:45+00:00",
+          "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1343,7 +1343,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6cf5c3c38bd776f95064cd55f6066e9c",
@@ -1740,6 +1740,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "90b7bf99573ab1e783d2aac46b91e9e0",
+          "title": "건국대 글로컬캠, 수시박람회 참여…입시 경쟁력 다시 입증",
+          "link": "https://www.inews365.com/news/article.html?no=929628",
+          "source": "www.inews365.com",
+          "published": "2026-07-28T08:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "97f8067a96d48dbec8cb1d7053366276",
           "title": "대치동 K-고수교육, '2027 수시 논술 대비 대학별 개별 맞춤 논술반' 오...",
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388865",
@@ -2124,7 +2134,7 @@
           "published": "2026-07-28T02:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cc1fdbb1236ea7416034e6990f0209a0",
