@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T21:16:57.983353+00:00",
+  "updated_at": "2026-07-28T23:08:16.121245+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-28T21:02:07.407755+00:00",
+          "published": "2026-07-28T22:53:23.763957+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-28T21:02:00.528973+00:00",
+          "published": "2026-07-28T22:53:17.835009+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-28T21:04:44.992636+00:00",
+          "published": "2026-07-28T22:56:01.515326+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -515,7 +515,7 @@
           "title": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 수시 1589명(93.6%).. 물리치료학과 ‘4년제 전환’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621218",
           "source": "베리타스알파",
-          "published": "2026-07-28T21:04:30.184858+00:00",
+          "published": "2026-07-28T22:55:47.808498+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1462,6 +1462,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "4b1217a7d8f32f8a106eb204f98616e3",
+          "title": "[거인의어깨 입시컨설팅] 2027학년도 성균관대 수시등급·지원전략",
+          "link": "https://www.newspim.com/news/view/20260706001084",
+          "source": "www.newspim.com",
+          "published": "2026-07-28T22:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "7672b36d41912f1abbbcf0402455ae64",
           "title": "[단독]서울여대 2027논술가이드북 '기출부터 입결까지'.. '좋은 논쟁' '과...",
