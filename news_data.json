@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T02:08:33.325482+00:00",
+  "updated_at": "2026-07-28T05:13:47.243421+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-28T01:53:25.952299+00:00",
+          "published": "2026-07-28T04:58:42.210730+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 건국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53595",
           "source": "에듀진",
-          "published": "2026-07-28T01:53:16.804665+00:00",
+          "published": "2026-07-28T04:58:33.883163+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -501,11 +501,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "9f337eea798e3df3dd7ce0dd1ea386f8",
-          "title": "[수시 특집] 2027학년도 덕성여대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53627",
+          "id": "ecf4f2ac6e442a5fc868fa67fc9cafcb",
+          "title": "[수시 특집] 2027 성균관대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53623",
           "source": "에듀진",
-          "published": "2026-07-28T01:55:53.260008+00:00",
+          "published": "2026-07-28T05:01:18.247982+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -515,20 +515,30 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-28T01:55:51.827076+00:00",
+          "published": "2026-07-28T05:01:13.605683+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "378a2c1891c9fb6ed6fc7e9bad17d36e",
-          "title": "[단독] '수요자친화' 2027수시 교과점수 산출 프로그램 10개교..숭실대 단국대 국민대 가톨릭대 4개교 '합격예측까지'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621063",
+          "id": "f9de7d890ad36c931099d01e74e24319",
+          "title": "한국교원대 2027학년도 수시 대학입학정보 박람회 성황리 마무리",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621203",
           "source": "베리타스알파",
-          "published": "2026-07-28T01:55:50.362297+00:00",
+          "published": "2026-07-28T05:01:07.874766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
+        },
+        {
+          "id": "378a2c1891c9fb6ed6fc7e9bad17d36e",
+          "title": "[단독] '수요자친화' 2027수시 교과점수 산출 프로그램 10개교..숭실대 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621063",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-27T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "002231a16e6d7e639c0813ecf315bcd5",
@@ -1325,6 +1335,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "0234ea9befeb09dde3849434de780fd9",
+          "title": "영유아 사교육, 일찍 시작할수록 효과가 클까? 교육부",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772420",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-28T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6cf5c3c38bd776f95064cd55f6066e9c",
           "title": "교육부 2030청년자문단 정책간담회 개최",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772352",
@@ -1750,7 +1771,7 @@
         },
         {
           "id": "ccb09987c6a9e1c06d14ec2a9c30a795",
-          "title": "숭실사이버대학교, 2026학년도 2학기 신·편입생 추가모집 실시",
+          "title": "숭실사이버대학교, 2026학년도 2학기 신·편입생 추가모집 시작",
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52664",
           "source": "www.enetnews.co.kr",
           "published": "2026-07-26T23:58:00+00:00",
@@ -2095,6 +2116,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "7e1e970e9a27ac0f3d9d9b336b325b45",
+          "title": "내신 5등급제 바꿔도 '1등급 없는 학교' 여전…고3 45개교 1등급 '0명'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009082799?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-07-28T02:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "cc1fdbb1236ea7416034e6990f0209a0",
           "title": "메가스터디교육 중등 인강 엠베스트, 2028 대입 개편·내신 5등급제 시대...",
