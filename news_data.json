@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T23:08:16.121245+00:00",
+  "updated_at": "2026-07-29T02:11:59.221040+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-28T22:53:23.763957+00:00",
+          "published": "2026-07-29T01:57:08.633642+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-28T22:53:17.835009+00:00",
+          "published": "2026-07-29T01:57:02.566006+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,10 +505,20 @@
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
-          "published": "2026-07-28T22:56:01.515326+00:00",
+          "published": "2026-07-29T01:59:44.492671+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "b301d839b0b2382396338cf0065ac128",
+          "title": "[수시 특집] 2027학년도 광운대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53650",
+          "source": "에듀진",
+          "published": "2026-07-29T01:59:32.089865+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2a4e5a9833b8f6ced6c341b95b18f96a",
@@ -1470,7 +1480,7 @@
           "published": "2026-07-28T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7672b36d41912f1abbbcf0402455ae64",
@@ -1749,6 +1759,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "1888b5087e393a14c2d244012494dd53",
+          "title": "건국대 글로컬캠퍼스 '2027학년도 수시 대학입학박람회' 성료",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=919010",
+          "source": "www.cctimes.kr",
+          "published": "2026-07-29T00:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "90b7bf99573ab1e783d2aac46b91e9e0",
           "title": "건국대 글로컬캠, 수시박람회 참여…입시 경쟁력 다시 입증",
