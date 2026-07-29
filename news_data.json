@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T02:11:59.221040+00:00",
+  "updated_at": "2026-07-29T05:35:45.326084+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-29T01:57:08.633642+00:00",
+          "published": "2026-07-29T05:20:30.922094+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-29T01:57:02.566006+00:00",
+          "published": "2026-07-29T05:20:26.380318+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -501,6 +501,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "af0486dd701fe9a8165750a3f0248c37",
+          "title": "2027 동덕여대 학생부교과 학생부교과우수자전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53652",
+          "source": "에듀진",
+          "published": "2026-07-29T05:23:04.454401+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5ec21d945724bba98bb0c0dec1f55832",
+          "title": "[수시 특집] 2027학년도 이화여대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zT2Vmc3RGamVvWjFDOUthUkd0aFF5Nzd2YkJic0FUUnZMNGpCV2VQc1RPWEtJSG9Ba2F5cXpRNzZBNGZuemE4ZU9FNFMyVEkybnhoMUN4OW9kM3k0QUNoWGhVWG5pcnN1S2c?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-07-29T02:43:24+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "89d5d6d0911367c85c7052f27261ad31",
           "title": "교과전형도 결국 학생부였다… 서류평가가 확대되는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
@@ -509,16 +529,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b301d839b0b2382396338cf0065ac128",
-          "title": "[수시 특집] 2027학년도 광운대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53650",
-          "source": "에듀진",
-          "published": "2026-07-29T01:59:32.089865+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "2a4e5a9833b8f6ced6c341b95b18f96a",
@@ -1345,6 +1355,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "b913e2fb266263c552d6ac5a02e758b0",
+          "title": "교육부, 상반기 진로체험 인증기관 391개 선정",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772547",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-07-29T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0234ea9befeb09dde3849434de780fd9",
           "title": "영유아 사교육, 일찍 시작할수록 효과가 클까? 교육부",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772420",
@@ -1760,6 +1781,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "1f66f88aea399d5fe6f5ac19795e521e",
+          "title": "반수반 개강 한 달…수능까지 이어지는 학습 전략 제시",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110417",
+          "source": "edu.donga.com",
+          "published": "2026-07-29T04:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7305064fe19dfa0ee92cefd9783066c8",
+          "title": "한국교육과정평가원, 수능 정보시스템 설명회 개최…수능 담당자 역량 ...",
+          "link": "https://www.newspim.com/news/view/20260729000650",
+          "source": "www.newspim.com",
+          "published": "2026-07-29T02:59:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "4697cfb03f6229164c238ed7772b812d",
+          "title": "[2027 대학별 수시 분석] 인하대 | 안정적인 수시 전형 운영 수능 최저 ...",
+          "link": "https://www.naeil.com/news/read/597026?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-07-29T02:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1888b5087e393a14c2d244012494dd53",
           "title": "건국대 글로컬캠퍼스 '2027학년도 수시 대학입학박람회' 성료",
           "link": "http://www.cctimes.kr/news/articleView.html?idxno=919010",
@@ -1767,7 +1818,7 @@
           "published": "2026-07-29T00:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "90b7bf99573ab1e783d2aac46b91e9e0",
