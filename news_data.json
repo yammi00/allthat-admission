@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T05:35:45.326084+00:00",
+  "updated_at": "2026-07-29T08:42:02.625195+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-29T05:20:30.922094+00:00",
+          "published": "2026-07-29T08:27:15.404085+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-29T05:20:26.380318+00:00",
+          "published": "2026-07-29T08:27:11.580836+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,10 +505,10 @@
           "title": "2027 동덕여대 학생부교과 학생부교과우수자전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53652",
           "source": "에듀진",
-          "published": "2026-07-29T05:23:04.454401+00:00",
+          "published": "2026-07-29T08:29:47.021119+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5ec21d945724bba98bb0c0dec1f55832",
@@ -518,7 +518,7 @@
           "published": "2026-07-29T02:43:24+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89d5d6d0911367c85c7052f27261ad31",
@@ -1363,7 +1363,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0234ea9befeb09dde3849434de780fd9",
@@ -1781,6 +1781,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "50dbbecbc0aae37c594250b3a813d56d",
+          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-29T06:23:55+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1f66f88aea399d5fe6f5ac19795e521e",
           "title": "반수반 개강 한 달…수능까지 이어지는 학습 전략 제시",
           "link": "https://edu.donga.com/news/articleView.html?idxno=110417",
@@ -1788,7 +1798,7 @@
           "published": "2026-07-29T04:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7305064fe19dfa0ee92cefd9783066c8",
@@ -1798,7 +1808,7 @@
           "published": "2026-07-29T02:59:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4697cfb03f6229164c238ed7772b812d",
@@ -1808,7 +1818,7 @@
           "published": "2026-07-29T02:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1888b5087e393a14c2d244012494dd53",
@@ -2207,6 +2217,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "3d9ffae12ae1778e7a62563cdee1f467",
+          "title": "교육열 높은 세종, 학업 중단율도 전국 최고… 왜?",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260729010008815",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-07-29T07:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "7e1e970e9a27ac0f3d9d9b336b325b45",
           "title": "내신 5등급제 바꿔도 '1등급 없는 학교' 여전…고3 45개교 1등급 '0명'",
