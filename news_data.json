@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:17:54.544161+00:00",
+  "updated_at": "2026-07-29T21:00:26.329350+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-29T19:02:47.599138+00:00",
+          "published": "2026-07-29T20:45:15.132681+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-29T19:02:43.212232+00:00",
+          "published": "2026-07-29T20:45:11.731997+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "2027 동덕여대 학생부교과 학생부교과우수자전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53652",
           "source": "에듀진",
-          "published": "2026-07-29T19:05:22.292825+00:00",
+          "published": "2026-07-29T20:47:56.844915+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1876,6 +1876,16 @@
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52664",
           "source": "www.enetnews.co.kr",
           "published": "2026-07-26T23:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
+          "source": "대학IN",
+          "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
