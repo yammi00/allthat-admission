@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T02:03:49.348765+00:00",
+  "updated_at": "2026-07-30T05:05:01.940918+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-30T01:48:37.937599+00:00",
+          "published": "2026-07-30T04:52:51.553827+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -501,21 +501,21 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "af0486dd701fe9a8165750a3f0248c37",
-          "title": "2027 동덕여대 학생부교과 학생부교과우수자전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53652",
+          "id": "f43b0ff4ef8366b85b0a711f08fcd692",
+          "title": "[수시 특집] 2027학년도 경희대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53664",
           "source": "에듀진",
-          "published": "2026-07-30T01:51:11.327553+00:00",
+          "published": "2026-07-30T04:56:30.569644+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "f43b0ff4ef8366b85b0a711f08fcd692",
-          "title": "[수시 특집] 2027학년도 경희대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53664",
+          "id": "6740aa234f79fdb6039d2c3b6a1e3725",
+          "title": "2027 남서울대 학생부교과 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53635",
           "source": "에듀진",
-          "published": "2026-07-30T01:51:07.775988+00:00",
+          "published": "2026-07-30T04:55:52.382185+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1511,7 +1511,7 @@
           "published": "2026-07-30T01:56:21.015371+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c1d4c39b4e5163436bdc783388304114",
@@ -1521,7 +1521,7 @@
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4b1217a7d8f32f8a106eb204f98616e3",
@@ -1658,7 +1658,7 @@
           "title": "[2027 수시/삼육대학교] 해외취업률 5년 연속 ‘수도권 1위’… 논술전형 대폭 확대 - 한국대학신문",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVLWFvNVM4Z3UyTHZlYi00N0R0cUQwbnAtS3VpWEVhcFp0aU5jWGRwcGw4cF9LOXFFa1N5M3VLX1RPNDR3bmNkX2EtU1AtMXF5RXJPbE14S2w2X1dxN2NxdTJJVlRSZw?oc=5",
           "source": "한국대학신문",
-          "published": "2026-07-14T05:10:00+00:00",
+          "published": "2026-07-14T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1818,7 +1818,7 @@
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "50dbbecbc0aae37c594250b3a813d56d",
@@ -1922,9 +1922,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "dhinsight.co.kr",
+          "source": "대학IN",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
@@ -2152,9 +2152,9 @@
         },
         {
           "id": "773003cb934242cfab552573f900a7c1",
-          "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - Naver Blog",
+          "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - blog.naver.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEVIMXFDLVJfdUxfUkpJNk1zOGQtVmdvTGtwLW1NemtRRk11QlBiSmc0QnZmRmRoOFU3N1BrS000RFhGR2JGRDFreGRzMFJjcDl5Skl0YmZIM2pUNVF4WDl5LUQ4MThwdVo5dGdIWHRnbzFzRDJIMkhUbXdCSUJuYnhTbWRieGZ6c21ad2RQbw?oc=5",
-          "source": "Naver Blog",
+          "source": "blog.naver.com",
           "published": "2026-07-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
