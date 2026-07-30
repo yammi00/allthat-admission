@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T21:14:38.789807+00:00",
+  "updated_at": "2026-07-30T23:13:05.971762+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-30T20:59:25.678126+00:00",
+          "published": "2026-07-30T22:58:22.938202+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "416b1da339cd8bed8a97eaef5192b96c",
+          "title": "이투스북, 2022 개정 교육과정 반영 수학 문제집 ‘어삼쉬사’ 출간",
+          "link": "https://www.sentv.co.kr/article/view/sentv202607300139",
+          "source": "www.sentv.co.kr",
+          "published": "2026-07-30T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "adc79fd89b3b2c4215233826fdf30196",
@@ -325,9 +335,9 @@
         },
         {
           "id": "c4a553959851bea7c0c07074bda7e7e4",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - veritas-a",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-07-08T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -505,7 +515,7 @@
           "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
           "source": "에듀진",
-          "published": "2026-07-30T21:01:59.385257+00:00",
+          "published": "2026-07-30T23:00:53.165751+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
