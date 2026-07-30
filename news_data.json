@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T05:05:01.940918+00:00",
+  "updated_at": "2026-07-30T08:26:48.279212+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-30T04:52:51.553827+00:00",
+          "published": "2026-07-30T08:11:47.335761+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -501,6 +501,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "d5933eeacf08376f607a06f01bb74d1d",
+          "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
+          "source": "에듀진",
+          "published": "2026-07-30T08:14:21.475240+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "826d279ff8f72511ac9d8d948360df01",
+          "title": "수원특례시, 2027학년도 대학입시박람회 개최… 67개 대학 참여",
+          "link": "https://www.joongboo.com/news/articleView.html?idxno=363732785",
+          "source": "www.joongboo.com",
+          "published": "2026-07-30T07:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "f43b0ff4ef8366b85b0a711f08fcd692",
           "title": "[수시 특집] 2027학년도 경희대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53664",
@@ -509,16 +529,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "6740aa234f79fdb6039d2c3b6a1e3725",
-          "title": "2027 남서울대 학생부교과 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53635",
-          "source": "에듀진",
-          "published": "2026-07-30T04:55:52.382185+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "5ec21d945724bba98bb0c0dec1f55832",
@@ -842,9 +852,9 @@
         },
         {
           "id": "2ada773afff49f729ea92028d3c8b83b",
-          "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - 교육을 비추다",
+          "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbDktLXRoRE9UWjRUMWJlcWJCeFI5cGluekY2ekNGNXQ4b1BsY2dWUjB5NlBRaXNDd2Z3dlVrWUgtMDhyOUtfMHBJdklsV2tFdTNZRmdBdlpWZEJ6d244YmRRanl6UQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1504,6 +1514,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "85ac3d903b4289288ad094711c7ce93e",
+          "title": "[단독] 아주대 2027논술자료집.. 자연계 '수리적 분석력/응용력/창의력...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621580",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-30T08:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "70083d1104b5d68090d8dc18e7cd24d3",
+          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - kyobit.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
+          "source": "kyobit.com",
+          "published": "2026-07-30T06:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "97b3933a5c0a668ba62c846e33a7a32a",
           "title": "삼육대-가천대 연합 논술설명회 개최.. 약술형 논술 대비전략 공유",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621476",
@@ -1605,9 +1635,9 @@
         },
         {
           "id": "e24d4d40851965fc134aaa838947fa97",
-          "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - 교육을 비추다",
+          "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IQk1YcXJYbm5kcUkxNXE2WGh6MTYyZUxsOHJKVzZGMDV6RDlVdFZnR1Vzc1hOODNXc21FN2labTRQSkJsd21RbnFkUHN5OHVqcWRCMVhiRVNQemhjaEwxdUdpRldoZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1812,9 +1842,9 @@
       "items": [
         {
           "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1942,9 +1972,9 @@
         },
         {
           "id": "51e388138dd434d67492764170b7e043",
-          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - 교육을 비추다",
+          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xM1Y2UTU1SlR6MUo4cXRFR3JWUjF4cHZoazV6alF5a0M4YlhiRy05elN5NWV3d3NpUVk0SzB4cHJ2ZDFpdGcwWHhyWG5DUmZUWmpPTEh4YzFHa3YweS10N1hPaGsyQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2062,9 +2092,9 @@
         },
         {
           "id": "d0d61ff4e4fc791b2cc246b76893d08b",
-          "title": "명지대 2027 수시 면접, 10월 31일부터 나흘… 캠퍼스가 갈린다 - 교육을 비추다",
+          "title": "명지대 2027 수시 면접, 10월 31일부터 나흘… 캠퍼스가 갈린다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wWHNxMVhkaHBvTngta0FpdUZBdTFta2hUTXdsZlRtLW9kTUx5RzhEYXA1RlhOWFJVQVBjbmxXOUtDNHptY2FWaUs5eTBsbjJEVXFnMHYyV2ptOC1nR1ZUZzhZS2FFQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-17T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2152,9 +2182,9 @@
         },
         {
           "id": "773003cb934242cfab552573f900a7c1",
-          "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - blog.naver.com",
+          "title": "2027학년도 수능 일정 확정! 8월 20일 온라인 사전입력부터 원서 접수 방법까지 완벽 정리 : 네이버 블로그 - Naver Blog",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEVIMXFDLVJfdUxfUkpJNk1zOGQtVmdvTGtwLW1NemtRRk11QlBiSmc0QnZmRmRoOFU3N1BrS000RFhGR2JGRDFreGRzMFJjcDl5Skl0YmZIM2pUNVF4WDl5LUQ4MThwdVo5dGdIWHRnbzFzRDJIMkhUbXdCSUJuYnhTbWRieGZ6c21ad2RQbw?oc=5",
-          "source": "blog.naver.com",
+          "source": "Naver Blog",
           "published": "2026-07-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
