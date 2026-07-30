@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T23:10:20.489928+00:00",
+  "updated_at": "2026-07-30T02:03:49.348765+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-29T22:55:07.713385+00:00",
+          "published": "2026-07-30T01:48:37.937599+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
           "source": "에듀진",
-          "published": "2026-07-29T22:55:02.703752+00:00",
+          "published": "2026-07-30T01:48:33.545354+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,10 +505,20 @@
           "title": "2027 동덕여대 학생부교과 학생부교과우수자전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53652",
           "source": "에듀진",
-          "published": "2026-07-29T22:57:42.053195+00:00",
+          "published": "2026-07-30T01:51:11.327553+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f43b0ff4ef8366b85b0a711f08fcd692",
+          "title": "[수시 특집] 2027학년도 경희대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53664",
+          "source": "에듀진",
+          "published": "2026-07-30T01:51:07.775988+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5ec21d945724bba98bb0c0dec1f55832",
@@ -1494,6 +1504,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "97b3933a5c0a668ba62c846e33a7a32a",
+          "title": "삼육대-가천대 연합 논술설명회 개최.. 약술형 논술 대비전략 공유",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621476",
+          "source": "베리타스알파",
+          "published": "2026-07-30T01:56:21.015371+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
+          "published": "2026-07-30T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4b1217a7d8f32f8a106eb204f98616e3",
           "title": "[거인의어깨 입시컨설팅] 2027학년도 성균관대 수시등급·지원전략",
           "link": "https://www.newspim.com/news/view/20260706001084",
@@ -1781,6 +1811,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-30T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "50dbbecbc0aae37c594250b3a813d56d",
           "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
@@ -1882,9 +1922,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
+          "source": "dhinsight.co.kr",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
