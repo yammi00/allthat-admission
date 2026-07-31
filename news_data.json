@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:46:18.942676+00:00",
+  "updated_at": "2026-07-31T14:02:44.727637+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-31T10:31:11.233709+00:00",
+          "published": "2026-07-31T13:47:36.166436+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-07-31T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "64d1883d2250e126e35dc8881e965e5d",
@@ -1931,6 +1931,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "b0e817b36dfa9d89a66f6757d0e9ee1a",
+          "title": "인하대, 2027학년도 수시 2662명 선발…지역의사전형 신설",
+          "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030448",
+          "source": "www.kihoilbo.co.kr",
+          "published": "2026-07-31T12:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "be172cb96920cbbf88eeca7755c4e1d0",
           "title": "[박원장의 대치동리포트] 덤벼라, 입시! 태양보다 더 뜨거운 수험생들의...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=110481",
@@ -1938,7 +1948,7 @@
           "published": "2026-07-31T07:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c2e4fcb6770a32694fbdf675de1028a0",
