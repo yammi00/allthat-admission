@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T23:13:05.971762+00:00",
+  "updated_at": "2026-07-31T02:21:47.382055+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-30T22:58:22.938202+00:00",
+          "published": "2026-07-31T02:06:33.675783+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0713f34373787a4147fde15902dbe4c7",
+          "title": "2027 건국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53636",
+          "source": "에듀진",
+          "published": "2026-07-31T02:06:28.847295+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0ab041175cb31b9414983508d0be7803",
+          "title": "이투스북, 중상위권 위한 수능수학 문제집 '어삼쉬사' 출간",
+          "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=73704",
+          "source": "www.babytimes.co.kr",
+          "published": "2026-07-31T00:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "416b1da339cd8bed8a97eaef5192b96c",
@@ -31,7 +51,7 @@
           "published": "2026-07-30T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "adc79fd89b3b2c4215233826fdf30196",
@@ -335,9 +355,9 @@
         },
         {
           "id": "c4a553959851bea7c0c07074bda7e7e4",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - veritas-a",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-07-08T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -515,10 +535,20 @@
           "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
           "source": "에듀진",
-          "published": "2026-07-30T23:00:53.165751+00:00",
+          "published": "2026-07-31T02:09:09.891164+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "98775ee09f62ff23e2288f4114efbf8a",
+          "title": "[수시 특집] 2027학년도 상명대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53683",
+          "source": "에듀진",
+          "published": "2026-07-31T02:09:00.794097+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0112c74f1422c227a280889fc3ef3dc7",
@@ -592,7 +622,7 @@
         },
         {
           "id": "378a2c1891c9fb6ed6fc7e9bad17d36e",
-          "title": "[단독] '수요자친화' 2027수시 교과점수 산출 프로그램 10개교..숭실대 ...",
+          "title": "[단독] '수요자친화' 2027수시 교과점수 산출 프로그램 10개교.. 숭실대...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621063",
           "source": "www.veritas-a.com",
           "published": "2026-07-27T08:02:00+00:00",
@@ -741,11 +771,11 @@
           "is_new": false
         },
         {
-          "id": "2c417b034762f94f648373b184aafde6",
-          "title": "[종로구정] “대입 첫 단추, 종로구에서 꿴다”… 2027학년도 수시전략 설명회 - 서울시정일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSlpkeXMtbXFvaWJ2RFhmQzh3dlFObW5EQjRpYWtPeDNKOXNtWnRuVUVPX1dRZ0M1enFoRHFRX2ZBNEg3QkJJaFlockpVNXhZT2o3dUhyR0tCN1ltVXhJaWZZZFVzVUttVFFNaE83b9IBb0FVX3lxTE5BSlpkeXMtbXFvaWJ2RFhmQzh3dlFObW5EQjRpYWtPeDNKOXNtWnRuVUVPX1dRZ0M1enFoRHFRX2ZBNEg3QkJJaFlockpVNXhZT2o3dUhyR0tCN1ltVXhJaWZZZFVzVUttVFFNaE83bw?oc=5",
-          "source": "서울시정일보",
-          "published": "2026-07-22T01:33:26+00:00",
+          "id": "8c3cf816187f38d543d20a6bc32cfaf9",
+          "title": "종로구, 2027학년도 수시전략 설명회 8월 1일 개최 - gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4UGtEbnBtLXVYTTBtem51dFFqcVB3bGhudVRUdXNmYlV2NFR5azcyN1UyUXZocHMyZG5iWW5RMldpQlpEbmtZR2ZtcTJRemJ0TTNNTkRRM0Q2THA3NkxhQ2d6MEkwY01VbHd2Nmt3?oc=5",
+          "source": "gukjenews.com",
+          "published": "2026-07-22T00:00:57+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1734,10 +1764,10 @@
           "is_new": false
         },
         {
-          "id": "8f99086c8835e57a5828385b9006a53d",
-          "title": "논술 1만2750명 뽑는데…합격은 실력순이 아니라고? [입시트렌드] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kalNEcHlLeHZIM0MxMFl0azdOMEF2NE1VZFhzaTJtSmJiWHFXa3N5QnoxWEVQaVc2RDdmZDR4bld0NmpDV0Z3SUtJRnhhT3c0cGtFSQ?oc=5",
-          "source": "매일경제",
+          "id": "233c4f4ef953ee8607d44246ec0ec0e7",
+          "title": "논술 1만2750명 뽑는데…합격은 실력순이 아니라고? [입시트렌드] - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Fb3pNRU5CV2NsTHVzaVctN0dRaVZXbnVVY0g0dThScl9LYlNicEY2eUo1VmpuRURod3hQOEMwMmhTeURLZnlpRV91cWppYTV0Qi1RZQ?oc=5",
+          "source": "v.daum.net",
           "published": "2026-07-12T07:00:00+00:00",
           "type": "news",
           "grade": "all",
