@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:11:51.041708+00:00",
+  "updated_at": "2026-07-31T23:09:06.399317+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-31T20:56:56.580475+00:00",
+          "published": "2026-07-31T22:54:03.207848+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1930,6 +1930,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "38385d6efed2c3373def037500829a34",
+          "title": "여름방학이 수능 성적 가른다…“공부량보다 중요한 건 방향”",
+          "link": "https://www.etoday.co.kr/news/view/2609672",
+          "source": "www.etoday.co.kr",
+          "published": "2026-07-31T23:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b0e817b36dfa9d89a66f6757d0e9ee1a",
           "title": "인하대, 2027학년도 수시 2662명 선발…지역의사전형 신설",
