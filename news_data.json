@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T06:53:35.329606+00:00",
+  "updated_at": "2026-07-31T10:46:18.942676+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-31T06:38:37.159966+00:00",
+          "published": "2026-07-31T10:31:11.233709+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ce0419f96e17889b127e17389e5f40e5",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621662",
+          "source": "www.veritas-a.com",
+          "published": "2026-07-31T07:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "64d1883d2250e126e35dc8881e965e5d",
@@ -31,7 +41,7 @@
           "published": "2026-07-31T06:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0713f34373787a4147fde15902dbe4c7",
@@ -558,7 +568,7 @@
           "published": "2026-07-31T04:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0cce956d19ad29854c91d8ad5e28397a",
@@ -568,7 +578,7 @@
           "published": "2026-07-31T02:56:35+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0112c74f1422c227a280889fc3ef3dc7",
@@ -922,9 +932,9 @@
         },
         {
           "id": "2ada773afff49f729ea92028d3c8b83b",
-          "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - 교육을 비추다",
+          "title": "2027 수시 기회균형전형 3만3528명 모집… \"통합전형보다 단일전형 먼저 보라\" - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbDktLXRoRE9UWjRUMWJlcWJCeFI5cGluekY2ekNGNXQ4b1BsY2dWUjB5NlBRaXNDd2Z3dlVrWUgtMDhyOUtfMHBJdklsV2tFdTNZRmdBdlpWZEJ6d244YmRRanl6UQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1398,6 +1408,16 @@
           "is_new": false
         },
         {
+          "id": "7c9a4ef8df44ecdf0d2172dac1439819",
+          "title": "[건국대, 2027 수시 특집] “AI 시대, 스스로 성장하는 인재를 키운다”",
+          "link": "https://dhnews.co.kr/news/view/1065594503277216",
+          "source": "dhnews.co.kr",
+          "published": "2026-07-21T06:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "e8dc1a5184e9087398445a1d04457e8a",
           "title": "[2027 수시/건국대학교] 2027 수시 1900명 모집… '인공지능학과' 신설 등...",
           "link": "https://news.unn.net/news/articleView.html?idxno=594482",
@@ -1595,9 +1615,9 @@
         },
         {
           "id": "70083d1104b5d68090d8dc18e7cd24d3",
-          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - 교육을 비추다",
+          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-30T06:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1705,9 +1725,9 @@
         },
         {
           "id": "e24d4d40851965fc134aaa838947fa97",
-          "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - 교육을 비추다",
+          "title": "[2027 수시 길잡이③] 간호학과는 수능최저·면접이 변수… 보건계열 교과 81% - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IQk1YcXJYbm5kcUkxNXE2WGh6MTYyZUxsOHJKVzZGMDV6RDlVdFZnR1Vzc1hOODNXc21FN2labTRQSkJsd21RbnFkUHN5OHVqcWRCMVhiRVNQemhjaEwxdUdpRldoZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-18T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1911,6 +1931,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "be172cb96920cbbf88eeca7755c4e1d0",
+          "title": "[박원장의 대치동리포트] 덤벼라, 입시! 태양보다 더 뜨거운 수험생들의...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110481",
+          "source": "edu.donga.com",
+          "published": "2026-07-31T07:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c2e4fcb6770a32694fbdf675de1028a0",
           "title": "수시·정시 병행 중요성 커져…스마트정일학원 “수능 준비 끝까지 이어...",
           "link": "https://www.gosiweek.com/article/1065580055142052",
@@ -1918,13 +1948,13 @@
           "published": "2026-07-31T02:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1932,9 +1962,9 @@
         },
         {
           "id": "50dbbecbc0aae37c594250b3a813d56d",
-          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
+          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-29T06:23:55+00:00",
           "type": "news",
           "grade": "all",
@@ -2172,9 +2202,9 @@
         },
         {
           "id": "d0d61ff4e4fc791b2cc246b76893d08b",
-          "title": "명지대 2027 수시 면접, 10월 31일부터 나흘… 캠퍼스가 갈린다 - 교육을 비추다",
+          "title": "명지대 2027 수시 면접, 10월 31일부터 나흘… 캠퍼스가 갈린다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wWHNxMVhkaHBvTngta0FpdUZBdTFta2hUTXdsZlRtLW9kTUx5RzhEYXA1RlhOWFJVQVBjbmxXOUtDNHptY2FWaUs5eTBsbjJEVXFnMHYyV2ptOC1nR1ZUZzhZS2FFQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-17T07:00:00+00:00",
           "type": "news",
           "grade": "all",
