@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T02:21:47.382055+00:00",
+  "updated_at": "2026-07-31T06:53:35.329606+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-07-31T02:06:33.675783+00:00",
+          "published": "2026-07-31T06:38:37.159966+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "64d1883d2250e126e35dc8881e965e5d",
+          "title": "대치동 수학학원 잠룡승천, 수능 D-100…1등급 합격 설계 위한 재수생 대...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=207554",
+          "source": "www.lecturernews.com",
+          "published": "2026-07-31T06:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0713f34373787a4147fde15902dbe4c7",
@@ -31,7 +41,7 @@
           "published": "2026-07-31T02:06:28.847295+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ab041175cb31b9414983508d0be7803",
@@ -41,7 +51,7 @@
           "published": "2026-07-31T00:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "416b1da339cd8bed8a97eaef5192b96c",
@@ -535,17 +545,27 @@
           "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
           "source": "에듀진",
-          "published": "2026-07-31T02:09:09.891164+00:00",
+          "published": "2026-07-31T06:41:26.028554+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "98775ee09f62ff23e2288f4114efbf8a",
-          "title": "[수시 특집] 2027학년도 상명대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53683",
-          "source": "에듀진",
-          "published": "2026-07-31T02:09:00.794097+00:00",
+          "id": "cc65f7d4f3a7b28209f5077ede16b787",
+          "title": "&quot;달라진 입시 앞둔 겨울방학&quot; ㈜잇올, 2027 통학 윈터스쿨 사전 모집 시...",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52974",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-07-31T04:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0cce956d19ad29854c91d8ad5e28397a",
+          "title": "[수시 특집] 2027학년도 서울시립대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWFE3dnZSa093NzY0MnlJQ19QcEo3WVVfU244X0RJY01XeFlnZ0JIVzg5bXBWZ1BKMDJyeWJnYVJnT3Y0TDk4TzAyb2hwOFN0dzRJd2V1S3YxZDFscE80VFBxSGhoSzllRnc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-07-31T02:56:35+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1764,10 +1784,10 @@
           "is_new": false
         },
         {
-          "id": "233c4f4ef953ee8607d44246ec0ec0e7",
-          "title": "논술 1만2750명 뽑는데…합격은 실력순이 아니라고? [입시트렌드] - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Fb3pNRU5CV2NsTHVzaVctN0dRaVZXbnVVY0g0dThScl9LYlNicEY2eUo1VmpuRURod3hQOEMwMmhTeURLZnlpRV91cWppYTV0Qi1RZQ?oc=5",
-          "source": "v.daum.net",
+          "id": "8f99086c8835e57a5828385b9006a53d",
+          "title": "논술 1만2750명 뽑는데…합격은 실력순이 아니라고? [입시트렌드] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kalNEcHlLeHZIM0MxMFl0azdOMEF2NE1VZFhzaTJtSmJiWHFXa3N5QnoxWEVQaVc2RDdmZDR4bld0NmpDV0Z3SUtJRnhhT3c0cGtFSQ?oc=5",
+          "source": "매일경제",
           "published": "2026-07-12T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1890,6 +1910,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "c2e4fcb6770a32694fbdf675de1028a0",
+          "title": "수시·정시 병행 중요성 커져…스마트정일학원 “수능 준비 끝까지 이어...",
+          "link": "https://www.gosiweek.com/article/1065580055142052",
+          "source": "www.gosiweek.com",
+          "published": "2026-07-31T02:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "8a587e50ea2ee6df460a6858549b22b6",
           "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
