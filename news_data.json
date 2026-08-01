@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-01T02:22:49.353745+00:00",
+  "updated_at": "2026-08-01T06:38:00.091436+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-01T02:08:04.161896+00:00",
+          "published": "2026-08-01T06:22:29.433217+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -226,20 +225,20 @@
           "title": "[수시 특집] 2027학년도 숙명여대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53693",
           "source": "에듀진",
-          "published": "2026-08-01T02:10:36.384048+00:00",
+          "published": "2026-08-01T06:25:12.396790+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "415ee8c3d91b024af981da0bab008b9f",
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-01T02:10:30.947082+00:00",
+          "published": "2026-08-01T06:25:04.310241+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d5933eeacf08376f607a06f01bb74d1d",
