@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:13:28.960336+00:00",
+  "updated_at": "2026-08-01T20:56:48.236542+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-01T18:58:43.714139+00:00",
+          "published": "2026-08-01T20:41:59.506593+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -225,7 +225,7 @@
           "title": "[수시 특집] 2027학년도 숙명여대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53693",
           "source": "에듀진",
-          "published": "2026-08-01T19:01:16.807079+00:00",
+          "published": "2026-08-01T20:44:30.083753+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-01T19:01:10.702765+00:00",
+          "published": "2026-08-01T20:44:24.526259+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -815,9 +815,9 @@
         },
         {
           "id": "70083d1104b5d68090d8dc18e7cd24d3",
-          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - kyobit.com",
+          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-07-30T06:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -946,6 +946,16 @@
           "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030448",
           "source": "www.kihoilbo.co.kr",
           "published": "2026-07-31T12:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "61eaeae38f56b1143227c86f4243ec30",
+          "title": "[2027전형계획] 주요22개대 ‘수능최저 미적용’ 전형 1만7832명.. 학종 49개 1만5160명 ‘최대’ - veritas-a.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTDhDTVFpWDlaN0ZmZ3A4djhXUzVWc2tOcUxoejh0dGlUcnRWNHdXZWpwT2ExbDZpa1JrTll6d29jSUx6R1dwVUFkV242bmVYLUdYa3h0SWUteVBOdGV5Z0QxTW1lUTlBZHM2dA?oc=5",
+          "source": "veritas-a.com",
+          "published": "2026-07-31T07:54:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
