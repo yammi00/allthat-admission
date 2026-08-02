@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:21:13.506434+00:00",
+  "updated_at": "2026-08-02T19:08:15.725485+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-02T17:02:21.966693+00:00",
+          "published": "2026-08-02T18:59:25.013028+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -225,7 +225,7 @@
           "title": "[수시 특집] 2027학년도 숙명여대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53693",
           "source": "에듀진",
-          "published": "2026-08-02T14:58:43.767356+00:00",
+          "published": "2026-08-02T18:59:50.374849+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-02T14:58:36.869940+00:00",
+          "published": "2026-08-02T18:59:44.692274+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -688,6 +688,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "3c57ae8ac7cdd6c408608e376cdff637",
+          "title": "2028학년도부터는 정시모집할 때 학생부도 본다···‘성적 올인’ 문 좁아져 - 이대학보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a0MzTXhQTFNzQnllMFJNdVhPaUxvYmV0QldXclpEZVp6aTEzX3NiNUhINThheVRGN2Voa2phOVZmeVprYUxJVVhQTlowZGNVS3E5RGpib0FmZkJCcVROVEFZOWRJLVVTaVHSAW5BVV95cUxOc1FDSm5Zd3c2blRJWHdHMW1icXIzdXVRaDJUdFFZUWN3UWhSSFNoNFB0Qnd4WlNDR3B1SDZMYVZKMXY0ejVuN0VpQ0gxZjBseUNLemF4SER6dnVtX3NEUEVEMzdLWjF0SmtKYnVGZw?oc=5",
+          "source": "이대학보",
+          "published": "2026-07-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "b85f879aef87b55209ce17954874e06e",
           "title": "내신·학생부·수능 다 챙겨야… ‘고교학점제’ 학생 부담 키웠다",
           "link": "https://n.news.naver.com/mnews/article/005/0001863158?sid=102",
@@ -884,20 +894,20 @@
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -919,6 +929,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621006",
           "source": "www.veritas-a.com",
           "published": "2026-07-27T08:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "192d4919ba78a967f4a3b319c5950978",
+          "title": "서울과기대, '2027 모의논술' 3문항 100분... 풀이 과정 없으면 0점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lVXlIUkdRWldFRFdJWTZyTk51a3gtRDdvYUZySlRZcmtjTnlmbmhYVnNjTmNBdHFnZUJBTWx0dkIxTmFSR2RQTk5hd0YzYjNPZkRWdnd6TnJNbThIbl85U3pEUzlqQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-26T00:59:58+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
