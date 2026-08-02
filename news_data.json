@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:58:15.300031+00:00",
+  "updated_at": "2026-08-02T02:19:48.728265+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-01T22:47:08.099975+00:00",
+          "published": "2026-08-02T02:04:41.847297+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -225,7 +225,7 @@
           "title": "[수시 특집] 2027학년도 숙명여대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53693",
           "source": "에듀진",
-          "published": "2026-08-01T22:49:53.786276+00:00",
+          "published": "2026-08-02T02:07:17.182120+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,10 +235,30 @@
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-01T22:49:47.334028+00:00",
+          "published": "2026-08-02T02:07:09.140417+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a5781b1a276d53f4a1fac24a68286ef9",
+          "title": "“취약과목부터 잡아야겠죠?”…입시 전문가 답은 정반대였다",
+          "link": "https://n.news.naver.com/mnews/article/009/0005715399?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-02T01:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "63ba38162010cecd7f082e97e065d9a0",
+          "title": "인서울 교과전형 합격생 내신 평균 5년간 최고…N수생이 끌어올렸다 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xVFJVU3B0OWRDOU9UeERfbXloZDM0cTN1Q0Y5YnE3UVhGMlJIZ0NYTzlzOEJ4WHZUZjRSQkROaHJjQjNTc18zY0lxUjB0WFZLdXBiYXJ4enhXVU9zWDIw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-08-01T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "be64a0c78e8bed1414a4726a42b468d4",
@@ -248,7 +268,7 @@
           "published": "2026-08-01T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d5933eeacf08376f607a06f01bb74d1d",
@@ -824,21 +844,21 @@
           "is_new": false
         },
         {
-          "id": "70083d1104b5d68090d8dc18e7cd24d3",
-          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-30T06:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "97b3933a5c0a668ba62c846e33a7a32a",
           "title": "삼육대-가천대 연합 논술설명회 개최.. 약술형 논술 대비전략 공유",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621476",
           "source": "베리타스알파",
           "published": "2026-07-30T01:56:21.015371+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -986,16 +1006,6 @@
           "link": "https://www.gosiweek.com/article/1065580055142052",
           "source": "www.gosiweek.com",
           "published": "2026-07-31T02:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1247,6 +1257,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "cdefb61211d6ad0dfcb52bc39b445174",
+          "title": "메가스터디 김창식 &quot;고교 선택 동시에 대입 판 결정…기준은 '이것'&quot;[인...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014102994?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-02T02:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3d9ffae12ae1778e7a62563cdee1f467",
           "title": "교육열 높은 세종, 학업 중단율도 전국 최고… 왜?",
