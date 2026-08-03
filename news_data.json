@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:22:03.115058+00:00",
+  "updated_at": "2026-08-03T07:08:54.778507+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-03T02:06:54.403368+00:00",
+          "published": "2026-08-03T06:53:54.900013+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e29231395d880d9fb8066908d67e523d",
+          "title": "재판도, 수능도, 민주주의도…전방위 AI 시대",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308206",
+          "source": "www.straightnews.co.kr",
+          "published": "2026-08-03T06:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ce0419f96e17889b127e17389e5f40e5",
@@ -193,26 +203,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "28d063679a910585eacce5ebb43be1d9",
-          "title": "[한국기술교육대, 2027 수시 특집] 취업률 82.8% 전국 1위, AI로 학생 맞...",
-          "link": "https://dhnews.co.kr/news/view/1065591378220945",
-          "source": "dhnews.co.kr",
-          "published": "2026-07-20T05:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "34cf60965961234fec6b79436567c15f",
-          "title": "2027 서강대 학생부교과전형 경쟁률 및 등급컷 분석",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53426",
-          "source": "에듀진",
-          "published": "2026-07-20T02:22:22.782883+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -226,10 +216,20 @@
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-03T02:09:24.546064+00:00",
+          "published": "2026-08-03T06:56:32.595403+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3dd91f1b41603f84ae9ab607de099cbc",
+          "title": "[박정훈의 입시공략집] 학생부종합전형 합격을 위한 지원 전 필수 체크...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/03/2026080380098.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-03T05:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0e477d7670464682fdcf7d4d4e5898ae",
@@ -239,7 +239,7 @@
           "published": "2026-08-03T01:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78f43c8de238c29a2a5a91a571a1e42a",
@@ -249,7 +249,7 @@
           "published": "2026-08-03T00:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "76a8cc63bac7983b4e80d518be35bb2d",
@@ -660,16 +660,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "2a87d509cbbd1d8f313d8928239f7833",
-          "title": "2027 공주교대 학생부종합전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53512",
-          "source": "에듀진",
-          "published": "2026-07-20T02:25:04.210134+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -865,6 +855,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "253220bc647691d818b573f0f723ad28",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-03T03:01:24+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "85ac3d903b4289288ad094711c7ce93e",
           "title": "[단독] 아주대 2027논술자료집.. 자연계 '수리적 분석력/응용력/창의력...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621580",
@@ -885,20 +885,20 @@
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "kyobit.com",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "kyobit.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -983,16 +983,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "612f25a73810f33018aa9bfd84b17c74",
-          "title": "강남대, '2027 모의 논술고사' 공개... 약술형 8문항 실전 대비 길 열렸다 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNHN3aXg4Y0RoM2NKa3VobThoMFRTT05QUDRqaS1UOUJ4SENyRXpLWEF4TzZYTmVLSGdfam1rNG5vd3dwXzdTOEpqSld1cW1JbjZ2eEMxMWZZeFdKM3VZWm41TWFRUQ?oc=5",
-          "source": "kyobit.com",
-          "published": "2026-07-20T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1002,6 +992,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a5b41016be4529ba5cf45589d2dc615e",
+          "title": "[대학 수시 톺아보기] ①인하대, 의대 '지역의사전형' 첫 도입",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661766",
+          "source": "www.kfenews.co.kr",
+          "published": "2026-08-03T06:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b3ca8f82ce62538e4967e185b5cad049",
+          "title": "인하대, 내년 수시모집 2천662명 선발.. 전체 모집인원 66.9%",
+          "link": "http://www.incheonin.com/news/articleView.html?idxno=119777",
+          "source": "www.incheonin.com",
+          "published": "2026-08-03T02:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8c7ed0b4e95cdd1269e3e1ac81d5dbaf",
           "title": "[인하대, 2027 수시 특집] ‘첨단산업 특성화대학 재정지원사업’ 전국...",
           "link": "https://dhnews.co.kr/news/view/1065577383321767",
@@ -1009,13 +1019,13 @@
           "published": "2026-08-03T02:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f16f27cd8584625e3c8356af4c64da74",
-          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - kyobit.com",
+          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjl0dzFFRGFqck5Ya3ZCSVQzaHJpQkQ2ekVZZHpjMjNPZTFZLTA3TThMLWN2MkxQN0V6aFJtc05ybGRpRmhlVUdUREM1Z3FuUzJIWmJmWmlQNE0yLWhMQ1FvVnZLZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-01T20:41:34+00:00",
           "type": "news",
           "grade": "all",
@@ -1073,9 +1083,9 @@
         },
         {
           "id": "50dbbecbc0aae37c594250b3a813d56d",
-          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - kyobit.com",
+          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-07-29T06:23:55+00:00",
           "type": "news",
           "grade": "all",
@@ -1277,26 +1287,6 @@
           "link": "https://n.news.naver.com/mnews/article/028/0002814908?sid=102",
           "source": "www.hani.co.kr",
           "published": "2026-07-20T08:24:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5b6a2139eea387ebb862f009f99b6b5c",
-          "title": "중앙대 수시 2862명 모집… 학생부종합 최다 선발, 논술 창의형 신설[중...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=594380",
-          "source": "news.unn.net",
-          "published": "2026-07-20T06:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "9cf9034908c72ab9bc6ce3f11a5e3842",
-          "title": "광진구, 8월 대입 수시 집중 지원…설명회·컨설팅·특별상담 운영",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=710828",
-          "source": "www.newstnt.com",
-          "published": "2026-07-20T06:32:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
