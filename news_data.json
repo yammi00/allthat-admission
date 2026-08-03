@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-03T21:11:58.897325+00:00",
+  "updated_at": "2026-08-03T23:09:53.731651+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-03T20:57:05.175289+00:00",
+          "published": "2026-08-03T22:55:06.457454+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +29,7 @@
           "title": "2027 숙명여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53702",
           "source": "에듀진",
-          "published": "2026-08-03T20:56:57.088275+00:00",
+          "published": "2026-08-03T22:54:58.400659+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -636,26 +637,6 @@
           "link": "https://dhnews.co.kr/news/view/1065574709932058",
           "source": "dhnews.co.kr",
           "published": "2026-07-21T01:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9a63183e985354e1168085b02cbda74c",
-          "title": "전국진로진학상담교사협의회 '2027 수시모집 파이널 설명회' 성료.. 진로진학 담당교사 300여명 집결",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619802",
-          "source": "베리타스알파",
-          "published": "2026-07-20T22:54:53.830249+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "fe77fed5dee4df0a73a787c4e14c3162",
-          "title": "[2027수시특집] 아주대 수시 1501명(70.7%) '확대'.. 3개 첨단학과 체제구축 ‘주목’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619901",
-          "source": "베리타스알파",
-          "published": "2026-07-20T22:54:53.830195+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
