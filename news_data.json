@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:03:31.737430+00:00",
+  "updated_at": "2026-08-03T02:22:03.115058+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-02T22:48:29.574766+00:00",
+          "published": "2026-08-03T02:06:54.403368+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -222,24 +222,34 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "162fcde96738023081781560de6784a5",
-          "title": "[수시 특집] 2027학년도 숙명여대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53693",
+          "id": "415ee8c3d91b024af981da0bab008b9f",
+          "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
           "source": "에듀진",
-          "published": "2026-08-02T22:51:03.642919+00:00",
+          "published": "2026-08-03T02:09:24.546064+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "415ee8c3d91b024af981da0bab008b9f",
-          "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53676",
-          "source": "에듀진",
-          "published": "2026-08-02T22:50:55.496415+00:00",
+          "id": "0e477d7670464682fdcf7d4d4e5898ae",
+          "title": "초6 대입 확 바뀌나…수능 절대평가 전환하고 서논술형 도입 검토",
+          "link": "https://n.news.naver.com/mnews/article/421/0009093406?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-03T01:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "78f43c8de238c29a2a5a91a571a1e42a",
+          "title": "2027학년도 의대·주요 대학 대입 전형 변화…지원 전 대학별 변경 사항...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110484",
+          "source": "edu.donga.com",
+          "published": "2026-08-03T00:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "76a8cc63bac7983b4e80d518be35bb2d",
@@ -660,26 +670,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "3846e802ec01be1963309b4591c138ff",
-          "title": "[추민규의 입시 돋보기] 2027학년도 대입 수시, 의예과 합격 내신 성적대...",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/20/2026072080027.html",
-          "source": "edu.chosun.com",
-          "published": "2026-07-20T01:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "62634098ae5456f1544c47aefe589828",
-          "title": "[대입정보] 2028 최상위권 학교 내신관리 매우 중요해진 상황 : 고1 때 학...",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=459763",
-          "source": "www.queen.co.kr",
-          "published": "2026-07-19T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -896,9 +886,9 @@
         },
         {
           "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -995,11 +985,11 @@
           "is_new": false
         },
         {
-          "id": "e49b330deb1a8f9c99f3bbd507cc5f9d",
-          "title": "목동씨사이트학원, 2027학년도 대입 대비 ‘약술형 논술 방학종일반’ ...",
-          "link": "https://www.sentv.co.kr/article/view/sentv202607200064",
-          "source": "www.sentv.co.kr",
-          "published": "2026-07-20T01:40:00+00:00",
+          "id": "612f25a73810f33018aa9bfd84b17c74",
+          "title": "강남대, '2027 모의 논술고사' 공개... 약술형 8문항 실전 대비 길 열렸다 - kyobit.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNHN3aXg4Y0RoM2NKa3VobThoMFRTT05QUDRqaS1UOUJ4SENyRXpLWEF4TzZYTmVLSGdfam1rNG5vd3dwXzdTOEpqSld1cW1JbjZ2eEMxMWZZeFdKM3VZWm41TWFRUQ?oc=5",
+          "source": "kyobit.com",
+          "published": "2026-07-20T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1012,10 +1002,20 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8c7ed0b4e95cdd1269e3e1ac81d5dbaf",
+          "title": "[인하대, 2027 수시 특집] ‘첨단산업 특성화대학 재정지원사업’ 전국...",
+          "link": "https://dhnews.co.kr/news/view/1065577383321767",
+          "source": "dhnews.co.kr",
+          "published": "2026-08-03T02:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f16f27cd8584625e3c8356af4c64da74",
-          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - 교육을 비추다",
+          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjl0dzFFRGFqck5Ya3ZCSVQzaHJpQkQ2ekVZZHpjMjNPZTFZLTA3TThMLWN2MkxQN0V6aFJtc05ybGRpRmhlVUdUREM1Z3FuUzJIWmJmWmlQNE0yLWhMQ1FvVnZLZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-01T20:41:34+00:00",
           "type": "news",
           "grade": "all",
@@ -1032,11 +1032,11 @@
           "is_new": false
         },
         {
-          "id": "b0e817b36dfa9d89a66f6757d0e9ee1a",
-          "title": "인하대, 2027학년도 수시 2662명 선발…지역의사전형 신설",
-          "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030448",
-          "source": "www.kihoilbo.co.kr",
-          "published": "2026-07-31T12:26:00+00:00",
+          "id": "2570af00935c3368414ff721805c17e5",
+          "title": "인하대, 2027학년도 수시 2662명 선발…지역의사전형 신설 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN0hneEUzYzRJTmctVWZQR3l2OVNnaktiSGV6YkJRYXY5YXJ5ZngxWHFuYmRGbnM0NnhwdVZ6SVA5a0hSRkhuLS1DWQ?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-07-31T12:24:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1073,9 +1073,9 @@
         },
         {
           "id": "50dbbecbc0aae37c594250b3a813d56d",
-          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
+          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-29T06:23:55+00:00",
           "type": "news",
           "grade": "all",
@@ -1297,16 +1297,6 @@
           "link": "https://www.newstnt.com/news/articleView.html?idxno=710828",
           "source": "www.newstnt.com",
           "published": "2026-07-20T06:32:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "72284f43835ade31ca8bf4a33e5f857d",
-          "title": "[2027 수시/장학금·지원제도] 새내기 대학생이 챙길 장학금·응시료 지...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=594623",
-          "source": "news.unn.net",
-          "published": "2026-07-20T00:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
