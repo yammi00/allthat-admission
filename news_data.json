@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-03T11:30:36.967026+00:00",
+  "updated_at": "2026-08-03T14:37:49.851228+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-03T11:15:24.050964+00:00",
+          "published": "2026-08-03T14:22:42.378918+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,10 @@
           "title": "2027 숙명여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53702",
           "source": "에듀진",
-          "published": "2026-08-03T11:15:14.914332+00:00",
+          "published": "2026-08-03T14:22:32.656760+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e29231395d880d9fb8066908d67e523d",
@@ -219,7 +218,7 @@
           "published": "2026-08-03T08:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "415ee8c3d91b024af981da0bab008b9f",
@@ -856,9 +855,9 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -885,20 +884,20 @@
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -926,9 +925,9 @@
         },
         {
           "id": "192d4919ba78a967f4a3b319c5950978",
-          "title": "서울과기대, '2027 모의논술' 3문항 100분... 풀이 과정 없으면 0점 - 교육을 비추다",
+          "title": "서울과기대, '2027 모의논술' 3문항 100분... 풀이 과정 없으면 0점 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lVXlIUkdRWldFRFdJWTZyTk51a3gtRDdvYUZySlRZcmtjTnlmbmhYVnNjTmNBdHFnZUJBTWx0dkIxTmFSR2RQTk5hd0YzYjNPZkRWdnd6TnJNbThIbl85U3pEUzlqQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-26T00:59:58+00:00",
           "type": "news",
           "grade": "all",
@@ -993,13 +992,13 @@
       "items": [
         {
           "id": "601e7017c9598621ca71e94d87cfcc51",
-          "title": "2027학년도 기출로 읽는 한국전통문화대학교 국어·영어·수학 출제 경향과 학과별 합격 전략 - 교육을 비추다",
+          "title": "2027학년도 기출로 읽는 한국전통문화대학교 국어·영어·수학 출제 경향과 학과별 합격 전략 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBaHF2U3E0d2ZyRVhLbUt3bmVyZkZCUDBTSkR1R3diWXo3dWI1Rlpkc2FQWm83NWRQVm03dDNFM3JYRHowdDdjRmlmT3dVZ202RGZGTXgzanNUaVhnU0cyNHJ5Y3ZqQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-03T07:58:28+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a5b41016be4529ba5cf45589d2dc615e",
@@ -1033,9 +1032,9 @@
         },
         {
           "id": "f16f27cd8584625e3c8356af4c64da74",
-          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - 교육을 비추다",
+          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjl0dzFFRGFqck5Ya3ZCSVQzaHJpQkQ2ekVZZHpjMjNPZTFZLTA3TThMLWN2MkxQN0V6aFJtc05ybGRpRmhlVUdUREM1Z3FuUzJIWmJmWmlQNE0yLWhMQ1FvVnZLZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-01T20:41:34+00:00",
           "type": "news",
           "grade": "all",
