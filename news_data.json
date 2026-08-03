@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T07:08:54.778507+00:00",
+  "updated_at": "2026-08-03T11:30:36.967026+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-03T06:53:54.900013+00:00",
+          "published": "2026-08-03T11:15:24.050964+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "683a664b4fb56533f3a6d961d79bd5ea",
+          "title": "2027 숙명여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53702",
+          "source": "에듀진",
+          "published": "2026-08-03T11:15:14.914332+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e29231395d880d9fb8066908d67e523d",
@@ -32,7 +42,7 @@
           "published": "2026-08-03T06:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ce0419f96e17889b127e17389e5f40e5",
@@ -193,16 +203,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "351d8cf895fff493c114ba69aa2c3963",
-          "title": "수능 영어 절대평가되자, ‘불국어’ 풍선효과",
-          "link": "https://n.news.naver.com/mnews/article/005/0001862048?sid=102",
-          "source": "www.kmib.co.kr",
-          "published": "2026-07-20T10:11:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -211,6 +211,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "c72269f397c47b4deddb4ecb6c8823f9",
+          "title": "서울권 대학 교과전형 합격선 5년 새 최고…자연계 첫 1등급대",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/03/2026080380181.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-03T08:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "415ee8c3d91b024af981da0bab008b9f",
           "title": "2027 성신여대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
@@ -229,7 +239,7 @@
           "published": "2026-08-03T05:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0e477d7670464682fdcf7d4d4e5898ae",
@@ -650,16 +660,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "4c35891ebcad397578ff10911549b7ed",
-          "title": "[이종환의 입시큐] 2027 서강대·성균관대·한양대 수시 지원 전략, 전형의 변화를 먼저 읽어라 - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kVlRSN1NaWTVyaElnZFJIODA4UWRQWThndDljS3hmYWdYd0ZCYzVhXzlLRWg2ZkhLdWZVUW4tQWota3hqaWlGUE5Od05JalczUlZrZlVOT293RDdwb0gzbmxycEFZM2Ryck4wNVU0Yw?oc=5",
-          "source": "조선에듀",
-          "published": "2026-07-20T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -856,13 +856,13 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "85ac3d903b4289288ad094711c7ce93e",
@@ -885,20 +885,20 @@
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "kyobit.com",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -992,6 +992,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "601e7017c9598621ca71e94d87cfcc51",
+          "title": "2027학년도 기출로 읽는 한국전통문화대학교 국어·영어·수학 출제 경향과 학과별 합격 전략 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBaHF2U3E0d2ZyRVhLbUt3bmVyZkZCUDBTSkR1R3diWXo3dWI1Rlpkc2FQWm83NWRQVm03dDNFM3JYRHowdDdjRmlmT3dVZ202RGZGTXgzanNUaVhnU0cyNHJ5Y3ZqQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-03T07:58:28+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "a5b41016be4529ba5cf45589d2dc615e",
           "title": "[대학 수시 톺아보기] ①인하대, 의대 '지역의사전형' 첫 도입",
           "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661766",
@@ -999,7 +1009,7 @@
           "published": "2026-08-03T06:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3ca8f82ce62538e4967e185b5cad049",
@@ -1009,7 +1019,7 @@
           "published": "2026-08-03T02:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c7ed0b4e95cdd1269e3e1ac81d5dbaf",
@@ -1277,16 +1287,6 @@
           "link": "http://www.lawissue.co.kr/view.php?ud=2026072110094956169aeda69934_12",
           "source": "www.lawissue.co.kr",
           "published": "2026-07-21T01:40:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "16133d270369f40145c535938d60ace5",
-          "title": "기존 입시제도 ‘마지막 수시’…전략적 접근 필요",
-          "link": "https://n.news.naver.com/mnews/article/028/0002814908?sid=102",
-          "source": "www.hani.co.kr",
-          "published": "2026-07-20T08:24:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
