@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T08:41:23.491566+00:00",
+  "updated_at": "2026-08-04T12:13:38.690333+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-04T08:26:09.249502+00:00",
+          "published": "2026-08-04T11:58:39.147466+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -156,7 +156,7 @@
           "title": "2027 을지대 제2캠퍼스 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53698",
           "source": "에듀진",
-          "published": "2026-08-04T08:29:00.158961+00:00",
+          "published": "2026-08-04T12:01:28.666445+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -166,10 +166,10 @@
           "title": "[수시 특집] 2027학년도 한성대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53737",
           "source": "에듀진",
-          "published": "2026-08-04T08:28:47.451201+00:00",
+          "published": "2026-08-04T12:01:15.711793+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "34dce43e786c4efc8c1ca7f6c23fcd7c",
@@ -560,16 +560,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "74a39041a167d1fc49d6fba37fae6133",
-          "title": "[입시 톡톡] 2027학년도 대입 의예과 지원 전략",
-          "link": "https://n.news.naver.com/mnews/article/082/0001390682?sid=102",
-          "source": "www.busan.com",
-          "published": "2026-07-21T09:01:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -756,9 +746,9 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1167,16 +1157,6 @@
           "link": "https://dhnews.co.kr/news/view/1065572919430416",
           "source": "dhnews.co.kr",
           "published": "2026-07-22T00:34:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "6b1a6dbe5d86e067ed60ae75d8c6d349",
-          "title": "[2027 수시 길잡이④] 교대 수시 2,634명 모집… 서울교대 수능최저 '2개 합 6'으로 대폭 완화 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yN1BZUGY4UDVVTFVfZG9lVUhubUR5c0g4a3c2UmtzYzREdVV4VUVmSlFVZm5COXAyUzZHX0tNLWNVZFhuUm96ZzRPMDJUamtCTUlVQnRzZHBkTlVXLXM4N3JFSW5SUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-21T10:48:14+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
