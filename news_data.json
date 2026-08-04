@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T05:13:11.390972+00:00",
+  "updated_at": "2026-08-04T08:41:23.491566+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-04T04:58:18.665081+00:00",
+          "published": "2026-08-04T08:26:09.249502+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -143,46 +143,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "bb9b9c17532ac0bb0f67e6544e6d6ef5",
-          "title": "[단독] [2027 7월학평] 입시기관 등급컷 적중률.. 이투스 2개 '최다' 김영...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620044",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-21T06:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9a39cb9020ed856b22202b0901f3e715",
-          "title": "“수능 영어, 美 대학교 1학년 수준…교과서보다 최대 5학년 어려워”",
-          "link": "https://n.news.naver.com/mnews/article/081/0003663058?sid=102",
-          "source": "www.seoul.co.kr",
-          "published": "2026-07-21T06:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a57482da5ff522040ac33c7817b1ac69",
-          "title": "[입시 심층분석] 의·약학계열 블랙홀에 흔들린 연세대 교과, 충원율·등급컷 함수관계",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53530",
-          "source": "에듀진",
-          "published": "2026-07-21T05:26:02.515027+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9a50c8bc8758777190af614fc47d3c4b",
-          "title": "1~3등급 인서울 인공지능학과 종합 등급컷 및 경쟁률 순위",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53542",
-          "source": "에듀진",
-          "published": "2026-07-21T05:25:58.800570+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -196,17 +156,17 @@
           "title": "2027 을지대 제2캠퍼스 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53698",
           "source": "에듀진",
-          "published": "2026-08-04T05:00:50.026687+00:00",
+          "published": "2026-08-04T08:29:00.158961+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "4dba574e3cfcb2ff159614975ba61267",
-          "title": "[수시 특집] 2027학년도 인천대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53732",
+          "id": "affe212de88d00300786bb83c06c8894",
+          "title": "[수시 특집] 2027학년도 한성대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53737",
           "source": "에듀진",
-          "published": "2026-08-04T05:00:45.460454+00:00",
+          "published": "2026-08-04T08:28:47.451201+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -219,7 +179,7 @@
           "published": "2026-08-04T04:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c72269f397c47b4deddb4ecb6c8823f9",
@@ -610,16 +570,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b1a077527de56a9962a778fd268b1fd4",
-          "title": "서울대·의대 합격생 학생부의 공통점.. ‘3단계 탐구활동’이 만든 차이",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53076",
-          "source": "에듀진",
-          "published": "2026-07-21T05:28:40.378336+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -654,16 +604,6 @@
           "link": "https://www.naeil.com/news/read/596130?ref=naver",
           "source": "www.naeil.com",
           "published": "2026-07-22T01:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7c9a4ef8df44ecdf0d2172dac1439819",
-          "title": "[건국대, 2027 수시 특집] “AI 시대, 스스로 성장하는 인재를 키운다”",
-          "link": "https://dhnews.co.kr/news/view/1065594503277216",
-          "source": "dhnews.co.kr",
-          "published": "2026-07-21T06:34:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -816,9 +756,9 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1237,16 +1177,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yN1BZUGY4UDVVTFVfZG9lVUhubUR5c0g4a3c2UmtzYzREdVV4VUVmSlFVZm5COXAyUzZHX0tNLWNVZFhuUm96ZzRPMDJUamtCTUlVQnRzZHBkTlVXLXM4N3JFSW5SUQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-21T10:48:14+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "390e0febf6b5dc5713413617258445d5",
-          "title": "[2027학년도 수시 특징] 수도권 학생부종합 44%, 비수도권은 학생부교과 67.9% 가장 많아 - 교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtT2ZkZG5adnQ1a2NUdjJmNGNWZkJaR29zUzRMdWZkY0dXc1lVUDFDZS1hUkpOVVpfak1ielVTT1FoalBKODh1dEZKNlhsR28zMnE3TjNIVHhXdDVVbEhocEFIMUFFaVk?oc=5",
-          "source": "교수신문",
-          "published": "2026-07-21T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
