@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T02:07:11.790948+00:00",
+  "updated_at": "2026-08-04T05:13:11.390972+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-04T01:52:09.011127+00:00",
+          "published": "2026-08-04T04:58:18.665081+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "2027 숙명여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53702",
           "source": "에듀진",
-          "published": "2026-08-04T01:52:00.742079+00:00",
+          "published": "2026-08-04T04:58:14.178043+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -183,26 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5ffaf62e175acc3e89b6bd891a8f5d4e",
-          "title": "[삼육대, 2027 수시 특집] 논술전형 대폭↑…약학과도 ‘약술형 논술’...",
-          "link": "https://dhnews.co.kr/news/view/1065580507601736",
-          "source": "dhnews.co.kr",
-          "published": "2026-07-21T02:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "40fe653ec1db823fdc8166eb53d86070",
-          "title": "메가스터디교육 김영편입 7월 편입시험 모의고사 실시.. 전국캠퍼스/온라인 응시 가능",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619872",
-          "source": "베리타스알파",
-          "published": "2026-07-21T01:59:47.305453+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -212,11 +192,31 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "8ee6a948a67d475d75c3152bb0f04818",
-          "title": "[수시특집] 2027학년도 성신여대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53713",
+          "id": "1ac9ca44f49a0b772cb0bc9d9dd5a751",
+          "title": "2027 을지대 제2캠퍼스 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53698",
           "source": "에듀진",
-          "published": "2026-08-04T01:54:31.286298+00:00",
+          "published": "2026-08-04T05:00:50.026687+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4dba574e3cfcb2ff159614975ba61267",
+          "title": "[수시 특집] 2027학년도 인천대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53732",
+          "source": "에듀진",
+          "published": "2026-08-04T05:00:45.460454+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "34dce43e786c4efc8c1ca7f6c23fcd7c",
+          "title": "정권따라 출렁이는 대입, 이번에 또?",
+          "link": "https://www.naeil.com/news/read/597630?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-08-04T04:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -292,10 +292,10 @@
           "is_new": false
         },
         {
-          "id": "87d55cb9ef345097f1aad931ee3c6f20",
-          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uOTEyWC14bElrbDFiQWlmaW0zT1ZDU0pQcXo1X2dJMjM3ZzZlYThHazNKdWlIakJUNUM0Y2h3NWROR3ZWM1BDMzZxblJyMy1yUWJOMEo1S195YXVhVUUwMV8xV2d2eXM5YXc?oc=5",
-          "source": "hidomin.com",
+          "id": "078303f0dcad290fa0afea185026c23d",
+          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0RFZiakJaV19sMjVYTHIxS0dNd3hKOTViS0U1QnREQjNid1l4ZkdPeHJoYlI4RW5leHQ4Y1dTdnRMUUNlYmwxWWY0b1RvNTQ?oc=5",
+          "source": "v.daum.net",
           "published": "2026-08-02T04:46:11+00:00",
           "type": "news",
           "grade": "3",
@@ -620,26 +620,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "390e0febf6b5dc5713413617258445d5",
-          "title": "[2027학년도 수시 특징] 수도권 학생부종합 44%, 비수도권은 학생부교과 67.9% 가장 많아 - 교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtT2ZkZG5adnQ1a2NUdjJmNGNWZkJaR29zUzRMdWZkY0dXc1lVUDFDZS1hUkpOVVpfak1ielVTT1FoalBKODh1dEZKNlhsR28zMnE3TjNIVHhXdDVVbEhocEFIMUFFaVk?oc=5",
-          "source": "교수신문",
-          "published": "2026-07-21T04:50:37+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2be0da82461b289b0ff9084e949fa780",
-          "title": "인하대 2027수시집중 유선상담 8월24일부터 28일까지.. ‘입학사정관과 전화 상담’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619936",
-          "source": "베리타스알파",
-          "published": "2026-07-21T02:02:25.306067+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -836,9 +816,9 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -865,20 +845,20 @@
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -969,7 +949,7 @@
           "published": "2026-08-04T01:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "38bed586620684f9463d70019e5d775a",
@@ -979,7 +959,7 @@
           "published": "2026-08-04T00:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12b0a42ee7722ed572a6b654f0c71db5",
@@ -989,7 +969,7 @@
           "published": "2026-08-03T23:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "601e7017c9598621ca71e94d87cfcc51",
@@ -1193,9 +1173,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "dhinsight.co.kr",
+          "source": "대학IN",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
@@ -1252,31 +1232,21 @@
           "is_new": false
         },
         {
-          "id": "5e6497be0b74192a3586cf27b2a0683d",
-          "title": "[조선대] 지역의사전형, 학생부교과 19명 선발…간호학과+조선간호대 통...",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=207943",
-          "source": "www.kyosu.net",
-          "published": "2026-07-21T23:58:00+00:00",
+          "id": "6b1a6dbe5d86e067ed60ae75d8c6d349",
+          "title": "[2027 수시 길잡이④] 교대 수시 2,634명 모집… 서울교대 수능최저 '2개 합 6'으로 대폭 완화 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yN1BZUGY4UDVVTFVfZG9lVUhubUR5c0g4a3c2UmtzYzREdVV4VUVmSlFVZm5COXAyUzZHX0tNLWNVZFhuUm96ZzRPMDJUamtCTUlVQnRzZHBkTlVXLXM4N3JFSW5SUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-21T10:48:14+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "82ad59773e77d2d4cb74a08730700a39",
-          "title": "수시 원서접수 약 50일 전…지원 전략 위한 5가지 체크포인트",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=110131",
-          "source": "edu.donga.com",
-          "published": "2026-07-21T02:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "bfb66d1368c72570ead07b873e30ab6b",
-          "title": "[서울예대, 2027 수시 특집] 서울예대에서 시작된 한 사람의 창작 K-컬처...",
-          "link": "https://dhnews.co.kr/news/view/1065578434264901",
-          "source": "dhnews.co.kr",
-          "published": "2026-07-21T02:06:00+00:00",
+          "id": "390e0febf6b5dc5713413617258445d5",
+          "title": "[2027학년도 수시 특징] 수도권 학생부종합 44%, 비수도권은 학생부교과 67.9% 가장 많아 - 교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtT2ZkZG5adnQ1a2NUdjJmNGNWZkJaR29zUzRMdWZkY0dXc1lVUDFDZS1hUkpOVVpfak1ielVTT1FoalBKODh1dEZKNlhsR28zMnE3TjNIVHhXdDVVbEhocEFIMUFFaVk?oc=5",
+          "source": "교수신문",
+          "published": "2026-07-21T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
