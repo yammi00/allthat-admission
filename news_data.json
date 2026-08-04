@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:09:53.731651+00:00",
+  "updated_at": "2026-08-04T02:07:11.790948+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-03T22:55:06.457454+00:00",
+          "published": "2026-08-04T01:52:09.011127+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "2027 숙명여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53702",
           "source": "에듀진",
-          "published": "2026-08-03T22:54:58.400659+00:00",
+          "published": "2026-08-04T01:52:00.742079+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -211,6 +211,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "8ee6a948a67d475d75c3152bb0f04818",
+          "title": "[수시특집] 2027학년도 성신여대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53713",
+          "source": "에듀진",
+          "published": "2026-08-04T01:54:31.286298+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "c72269f397c47b4deddb4ecb6c8823f9",
           "title": "서울권 대학 교과전형 합격선 5년 새 최고…자연계 첫 1등급대",
@@ -630,16 +640,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "30ea0fee5b27c4a55b852b4ad3ed7c90",
-          "title": "[성신여대, 2027 수시 특집] 2027 첨단분야 모집 대폭 확대, ‘융합AI반도...",
-          "link": "https://dhnews.co.kr/news/view/1065574709932058",
-          "source": "dhnews.co.kr",
-          "published": "2026-07-21T01:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -836,9 +836,9 @@
       "items": [
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -953,16 +953,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "d3d6990130a17db0ba53beb8334d9e8b",
-          "title": "[2027 수시 미니인터뷰/경기대학교] 김현준 입학처장 “전공자율선택제 유지… 학생 강점 살린 다양한 전형 운영” - 한국대학신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UzM1Wms2eVVLNWEyVUpqUm5VNDBUQ3JsSmpZY1RVR3RaQTNtQ2NESEJmMDdQZ29hcGgya0xEZzFJeFk4OHlDbEJhOWVkSm1rdk9HTC1vUmpyZm9TdHFZVG42azY2UQ?oc=5",
-          "source": "한국대학신문",
-          "published": "2026-07-21T01:47:15+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -971,6 +961,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "39392a19fa46bbbcd263fc43f110916a",
+          "title": "인하대, 내달 7∼11일 수시모집 원서 접수…2천662명 선발",
+          "link": "https://n.news.naver.com/mnews/article/001/0016232354?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-08-04T01:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "38bed586620684f9463d70019e5d775a",
+          "title": "경기도교육청, 8월 5일부터 2027 대입 수시맞춤 상담 운영",
+          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3131240",
+          "source": "www.ttlnews.com",
+          "published": "2026-08-04T00:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "12b0a42ee7722ed572a6b654f0c71db5",
+          "title": "경기도교육청, '수시 대비' 맞춤형 진학상담 실시",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=537447",
+          "source": "www.joongangenews.com",
+          "published": "2026-08-03T23:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "601e7017c9598621ca71e94d87cfcc51",
           "title": "2027학년도 기출로 읽는 한국전통문화대학교 국어·영어·수학 출제 경향과 학과별 합격 전략 - 교육을 비추다",
@@ -1173,9 +1193,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
+          "source": "dhinsight.co.kr",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
@@ -1257,16 +1277,6 @@
           "link": "https://dhnews.co.kr/news/view/1065578434264901",
           "source": "dhnews.co.kr",
           "published": "2026-07-21T02:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5618ae580440d13ea306fef18514bc0a",
-          "title": "리안헤어, 4개 대학 ‘리안학과’ 2027학년도 수시모집",
-          "link": "http://www.lawissue.co.kr/view.php?ud=2026072110094956169aeda69934_12",
-          "source": "www.lawissue.co.kr",
-          "published": "2026-07-21T01:40:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
