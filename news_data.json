@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T05:14:34.631785+00:00",
+  "updated_at": "2026-08-05T08:39:29.372139+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T04:59:40.414672+00:00",
+          "published": "2026-08-05T08:24:12.746948+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-08-05T04:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "300a0d6cc4ea250d84f20871021002e1",
@@ -42,7 +42,7 @@
           "published": "2026-08-05T03:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9f5caaf7ca7d11ed0f197f72f1b262c3",
@@ -52,7 +52,7 @@
           "published": "2026-08-05T02:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "94d43d61b4df0e000e49f36192616466",
@@ -173,16 +173,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a3b15e4731d259ab3106cec62449de7a",
-          "title": "2027 경희대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53543",
-          "source": "에듀진",
-          "published": "2026-07-22T05:21:42.640084+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -192,6 +182,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "4eaccae0dd42e2fc810bc9135c2f92da",
+          "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
+          "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-08-05T05:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "fa4ad63ded7e210e09e2d00fae8d68d8",
           "title": "[수시 특집] 2027학년도 서울대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cTRGamJFek84dERtSEFVdWdmZlRKb0VkcDN3bFdLZlhNS3JvNVByNkQ1NUtfejRHeHh6TlFoYzdCVlNuV3p4aGlHLTRoWWI3UXZTUXFfLXhPYXRsemx4Xzl4T0NWT2xScEE?oc=5",
@@ -199,7 +199,7 @@
           "published": "2026-08-05T02:57:34+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1ac9ca44f49a0b772cb0bc9d9dd5a751",
@@ -560,16 +560,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "fe502b1559bd68b4d1d7042c48a0d3fa",
-          "title": "종로구, 내달 1일 2027학년도 대입 수시전략 설명회 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReC1Fd1M4ZUlNNjlFS2l2b0hRRXpYTFctX2NUaWtqbmNsVGMwSFJXS0lBZ3hQSkJ0VmlicnNiN1RjaXdBSE1VRDJfUGJCMS1WRHBqV05Ccm8weknSAWBBVV95cUxQbm5MNjZjYXdBLVZINThFdGk4TndmbkIwMF93RWM5REt0Tk9UZ3BXT3RoVHBYa1BScDhxel9RczlYSWUxYXVRcERKTnJqQlNqMFVpbzBtVVlwTjBpTWlsMEI?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-07-22T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -578,6 +568,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "4c56b0df478715784a748418abd3b297",
+          "title": "수능 서논술형·절대평가 하반기 공론화…국가교육발전계획 10월 공개",
+          "link": "https://n.news.naver.com/mnews/article/421/0009098614?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-05T05:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "3c57ae8ac7cdd6c408608e376cdff637",
           "title": "2028학년도부터는 정시모집할 때 학생부도 본다···‘성적 올인’ 문 좁아져 - 이대학보",
@@ -839,6 +839,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "3a87ac470919fc7b0046bfd581926b0d",
+          "title": "2027학년도 수능 원서접수, 업무처리지침 설명회 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YndvVFctR3oyaEpyMUJzQUlLSFRmeHBETXZ4RUptNDMwM2k1Tm5hTXVUaFhaYkF5VEZITkNpLXVTeFRRSEdZOWR3Nkg3cFVtbEc2T0tyMng0cTJzX2JuOUd3RW1XOVRZ?oc=5",
+          "source": "금강일보",
+          "published": "2026-08-05T06:54:12+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a902449b8d63cc6b90fd37d2711f391e",
           "title": "전문대 수시 원서 현장서 무료 접수… 전국 5개 권역 박람회 9월 개최",
@@ -1121,9 +1131,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
+          "source": "dhinsight.co.kr",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
@@ -1141,9 +1151,9 @@
         },
         {
           "id": "51e388138dd434d67492764170b7e043",
-          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - kyobit.com",
+          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xM1Y2UTU1SlR6MUo4cXRFR3JWUjF4cHZoazV6alF5a0M4YlhiRy05elN5NWV3d3NpUVk0SzB4cHJ2ZDFpdGcwWHhyWG5DUmZUWmpPTEh4YzFHa3YweS10N1hPaGsyQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
