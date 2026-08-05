@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-05T08:39:29.372139+00:00",
+  "updated_at": "2026-08-05T12:07:49.604923+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T08:24:12.746948+00:00",
+          "published": "2026-08-05T11:52:46.738338+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -182,6 +181,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "dc11f9d44212f633e296dc05330b341e",
+          "title": "국교위, 수능 서술·논술형 개편 추진…이 대통령 “고민해 보자” 신중...",
+          "link": "https://n.news.naver.com/mnews/article/028/0002817314?sid=102",
+          "source": "www.hani.co.kr",
+          "published": "2026-08-05T11:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -189,7 +198,7 @@
           "published": "2026-08-05T05:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fa4ad63ded7e210e09e2d00fae8d68d8",
@@ -576,7 +585,7 @@
           "published": "2026-08-05T05:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3c57ae8ac7cdd6c408608e376cdff637",
@@ -840,11 +849,31 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "64fcadcae77f7cd54af9cb2a739a51a7",
+          "title": "대치IDA, 장소 확장…&quot;1:1 컨설팅에서 대단위 입시 설명회까지 한 공간 ...",
+          "link": "https://www.betanews.net/article/view/beta202608040105",
+          "source": "www.betanews.net",
+          "published": "2026-08-05T09:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3a87ac470919fc7b0046bfd581926b0d",
           "title": "2027학년도 수능 원서접수, 업무처리지침 설명회 - 금강일보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YndvVFctR3oyaEpyMUJzQUlLSFRmeHBETXZ4RUptNDMwM2k1Tm5hTXVUaFhaYkF5VEZITkNpLXVTeFRRSEdZOWR3Nkg3cFVtbEc2T0tyMng0cTJzX2JuOUd3RW1XOVRZ?oc=5",
           "source": "금강일보",
           "published": "2026-08-05T06:54:12+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "2853fe3d5b5a85d20fd18481128d58f2",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-05T05:46:43+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1131,9 +1160,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "dhinsight.co.kr",
+          "source": "대학IN",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
