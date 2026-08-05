@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T02:08:02.907258+00:00",
+  "updated_at": "2026-08-05T05:14:34.631785+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T01:52:44.700859+00:00",
+          "published": "2026-08-05T04:59:40.414672+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "b49955d0a75d6640839da604615603f5",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수...",
+          "link": "http://www.metroseoul.co.kr/article/20260805500285",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-08-05T04:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "300a0d6cc4ea250d84f20871021002e1",
+          "title": "스카이입시교육학원 대치동점, 2027학년도 사관학교 2차 면접 대비 설명...",
+          "link": "http://www.e2news.com/news/articleView.html?idxno=332981",
+          "source": "www.e2news.com",
+          "published": "2026-08-05T03:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9f5caaf7ca7d11ed0f197f72f1b262c3",
+          "title": "수능 D-100 카운트다운…&quot;무작정 풀기보다 '몇 문제 더 맞힐지' 정해야&quot;",
+          "link": "https://www.ajunews.com/view/20260805110948356",
+          "source": "www.ajunews.com",
+          "published": "2026-08-05T02:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "94d43d61b4df0e000e49f36192616466",
@@ -32,7 +62,7 @@
           "published": "2026-08-05T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "683a664b4fb56533f3a6d961d79bd5ea",
@@ -162,21 +192,21 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "fa4ad63ded7e210e09e2d00fae8d68d8",
+          "title": "[수시 특집] 2027학년도 서울대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cTRGamJFek84dERtSEFVdWdmZlRKb0VkcDN3bFdLZlhNS3JvNVByNkQ1NUtfejRHeHh6TlFoYzdCVlNuV3p4aGlHLTRoWWI3UXZTUXFfLXhPYXRsemx4Xzl4T0NWT2xScEE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-05T02:57:34+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "1ac9ca44f49a0b772cb0bc9d9dd5a751",
           "title": "2027 을지대 제2캠퍼스 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53698",
           "source": "에듀진",
           "published": "2026-08-05T01:55:34.186448+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "affe212de88d00300786bb83c06c8894",
-          "title": "[수시 특집] 2027학년도 한성대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53737",
-          "source": "에듀진",
-          "published": "2026-08-05T01:55:19.404273+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,21 +562,11 @@
           "is_new": false
         },
         {
-          "id": "d708f979d9e3337e0f25e7abcb93351b",
-          "title": "[2028 체육입시 키워드 ‘다양성’] 스포츠 시장 성장 따라 체육계열 진...",
-          "link": "https://www.naeil.com/news/read/596061?ref=naver",
-          "source": "www.naeil.com",
-          "published": "2026-07-22T04:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
-          "published": "2026-07-22T02:04:13+00:00",
+          "id": "fe502b1559bd68b4d1d7042c48a0d3fa",
+          "title": "종로구, 내달 1일 2027학년도 대입 수시전략 설명회 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReC1Fd1M4ZUlNNjlFS2l2b0hRRXpYTFctX2NUaWtqbmNsVGMwSFJXS0lBZ3hQSkJ0VmlicnNiN1RjaXdBSE1VRDJfUGJCMS1WRHBqV05Ccm8weknSAWBBVV95cUxQbm5MNjZjYXdBLVZINThFdGk4TndmbkIwMF93RWM5REt0Tk9UZ3BXT3RoVHBYa1BScDhxel9RczlYSWUxYXVRcERKTnJqQlNqMFVpbzBtVVlwTjBpTWlsMEI?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-07-22T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -710,7 +730,7 @@
           "published": "2026-08-04T23:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
@@ -827,7 +847,7 @@
           "published": "2026-08-05T01:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ef02fe7df96b44073f11316a593deec7",
@@ -837,7 +857,7 @@
           "published": "2026-08-05T00:59:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "28187a55564e014dc2f6108e615375b7",
@@ -847,7 +867,7 @@
           "published": "2026-08-05T00:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "56402f07c5e14a4bb4b9d71ae2fb2fd1",
@@ -857,7 +877,7 @@
           "published": "2026-08-05T00:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78e41d4acf640817f10a7a80bdcdcee6",
@@ -867,7 +887,7 @@
           "published": "2026-08-04T23:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "39392a19fa46bbbcd263fc43f110916a",
@@ -1121,9 +1141,9 @@
         },
         {
           "id": "51e388138dd434d67492764170b7e043",
-          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - 교육을 비추다",
+          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xM1Y2UTU1SlR6MUo4cXRFR3JWUjF4cHZoazV6alF5a0M4YlhiRy05elN5NWV3d3NpUVk0SzB4cHJ2ZDFpdGcwWHhyWG5DUmZUWmpPTEh4YzFHa3YweS10N1hPaGsyQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1154,7 +1174,7 @@
           "published": "2026-08-05T01:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cdefb61211d6ad0dfcb52bc39b445174",
