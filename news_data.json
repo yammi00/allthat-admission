@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-05T21:15:02.267377+00:00",
+  "updated_at": "2026-08-05T23:06:27.491867+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T21:00:20.681969+00:00",
+          "published": "2026-08-05T22:51:19.721249+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -206,16 +207,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -792,20 +783,20 @@
           "is_new": false
         },
         {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
+          "id": "c1d4c39b4e5163436bdc783388304114",
+          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
+          "source": "edu.chosun.com",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
+          "id": "8a587e50ea2ee6df460a6858549b22b6",
+          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
