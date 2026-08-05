@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:42:11.141536+00:00",
+  "updated_at": "2026-08-05T19:34:51.579465+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T17:27:03.018704+00:00",
+          "published": "2026-08-05T19:19:28.346137+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -209,6 +209,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T04:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "fa4ad63ded7e210e09e2d00fae8d68d8",
