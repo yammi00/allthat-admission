@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:06:27.491867+00:00",
+  "updated_at": "2026-08-06T02:09:43.727894+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-05T22:51:19.721249+00:00",
+          "published": "2026-08-06T01:54:36.330433+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "aae7a681a4e8894d3aac3cfe6a25d902",
+          "title": "'약술형 논술' 5년 새 모집인원 37% 늘어… 내신 3~5등급 수도권 공략",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1399382",
+          "source": "www.m-i.kr",
+          "published": "2026-08-05T23:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b49955d0a75d6640839da604615603f5",
@@ -181,6 +191,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "ad12a8e4c8b616d7343f7c96f45716ec",
+          "title": "[수시 특집] 2027학년도 건국대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53768",
+          "source": "에듀진",
+          "published": "2026-08-06T01:57:02.392693+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "08880935d7d523814f3c3e94d5d05f2e",
+          "title": "수능 절대평가·논술형 도입 검토…하반기 국민 의견 수렴",
+          "link": "https://n.news.naver.com/mnews/article/031/0001047694?sid=102",
+          "source": "www.inews24.com",
+          "published": "2026-08-06T01:43:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "590039ecf883cbb78aa3668d5f9e297f",
+          "title": "약술형 논술 모집 37% 늘고 실시 대학도 2배…중위권 공략 전형으로",
+          "link": "http://www.metroseoul.co.kr/article/20260806500070",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-08-06T00:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "9a40ec2ba59f6e4fdc287332e9d56392",
           "title": "수능 포함 대입 제도 전면 개편한다",
@@ -570,16 +610,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "42f6135e3bbc57c764b34283d0c642a2",
-          "title": "[단독] [2027수시] 한의대 지역인재 10개교 287명 ‘6명 증가’.. 우석대 2명, 동대(WISE) 4명 '증가'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620288",
-          "source": "베리타스알파",
-          "published": "2026-07-22T22:58:07.645563+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -743,6 +773,36 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "3f9b459020b9fe50d963b2328a37b124",
+          "title": "이투스에듀, 내신 3~5등급 수도권 공략…약술형 논술 모집인원 5년 새 3...",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572217014850",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-08-06T00:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fd0c6d367c58e9e1b7fa15576937d5b0",
+          "title": "[유성룡의 입시 포인트] 동국대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/04/2026080480114.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-06T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f9f8a03550f6fc6399ef80141526e319",
+          "title": "약술형 논술 모집 5년 새 37% 증가…내신 3~5등급 수도권 진입 전략 부상",
+          "link": "https://www.newspim.com/news/view/20260806000068",
+          "source": "www.newspim.com",
+          "published": "2026-08-05T23:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f91e08bb5d438f7aa90edb306581601c",
           "title": "[단독] 성균관대 논술 출제위원/합격생이 전한 2027논술 대비법.. &quot;제시...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621957",
@@ -841,16 +901,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "2174a3969bb8efc992a33c6de864f9c9",
-          "title": "[유성룡의 입시 포인트] 숙명여자대학교 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/21/2026072180040.html",
-          "source": "edu.chosun.com",
-          "published": "2026-07-23T00:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -859,6 +909,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "effa38a31e0edfe483493bb80a6abfa4",
+          "title": "[박성경 칼럼] 2027 수시, 지난해 입결만 믿으면 안된다",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1399503",
+          "source": "www.m-i.kr",
+          "published": "2026-08-06T01:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "751c7316e273802fe64aff5420f6add1",
+          "title": "약술형 논술 모집 4년새 37%↑…&quot;전략적 선택 필요&quot;",
+          "link": "https://n.news.naver.com/mnews/article/003/0014111381?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-06T00:37:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "64fcadcae77f7cd54af9cb2a739a51a7",
           "title": "대치IDA, 장소 확장…&quot;1:1 컨설팅에서 대단위 입시 설명회까지 한 공간 ...",
