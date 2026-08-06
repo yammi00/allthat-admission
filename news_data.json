@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T05:25:58.660339+00:00",
+  "updated_at": "2026-08-06T08:34:30.576060+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-06T05:10:47.179886+00:00",
+          "published": "2026-08-06T08:21:36.835565+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,17 @@
           "title": "2027 이화여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53743",
           "source": "에듀진",
-          "published": "2026-08-06T05:10:37.729895+00:00",
+          "published": "2026-08-06T08:21:33.732211+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a66c1af753c32f7f57badfa16729937b",
+          "title": "[심층] &quot;2027학년도 수능, 국어 난이도 오르고 영어 평이할 듯&quot;",
+          "link": "https://n.news.naver.com/mnews/article/657/0000054122?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-08-06T06:44:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -173,16 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "da05b84f06f3e2b9c3c5a268e892515a",
-          "title": "[단독] 한국전통문화대 2026입결.. 정시 수능평균 보존과학 1.5등급 '최고...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620437",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-23T08:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -192,6 +192,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "1c5bef5a7174bd5165a9f05fdb7929ea",
+          "title": "2027 한국기술교육대 학생부교과 일반전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53727",
+          "source": "에듀진",
+          "published": "2026-08-06T08:22:09.108274+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "cd3813a1992562b9767beadb1603b68f",
+          "title": "국립부경대 수시모집 앞두고 '고교생을 위한 전공 찾기' 개최",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622318",
+          "source": "베리타스알파",
+          "published": "2026-08-06T08:22:00.111645+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "aa4017eedd27e2a43dc209e08c07d88f",
+          "title": "스카이입시교육학원, 2027학년도 가천대 약술형논술 대비 9월 정규과정...",
+          "link": "https://www.itbiznews.com/news/articleView.html?idxno=221151",
+          "source": "www.itbiznews.com",
+          "published": "2026-08-06T08:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "18e5347c676f62e004df0306b0f1a700",
           "title": "2027학년도 서울대 수시 분석… 언론정보학과 지역균형 신규 선발",
           "link": "https://edu.donga.com/news/articleView.html?idxno=110510",
@@ -199,7 +229,7 @@
           "published": "2026-08-06T03:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e393f6f432be7f201132954b2e9c16c",
@@ -209,7 +239,7 @@
           "published": "2026-08-06T02:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "08880935d7d523814f3c3e94d5d05f2e",
@@ -907,7 +937,7 @@
           "published": "2026-08-06T03:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "effa38a31e0edfe483493bb80a6abfa4",
@@ -1268,16 +1298,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "e5a10e4b4a4ab84e7905e65c37356b0d",
-          "title": "안양대 “수험생 맞춤 합격 전략 제시” 수시 입학상담 총력",
-          "link": "https://n.news.naver.com/mnews/article/666/0000116360?sid=102",
-          "source": "www.kyeonggi.com",
-          "published": "2026-07-23T07:59:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1286,6 +1306,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "c96df4027c7191bb58a11a81565fc2d3",
+          "title": "스카이입시교육학원 대치동점, 자사고·특목고 자기소개서·면접 컨설팅...",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=304393",
+          "source": "www.ppss.kr",
+          "published": "2026-08-06T08:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "2f626049bf797db29ce9d2883a3fff5c",
           "title": "엠베스트, 특목고·자사고 대비 중2 대상 ‘MINI 자기소개서 작성 트레이...",
