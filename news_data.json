@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T02:09:43.727894+00:00",
+  "updated_at": "2026-08-06T05:25:58.660339+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-06T01:54:36.330433+00:00",
+          "published": "2026-08-06T05:10:47.179886+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6b9dc284e792b565bde6fcca1689875b",
+          "title": "2027 이화여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53743",
+          "source": "에듀진",
+          "published": "2026-08-06T05:10:37.729895+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "aae7a681a4e8894d3aac3cfe6a25d902",
@@ -32,7 +42,7 @@
           "published": "2026-08-05T23:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b49955d0a75d6640839da604615603f5",
@@ -173,16 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e8d330f3f0f7da7eb772b283bddec734",
-          "title": "1~3등급 인서울 바이오학과 종합 등급컷 및 경쟁률 순위",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53507",
-          "source": "에듀진",
-          "published": "2026-07-23T02:06:15.324740+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -192,11 +192,21 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "ad12a8e4c8b616d7343f7c96f45716ec",
-          "title": "[수시 특집] 2027학년도 건국대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53768",
-          "source": "에듀진",
-          "published": "2026-08-06T01:57:02.392693+00:00",
+          "id": "18e5347c676f62e004df0306b0f1a700",
+          "title": "2027학년도 서울대 수시 분석… 언론정보학과 지역균형 신규 선발",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110510",
+          "source": "edu.donga.com",
+          "published": "2026-08-06T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8e393f6f432be7f201132954b2e9c16c",
+          "title": "국가교육위원회, 대입제도 전면 개편 공론화 나선다...2027년 3월 확정",
+          "link": "https://www.m-economynews.com/news/article.html?no=69490",
+          "source": "www.m-economynews.com",
+          "published": "2026-08-06T02:56:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -209,7 +219,7 @@
           "published": "2026-08-06T01:43:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "590039ecf883cbb78aa3668d5f9e297f",
@@ -219,7 +229,7 @@
           "published": "2026-08-06T00:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a40ec2ba59f6e4fdc287332e9d56392",
@@ -590,26 +600,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "8e586f279d7ecc6aac6f982f56a4fe0e",
-          "title": "고려대-경희대 공동연구팀 아시아 기대수명 분석.. '고소득 지역 84.1세...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620304",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-23T04:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "13214eea7ebc432c98247db091df081d",
-          "title": "마지막 선택과목형 수능 앞둔 고3 상담 열기… '2027 수시박람회' 개막[...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=595100",
-          "source": "news.unn.net",
-          "published": "2026-07-23T02:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -780,7 +770,7 @@
           "published": "2026-08-06T00:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fd0c6d367c58e9e1b7fa15576937d5b0",
@@ -790,7 +780,7 @@
           "published": "2026-08-06T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f9f8a03550f6fc6399ef80141526e319",
@@ -800,7 +790,7 @@
           "published": "2026-08-05T23:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f91e08bb5d438f7aa90edb306581601c",
@@ -910,6 +900,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "2a949e44a2bd27cc5e706ee5f5199eb1",
+          "title": "100여일 앞둔 수능 '몇 문제 더 맞힐지' 전략 필요",
+          "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=321143",
+          "source": "www.jejudomin.co.kr",
+          "published": "2026-08-06T03:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "effa38a31e0edfe483493bb80a6abfa4",
           "title": "[박성경 칼럼] 2027 수시, 지난해 입결만 믿으면 안된다",
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1399503",
@@ -917,7 +917,7 @@
           "published": "2026-08-06T01:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "751c7316e273802fe64aff5420f6add1",
@@ -927,7 +927,7 @@
           "published": "2026-08-06T00:37:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "64fcadcae77f7cd54af9cb2a739a51a7",
