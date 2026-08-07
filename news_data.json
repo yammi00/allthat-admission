@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-06T14:27:27.579864+00:00",
+  "updated_at": "2026-08-07T00:07:37.095518+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-06T14:12:34.743962+00:00",
+          "published": "2026-08-06T23:52:35.007359+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +29,20 @@
           "title": "2027 이화여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53743",
           "source": "에듀진",
-          "published": "2026-08-06T14:12:31.342010+00:00",
+          "published": "2026-08-06T23:52:31.028431+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e4232c5711093137ad45abdad3f9e8b7",
+          "title": "수능 D-100일…N수생 역대급 유입에 대응하는 전략은?",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110680",
+          "source": "edu.donga.com",
+          "published": "2026-08-06T23:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a66c1af753c32f7f57badfa16729937b",
@@ -185,7 +196,7 @@
           "title": "국립부경대 수시모집 앞두고 '고교생을 위한 전공 찾기' 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622318",
           "source": "베리타스알파",
-          "published": "2026-08-06T14:14:59.404618+00:00",
+          "published": "2026-08-06T23:55:00.962358+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -596,16 +607,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tbWxKUTFTVnZNYTB6VnZxUXJOaE01NXdUUVhzMl9id3BFaDRKcVhsd1RsaFBUano2SkowUzNkZWFhLUpsWUotMk9OdERoWkh5X3NvVGJCOVhWTjBpYmw2OG1TZEdTVno1ZEE?oc=5",
           "source": "에듀진 인터넷 교육신문",
           "published": "2026-07-24T05:54:55+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "866bc459fcf656abd6c84662cd9be519",
-          "title": "상지대 코엑스서 2027학년도 수시모집 입학정보 제공",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620610",
-          "source": "베리타스알파",
-          "published": "2026-07-23T22:52:41.678070+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1264,16 +1265,6 @@
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=127555",
           "source": "www.popcornnews.net",
           "published": "2026-07-24T01:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "51e388138dd434d67492764170b7e043",
-          "title": "[2027 수시 길잡이⑤] 이공특 수시 2,537명…AI 신설로 340명 증가 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xM1Y2UTU1SlR6MUo4cXRFR3JWUjF4cHZoazV6alF5a0M4YlhiRy05elN5NWV3d3NpUVk0SzB4cHJ2ZDFpdGcwWHhyWG5DUmZUWmpPTEh4YzFHa3YweS10N1hPaGsyQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
