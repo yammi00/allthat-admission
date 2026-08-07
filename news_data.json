@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T05:43:55.820923+00:00",
+  "updated_at": "2026-08-07T07:18:50.331231+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T05:29:01.507545+00:00",
+          "published": "2026-08-07T07:03:29.269343+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-08-07T04:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b9dc284e792b565bde6fcca1689875b",
@@ -202,21 +202,21 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "6a601694a5d4045d9108fa94c8993541",
-          "title": "[수시 특집] 2027학년도 인하대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53786",
+          "id": "e512fcc8f91a7f396e86059c999fd469",
+          "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-07T05:31:34.917447+00:00",
+          "published": "2026-08-07T07:05:57.599167+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "91ab4b451d195209d1225d2acbc18950",
-          "title": "2027 한세대 학생부교과 교과우수자전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53741",
-          "source": "에듀진",
-          "published": "2026-08-07T05:31:24.884810+00:00",
+          "id": "2ade66df678e303f4dce1973ea624cd8",
+          "title": "[수시 특집] 2027학년도 연세대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oc1FxQTdJcHVId25uNW12b3lqN0lXYVk3UmFlMkZ3cnh1WTNiUmJ1OXpOUGRhNm55anRudDNZbGdYcWIyUEVvdXdEeUdMV2huWmhKelMtQ1ZRT0hheFI1d250aUJGUEtRUFE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-07T06:07:05+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -229,7 +229,7 @@
           "published": "2026-08-07T02:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cd3813a1992562b9767beadb1603b68f",
@@ -630,26 +630,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "2bdc8703df52a1f5ee65316c6d5ae700",
-          "title": "[2027수시박람회] 동아대 '동아대~쵸베리구~'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620858",
-          "source": "베리타스알파",
-          "published": "2026-07-24T06:23:00.157701+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ddbbe2dd81520f14a5015bfd3c73dfae",
-          "title": "[수시 특집] 2027학년도 한국외대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tbWxKUTFTVnZNYTB6VnZxUXJOaE01NXdUUVhzMl9id3BFaDRKcVhsd1RsaFBUano2SkowUzNkZWFhLUpsWUotMk9OdERoWkh5X3NvVGJCOVhWTjBpYmw2OG1TZEdTVno1ZEE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-07-24T05:54:55+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -939,6 +919,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "ed56b1997521c32089fe7b2290e4f498",
+          "title": "한아전, 수시 원서접수 일정 전 2027학년도 입학 상담 실시",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223385",
+          "source": "www.job-post.co.kr",
+          "published": "2026-08-07T05:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "2a949e44a2bd27cc5e706ee5f5199eb1",
           "title": "100여일 앞둔 수능 '몇 문제 더 맞힐지' 전략 필요",
@@ -1281,9 +1271,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
+          "source": "dhinsight.co.kr",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
