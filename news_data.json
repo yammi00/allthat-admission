@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-07T07:18:50.331231+00:00",
+  "updated_at": "2026-08-07T09:04:30.034688+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T07:03:29.269343+00:00",
+          "published": "2026-08-07T08:49:26.779803+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -206,10 +205,10 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-07T07:05:57.599167+00:00",
+          "published": "2026-08-07T08:52:00.183870+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ade66df678e303f4dce1973ea624cd8",
@@ -219,7 +218,7 @@
           "published": "2026-08-07T06:07:05+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7f773a23862cba5bb1eb62d8c7355373",
@@ -639,6 +638,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "d411240e30a5fac2c942647521250e50",
+          "title": "[2027수시특집] 숙명여대 2026수시 입결 교과 지역균형 평균 약학 1.1등급...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620780",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-07T08:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "4c56b0df478715784a748418abd3b297",
           "title": "수능 서논술형·절대평가 하반기 공론화…국가교육발전계획 10월 공개",
           "link": "https://n.news.naver.com/mnews/article/421/0009098614?sid=102",
@@ -793,6 +802,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "87698acb09da8fe09a68f3a5ec4cf6d8",
+          "title": "[2027수시특집] 숭실대 입학팀장이 전한 학종가이드.. 서류형 '심화탐구...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618901",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-07T08:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3f9b459020b9fe50d963b2328a37b124",
           "title": "이투스에듀, 내신 3~5등급 수도권 공략…약술형 논술 모집인원 5년 새 3...",
           "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572217014850",
@@ -920,11 +939,21 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "ed56b1997521c32089fe7b2290e4f498",
-          "title": "한아전, 수시 원서접수 일정 전 2027학년도 입학 상담 실시",
-          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223385",
-          "source": "www.job-post.co.kr",
-          "published": "2026-08-07T05:52:00+00:00",
+          "id": "feb714ff0973b53f89ff8bd07b907a56",
+          "title": "[2027수시특집] 숙명여대 1095명(50.9%) '유지'.. 교과 지역균형 '서류평...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620767",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-07T08:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d8799a5de53bfefd4a477656cf9b224f",
+          "title": "한아전, 수시 원서접수 일정 전 2027학년도 입학 상담 실시 - 잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iNndrUU1sNjFyNDZqY09CVE9oNmQ0UFNubnM3Y2dTVGI1Z1pCeTE0OGNqOTZ3MnFDYVlKQ1h3MWQ3dHJ1czlaNm1XZ3dMd0NudHVOd3lUSTktVTBSbXR2cTRwZ2prb3RIajhCS2tn0gFyQVVfeXFMTUd6emgxbkgxMXdkN1ZlbHdEV2hNMGwyaGxXeWhsRy1BYXdBMDhzSFpBS2VnSTgyX2xlRHlvQWJjQkpFQ1hIbG5jaGZWeEFNZjR5MGVTZFl2Um1rODV5eVRhLWNsWXQ4NWNvdC14aVZDODlR?oc=5",
+          "source": "잡포스트",
+          "published": "2026-08-07T05:51:54+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -981,9 +1010,9 @@
         },
         {
           "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-05T05:46:43+00:00",
           "type": "news",
           "grade": "all",
@@ -1271,9 +1300,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "dhinsight.co.kr",
+          "source": "대학IN",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
