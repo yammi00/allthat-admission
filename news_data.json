@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T02:32:09.733625+00:00",
+  "updated_at": "2026-08-07T05:43:55.820923+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T02:17:21.665527+00:00",
+          "published": "2026-08-07T05:29:01.507545+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1c8cd81ed67986b879e9eeeaf8f1c1ce",
+          "title": "2027 대입 전형별 맞춤 수능 학습전략 살펴보기",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/07/2026080780084.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-07T04:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6b9dc284e792b565bde6fcca1689875b",
@@ -192,21 +202,31 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "1c5bef5a7174bd5165a9f05fdb7929ea",
-          "title": "2027 한국기술교육대 학생부교과 일반전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53727",
+          "id": "6a601694a5d4045d9108fa94c8993541",
+          "title": "[수시 특집] 2027학년도 인하대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53786",
           "source": "에듀진",
-          "published": "2026-08-07T02:19:55.169485+00:00",
+          "published": "2026-08-07T05:31:34.917447+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "91ab4b451d195209d1225d2acbc18950",
+          "title": "2027 한세대 학생부교과 교과우수자전형 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53741",
+          "source": "에듀진",
+          "published": "2026-08-07T05:31:24.884810+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
         },
         {
-          "id": "6a601694a5d4045d9108fa94c8993541",
-          "title": "[수시 특집] 2027학년도 인하대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53786",
-          "source": "에듀진",
-          "published": "2026-08-07T02:19:46.725956+00:00",
+          "id": "7f773a23862cba5bb1eb62d8c7355373",
+          "title": "숨은 N수생 유입 규모 안갯속… ‘9월 모평=수능 가늠자’ 공식 깨졌다",
+          "link": "https://n.news.naver.com/mnews/article/021/0002809906?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-07T02:48:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -312,16 +332,6 @@
           "is_new": false
         },
         {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T04:18:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "fa4ad63ded7e210e09e2d00fae8d68d8",
           "title": "[수시 특집] 2027학년도 서울대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cTRGamJFek84dERtSEFVdWdmZlRKb0VkcDN3bFdLZlhNS3JvNVByNkQ1NUtfejRHeHh6TlFoYzdCVlNuV3p4aGlHLTRoWWI3UXZTUXFfLXhPYXRsemx4Xzl4T0NWT2xScEE?oc=5",
@@ -422,10 +432,10 @@
           "is_new": false
         },
         {
-          "id": "078303f0dcad290fa0afea185026c23d",
-          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0RFZiakJaV19sMjVYTHIxS0dNd3hKOTViS0U1QnREQjNid1l4ZkdPeHJoYlI4RW5leHQ4Y1dTdnRMUUNlYmwxWWY0b1RvNTQ?oc=5",
-          "source": "v.daum.net",
+          "id": "87d55cb9ef345097f1aad931ee3c6f20",
+          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uOTEyWC14bElrbDFiQWlmaW0zT1ZDU0pQcXo1X2dJMjM3ZzZlYThHazNKdWlIakJUNUM0Y2h3NWROR3ZWM1BDMzZxblJyMy1yUWJOMEo1S195YXVhVUUwMV8xV2d2eXM5YXc?oc=5",
+          "source": "hidomin.com",
           "published": "2026-08-02T04:46:11+00:00",
           "type": "news",
           "grade": "3",
@@ -844,9 +854,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -918,16 +928,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lVXlIUkdRWldFRFdJWTZyTk51a3gtRDdvYUZySlRZcmtjTnlmbmhYVnNjTmNBdHFnZUJBTWx0dkIxTmFSR2RQTk5hd0YzYjNPZkRWdnd6TnJNbThIbl85U3pEUzlqQQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-26T00:59:58+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b590b4f1b79de436927212440f865818",
-          "title": "여름방학 활용한 2027학년도 대입 논술 대비",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=110275",
-          "source": "edu.donga.com",
-          "published": "2026-07-24T04:38:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
