@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-07T10:59:41.788636+00:00",
+  "updated_at": "2026-08-07T13:00:23.607439+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T10:44:35.899622+00:00",
+          "published": "2026-08-07T12:45:25.595627+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-08-07T09:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "840413bd94dc3876dbc9afb7bbf3101d",
@@ -42,7 +41,7 @@
           "published": "2026-08-07T08:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1c8cd81ed67986b879e9eeeaf8f1c1ce",
@@ -226,7 +225,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-07T10:47:09.486633+00:00",
+          "published": "2026-08-07T12:47:54.756065+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -260,6 +259,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "02f72a853258bdda89077d03d7fe2a01",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-07T01:17:21+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "aa4017eedd27e2a43dc209e08c07d88f",
