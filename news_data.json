@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-07T09:04:30.034688+00:00",
+  "updated_at": "2026-08-07T10:59:41.788636+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T08:49:26.779803+00:00",
+          "published": "2026-08-07T10:44:35.899622+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d0730f07f0e73ec2235715efb90800e7",
+          "title": "[교육정보] 2027학년도 수능 D-100일 대비 전략",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902970",
+          "source": "www.chungnamilbo.co.kr",
+          "published": "2026-08-07T09:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "840413bd94dc3876dbc9afb7bbf3101d",
+          "title": "[2027수시특집] 한양대 2026입결 정시 수능 백분위 80% 평균 의예 98.38 '최...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=616047",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-07T08:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1c8cd81ed67986b879e9eeeaf8f1c1ce",
@@ -205,7 +226,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-07T08:52:00.183870+00:00",
+          "published": "2026-08-07T10:47:09.486633+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -619,16 +640,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "de12abe53d3b959b765c5f597ef113e9",
-          "title": "[단독] 가톨릭대 2027수시 지원전략 '합격가이드' 공개.. '입결부터 면접문항 합격사례까지 총망라'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620729",
-          "source": "베리타스알파",
-          "published": "2026-07-24T10:12:47.148094+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -645,7 +656,17 @@
           "published": "2026-08-07T08:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "4ecb380dae3f18e0da602cd129b50732",
+          "title": "“서술형·논술형 도입 추진” 대입제도 개편 예고에…교육계 공감·우...",
+          "link": "https://www.kukinews.com/article/view/kuk202608060086",
+          "source": "www.kukinews.com",
+          "published": "2026-08-06T08:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "4c56b0df478715784a748418abd3b297",
@@ -809,7 +830,7 @@
           "published": "2026-08-07T08:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3f9b459020b9fe50d963b2328a37b124",
@@ -946,7 +967,7 @@
           "published": "2026-08-07T08:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d8799a5de53bfefd4a477656cf9b224f",
@@ -956,7 +977,7 @@
           "published": "2026-08-07T05:51:54+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2a949e44a2bd27cc5e706ee5f5199eb1",
@@ -1010,9 +1031,9 @@
         },
         {
           "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-05T05:46:43+00:00",
           "type": "news",
           "grade": "all",
