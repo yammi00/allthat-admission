@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T20:35:34.417350+00:00",
+  "updated_at": "2026-08-08T22:35:43.935908+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T20:20:39.630641+00:00",
+          "published": "2026-08-08T22:20:46.839129+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T20:23:08.740989+00:00",
+          "published": "2026-08-08T22:23:17.263850+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,10 +245,20 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T20:23:04.951459+00:00",
+          "published": "2026-08-08T22:23:13.673654+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "15ae23a16ddb4308f8594263e89aa9e0",
+          "title": "수능 100일 앞으로…&quot;수시든 정시든 전략과목에 집중해야&quot;",
+          "link": "https://n.news.naver.com/mnews/article/001/0016240415?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-08-08T21:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f390f047b0076919e24fa4fca321bf48",
