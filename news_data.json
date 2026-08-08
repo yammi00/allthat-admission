@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:54:33.715542+00:00",
+  "updated_at": "2026-08-08T08:46:39.397573+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T06:39:08.216641+00:00",
+          "published": "2026-08-08T08:31:36.723227+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T06:41:43.356878+00:00",
+          "published": "2026-08-08T08:34:04.704651+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,7 +245,7 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T06:41:39.016266+00:00",
+          "published": "2026-08-08T08:34:00.559711+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -258,7 +258,7 @@
           "published": "2026-08-08T06:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "014848d90d1f4483ca806cdc342353c7",
@@ -268,7 +268,7 @@
           "published": "2026-08-08T06:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ade66df678e303f4dce1973ea624cd8",
@@ -705,7 +705,7 @@
           "published": "2026-08-07T08:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4ecb380dae3f18e0da602cd129b50732",
@@ -879,7 +879,7 @@
           "published": "2026-08-08T04:53:26+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "87698acb09da8fe09a68f3a5ec4cf6d8",
