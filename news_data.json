@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T01:19:52.480767+00:00",
+  "updated_at": "2026-08-08T03:33:15.044070+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T01:04:28.250201+00:00",
+          "published": "2026-08-08T03:18:26.352396+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a56e1093206af000d582effc698f72c1",
+          "title": "&quot;짧은 시간 내에, 빠르게, 정확히&quot;… 서바이벌 전국 모의고사 시행반 운...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110511",
+          "source": "edu.donga.com",
+          "published": "2026-08-08T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d0730f07f0e73ec2235715efb90800e7",
@@ -225,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T01:06:58.077055+00:00",
+          "published": "2026-08-08T03:20:52.428057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,10 +245,10 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T01:06:54.015119+00:00",
+          "published": "2026-08-08T03:20:49.120489+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ade66df678e303f4dce1973ea624cd8",
@@ -893,9 +903,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -986,7 +996,7 @@
           "published": "2026-08-07T23:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "feb714ff0973b53f89ff8bd07b907a56",
