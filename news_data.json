@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T03:33:15.044070+00:00",
+  "updated_at": "2026-08-08T05:04:53.078822+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T03:18:26.352396+00:00",
+          "published": "2026-08-08T04:49:17.222199+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-08-08T03:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d0730f07f0e73ec2235715efb90800e7",
@@ -235,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T03:20:52.428057+00:00",
+          "published": "2026-08-08T04:51:47.112439+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,7 +245,7 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T03:20:49.120489+00:00",
+          "published": "2026-08-08T04:51:42.718525+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
