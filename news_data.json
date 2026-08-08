@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:46:39.397573+00:00",
+  "updated_at": "2026-08-08T10:38:35.815540+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T08:31:36.723227+00:00",
+          "published": "2026-08-08T10:23:31.846253+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T08:34:04.704651+00:00",
+          "published": "2026-08-08T10:26:03.771418+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,7 +245,7 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T08:34:00.559711+00:00",
+          "published": "2026-08-08T10:25:59.217898+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -873,9 +873,9 @@
       "items": [
         {
           "id": "acd625d5989c9932671147d814dd13c6",
-          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - 교육을 비추다",
+          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQ0F4LU1Va3l0U2kxZktOSGlXamZpSjNLMWc2SGJFaUI1dC00RDhVemRCWHVjWU54OW95cE9ZQXRrWk1PRG81ZV9PS3BVcEkwWjlsRWFkbkVtbmlPYWtzY19FNm8zQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-08T04:53:26+00:00",
           "type": "news",
           "grade": "all",
@@ -1019,6 +1019,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "b327ca8f19d791dd628d60c48d108fcb",
+          "title": "서울과학기술대학교, 2027학년도 수시 1,747명 선발… 양자융합물리학과 신설 - kyobit.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwcy1vNDl5d3F5XzFPUHBaaFotX3k2QkZrWHV2WnFxSnV2QkowN3puTi0zVnZxLUtVVk1hUlJjejFXVHBUNmNMaTJSM294WTU5TmJCOGYwcHZkUHJUZUloYU1hSnJ6QQ?oc=5",
+          "source": "kyobit.com",
+          "published": "2026-08-08T10:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "34d23bf0b2dd201e0f56967228762026",
           "title": "'개편 전 마지막 수능' D-100⋯남은 기간 성적 올릴 전략은",
           "link": "https://www.etoday.co.kr/news/view/2612142",
@@ -1100,9 +1110,9 @@
         },
         {
           "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-05T05:46:43+00:00",
           "type": "news",
           "grade": "all",
@@ -1390,9 +1400,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "dhinsight.co.kr",
+          "source": "대학IN",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
