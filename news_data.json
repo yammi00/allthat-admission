@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T22:42:57.977370+00:00",
+  "updated_at": "2026-08-08T01:19:52.480767+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-07T22:27:32.830129+00:00",
+          "published": "2026-08-08T01:04:28.250201+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -225,10 +225,20 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-07T22:30:12.849734+00:00",
+          "published": "2026-08-08T01:06:58.077055+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2723d4d3d16999f7fa1b42c41e11be15",
+          "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
+          "source": "에듀진",
+          "published": "2026-08-08T01:06:54.015119+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2ade66df678e303f4dce1973ea624cd8",
@@ -883,9 +893,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -968,6 +978,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "34d23bf0b2dd201e0f56967228762026",
+          "title": "'개편 전 마지막 수능' D-100⋯남은 기간 성적 올릴 전략은",
+          "link": "https://www.etoday.co.kr/news/view/2612142",
+          "source": "www.etoday.co.kr",
+          "published": "2026-08-07T23:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "feb714ff0973b53f89ff8bd07b907a56",
           "title": "[2027수시특집] 숙명여대 1095명(50.9%) '유지'.. 교과 지역균형 '서류평...",
