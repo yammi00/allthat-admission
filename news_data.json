@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T20:38:27.990774+00:00",
+  "updated_at": "2026-08-09T22:36:39.956584+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-09T20:23:00.003313+00:00",
+          "published": "2026-08-09T22:21:57.648806+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,7 +245,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-09T20:25:35.934328+00:00",
+          "published": "2026-08-09T22:24:24.618335+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -255,10 +255,20 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-09T20:25:31.559981+00:00",
+          "published": "2026-08-09T22:24:20.903670+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a6f9790b9f52a5461c6eea5e33d1f63b",
+          "title": "AI가 쏘아올린 세 갈래 대입 개편…달라진 대통령 발언에 공론화까진 ‘...",
+          "link": "https://n.news.naver.com/mnews/article/005/0001865874?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-08-09T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "36d92fa1f6560fded893751edb8753a0",
@@ -352,9 +362,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -1079,6 +1089,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "066ca91de47cfcff52bb2abbfcb25a63",
+          "title": "집중·냉정·안배·전형…수능 D-100 수험생 7계명 '주목'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014116733?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-09T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "650e0c0d59cbd2a94c8975cc11b82634",
           "title": "2027 수능 D-100…“공부량보다 전략, 몇 문제 더 맞힐지 정하라” - kyongbuk.co.kr",
