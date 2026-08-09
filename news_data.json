@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-09T01:24:28.383513+00:00",
+  "updated_at": "2026-08-09T03:41:37.617379+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-09T01:08:58.400523+00:00",
+          "published": "2026-08-09T03:26:46.951713+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -236,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-09T01:11:32.206803+00:00",
+          "published": "2026-08-09T03:29:14.150230+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -246,10 +245,20 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-09T01:11:27.398764+00:00",
+          "published": "2026-08-09T03:29:10.902057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "920feca6eab27c1afa9896cb90a5ace7",
+          "title": "수능 100일 전… 수시·정시 전략 세워 목표 대학 노려라",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=874515",
+          "source": "www.gokorea.kr",
+          "published": "2026-08-09T01:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "dc032dffb6f9243bcd691c1d79a880ac",
@@ -259,7 +268,7 @@
           "published": "2026-08-08T23:55:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "15ae23a16ddb4308f8594263e89aa9e0",
@@ -562,6 +571,16 @@
           "is_new": false
         },
         {
+          "id": "705e214039aa070eac1f6501b0ae6b26",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
+          "source": "잡포스트",
+          "published": "2026-08-01T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "d5933eeacf08376f607a06f01bb74d1d",
           "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
@@ -719,6 +738,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "0903918d41edaa13e885800483eb8f92",
+          "title": "수능 D-100 막판 전략…수학 중위권 ‘포기 단원’ 줄여야",
+          "link": "https://n.news.naver.com/mnews/article/011/0004649894?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-08-09T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "69a89885a7bb943cc246da1da104793b",
           "title": "[2027수시특집] 홍익대 &quot;창의성 융합역량 자기주도성 갖춘 학생 선발&quot;",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=620823",
@@ -784,7 +813,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b913e2fb266263c552d6ac5a02e758b0",
@@ -1422,9 +1451,9 @@
         },
         {
           "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
+          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - dhinsight.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
+          "source": "dhinsight.co.kr",
           "published": "2026-07-26T23:44:45+00:00",
           "type": "news",
           "grade": "all",
