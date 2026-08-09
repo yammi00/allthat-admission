@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T06:57:16.609719+00:00",
+  "updated_at": "2026-08-09T08:48:33.023813+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-09T06:42:32.803512+00:00",
+          "published": "2026-08-09T08:33:32.217070+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +235,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-09T06:45:01.917946+00:00",
+          "published": "2026-08-09T08:36:07.585456+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,10 +245,20 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-09T06:44:58.500735+00:00",
+          "published": "2026-08-09T08:36:02.895564+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "36d92fa1f6560fded893751edb8753a0",
+          "title": "2027학년도 마지막 통합 수능·지역의사제까지… N수생 역대 최다 몰린...",
+          "link": "https://www.kbmaeil.com/article/20260809500529",
+          "source": "www.kbmaeil.com",
+          "published": "2026-08-09T07:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "920feca6eab27c1afa9896cb90a5ace7",
@@ -1070,11 +1080,21 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "1bb0dfafff3a2c4a9d3ed173a6b1eb99",
-          "title": "[그래픽] 2027학년도 수능 주요 일정 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UV00tTWtjbWpfTklwbGVZZkkwYThvekZzd0V2djBrbEhyZ2JlQllZaTRpTE9kS1BIN05xLWRwMy1scllodm5nOVpWenR4RFE?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-08-09T05:24:00+00:00",
+          "id": "650e0c0d59cbd2a94c8975cc11b82634",
+          "title": "2027 수능 D-100…“공부량보다 전략, 몇 문제 더 맞힐지 정하라” - kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ERUZ6RFJWZmVhQTIteUZTU0RmQjFXcHRhM3NoRWxoeDRMNi13dXF5N3ZiQXp0UXhpNzRQOUd4ZVBRU1ZCR3RvbjhteUlzb09nbW9nTjZPTGpibmMyaGw1NU9wWGF2LUs1dGktN1UySQ?oc=5",
+          "source": "kyongbuk.co.kr",
+          "published": "2026-08-09T07:03:16+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7bdf2e970946a17415663ec2f4b218cc",
+          "title": "[그래픽] 2027학년도 수능 주요 일정 - yna.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CNnJtZ1hDaEtRS3JLaEJvZUp1WEU2cnY5b1B1NXpXQWhvcFNjVmhvNDFqRFZ3NnpkWWF1TkdUNEQ0ZGgySXliQXRuZjNSU0FEbVh6OGNMcG9PNTTSAWBBVV95cUxOOWdZUFJXX1hLRGRSdGo5ZkN0eVhxTEhBZ201Smc2T3dDRW1KMU1aZkVFYjFFUi1jcmNNZ3NTTldudzNEVjZSM1g1Y0RyWWhPYTBQdTliVXVobDZLc2g2NU4?oc=5",
+          "source": "yna.co.kr",
+          "published": "2026-08-09T05:23:04+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
