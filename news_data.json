@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-08T22:35:43.935908+00:00",
+  "updated_at": "2026-08-09T01:24:28.383513+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-08T22:20:46.839129+00:00",
+          "published": "2026-08-09T01:08:58.400523+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -235,7 +236,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-08T22:23:17.263850+00:00",
+          "published": "2026-08-09T01:11:32.206803+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,10 +246,20 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-08T22:23:13.673654+00:00",
+          "published": "2026-08-09T01:11:27.398764+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "dc032dffb6f9243bcd691c1d79a880ac",
+          "title": "“남은 100일이 등급 가른다”…수능 D-100 막판 전략은[세상&amp;]",
+          "link": "https://n.news.naver.com/mnews/article/016/0002681263?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-08-08T23:55:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "15ae23a16ddb4308f8594263e89aa9e0",
@@ -258,7 +269,7 @@
           "published": "2026-08-08T21:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f390f047b0076919e24fa4fca321bf48",
@@ -765,6 +776,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "3a1fb7a5cbdc251ed5b24b0c68db9063",
+          "title": "교육부, 재외교육기관장과 함께 케이(K)-교육의 미래를 논하다",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773785",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-09T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b913e2fb266263c552d6ac5a02e758b0",
           "title": "교육부, 상반기 진로체험 인증기관 391개 선정",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772547",
@@ -1007,16 +1029,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621006",
           "source": "www.veritas-a.com",
           "published": "2026-07-27T08:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "192d4919ba78a967f4a3b319c5950978",
-          "title": "서울과기대, '2027 모의논술' 3문항 100분... 풀이 과정 없으면 0점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lVXlIUkdRWldFRFdJWTZyTk51a3gtRDdvYUZySlRZcmtjTnlmbmhYVnNjTmNBdHFnZUJBTWx0dkIxTmFSR2RQTk5hd0YzYjNPZkRWdnd6TnJNbThIbl85U3pEUzlqQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-26T00:59:58+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
