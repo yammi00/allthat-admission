@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-10T09:26:03.290759+00:00",
+  "updated_at": "2026-08-10T11:15:54.624160+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T09:10:47.581025+00:00",
+          "published": "2026-08-10T11:01:09.839017+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,30 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T09:10:40.861011+00:00",
+          "published": "2026-08-10T11:01:05.129398+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "65332ccaac9cbd7679f0512ab7fd5bf8",
+          "title": "수능 100일 앞으로…마지막 전략 세워라",
+          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1093182",
+          "source": "www.ccdn.co.kr",
+          "published": "2026-08-10T10:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "edc9e6d8f5be17c399b734acd7b9df4a",
+          "title": "서논술형 시험, 30년 수능 흔드나…①채점 ②수용성 ③사교육 등 쟁점",
+          "link": "https://n.news.naver.com/mnews/article/081/0003669087?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-08-10T08:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a619fbee8aa1ff3fe00c37ecc727e324",
@@ -42,7 +61,7 @@
           "published": "2026-08-10T07:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f81f0b12136148fcfd7fe6c972d27242",
@@ -52,7 +71,7 @@
           "published": "2026-08-10T07:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1cec5690a64dec8df24ac82058a5888c",
@@ -296,7 +315,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T09:13:27.576407+00:00",
+          "published": "2026-08-10T11:03:44.775377+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -306,17 +325,27 @@
           "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
           "source": "베리타스알파",
-          "published": "2026-08-10T09:13:11.758569+00:00",
+          "published": "2026-08-10T11:03:34.756093+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "afd6263b80721f43d78d7e78f7459284",
           "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
           "source": "베리타스알파",
-          "published": "2026-08-10T09:13:11.758504+00:00",
+          "published": "2026-08-10T11:03:34.756036+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c788b28e6abb6028a76de00eb3d0ecd0",
+          "title": "수능 D-100…이제는 '더 많이'보다 '어떻게'가 중요",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=919616",
+          "source": "www.namdonews.com",
+          "published": "2026-08-10T09:14:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -329,7 +358,7 @@
           "published": "2026-08-10T09:05:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9714c218b4a99fdf99721c33a5966015",
@@ -339,7 +368,7 @@
           "published": "2026-08-10T07:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e414a59d37346105741c2b1a5362c6a7",
@@ -363,9 +392,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -849,16 +878,6 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "c788b28e6abb6028a76de00eb3d0ecd0",
-          "title": "수능 D-100…이제는 '더 많이'보다 '어떻게'가 중요",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=919616",
-          "source": "www.namdonews.com",
-          "published": "2026-08-10T09:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "e173ee6f8562e8fa51dbc3dffc36b420",
           "title": "[임성호의 입시 레이다] 2027학년도 수능 D-100일 전략",
           "link": "https://edu.donga.com/news/articleView.html?idxno=110751",
@@ -1125,9 +1144,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1191,6 +1210,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "fcbcee371ecf5ff5300c2e5e14b1e93b",
+          "title": "오늘 수능 D-100…정교한 학습플랜 대입 당락 가른다",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=919636",
+          "source": "www.namdonews.com",
+          "published": "2026-08-10T10:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1870568d97ae961a5d56527bb99acb23",
           "title": "교실 밖에서도 수능시계는 간다… 마지막 선택형 수능 D-100",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260810010003111",
@@ -1198,7 +1227,7 @@
           "published": "2026-08-10T09:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "16161ab848da37445eba8664055ba7b6",
@@ -1208,7 +1237,7 @@
           "published": "2026-08-10T07:23:15+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "046afa97d6f26cceea49d0246a22406c",
