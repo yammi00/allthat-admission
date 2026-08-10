@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:15:54.624160+00:00",
+  "updated_at": "2026-08-10T13:07:13.394439+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T11:01:09.839017+00:00",
+          "published": "2026-08-10T12:52:23.626576+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T11:01:05.129398+00:00",
+          "published": "2026-08-10T12:52:19.975428+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-10T10:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edc9e6d8f5be17c399b734acd7b9df4a",
@@ -51,7 +51,7 @@
           "published": "2026-08-10T08:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a619fbee8aa1ff3fe00c37ecc727e324",
@@ -315,7 +315,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T11:03:44.775377+00:00",
+          "published": "2026-08-10T12:54:55.140315+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,7 +325,7 @@
           "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
           "source": "베리타스알파",
-          "published": "2026-08-10T11:03:34.756093+00:00",
+          "published": "2026-08-10T12:54:45.063075+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
           "source": "베리타스알파",
-          "published": "2026-08-10T11:03:34.756036+00:00",
+          "published": "2026-08-10T12:54:45.063010+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -348,7 +348,7 @@
           "published": "2026-08-10T09:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8762927482058a4fcb38452c95a7d6d3",
@@ -392,9 +392,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -522,9 +522,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -1144,9 +1144,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1217,7 +1217,7 @@
           "published": "2026-08-10T10:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1870568d97ae961a5d56527bb99acb23",
@@ -1248,6 +1248,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "7c31b9b5b55cd754ba3480ac05b67bc2",
+          "title": "수시 합격하면 등록 안 해도 정시 못 간다…2027 대입 지원 유의사항 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55YzJuYnV5SXV1d2I5V3VhTmV3NHdWRnRHekJLaW1qWGtzRWxTS1ctT2syeDNOQXNBMXk2ZFh5dWw0ZUZxa3Roa1BNdE1oR2xkc1plWmdBT3lYOEZ1QXJXWlg5bWk1QQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-10T05:34:21+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "32eab92e401965559f00467b9b3327b3",
