@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T04:01:23.383782+00:00",
+  "updated_at": "2026-08-10T05:34:01.416867+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T03:46:26.916893+00:00",
+          "published": "2026-08-10T05:18:50.550460+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +29,10 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T03:46:21.747357+00:00",
+          "published": "2026-08-10T05:18:45.154153+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e23ffd574956dc5aee1817299539c539",
@@ -42,7 +42,7 @@
           "published": "2026-08-10T01:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d9f01c81dd3d7428b14701922ed9e856",
@@ -266,10 +266,10 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T03:48:56.638015+00:00",
+          "published": "2026-08-10T05:21:20.771703+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
@@ -279,7 +279,7 @@
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4f2b57e335639cb649dd20f6864341c0",
@@ -770,16 +770,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "71253b91a6b17b0c4c647c3b1f73c30d",
-          "title": "[임성호의 입시 레이다] 2026학년도 서울권 소재대 내신 합격점수 평균...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=110337",
-          "source": "edu.donga.com",
-          "published": "2026-07-27T04:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -796,7 +786,7 @@
           "published": "2026-08-10T02:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0903918d41edaa13e885800483eb8f92",
@@ -1537,6 +1527,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "9d867eb6647b74a845d7053731587046",
+          "title": "[단독] [2027전국자사고] 상산고 2027요강 '최초공개'.. 정원내 336명 '동일'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622599",
+          "source": "베리타스알파",
+          "published": "2026-08-10T05:31:37.793905+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "c96df4027c7191bb58a11a81565fc2d3",
           "title": "스카이입시교육학원 대치동점, 자사고·특목고 자기소개서·면접 컨설팅...",
