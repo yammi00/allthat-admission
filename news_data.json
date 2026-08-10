@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-09T22:36:39.956584+00:00",
+  "updated_at": "2026-08-10T01:23:35.057210+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-09T22:21:57.648806+00:00",
+          "published": "2026-08-10T01:10:49.109605+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,7 +246,7 @@
           "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
           "source": "에듀진",
-          "published": "2026-08-09T22:24:24.618335+00:00",
+          "published": "2026-08-10T01:13:16.746488+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -255,10 +256,30 @@
           "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
           "source": "에듀진",
-          "published": "2026-08-09T22:24:20.903670+00:00",
+          "published": "2026-08-10T01:13:13.082976+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4f2b57e335639cb649dd20f6864341c0",
+          "title": "[필독서 따라잡기/대입논술출전] 정의란 무엇인가 ‘2024학년 홍익대 논술전형 인문계열(오후) 문제2’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622483",
+          "source": "베리타스알파",
+          "published": "2026-08-10T01:13:10.619080+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a9818f8ef46572e2ad5ad429bf3e25dc",
+          "title": "‘2027수시 지원전략 출발점’ 대학별 제공 프로그램",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622491",
+          "source": "베리타스알파",
+          "published": "2026-08-10T01:13:10.619053+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a6f9790b9f52a5461c6eea5e33d1f63b",
@@ -268,7 +289,7 @@
           "published": "2026-08-09T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "36d92fa1f6560fded893751edb8753a0",
@@ -456,6 +477,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -953,6 +984,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "0bb3517c8af4e2353a27f56ecd3f6830",
+          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - 스마트비즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NUNHQVByeTMyMmFrWFl6UFd0UmJTXzRnd2NfVEgwSkxRWVgwTkRQVWp6TFJkdmplbDJoRzRLSjJ5a1ZlYnhLUTN4YVBsSnlKZi1hTnU4VWVzX1NyWVJwTjRTN0xPUTRlZ2hGMg?oc=5",
+          "source": "스마트비즈",
+          "published": "2026-08-10T00:28:18+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "acd625d5989c9932671147d814dd13c6",
           "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQ0F4LU1Va3l0U2kxZktOSGlXamZpSjNLMWc2SGJFaUI1dC00RDhVemRCWHVjWU54OW95cE9ZQXRrWk1PRG81ZV9PS3BVcEkwWjlsRWFkbkVtbmlPYWtzY19FNm8zQQ?oc=5",
@@ -1090,6 +1131,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "32eab92e401965559f00467b9b3327b3",
+          "title": "수능 D-100, 마지막 70여 일 학습 전략은",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110723",
+          "source": "edu.donga.com",
+          "published": "2026-08-10T00:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "0fff92051fd662e40b406b5cbedb9804",
+          "title": "[온라인폴] 어디가 대입 AI 상담, 활용하시겠습니까",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622476",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-10T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "066ca91de47cfcff52bb2abbfcb25a63",
           "title": "집중·냉정·안배·전형…수능 D-100 수험생 7계명 '주목'",
           "link": "https://n.news.naver.com/mnews/article/003/0014116733?sid=102",
@@ -1097,7 +1158,7 @@
           "published": "2026-08-09T22:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "650e0c0d59cbd2a94c8975cc11b82634",
@@ -1478,46 +1539,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "0c0683b12c6bba64c45087d64b34dda9",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGfSAXBBVV95cUxPUHBYRWR3dkEzbVNEYTQxSXBrTzg1Q0hCeDZGVXljUENYdzl2MTIzako5eHhCZ1NtR0tmbjFBZFRFS1hDNlVaeWQxZjN3eDA0bFFuY0taLTBWNFgyZnltZ1FxR3hXeTJNd1o0dE8tYjRn?oc=5",
-          "source": "대학IN",
-          "published": "2026-07-27T00:12:12+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3d90b863d77e483fcbfcf4f1af4f3d10",
-          "title": "대입캘린더 (26/07/31~)",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=620935",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-27T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ccb09987c6a9e1c06d14ec2a9c30a795",
-          "title": "숭실사이버대학교, 2026학년도 2학기 신·편입생 추가모집 시작",
-          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52664",
-          "source": "www.enetnews.co.kr",
-          "published": "2026-07-26T23:58:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d4a121acdbd9520f9f5b6681c0fa84c0",
-          "title": "[2027 수시모집] 27만 7583명 선발, 지난해보다 1700여명 증가 - 대학IN",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWZ2WlNiMlpTMFV4bHhKSTlOWHBnM0lsVHdUZHphSmxQNl9NcC1ydnBZbzJsdjZoUnpwTS1kMk45a1h1Zk00akZuYXNIN0lzTFJzMDZnMTlCdm52UFlpQ3RtMm85ZjhQTk9Ca9IBcEFVX3lxTE9QcFhFZHd2QTNtU0RhNDFJcGtPODVDSEJ4NkZVeWNQQ1h3OXYxMjNqSjl4eEJnU21HS2ZuMUFkVEVLWEM2VVp5ZDFmM3d4MDRsUW5jS1otMFY0WDJmeW1nUXFHeFd5Mk13WjR0Ty1iNGc?oc=5",
-          "source": "대학IN",
-          "published": "2026-07-26T23:44:45+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1572,26 +1593,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009082799?sid=102",
           "source": "www.news1.kr",
           "published": "2026-07-28T02:05:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "cc1fdbb1236ea7416034e6990f0209a0",
-          "title": "메가스터디교육 중등 인강 엠베스트, 2028 대입 개편·내신 5등급제 시대...",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/24/2026072480083.html",
-          "source": "edu.chosun.com",
-          "published": "2026-07-27T00:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d02c12ec7a4555c4b0387d8ce6636627",
-          "title": "내신 5등급제 시대, 고교 선택도 전략이다-'고등학교 선택의 기준' 출간",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=84725",
-          "source": "www.mediafine.co.kr",
-          "published": "2026-07-26T23:36:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
