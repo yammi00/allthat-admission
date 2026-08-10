@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T16:58:26.254795+00:00",
+  "updated_at": "2026-08-10T19:01:20.652389+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T16:45:35.833028+00:00",
+          "published": "2026-08-10T18:45:55.561298+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T16:45:31.375961+00:00",
+          "published": "2026-08-10T18:45:49.326425+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,7 +325,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T16:48:12.061277+00:00",
+          "published": "2026-08-10T18:48:35.011459+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
           "source": "베리타스알파",
-          "published": "2026-08-10T16:48:00.002448+00:00",
+          "published": "2026-08-10T18:48:21.462154+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -345,7 +345,7 @@
           "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
           "source": "베리타스알파",
-          "published": "2026-08-10T16:48:00.002377+00:00",
+          "published": "2026-08-10T18:48:21.462082+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -358,7 +358,7 @@
           "published": "2026-08-10T15:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c788b28e6abb6028a76de00eb3d0ecd0",
@@ -782,9 +782,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
+          "source": "job-post.co.kr",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1237,7 +1237,7 @@
           "published": "2026-08-10T15:25:20+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fcbcee371ecf5ff5300c2e5e14b1e93b",
