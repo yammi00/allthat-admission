@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T01:23:35.057210+00:00",
+  "updated_at": "2026-08-10T04:01:23.383782+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T01:10:49.109605+00:00",
+          "published": "2026-08-10T03:46:26.916893+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "23b21d7d881b7b7e63e6add9ba063b7b",
+          "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
+          "source": "에듀진",
+          "published": "2026-08-10T03:46:21.747357+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e23ffd574956dc5aee1817299539c539",
+          "title": "수능 D-100일… 전문가가 전하는 과목별 막판 스퍼트 전략",
+          "link": "https://n.news.naver.com/mnews/article/081/0003668923?sid=101",
+          "source": "www.seoul.co.kr",
+          "published": "2026-08-10T01:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d9f01c81dd3d7428b14701922ed9e856",
@@ -242,24 +262,24 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "e512fcc8f91a7f396e86059c999fd469",
-          "title": "2027 경인교대 학생부교과 학교장추천전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53749",
+          "id": "cdb62fee1b57374d46f2f4c0b79068a0",
+          "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T01:13:16.746488+00:00",
+          "published": "2026-08-10T03:48:56.638015+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "2723d4d3d16999f7fa1b42c41e11be15",
-          "title": "[수시 특집] 2027학년도 서경대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53795",
-          "source": "에듀진",
-          "published": "2026-08-10T01:13:13.082976+00:00",
+          "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "4f2b57e335639cb649dd20f6864341c0",
@@ -269,7 +289,7 @@
           "published": "2026-08-10T01:13:10.619080+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a9818f8ef46572e2ad5ad429bf3e25dc",
@@ -279,7 +299,7 @@
           "published": "2026-08-10T01:13:10.619053+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a6f9790b9f52a5461c6eea5e33d1f63b",
@@ -477,16 +497,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -770,26 +780,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0ebc76e289d001287e99e765e7649438",
-          "title": "공교육 벼랑끝 내몬 교육부 2027수시 두 달 앞두고 ‘비상’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621003",
-          "source": "베리타스알파",
-          "published": "2026-07-27T02:15:24.172795+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6ef4dbb09c54ece755eeacfba6af8f2b",
-          "title": "[2027수시특집] '4년제대 취업률 1위' 한국기술교육대 746명(83.3%) 모집.. 계약학과 반도체디스플레이공 '20명 확대'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621002",
-          "source": "베리타스알파",
-          "published": "2026-07-27T02:15:24.172762+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -798,6 +788,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "e173ee6f8562e8fa51dbc3dffc36b420",
+          "title": "[임성호의 입시 레이다] 2027학년도 수능 D-100일 전략",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110751",
+          "source": "edu.donga.com",
+          "published": "2026-08-10T02:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "0903918d41edaa13e885800483eb8f92",
           "title": "수능 D-100 막판 전략…수학 중위권 ‘포기 단원’ 줄여야",
@@ -991,7 +991,7 @@
           "published": "2026-08-10T00:28:18+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "acd625d5989c9932671147d814dd13c6",
@@ -1138,7 +1138,7 @@
           "published": "2026-08-10T00:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0fff92051fd662e40b406b5cbedb9804",
@@ -1148,7 +1148,7 @@
           "published": "2026-08-10T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "066ca91de47cfcff52bb2abbfcb25a63",
@@ -1526,16 +1526,6 @@
           "link": "https://www.inews365.com/news/article.html?no=929628",
           "source": "www.inews365.com",
           "published": "2026-07-28T08:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "97f8067a96d48dbec8cb1d7053366276",
-          "title": "대치동 K-고수교육, '2027 수시 논술 대비 대학별 개별 맞춤 논술반' 오...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388865",
-          "source": "www.fntoday.co.kr",
-          "published": "2026-07-27T01:40:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
