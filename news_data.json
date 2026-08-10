@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:36:56.728388+00:00",
+  "updated_at": "2026-08-10T09:26:03.290759+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T07:18:12.902263+00:00",
+          "published": "2026-08-10T09:10:47.581025+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +29,30 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T07:18:05.361835+00:00",
+          "published": "2026-08-10T09:10:40.861011+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a619fbee8aa1ff3fe00c37ecc727e324",
+          "title": "수시 “전략과목에 집중 투자”...정시 “모든 영역 고른 학습을”",
+          "link": "https://www.kbmaeil.com/article/20260809500484",
+          "source": "www.kbmaeil.com",
+          "published": "2026-08-10T07:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f81f0b12136148fcfd7fe6c972d27242",
+          "title": "2027학년도 수능 D-100일 학습대책과 대비전략",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174472",
+          "source": "www.ggilbo.com",
+          "published": "2026-08-10T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1cec5690a64dec8df24ac82058a5888c",
@@ -42,7 +62,7 @@
           "published": "2026-08-10T06:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e23ffd574956dc5aee1817299539c539",
@@ -276,10 +296,50 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T07:21:21.168695+00:00",
+          "published": "2026-08-10T09:13:27.576407+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "76e801a9b37cb809422c937abc5fc520",
+          "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
+          "source": "베리타스알파",
+          "published": "2026-08-10T09:13:11.758569+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "afd6263b80721f43d78d7e78f7459284",
+          "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
+          "source": "베리타스알파",
+          "published": "2026-08-10T09:13:11.758504+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8762927482058a4fcb38452c95a7d6d3",
+          "title": "수능 D-100…&quot;수시든 정시든 전략과목부터 잡아라&quot;",
+          "link": "https://n.news.naver.com/mnews/article/015/0005319288?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-10T09:05:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9714c218b4a99fdf99721c33a5966015",
+          "title": "[수능 D-100] &quot;시간이 빠르게 간다는 게 느껴져요&quot;…폭염도 꺾지 못한 고...",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174468",
+          "source": "www.ggilbo.com",
+          "published": "2026-08-10T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e414a59d37346105741c2b1a5362c6a7",
@@ -289,7 +349,7 @@
           "published": "2026-08-10T06:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "657d4c8eef5c4cd91d1b065d0a1f8920",
@@ -299,7 +359,7 @@
           "published": "2026-08-10T05:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
@@ -780,16 +840,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "378a2c1891c9fb6ed6fc7e9bad17d36e",
-          "title": "[단독] '수요자친화' 2027수시 교과점수 산출 프로그램 10개교.. 숭실대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621063",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-27T08:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -798,6 +848,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "c788b28e6abb6028a76de00eb3d0ecd0",
+          "title": "수능 D-100…이제는 '더 많이'보다 '어떻게'가 중요",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=919616",
+          "source": "www.namdonews.com",
+          "published": "2026-08-10T09:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "e173ee6f8562e8fa51dbc3dffc36b420",
           "title": "[임성호의 입시 레이다] 2027학년도 수능 D-100일 전략",
@@ -1122,16 +1182,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "7672b36d41912f1abbbcf0402455ae64",
-          "title": "[단독]서울여대 2027논술가이드북 '기출부터 입결까지'.. '좋은 논쟁' '과...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621006",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-27T08:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1141,6 +1191,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "1870568d97ae961a5d56527bb99acb23",
+          "title": "교실 밖에서도 수능시계는 간다… 마지막 선택형 수능 D-100",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260810010003111",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-08-10T09:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "16161ab848da37445eba8664055ba7b6",
+          "title": "2027학년도 수능 주요 일정 - Haninpost",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XWDUxWnlNeXJGTFBjSDRfaEdOZG81QWhzbWt3MkJhYjVNbGhZYjhzYW9za3MxMnllOHAtSUtKQS1tRmYzZ2ZiVTdDNUEyZw?oc=5",
+          "source": "Haninpost",
+          "published": "2026-08-10T07:23:15+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "046afa97d6f26cceea49d0246a22406c",
           "title": "수능 D-100, 고3의 시간은 더디게 흐른다…교육청의 할 일은 ‘응원’보...",
           "link": "https://www.viva100.com/article/20260810500997",
@@ -1148,7 +1218,7 @@
           "published": "2026-08-10T06:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "32eab92e401965559f00467b9b3327b3",
