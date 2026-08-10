@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:34:01.416867+00:00",
+  "updated_at": "2026-08-10T07:36:56.728388+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T05:18:50.550460+00:00",
+          "published": "2026-08-10T07:18:12.902263+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +29,20 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T05:18:45.154153+00:00",
+          "published": "2026-08-10T07:18:05.361835+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1cec5690a64dec8df24ac82058a5888c",
+          "title": "[윤한울의 입시큐레이팅] '교과과정 내 출제'의 함정, 아이들의 지적 성...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110771",
+          "source": "edu.donga.com",
+          "published": "2026-08-10T06:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e23ffd574956dc5aee1817299539c539",
@@ -266,10 +276,30 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T05:21:20.771703+00:00",
+          "published": "2026-08-10T07:21:21.168695+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e414a59d37346105741c2b1a5362c6a7",
+          "title": "내일이면 수능 D-100 &quot;EBS 연계 체감도 올릴 것…연계율 50%&quot;",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=567064",
+          "source": "www.newsgn.com",
+          "published": "2026-08-10T06:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "657d4c8eef5c4cd91d1b065d0a1f8920",
+          "title": "대입 개편 전 '마지막 수능' D-100일...&quot;실전처럼 생활습관 맞춰야&quot;",
+          "link": "https://n.news.naver.com/mnews/article/008/0005397837?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-08-10T05:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
@@ -760,16 +790,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "002231a16e6d7e639c0813ecf315bcd5",
-          "title": "2027 강남대 학생부교과 지역균형전형 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53579",
-          "source": "에듀진",
-          "published": "2026-07-27T06:59:28.566200+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1120,6 +1140,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "046afa97d6f26cceea49d0246a22406c",
+          "title": "수능 D-100, 고3의 시간은 더디게 흐른다…교육청의 할 일은 ‘응원’보...",
+          "link": "https://www.viva100.com/article/20260810500997",
+          "source": "www.viva100.com",
+          "published": "2026-08-10T06:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "32eab92e401965559f00467b9b3327b3",
           "title": "수능 D-100, 마지막 70여 일 학습 전략은",
@@ -1535,7 +1565,7 @@
           "published": "2026-08-10T05:31:37.793905+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c96df4027c7191bb58a11a81565fc2d3",
