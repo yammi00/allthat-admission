@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:07:13.394439+00:00",
+  "updated_at": "2026-08-10T15:06:38.120621+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T12:52:23.626576+00:00",
+          "published": "2026-08-10T14:51:51.391048+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T12:52:19.975428+00:00",
+          "published": "2026-08-10T14:51:41.582098+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e38e8230934ab497519f9855c003cc6b",
+          "title": "'수능 D-100일' 전략은...6월 모평 대비 국어 변별력 강화될 듯",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=556361",
+          "source": "www.idaegu.co.kr",
+          "published": "2026-08-10T13:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "65332ccaac9cbd7679f0512ab7fd5bf8",
@@ -315,7 +325,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T12:54:55.140315+00:00",
+          "published": "2026-08-10T14:54:25.432683+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,7 +335,7 @@
           "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
           "source": "베리타스알파",
-          "published": "2026-08-10T12:54:45.063075+00:00",
+          "published": "2026-08-10T14:54:13.968361+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +345,7 @@
           "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
           "source": "베리타스알파",
-          "published": "2026-08-10T12:54:45.063010+00:00",
+          "published": "2026-08-10T14:54:13.968294+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -392,9 +402,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -522,9 +532,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -1144,9 +1154,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1230,16 +1240,6 @@
           "is_new": false
         },
         {
-          "id": "16161ab848da37445eba8664055ba7b6",
-          "title": "2027학년도 수능 주요 일정 - Haninpost",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XWDUxWnlNeXJGTFBjSDRfaEdOZG81QWhzbWt3MkJhYjVNbGhZYjhzYW9za3MxMnllOHAtSUtKQS1tRmYzZ2ZiVTdDNUEyZw?oc=5",
-          "source": "Haninpost",
-          "published": "2026-08-10T07:23:15+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "046afa97d6f26cceea49d0246a22406c",
           "title": "수능 D-100, 고3의 시간은 더디게 흐른다…교육청의 할 일은 ‘응원’보...",
           "link": "https://www.viva100.com/article/20260810500997",
@@ -1257,7 +1257,7 @@
           "published": "2026-08-10T05:34:21+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "32eab92e401965559f00467b9b3327b3",
