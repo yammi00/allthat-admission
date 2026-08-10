@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:01:20.652389+00:00",
+  "updated_at": "2026-08-10T20:49:31.423414+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T18:45:55.561298+00:00",
+          "published": "2026-08-10T20:34:05.065544+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T18:45:49.326425+00:00",
+          "published": "2026-08-10T20:34:00.759572+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,7 +325,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T18:48:35.011459+00:00",
+          "published": "2026-08-10T20:36:44.418635+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "전진협 '2027수시대비' 2차 수시 바라기교사 연수 개최",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622614",
           "source": "베리타스알파",
-          "published": "2026-08-10T18:48:21.462154+00:00",
+          "published": "2026-08-10T20:36:34.450115+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -345,10 +345,20 @@
           "title": "[2027전문대수시특집] ‘보건의료 직업교육 혁신대학’ 춘해보건대 589명(95.9%).. 간호학과 264명 ‘10명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622648",
           "source": "베리타스알파",
-          "published": "2026-08-10T18:48:21.462082+00:00",
+          "published": "2026-08-10T20:36:34.450038+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "421de7dcb3503895d89ab7901fbe7007",
+          "title": "[사설] 2028 통합 체제 새 수능, 시작도 전에 계륵 전락",
+          "link": "https://n.news.naver.com/mnews/article/088/0001023016?sid=110",
+          "source": "www.imaeil.com",
+          "published": "2026-08-10T20:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "74b4a6c9e81b4c287b89adcc422f304c",
@@ -1229,6 +1239,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "f7fee1036ebd12372eafe8aa3e795639",
+          "title": "인하대, 수시 지도 바꾼다…지역의사·첨단바이오 확대",
+          "link": "https://n.news.naver.com/mnews/article/030/0003456065?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-10T19:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3e0852e5b56cdf5ceea2e1e70d1d08f7",
           "title": "수능 D-100일 \"이 날짜 놓치면 1년 더 공부해야\" 수능원서 접수기간 언제 - gukjenews.com",
