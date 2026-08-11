@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-11T01:24:26.392919+00:00",
+  "updated_at": "2026-08-11T03:43:54.508350+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T01:09:26.359708+00:00",
+          "published": "2026-08-11T03:28:56.382996+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +29,20 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-11T01:09:21.098787+00:00",
+          "published": "2026-08-11T03:28:52.510737+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d44d83e7b31cbff380a44d7fe8208744",
+          "title": "[토크ON] ① 현행 대입 체제 '막차' 수능 D-100···2027학년도 대입 특...",
+          "link": "https://n.news.naver.com/mnews/article/657/0000054253?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-08-11T01:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c52030e01e61e5b81d0026e97ffc2262",
@@ -355,17 +366,27 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T01:12:04.647930+00:00",
+          "published": "2026-08-11T03:31:32.183478+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "8f6284571f0b23f59d10f500d6988c68",
-          "title": "[수시 특집] 2027학년도 서울과기대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53813",
+          "id": "ddf516c644303512c693f6d74eb4609c",
+          "title": "[수시 특집] 2027학년도 국민대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53816",
           "source": "에듀진",
-          "published": "2026-08-11T01:11:52.292157+00:00",
+          "published": "2026-08-11T03:31:19.770580+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d7ecaaf94bde74072519877d4922b350",
+          "title": "[2027전문대수시특집] '마이스터대 AID전환 등 사업선정 두각' 연성대 2067명(95.7%).. ‘안양 유일’ 간호학과 ‘40명 증원’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622736",
+          "source": "베리타스알파",
+          "published": "2026-08-11T03:31:18.854933+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -378,7 +399,7 @@
           "published": "2026-08-11T01:11:51.448536+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "76e801a9b37cb809422c937abc5fc520",
@@ -472,9 +493,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -1025,6 +1046,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "b7196075ed55e56e52fb0a02276454e0",
+          "title": "2027학년도 수능 응시원서 접수가 8월 24일(월)부터 시작됩니다",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774029",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-11T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3a1fb7a5cbdc251ed5b24b0c68db9063",
           "title": "교육부, 재외교육기관장과 함께 케이(K)-교육의 미래를 논하다",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156773785",
@@ -1224,9 +1256,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1290,6 +1322,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8d78e74350a65f3dda66e60f70f7ee7b",
+          "title": "2027학년도 수능 원서접수 24일부터…내달 4일 마감",
+          "link": "https://n.news.naver.com/mnews/article/011/0004650555?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-08-11T02:23:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "31abfd2ed0b923e69ebb270edbf73c69",
           "title": "베테랑스에듀, 2027학년도 재외국민 전형 지원 자격과 일정 안내",
           "link": "https://n.news.naver.com/mnews/article/022/0004150028?sid=101",
@@ -1297,7 +1339,7 @@
           "published": "2026-08-11T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21ccd08f38924c8b54667171b2bcb7b2",
@@ -1822,16 +1864,6 @@
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260729010008815",
           "source": "www.joongdo.co.kr",
           "published": "2026-07-29T07:12:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "7e1e970e9a27ac0f3d9d9b336b325b45",
-          "title": "내신 5등급제 바꿔도 '1등급 없는 학교' 여전…고3 45개교 1등급 '0명'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009082799?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-07-28T02:05:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
