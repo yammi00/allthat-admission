@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-11T20:51:02.299951+00:00",
+  "updated_at": "2026-08-11T22:49:45.601207+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T20:36:23.944514+00:00",
+          "published": "2026-08-11T22:34:27.417509+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +29,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-11T20:36:19.906241+00:00",
+          "published": "2026-08-11T22:34:20.955631+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +466,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T20:39:01.820873+00:00",
+          "published": "2026-08-11T22:37:16.139191+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +476,7 @@
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-11T20:38:49.336928+00:00",
+          "published": "2026-08-11T22:36:57.362051+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +486,7 @@
           "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
           "source": "에듀진",
-          "published": "2026-08-11T20:38:48.168325+00:00",
+          "published": "2026-08-11T22:36:55.626277+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +496,7 @@
           "title": "[단독] 서울대 고려대 등 11개 상위대학 입학처가 공개한 2027 면접 대비법.. ‘학생부 숙지부터 질문 의도 파악까지’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622828",
           "source": "베리타스알파",
-          "published": "2026-08-11T20:38:46.867401+00:00",
+          "published": "2026-08-11T22:36:54.349189+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -672,9 +673,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -1506,9 +1507,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1560,16 +1561,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-29T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "4b1217a7d8f32f8a106eb204f98616e3",
-          "title": "[거인의어깨 입시컨설팅] 2027학년도 성균관대 수시등급·지원전략",
-          "link": "https://www.newspim.com/news/view/20260706001084",
-          "source": "www.newspim.com",
-          "published": "2026-07-28T22:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
