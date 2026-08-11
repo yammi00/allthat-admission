@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:44:39.505591+00:00",
+  "updated_at": "2026-08-11T01:24:26.392919+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-10T22:29:18.192312+00:00",
+          "published": "2026-08-11T01:09:26.359708+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-10T22:29:12.150743+00:00",
+          "published": "2026-08-11T01:09:21.098787+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,17 +41,17 @@
           "published": "2026-08-10T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8604cd68531bf774f644aa56421840a8",
-          "title": "[수능 D-100] 현행 대입 체제 마지막 수능…&quot;여러 변수 흔들리지 말고 기...",
+          "title": "[수능 D-100] 현행 대입 체제 마지막 수능…대비 전략은?",
           "link": "https://n.news.naver.com/mnews/article/088/0001023021?sid=102",
           "source": "www.imaeil.com",
           "published": "2026-08-10T21:31:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "39ad9925487f861da8f1db39bd15718b",
@@ -61,7 +61,7 @@
           "published": "2026-08-10T21:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e38e8230934ab497519f9855c003cc6b",
@@ -355,10 +355,30 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-10T22:31:58.442959+00:00",
+          "published": "2026-08-11T01:12:04.647930+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "8f6284571f0b23f59d10f500d6988c68",
+          "title": "[수시 특집] 2027학년도 서울과기대 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53813",
+          "source": "에듀진",
+          "published": "2026-08-11T01:11:52.292157+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "cd6582d2b6b7362b3ccf4ce624ede44e",
+          "title": "인천대 입학관리과 전국 고교 교사 대상 'INU 학생부종합전형 교사 연수'개최",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622697",
+          "source": "베리타스알파",
+          "published": "2026-08-11T01:11:51.448536+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "76e801a9b37cb809422c937abc5fc520",
@@ -1134,9 +1154,9 @@
       "items": [
         {
           "id": "0bb3517c8af4e2353a27f56ecd3f6830",
-          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - 스마트비즈",
+          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - smartbizn.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NUNHQVByeTMyMmFrWFl6UFd0UmJTXzRnd2NfVEgwSkxRWVgwTkRQVWp6TFJkdmplbDJoRzRLSjJ5a1ZlYnhLUTN4YVBsSnlKZi1hTnU4VWVzX1NyWVJwTjRTN0xPUTRlZ2hGMg?oc=5",
-          "source": "스마트비즈",
+          "source": "smartbizn.com",
           "published": "2026-08-10T00:28:18+00:00",
           "type": "news",
           "grade": "all",
@@ -1270,6 +1290,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "31abfd2ed0b923e69ebb270edbf73c69",
+          "title": "베테랑스에듀, 2027학년도 재외국민 전형 지원 자격과 일정 안내",
+          "link": "https://n.news.naver.com/mnews/article/022/0004150028?sid=101",
+          "source": "www.segye.com",
+          "published": "2026-08-11T00:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "21ccd08f38924c8b54667171b2bcb7b2",
           "title": "2027 수능 D-100, 대비 전략은?…\"지금껏 공부한 내용 완성할 때\" - 노컷뉴스",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDLW9QSEx2TThMYktWbkRjc2xvSmV4ck9SMkVGMmViQ3NzdFRqMktnT2VtQVM4SGRLbmljZFpwY1k2WVkzVGdqTXFoam9FcHlOT1E?oc=5",
@@ -1277,7 +1307,7 @@
           "published": "2026-08-10T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f7fee1036ebd12372eafe8aa3e795639",
