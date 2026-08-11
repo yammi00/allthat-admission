@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-11T09:01:22.243801+00:00",
+  "updated_at": "2026-08-11T10:58:14.668372+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T08:46:10.742791+00:00",
+          "published": "2026-08-11T10:43:36.424854+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,40 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-11T08:46:06.546162+00:00",
+          "published": "2026-08-11T10:43:32.895343+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2d48875d2b325d68a7b2752cdfa8b766",
+          "title": "문학은 EBS 연계작품 집중, 수학은 4점짜리 문항 정답률 높여야",
+          "link": "https://n.news.naver.com/mnews/article/658/0000152055?sid=102",
+          "source": "www.kookje.co.kr",
+          "published": "2026-08-11T10:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "824b491f9d4d9058f6d9cae7c46cf1b5",
+          "title": "수능 99일 앞으로… ‘난이도 中’ 유형 집중 공략할 때",
+          "link": "https://n.news.naver.com/mnews/article/014/0005560165?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-08-11T09:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "58b8f7b9958aa262f5aada0d0ce69072",
+          "title": "올해 놓치면 입시 확 바뀐다…올 수능 N수생·지역의사제가 가른다 [세...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002682489?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-08-11T08:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f6b599cbd4bd1331b01aa20b2c2926bc",
@@ -42,7 +71,7 @@
           "published": "2026-08-11T08:31:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "61e254e252bc57226b578e100963ed7b",
@@ -52,7 +81,7 @@
           "published": "2026-08-11T07:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5ac9863bb1d215315a588c869cb9d57f",
@@ -62,7 +91,7 @@
           "published": "2026-08-11T07:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "30eced46d66e9732a6530a647d11c686",
@@ -426,7 +455,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T08:48:53.938706+00:00",
+          "published": "2026-08-11T10:46:14.307269+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -436,7 +465,7 @@
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-11T08:48:39.777677+00:00",
+          "published": "2026-08-11T10:46:01.351365+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -446,7 +475,7 @@
           "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
           "source": "에듀진",
-          "published": "2026-08-11T08:48:38.479458+00:00",
+          "published": "2026-08-11T10:46:00.371455+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -456,20 +485,10 @@
           "title": "[단독] 서울대 고려대 등 11개 상위대학 입학처가 공개한 2027 면접 대비법.. ‘학생부 숙지부터 질문 의도 파악까지’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622828",
           "source": "베리타스알파",
-          "published": "2026-08-11T08:48:37.508559+00:00",
+          "published": "2026-08-11T10:45:58.929516+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "58b8f7b9958aa262f5aada0d0ce69072",
-          "title": "올해 놓치면 입시 확 바뀐다…올 수능 N수생·지역의사제가 가른다 [세...",
-          "link": "https://n.news.naver.com/mnews/article/016/0002682489?sid=102",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-08-11T08:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1fcfbd0c427242fb30bacb51615a6bc1",
@@ -479,7 +498,7 @@
           "published": "2026-08-11T08:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "772fd861ab8ca360cefb63d1bc409013",
@@ -489,7 +508,7 @@
           "published": "2026-08-11T07:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dceb47b08480113da3c375bc872eccd0",
@@ -499,7 +518,7 @@
           "published": "2026-08-11T07:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a1ff4d2c5204fe6d914e9f631b8d8fa5",
@@ -623,9 +642,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -847,16 +866,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1116,7 +1125,7 @@
           "published": "2026-08-11T08:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c63ebeafeb66b29275c09abbcdf0092d",
@@ -1373,7 +1382,7 @@
           "published": "2026-08-11T07:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "725151ad3c02b9e971a2cd17b4ae5c91",
@@ -1383,7 +1392,7 @@
           "published": "2026-08-11T07:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0bb3517c8af4e2353a27f56ecd3f6830",
@@ -1457,9 +1466,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1523,6 +1532,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "41ebc5da8d1b1d3a5e2e899e08a6aa7e",
+          "title": "[입시의 정석] 수능 D-100…&quot;무작정 많이? '어떻게'가 중요&quot;",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60757046/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-08-11T09:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f2a2f131b23d8e3428426182f689aa9c",
           "title": "수능 D-100…수험생·학부모가 저장해야 할 5개 날짜 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qdUVfcU4xZ3pzVUtKdFJGS1BRRjdBRzBPWU8xSDJraEw5WTR2N3VUc01RbnR3dEg0MEdHZHlDdUVpTDJfRE1LU1dtXzdtbmdJMU45dC1hQ2JaZ9IBWEFVX3lxTFBvZzZqcGJNM2k4NVFoX0xCeF9jRFduZGdKVURTc2hmMVI0em9JSkx6VVhhVlVHanBJb3N6cjhhNXFKdmRYRmJJcEZSeUxHcEhFRUktZEpBUHo?oc=5",
@@ -1530,7 +1549,7 @@
           "published": "2026-08-11T07:33:25+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a55f8a1e4c75b7d4a43840fab88d83c2",
@@ -1540,7 +1559,7 @@
           "published": "2026-08-11T02:22:03+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "31abfd2ed0b923e69ebb270edbf73c69",
