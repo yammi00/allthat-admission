@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T03:43:54.508350+00:00",
+  "updated_at": "2026-08-11T05:15:12.079181+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T03:28:56.382996+00:00",
+          "published": "2026-08-11T05:00:02.175788+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "2027 국민대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53774",
           "source": "에듀진",
-          "published": "2026-08-11T03:28:52.510737+00:00",
+          "published": "2026-08-11T04:59:57.561271+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -42,7 +42,7 @@
           "published": "2026-08-11T01:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c52030e01e61e5b81d0026e97ffc2262",
@@ -366,7 +366,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T03:31:32.183478+00:00",
+          "published": "2026-08-11T05:02:45.621194+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -376,20 +376,20 @@
           "title": "[수시 특집] 2027학년도 국민대 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53816",
           "source": "에듀진",
-          "published": "2026-08-11T03:31:19.770580+00:00",
+          "published": "2026-08-11T05:02:30.415113+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d7ecaaf94bde74072519877d4922b350",
           "title": "[2027전문대수시특집] '마이스터대 AID전환 등 사업선정 두각' 연성대 2067명(95.7%).. ‘안양 유일’ 간호학과 ‘40명 증원’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622736",
           "source": "베리타스알파",
-          "published": "2026-08-11T03:31:18.854933+00:00",
+          "published": "2026-08-11T05:02:28.810523+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cd6582d2b6b7362b3ccf4ce624ede44e",
@@ -493,9 +493,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -623,9 +623,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -960,16 +960,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "f9de7d890ad36c931099d01e74e24319",
-          "title": "한국교원대 2027학년도 수시 대학입학정보 박람회 성황리 마무리",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621203",
-          "source": "베리타스알파",
-          "published": "2026-07-28T05:01:07.874766+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1046,6 +1036,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "ccabda9b71163851d7507975675abdbd",
+          "title": "[보도자료] &quot;국민과 함께 그리는 미래 대입제도&quot; 지역 현장의 목소리를 듣습니다",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774054",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-11T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b7196075ed55e56e52fb0a02276454e0",
           "title": "2027학년도 수능 응시원서 접수가 8월 24일(월)부터 시작됩니다",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774029",
@@ -1054,7 +1055,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3a1fb7a5cbdc251ed5b24b0c68db9063",
@@ -1186,9 +1187,9 @@
       "items": [
         {
           "id": "0bb3517c8af4e2353a27f56ecd3f6830",
-          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - smartbizn.com",
+          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - 스마트비즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NUNHQVByeTMyMmFrWFl6UFd0UmJTXzRnd2NfVEgwSkxRWVgwTkRQVWp6TFJkdmplbDJoRzRLSjJ5a1ZlYnhLUTN4YVBsSnlKZi1hTnU4VWVzX1NyWVJwTjRTN0xPUTRlZ2hGMg?oc=5",
-          "source": "smartbizn.com",
+          "source": "스마트비즈",
           "published": "2026-08-10T00:28:18+00:00",
           "type": "news",
           "grade": "all",
@@ -1256,9 +1257,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1329,7 +1330,7 @@
           "published": "2026-08-11T02:23:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "31abfd2ed0b923e69ebb270edbf73c69",
