@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-11T05:15:12.079181+00:00",
+  "updated_at": "2026-08-11T07:09:28.297506+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,10 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T05:00:02.175788+00:00",
+          "published": "2026-08-11T06:54:11.767673+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "08c61b05c4432b633b8dabd44a4f8452",
+          "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
+          "source": "에듀진",
+          "published": "2026-08-11T06:54:06.022011+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "30eced46d66e9732a6530a647d11c686",
+          "title": "'빛날 미래를 위해' 수능 D-100 [한강로 사진관]",
+          "link": "https://n.news.naver.com/mnews/article/022/0004150130?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-08-11T06:43:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f3501123c5ff1ebef48af3b0f2140b9e",
+          "title": "수능 D-100…“남은 100일, 공부량보다 전략이 성패 가른다”",
+          "link": "http://www.breaknews.com/1228132",
+          "source": "www.breaknews.com",
+          "published": "2026-08-11T05:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "23b21d7d881b7b7e63e6add9ba063b7b",
@@ -366,20 +395,40 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T05:02:45.621194+00:00",
+          "published": "2026-08-11T06:56:58.658750+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "ddf516c644303512c693f6d74eb4609c",
-          "title": "[수시 특집] 2027학년도 국민대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53816",
+          "id": "e7857c087b97041f7254493c5513b91c",
+          "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-11T05:02:30.415113+00:00",
+          "published": "2026-08-11T06:56:39.725509+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "93a7101f518ad7f925b24f79984f92e2",
+          "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
+          "source": "에듀진",
+          "published": "2026-08-11T06:56:37.996715+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a1ff4d2c5204fe6d914e9f631b8d8fa5",
+          "title": "'수능 D-100' 의대 입학 등 문구 빽빽이…&quot;재수 안돼&quot; 학원가 문전성시",
+          "link": "https://n.news.naver.com/mnews/article/421/0009107942?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-11T05:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d7ecaaf94bde74072519877d4922b350",
@@ -623,9 +672,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -717,6 +766,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -969,6 +1028,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "c63ebeafeb66b29275c09abbcdf0092d",
+          "title": "고교생 사교육비 7조8천억 시대…영종구, 무료 대입상담으로 '입시 정보...",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=712019",
+          "source": "www.newstown.co.kr",
+          "published": "2026-08-11T06:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8bb2f243d292f0f5b56fa37cb4df9045",
+          "title": "수능 D-100, 올해는 다르다…영어·사탐런에 흔들리지 않으려면",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/11/2026081180122.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-11T05:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "e173ee6f8562e8fa51dbc3dffc36b420",
           "title": "[임성호의 입시 레이다] 2027학년도 수능 D-100일 전략",
           "link": "https://edu.donga.com/news/articleView.html?idxno=110751",
@@ -1044,7 +1123,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b7196075ed55e56e52fb0a02276454e0",
