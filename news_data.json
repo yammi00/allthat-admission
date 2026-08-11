@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:58:14.668372+00:00",
+  "updated_at": "2026-08-11T13:14:44.493682+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T10:43:36.424854+00:00",
+          "published": "2026-08-11T12:46:39.378207+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-11T10:43:32.895343+00:00",
+          "published": "2026-08-11T12:46:34.374938+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3709d80fffb13abdf911c4fe60ea36fb",
+          "title": "[앵커 브리핑] 수능 D-100···대입 성공 전략은?",
+          "link": "https://n.news.naver.com/mnews/article/657/0000054279?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-08-11T12:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2d48875d2b325d68a7b2752cdfa8b766",
@@ -41,7 +51,7 @@
           "published": "2026-08-11T10:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "824b491f9d4d9058f6d9cae7c46cf1b5",
@@ -51,7 +61,7 @@
           "published": "2026-08-11T09:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "58b8f7b9958aa262f5aada0d0ce69072",
@@ -61,7 +71,7 @@
           "published": "2026-08-11T08:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f6b599cbd4bd1331b01aa20b2c2926bc",
@@ -455,7 +465,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T10:46:14.307269+00:00",
+          "published": "2026-08-11T12:51:30.856364+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +475,7 @@
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-11T10:46:01.351365+00:00",
+          "published": "2026-08-11T12:51:15.574641+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +485,7 @@
           "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
           "source": "에듀진",
-          "published": "2026-08-11T10:46:00.371455+00:00",
+          "published": "2026-08-11T12:51:14.533937+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,10 +495,20 @@
           "title": "[단독] 서울대 고려대 등 11개 상위대학 입학처가 공개한 2027 면접 대비법.. ‘학생부 숙지부터 질문 의도 파악까지’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622828",
           "source": "베리타스알파",
-          "published": "2026-08-11T10:45:58.929516+00:00",
+          "published": "2026-08-11T12:51:13.207925+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "88442d524794841832954dca415324b8",
+          "title": "[맞수토론] 수능 '서술형'으로 변화? 채점은 어떻게?",
+          "link": "https://n.news.naver.com/mnews/article/437/0000505657?sid=102",
+          "source": "news.jtbc.co.kr",
+          "published": "2026-08-11T09:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1fcfbd0c427242fb30bacb51615a6bc1",
@@ -642,9 +662,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -772,9 +792,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -1117,6 +1137,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "d29af804366407a9d552ea9b3128a249",
+          "title": "[리포트]마지막 '통합수능' D-100⋯N수생·지역의사제 변수",
+          "link": "https://tjmbc.co.kr/NewsArticle/856092",
+          "source": "tjmbc.co.kr",
+          "published": "2026-08-11T11:45:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "83f4c3daff2f743dd8fa1783ab488229",
           "title": "새 문제보다 오답 정리… 입시업계의 수능 100일 처방",
@@ -1466,9 +1496,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1532,6 +1562,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "42d373afc760e82d4e38e812eb933f48",
+          "title": "&quot;재수 없다&quot;..대입 안정 지원 경향 '뚜렷'",
+          "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260811&SEQUENCE=4366",
+          "source": "news.mbccb.co.kr",
+          "published": "2026-08-11T11:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "41ebc5da8d1b1d3a5e2e899e08a6aa7e",
           "title": "[입시의 정석] 수능 D-100…&quot;무작정 많이? '어떻게'가 중요&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60757046/N",
@@ -1539,7 +1579,7 @@
           "published": "2026-08-11T09:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f2a2f131b23d8e3428426182f689aa9c",
