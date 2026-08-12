@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:51:06.516912+00:00",
+  "updated_at": "2026-08-12T22:48:15.221916+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T20:35:49.672656+00:00",
+          "published": "2026-08-12T22:33:11.270120+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T20:35:46.920481+00:00",
+          "published": "2026-08-12T22:33:08.870191+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "92ce13cbee120d6a5916cb0b9c125cb9",
+          "title": "차정인 “수능 서·논술형 평가, 사교육 부담 없을 것”",
+          "link": "https://n.news.naver.com/mnews/article/022/0004150625?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-08-12T21:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c72c089d1820a6e62491d7da03355358",
@@ -495,7 +505,7 @@
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T20:38:18.221584+00:00",
+          "published": "2026-08-12T22:35:38.874511+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
