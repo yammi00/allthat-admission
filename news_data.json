@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:49:45.601207+00:00",
+  "updated_at": "2026-08-12T01:32:43.754327+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-11T22:34:27.417509+00:00",
+          "published": "2026-08-12T01:17:37.245760+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-11T22:34:20.955631+00:00",
+          "published": "2026-08-12T01:17:31.550282+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -466,7 +466,7 @@
           "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
           "source": "에듀진",
-          "published": "2026-08-11T22:37:16.139191+00:00",
+          "published": "2026-08-12T01:20:19.695079+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -476,7 +476,7 @@
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-11T22:36:57.362051+00:00",
+          "published": "2026-08-12T01:20:02.079526+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -486,10 +486,40 @@
           "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
           "source": "에듀진",
-          "published": "2026-08-11T22:36:55.626277+00:00",
+          "published": "2026-08-12T01:20:00.714760+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2a37a2a48f7d477baae2274d26be466e",
+          "title": "가톨릭대 '학생/학부모/교사 대상' 2027수시 1대1 입시상담 31일.. '전화 상담'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=622866",
+          "source": "베리타스알파",
+          "published": "2026-08-12T01:19:59.846157+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "61d1d74d8b09aaa7f2d0621e94061578",
+          "title": "SKY 학생부종합전형 모의지원…일반고 1.87등급·자사고 2.86등급",
+          "link": "https://n.news.naver.com/mnews/article/421/0009109163?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-12T00:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9bb1895f257c7ba0500e1c844c4e4b6b",
+          "title": "수시든 정시든 ‘전략과목 집중’ 당락 가른다",
+          "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1548518",
+          "source": "www.knnews.co.kr",
+          "published": "2026-08-11T22:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "efbbbcc09b45350c0dafeb457d99540d",
@@ -673,9 +703,9 @@
         },
         {
           "id": "aa971748cf2fbb25ee845dbdf08dcf0e",
-          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] 2027학년도 한양대 서울캠퍼스 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NmJ4UURWS2FDVGw0S0ZXN2k1bXdqWlI3OGhZWS1RTTF5YlVZTmdtUmxSRU5mRnM4dTdmdVViVWZLWTRBTFI1Z0lCQmw5SmpsaGlkN2lhM2ZtVml5MUpkY1laUUw3a3lxTWc?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-10T02:57:06+00:00",
           "type": "news",
           "grade": "3",
@@ -1103,9 +1133,9 @@
         },
         {
           "id": "771ed46c3d65c718d51395a37054e8ce",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리TV",
+          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - tv.edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
-          "source": "이데일리TV",
+          "source": "tv.edaily.co.kr",
           "published": "2026-07-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1137,16 +1167,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53628",
           "source": "에듀진",
           "published": "2026-07-29T01:59:44.492671+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2a4e5a9833b8f6ced6c341b95b18f96a",
-          "title": "[2027전문대수시특집] ‘일반/전문대 통합 취업률 1위’ 경복대 수시 1589명(93.6%).. 물리치료학과 ‘4년제 전환’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621218",
-          "source": "베리타스알파",
-          "published": "2026-07-28T22:55:47.808498+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1194,6 +1214,16 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=110751",
           "source": "edu.donga.com",
           "published": "2026-08-10T02:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "cdf538484368e7bb9bd54480316c99ba",
+          "title": "수능 100일 앞으로…&quot;수시, 정시 관계없이 전략과목에 집중해야&quot;",
+          "link": "https://www.kbsm.net/news/view.php?idx=529685",
+          "source": "www.kbsm.net",
+          "published": "2026-08-09T06:16:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1416,6 +1446,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "04c8a35f1d1265ee9331eda85f1b1af9",
+          "title": "[2027 대학별 수시 분석] 서울여대 | 자유전공 5개 트랙 세분화 논술전형...",
+          "link": "https://www.naeil.com/news/read/598506?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-08-12T00:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "ea783234497ee1d5a65354048087378f",
           "title": "[2027학년도 수시 모집] &quot;내신·수능 약해도 서울권 대학 뚫는다&quot;… 삼육...",
           "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128152",
@@ -1507,9 +1547,9 @@
         },
         {
           "id": "253220bc647691d818b573f0f723ad28",
-          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - edujin.co.kr",
+          "title": "[수시 특집] ﻿2027학년도 경기대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
           "type": "news",
           "grade": "all",
@@ -1688,6 +1728,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55YzJuYnV5SXV1d2I5V3VhTmV3NHdWRnRHekJLaW1qWGtzRWxTS1ctT2syeDNOQXNBMXk2ZFh5dWw0ZUZxa3Roa1BNdE1oR2xkc1plWmdBT3lYOEZ1QXJXWlg5bWk1QQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-08-10T05:34:21+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "ce8501dd54eb76f7a2037a9e9951a44f",
+          "title": "2027학년도 연세대·고려대 수시 분석… 큰 틀 유지 속 일부 변화 주의",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110512",
+          "source": "edu.donga.com",
+          "published": "2026-08-10T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2061,16 +2111,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "1888b5087e393a14c2d244012494dd53",
-          "title": "건국대 글로컬캠퍼스 '2027학년도 수시 대학입학박람회' 성료",
-          "link": "http://www.cctimes.kr/news/articleView.html?idxno=919010",
-          "source": "www.cctimes.kr",
-          "published": "2026-07-29T00:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2079,6 +2119,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "7548493e0583a0c7ec256959079ed121",
+          "title": "일반고·과학고 내신 격차 2등급…SKY 모의지원 봤더니",
+          "link": "https://n.news.naver.com/mnews/article/015/0005319928?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-12T00:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "9d867eb6647b74a845d7053731587046",
           "title": "[단독] [2027전국자사고] 상산고 2027요강 '최초공개'.. 정원내 336명 '동일'",
