@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T17:07:06.485280+00:00",
+  "updated_at": "2026-08-12T19:07:42.215213+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T16:51:57.155544+00:00",
+          "published": "2026-08-12T18:52:36.556323+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T16:51:54.668416+00:00",
+          "published": "2026-08-12T18:52:33.837078+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-12T15:09:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d1bc20e07329a757941496f2d96e6b25",
@@ -495,7 +495,7 @@
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T16:54:25.011421+00:00",
+          "published": "2026-08-12T18:55:05.763064+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -996,16 +996,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1578,9 +1568,9 @@
         },
         {
           "id": "0bb3517c8af4e2353a27f56ecd3f6830",
-          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - smartbizn.com",
+          "title": "[김형일의 입시컨설팅] (240) 2027학년도 주요대학 지원전략(6) - 한국외대/서울시립대편 - 스마트비즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NUNHQVByeTMyMmFrWFl6UFd0UmJTXzRnd2NfVEgwSkxRWVgwTkRQVWp6TFJkdmplbDJoRzRLSjJ5a1ZlYnhLUTN4YVBsSnlKZi1hTnU4VWVzX1NyWVJwTjRTN0xPUTRlZ2hGMg?oc=5",
-          "source": "smartbizn.com",
+          "source": "스마트비즈",
           "published": "2026-08-10T00:28:18+00:00",
           "type": "news",
           "grade": "all",
