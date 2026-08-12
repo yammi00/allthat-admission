@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-12T04:14:08.695802+00:00",
+  "updated_at": "2026-08-12T05:59:46.826824+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T03:59:10.736528+00:00",
+          "published": "2026-08-12T05:40:33.415550+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,20 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T03:59:06.150748+00:00",
+          "published": "2026-08-12T05:40:27.328482+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d49e8ce1f0d3db44122ef60cbb91fd68",
+          "title": "[선배들의 전형별 합격기] 교과 전형_명지대 전기전자공학부 박강민",
+          "link": "https://www.naeil.com/news/read/598634?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-08-12T04:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3709d80fffb13abdf911c4fe60ea36fb",
@@ -462,21 +471,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "cdb62fee1b57374d46f2f4c0b79068a0",
-          "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
-          "source": "에듀진",
-          "published": "2026-08-12T04:01:55.180564+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "e7857c087b97041f7254493c5513b91c",
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-12T04:01:42.590738+00:00",
+          "published": "2026-08-12T05:43:51.795316+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -486,7 +485,27 @@
           "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
           "source": "에듀진",
-          "published": "2026-08-12T04:01:41.322401+00:00",
+          "published": "2026-08-12T05:43:50.370599+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9cb54968d93c7d61768af9ec81c9c5ce",
+          "title": "두 자릿수 남은 수능⋯'마지막 선택형'에 N수생 대거 몰린다",
+          "link": "https://www.etoday.co.kr/news/view/2613678",
+          "source": "www.etoday.co.kr",
+          "published": "2026-08-12T04:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "cdb62fee1b57374d46f2f4c0b79068a0",
+          "title": "2027 한국외대 학생부종합 합격컷 및 경쟁률, 충원인원",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53761",
+          "source": "에듀진",
+          "published": "2026-08-12T04:01:55.180564+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -499,7 +518,7 @@
           "published": "2026-08-12T01:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6e4d78fb26f0bc7aead04196357f93e2",
@@ -509,7 +528,7 @@
           "published": "2026-08-12T01:29:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2a37a2a48f7d477baae2274d26be466e",
@@ -1620,7 +1639,7 @@
           "published": "2026-08-12T01:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42d373afc760e82d4e38e812eb933f48",
