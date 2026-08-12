@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-12T05:59:46.826824+00:00",
+  "updated_at": "2026-08-12T07:29:04.943902+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T05:40:33.415550+00:00",
+          "published": "2026-08-12T07:13:51.320226+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +29,20 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T05:40:27.328482+00:00",
+          "published": "2026-08-12T07:13:46.592118+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d1bc20e07329a757941496f2d96e6b25",
+          "title": "&quot;사교육 유발·공정성 우려…수능 서·논술형 신중해야&quot;",
+          "link": "https://n.news.naver.com/mnews/article/003/0014123421?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-12T06:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d49e8ce1f0d3db44122ef60cbb91fd68",
@@ -41,7 +52,7 @@
           "published": "2026-08-12T04:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3709d80fffb13abdf911c4fe60ea36fb",
@@ -475,20 +486,20 @@
           "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
           "source": "에듀진",
-          "published": "2026-08-12T05:43:51.795316+00:00",
+          "published": "2026-08-12T07:16:30.163686+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "93a7101f518ad7f925b24f79984f92e2",
-          "title": "[수시 특집] 2027학년도 단국대 수시 주요사항 및 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53822",
-          "source": "에듀진",
-          "published": "2026-08-12T05:43:50.370599+00:00",
+          "id": "44fdbce7322c83f45bda3a961c810936",
+          "title": "[수시 특집] 2027학년도 숭실대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raVpuX1UzVG5nM1NwX0FpZzMwTlRGak43eXBJVThDa2tza0Vfb0RMeW5LamhIdzNBSlVhOHRZaTR4b2FrRUdnRnREMnhRUEZGRHpHRDFnalBxZlhJQktIcHVleVI1UmZvSmc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-12T06:33:36+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "9cb54968d93c7d61768af9ec81c9c5ce",
@@ -498,7 +509,7 @@
           "published": "2026-08-12T04:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cdb62fee1b57374d46f2f4c0b79068a0",
@@ -1172,9 +1183,9 @@
         },
         {
           "id": "771ed46c3d65c718d51395a37054e8ce",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - tv.edaily.co.kr",
+          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리TV",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
-          "source": "tv.edaily.co.kr",
+          "source": "이데일리TV",
           "published": "2026-07-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1218,11 +1229,31 @@
           "is_new": false
         },
         {
+          "id": "d7fceb0aaddddac598455ba367d6945d",
+          "title": "수시는 ‘전략과목’ 정시는 ‘전 영역’…남은 100일 공부법은?",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/11/2026081180128.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-11T05:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "8bb2f243d292f0f5b56fa37cb4df9045",
           "title": "수능 D-100, 올해는 다르다…영어·사탐런에 흔들리지 않으려면",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/08/11/2026081180122.html",
           "source": "edu.chosun.com",
           "published": "2026-08-11T05:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "777c2e1bd794a7fc09f34af393ea2aec",
+          "title": "수능 원서접수 24일 시작… 현행 체제 마지막 시험 'D-100 막판 전략을 ...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005559923?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-08-11T03:01:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1610,16 +1641,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-07-30T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "50dbbecbc0aae37c594250b3a813d56d",
-          "title": "[2027 논술 점검①] 인문논술, '10월 4일 개막'... 수능 전 7개교 먼저 치른다 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NldyMUFTel9GS3I5QTBqU2xsZjkyQTR1M2pERnk5VC1GRmxCOWh6THRYLWVVck9RZzlXazJ2SGxwTnlzSU1JSUNHYy10aVczSFlVRjM0eXN6c0JQczBkSmMtalJDZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-29T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2164,16 +2185,6 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014102994?sid=102",
           "source": "www.newsis.com",
           "published": "2026-08-02T02:01:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3d9ffae12ae1778e7a62563cdee1f467",
-          "title": "교육열 높은 세종, 학업 중단율도 전국 최고… 왜?",
-          "link": "https://www.joongdo.co.kr/web/view.php?key=20260729010008815",
-          "source": "www.joongdo.co.kr",
-          "published": "2026-07-29T07:12:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
