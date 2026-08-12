@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T15:04:20.519716+00:00",
+  "updated_at": "2026-08-12T17:07:06.485280+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T14:51:22.853057+00:00",
+          "published": "2026-08-12T16:51:57.155544+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T14:51:20.724990+00:00",
+          "published": "2026-08-12T16:51:54.668416+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c72c089d1820a6e62491d7da03355358",
+          "title": "[목요단상] 수능 100일 대비는?",
+          "link": "https://n.news.naver.com/mnews/article/654/0000195102?sid=110",
+          "source": "www.kado.net",
+          "published": "2026-08-12T15:09:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d1bc20e07329a757941496f2d96e6b25",
@@ -485,7 +495,7 @@
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T14:53:49.350712+00:00",
+          "published": "2026-08-12T16:54:25.011421+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -892,9 +902,9 @@
         },
         {
           "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - veritas-a.com",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
@@ -986,6 +996,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-08-05T05:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T04:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1568,9 +1588,9 @@
         },
         {
           "id": "acd625d5989c9932671147d814dd13c6",
-          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - kyobit.com",
+          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQ0F4LU1Va3l0U2kxZktOSGlXamZpSjNLMWc2SGJFaUI1dC00RDhVemRCWHVjWU54OW95cE9ZQXRrWk1PRG81ZV9PS3BVcEkwWjlsRWFkbkVtbmlPYWtzY19FNm8zQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-08T04:53:26+00:00",
           "type": "news",
           "grade": "all",
@@ -1975,9 +1995,9 @@
         },
         {
           "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-05T05:46:43+00:00",
           "type": "news",
           "grade": "all",
