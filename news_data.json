@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T09:19:40.785052+00:00",
+  "updated_at": "2026-08-12T11:09:56.547850+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T09:04:51.222995+00:00",
+          "published": "2026-08-12T10:54:59.333642+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T09:04:49.349339+00:00",
+          "published": "2026-08-12T10:54:57.474409+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,17 @@
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T09:07:13.501089+00:00",
+          "published": "2026-08-12T10:57:25.300981+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "ab2cb0140e5c8b1236ef72ed80651100",
+          "title": "現교육과정 마지막 대입…지역의사제 등 열띤 눈치싸움 예고",
+          "link": "https://n.news.naver.com/mnews/article/658/0000152163?sid=102",
+          "source": "www.kookje.co.kr",
+          "published": "2026-08-12T09:15:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1353,7 +1363,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1021dd825a644126ac22db13dd40a275",
@@ -1364,7 +1374,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ccabda9b71163851d7507975675abdbd",
