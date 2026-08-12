@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-12T07:29:04.943902+00:00",
+  "updated_at": "2026-08-12T09:19:40.785052+00:00",
   "available_archives": [
     "index",
-    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T07:13:51.320226+00:00",
+          "published": "2026-08-12T09:04:51.222995+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +28,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T07:13:46.592118+00:00",
+          "published": "2026-08-12T09:04:49.349339+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -42,7 +41,7 @@
           "published": "2026-08-12T06:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d49e8ce1f0d3db44122ef60cbb91fd68",
@@ -482,14 +481,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "e7857c087b97041f7254493c5513b91c",
-          "title": "2027 한양대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53788",
+          "id": "97902e70424a70dbb509a93d51e49e4a",
+          "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T07:16:30.163686+00:00",
+          "published": "2026-08-12T09:07:13.501089+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "44fdbce7322c83f45bda3a961c810936",
@@ -499,7 +498,7 @@
           "published": "2026-08-12T06:33:36+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9cb54968d93c7d61768af9ec81c9c5ce",
@@ -1345,6 +1344,28 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "19c12718827f49696b843168a626d23f",
+          "title": "소방청, 추석 명절 대비 전국 전통시장 소방용수시설&middot;비상소화장치 일제점검",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774221",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-12T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "1021dd825a644126ac22db13dd40a275",
+          "title": "배경훈 부총리 겸 과기정통부 장관, 카자흐스탄 과학고등교육부 장관과 면담",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774202",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-12T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ccabda9b71163851d7507975675abdbd",
           "title": "[보도자료] &quot;국민과 함께 그리는 미래 대입제도&quot; 지역 현장의 목소리를 듣습니다",
