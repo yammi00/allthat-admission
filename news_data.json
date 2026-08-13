@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:19:10.219986+00:00",
+  "updated_at": "2026-08-13T07:31:14.009151+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-13T04:04:04.016352+00:00",
+          "published": "2026-08-13T07:16:08.050259+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -492,24 +492,54 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "22e289db4fab6cbd0f7cfbeb32e20bfa",
-          "title": "[수시 특집] 2027학년도 한양대 ERICA 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53841",
+          "id": "b9ba030cd21f52e164220e0d5acef667",
+          "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-13T04:06:34.083220+00:00",
+          "published": "2026-08-13T07:18:36.862683+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "97902e70424a70dbb509a93d51e49e4a",
-          "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
+          "id": "6299a3f25d81806a09290246223cc4f6",
+          "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-13T04:06:32.156652+00:00",
+          "published": "2026-08-13T07:18:35.728608+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "bd851cdbc6db0724c18e556ea95e4f8c",
+          "title": "[단독] 서울 주요대 ‘정시 40%룰’ 30%로 낮추나…국교위, 정시 축소 검...",
+          "link": "http://www.metroseoul.co.kr/article/20260813500434",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-08-13T06:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "736d9ba375e54d64a5d866d8950ceb00",
+          "title": "[입시분석] 2027 인서울대 생명공학과 수시 교과전형 지원 전략은? - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDYVJVbzV2cnFHbmJSNjBaQUliU2gwM28zWmY4Umpac0FVYzBkZml0QUIzS2plcmNzdXlIMEV5NUFNcENkX29CZ3VSVUJ6X2x3RTY0dGxuYUgzLTlrZjVMRW50b21xNk1oUHc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-13T06:09:22+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b1fb66a08934155304da57be76b48d5f",
+          "title": "[2027 수시특집] 삼육대, 수시 선발 80%로 미래형 융합 인재 선발 박차",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129292",
+          "source": "www.popcornnews.net",
+          "published": "2026-08-13T04:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ab2cb0140e5c8b1236ef72ed80651100",
@@ -1200,36 +1230,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "826d279ff8f72511ac9d8d948360df01",
-          "title": "수원특례시, 2027학년도 대학입시박람회 개최… 67개 대학 참여",
-          "link": "https://www.joongboo.com/news/articleView.html?idxno=363732785",
-          "source": "www.joongboo.com",
-          "published": "2026-07-30T07:18:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "771ed46c3d65c718d51395a37054e8ce",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - tv.edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
-          "source": "tv.edaily.co.kr",
-          "published": "2026-07-30T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f43b0ff4ef8366b85b0a711f08fcd692",
-          "title": "[수시 특집] 2027학년도 경희대 수시 주요사항과 변경사항",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53664",
-          "source": "에듀진",
-          "published": "2026-07-30T04:56:30.569644+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1354,16 +1354,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009098614?sid=102",
           "source": "www.news1.kr",
           "published": "2026-08-05T05:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "3c57ae8ac7cdd6c408608e376cdff637",
-          "title": "2028학년도부터는 정시모집할 때 학생부도 본다···‘성적 올인’ 문 좁아져 - 이대학보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a0MzTXhQTFNzQnllMFJNdVhPaUxvYmV0QldXclpEZVp6aTEzX3NiNUhINThheVRGN2Voa2phOVZmeVprYUxJVVhQTlowZGNVS3E5RGpib0FmZkJCcVROVEFZOWRJLVVTaVHSAW5BVV95cUxOc1FDSm5Zd3c2blRJWHdHMW1icXIzdXVRaDJUdFFZUWN3UWhSSFNoNFB0Qnd4WlNDR3B1SDZMYVZKMXY0ejVuN0VpQ0gxZjBseUNLemF4SER6dnVtX3NEUEVEMzdLWjF0SmtKYnVGZw?oc=5",
-          "source": "이대학보",
-          "published": "2026-07-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1548,6 +1538,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "140872bbed01a79ac6685947235c67e7",
+          "title": "[2027 수시특집] 멀티캠퍼스·글로벌캠퍼스로 날아오르는 동덕여대...'융...",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129149",
+          "source": "www.popcornnews.net",
+          "published": "2026-08-13T04:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f57c61e42e9b3dc309a7211101ee2ecb",
           "title": "[유성룡의 입시 포인트] 건국대학교(서울) 2027학년도 수시 모집 가이드",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/08/11/2026081180124.html",
@@ -1676,16 +1676,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "70083d1104b5d68090d8dc18e7cd24d3",
-          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-30T06:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1702,7 +1692,7 @@
           "published": "2026-08-13T02:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7376e99be041cf251938a8968069ceab",
