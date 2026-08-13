@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T07:31:14.009151+00:00",
+  "updated_at": "2026-08-13T09:20:00.387245+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-13T07:16:08.050259+00:00",
+          "published": "2026-08-13T09:04:49.155285+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -496,30 +496,30 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-13T07:18:36.862683+00:00",
+          "published": "2026-08-13T09:07:22.375056+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6299a3f25d81806a09290246223cc4f6",
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-13T07:18:35.728608+00:00",
+          "published": "2026-08-13T09:07:20.798734+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd851cdbc6db0724c18e556ea95e4f8c",
-          "title": "[단독] 서울 주요대 ‘정시 40%룰’ 30%로 낮추나…국교위, 정시 축소 검...",
+          "title": "[단독] 서울 주요대 ‘정시 40%룰’ 깨질까…국교위, 관련 실증자료 받...",
           "link": "http://www.metroseoul.co.kr/article/20260813500434",
           "source": "www.metroseoul.co.kr",
           "published": "2026-08-13T06:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "736d9ba375e54d64a5d866d8950ceb00",
@@ -529,7 +529,7 @@
           "published": "2026-08-13T06:09:22+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b1fb66a08934155304da57be76b48d5f",
@@ -539,7 +539,7 @@
           "published": "2026-08-13T04:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ab2cb0140e5c8b1236ef72ed80651100",
@@ -1220,16 +1220,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0112c74f1422c227a280889fc3ef3dc7",
-          "title": "[2028 대입 포인트]⑧경희대 '정시 학생부 도입' '학생부종합 이원화' '지역균형지원 강화'…수시 3007명, 정시 2404명 모집 - ed",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQMXBYdFNsYlR5OTJVOXUyTXBnZlVsYVhfZXBnY2JpaGxwQS1zeU1BbEdsQ1YzWU1Eck4yU1ljMV9ScDNhRTFFczRUb1BhWXdCMFhLTmRPWDQ3OURGWW5WREtjcDM1eHZUeUFKY3dB0gFyQVVfeXFMUEh1dGE2bHF0UU1wS25JMkRVcFhBT2FNdGpoZnJBQkRhaFJUSmY2NGJ0UkZZVXZEVGtPWlp3a1p5M2QxUk9XcTRVVElidFFvQmZ5QkJoaW5oSmtLaERxRXAzOUItUWNRNGc4bzhvbElSa05R?oc=5",
-          "source": "eduplusnews.com",
-          "published": "2026-07-30T07:29:18+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1238,6 +1228,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "ffd6544dfe02db598bc22312d6b90fcc",
+          "title": "[단독] ‘정시40% 폐지하라’ 서울16개대 공동 대응 나선다.. ‘중도이탈률/학업성취도 국교위 제출’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623068",
+          "source": "베리타스알파",
+          "published": "2026-08-13T09:10:07.992046+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "83f4c3daff2f743dd8fa1783ab488229",
           "title": "새 문제보다 오답 정리… 입시업계의 수능 100일 처방",
@@ -1545,7 +1545,7 @@
           "published": "2026-08-13T04:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f57c61e42e9b3dc309a7211101ee2ecb",
@@ -1663,16 +1663,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkU2lQcmdPcThUMmp1emJaVjVhUmg1SkVseHVsY1FBbURhWmpsSW1oZGdvWGoza2o0dkxNRmN2MWNlaS1LbkpJYjlpX24xeGxCbWk5djZuaXo0LXMwVDRkSUliYWZ1VU9BOVE?oc=5",
           "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-03T03:01:24+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "85ac3d903b4289288ad094711c7ce93e",
-          "title": "[단독] 아주대 2027논술자료집.. 자연계 '수리적 분석력/응용력/창의력...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621580",
-          "source": "www.veritas-a.com",
-          "published": "2026-07-30T08:12:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
