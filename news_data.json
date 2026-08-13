@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:33:21.904349+00:00",
+  "updated_at": "2026-08-13T04:19:10.219986+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-13T01:18:42.876859+00:00",
+          "published": "2026-08-13T04:04:04.016352+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -483,16 +483,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "adc79fd89b3b2c4215233826fdf30196",
-          "title": "2027 서울시립대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53592",
-          "source": "에듀진",
-          "published": "2026-07-30T01:48:33.545354+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -506,17 +496,17 @@
           "title": "[수시 특집] 2027학년도 한양대 ERICA 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53841",
           "source": "에듀진",
-          "published": "2026-08-13T01:21:09.287817+00:00",
+          "published": "2026-08-13T04:06:34.083220+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "97902e70424a70dbb509a93d51e49e4a",
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-13T01:21:07.960382+00:00",
+          "published": "2026-08-13T04:06:32.156652+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1223,9 +1213,9 @@
         },
         {
           "id": "771ed46c3d65c718d51395a37054e8ce",
-          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - 이데일리TV",
+          "title": "고2 대입, SKY대 수시 58% ‘수능최저’ 없이 선발 - tv.edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdnYzU0VOYzI1UmNXZlE0c2R3ZVh6MnZ4TFpKdVAxb28tM3hvdUpEWXhQYlMtQnJpUkZuaFZXWmdrbWljVXZIYXBRblRmUGhWUXdUNWs5SUJjYi1oVTF0QUM3b2s4WjlpaC1jcVJyT2JXWG1kUEFpX0g1SQ?oc=5",
-          "source": "이데일리TV",
+          "source": "tv.edaily.co.kr",
           "published": "2026-07-30T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1565,7 +1555,7 @@
           "published": "2026-08-13T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "04c8a35f1d1265ee9331eda85f1b1af9",
@@ -1696,16 +1686,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "97b3933a5c0a668ba62c846e33a7a32a",
-          "title": "삼육대-가천대 연합 논술설명회 개최.. 약술형 논술 대비전략 공유",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621476",
-          "source": "베리타스알파",
-          "published": "2026-07-30T01:56:21.015371+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1715,6 +1695,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "429864b80a37bf9b0c9592fb0aa57007",
+          "title": "인하대, 2027학년도 수시모집 2천662명 선발",
+          "link": "https://www.kyeongin.com/article/1768979",
+          "source": "www.kyeongin.com",
+          "published": "2026-08-13T02:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7376e99be041cf251938a8968069ceab",
           "title": "메가스터디 기숙학원 종합관, 2학기 수능 대비 학습전략 제시",
           "link": "https://n.news.naver.com/mnews/article/022/0004150658?sid=101",
@@ -1722,7 +1712,7 @@
           "published": "2026-08-13T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed2135b990867c47554cae063f0a9e58",
@@ -1755,9 +1745,9 @@
           "is_new": false
         },
         {
-          "id": "f2a2f131b23d8e3428426182f689aa9c",
+          "id": "3f0de5eb0a67a3b6d5e66596eaaef8da",
           "title": "수능 D-100…수험생·학부모가 저장해야 할 5개 날짜 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qdUVfcU4xZ3pzVUtKdFJGS1BRRjdBRzBPWU8xSDJraEw5WTR2N3VUc01RbnR3dEg0MEdHZHlDdUVpTDJfRE1LU1dtXzdtbmdJMU45dC1hQ2JaZ9IBWEFVX3lxTFBvZzZqcGJNM2k4NVFoX0xCeF9jRFduZGdKVURTc2hmMVI0em9JSkx6VVhhVlVHanBJb3N6cjhhNXFKdmRYRmJJcEZSeUxHcEhFRUktZEpBUHo?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZzZqcGJNM2k4NVFoX0xCeF9jRFduZGdKVURTc2hmMVI0em9JSkx6VVhhVlVHanBJb3N6cjhhNXFKdmRYRmJJcEZSeUxHcEhFRUktZEpBUHrSAVhBVV95cUxQb2c2anBiTTNpODVRaF9MQnhfY0RXbmRnSlVEU3NoZjFSNHpvSUpMelVYYVZVR2pwSW9zenI4YTVxSnZkWEZiSXBGUnlMR3BIRUVJLWRKQVB6?oc=5",
           "source": "아주경제",
           "published": "2026-08-11T07:33:25+00:00",
           "type": "news",
@@ -2149,7 +2139,7 @@
           "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjl0dzFFRGFqck5Ya3ZCSVQzaHJpQkQ2ekVZZHpjMjNPZTFZLTA3TThMLWN2MkxQN0V6aFJtc05ybGRpRmhlVUdUREM1Z3FuUzJIWmJmWmlQNE0yLWhMQ1FvVnZLZw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-08-01T20:41:34+00:00",
+          "published": "2026-08-02T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2216,10 +2206,10 @@
           "title": "SKY 학종 지원… 일반고 1.87등급, 자사고 2.86등급",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53832",
           "source": "에듀진",
-          "published": "2026-08-13T01:31:03.854147+00:00",
+          "published": "2026-08-13T04:16:48.066138+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7548493e0583a0c7ec256959079ed121",
