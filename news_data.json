@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-13T20:48:49.838719+00:00",
+  "updated_at": "2026-08-13T22:48:51.389015+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-13T20:34:11.007887+00:00",
+          "published": "2026-08-13T22:33:39.501426+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -472,16 +473,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "416b1da339cd8bed8a97eaef5192b96c",
-          "title": "이투스북, 2022 개정 교육과정 반영 수학 문제집 ‘어삼쉬사’ 출간",
-          "link": "https://www.sentv.co.kr/article/view/sentv202607300139",
-          "source": "www.sentv.co.kr",
-          "published": "2026-07-30T22:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -495,7 +486,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-13T20:36:38.052723+00:00",
+          "published": "2026-08-13T22:36:11.149302+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,10 +496,10 @@
           "title": "[입시분석] 2027 인서울대 생명공학과 수시 교과전형 지원 전략은?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53830",
           "source": "에듀진",
-          "published": "2026-08-13T20:36:34.823898+00:00",
+          "published": "2026-08-13T22:36:06.496274+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd851cdbc6db0724c18e556ea95e4f8c",
@@ -1182,9 +1173,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
+          "source": "job-post.co.kr",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1232,7 +1223,7 @@
           "title": "[단독] ‘정시40% 폐지하라’ 서울16개대 공동 대응 나선다.. ‘중도이탈률/학업성취도 국교위 제출’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623068",
           "source": "베리타스알파",
-          "published": "2026-08-13T20:39:13.278366+00:00",
+          "published": "2026-08-13T22:38:53.415028+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1735,9 +1726,9 @@
         },
         {
           "id": "3f0de5eb0a67a3b6d5e66596eaaef8da",
-          "title": "수능 D-100…수험생·학부모가 저장해야 할 5개 날짜 - 아주경제",
+          "title": "수능 D-100…수험생·학부모가 저장해야 할 5개 날짜 - ajunews.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZzZqcGJNM2k4NVFoX0xCeF9jRFduZGdKVURTc2hmMVI0em9JSkx6VVhhVlVHanBJb3N6cjhhNXFKdmRYRmJJcEZSeUxHcEhFRUktZEpBUHrSAVhBVV95cUxQb2c2anBiTTNpODVRaF9MQnhfY0RXbmRnSlVEU3NoZjFSNHpvSUpMelVYYVZVR2pwSW9zenI4YTVxSnZkWEZiSXBGUnlMR3BIRUVJLWRKQVB6?oc=5",
-          "source": "아주경제",
+          "source": "ajunews.com",
           "published": "2026-08-11T07:33:25+00:00",
           "type": "news",
           "grade": "all",
