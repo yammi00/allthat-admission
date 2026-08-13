@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:06:37.532432+00:00",
+  "updated_at": "2026-08-13T17:04:08.399543+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-13T14:51:16.968390+00:00",
+          "published": "2026-08-13T16:49:09.596940+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-13T14:54:01.505133+00:00",
+          "published": "2026-08-13T16:51:38.610275+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "[입시분석] 2027 인서울대 생명공학과 수시 교과전형 지원 전략은?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53830",
           "source": "에듀진",
-          "published": "2026-08-13T14:53:56.310909+00:00",
+          "published": "2026-08-13T16:51:33.529211+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1232,7 +1232,7 @@
           "title": "[단독] ‘정시40% 폐지하라’ 서울16개대 공동 대응 나선다.. ‘중도이탈률/학업성취도 국교위 제출’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623068",
           "source": "베리타스알파",
-          "published": "2026-08-13T14:56:41.728075+00:00",
+          "published": "2026-08-13T16:54:20.814684+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1681,7 +1681,7 @@
           "published": "2026-08-13T11:02:56+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "429864b80a37bf9b0c9592fb0aa57007",
