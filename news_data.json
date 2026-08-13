@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-12T22:48:15.221916+00:00",
+  "updated_at": "2026-08-13T01:33:21.904349+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-12T22:33:11.270120+00:00",
+          "published": "2026-08-13T01:18:42.876859+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +29,7 @@
           "title": "2~5등급 수도권 디자인학과 종합 등급컷 및 경쟁률 순위",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53780",
           "source": "에듀진",
-          "published": "2026-08-12T22:33:08.870191+00:00",
+          "published": "2026-08-13T01:18:40.789342+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +42,7 @@
           "published": "2026-08-12T21:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c72c089d1820a6e62491d7da03355358",
@@ -501,11 +502,21 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "22e289db4fab6cbd0f7cfbeb32e20bfa",
+          "title": "[수시 특집] 2027학년도 한양대 ERICA 수시 주요사항과 변경사항",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53841",
+          "source": "에듀진",
+          "published": "2026-08-13T01:21:09.287817+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "97902e70424a70dbb509a93d51e49e4a",
           "title": "2027 서강대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53817",
           "source": "에듀진",
-          "published": "2026-08-12T22:35:38.874511+00:00",
+          "published": "2026-08-13T01:21:07.960382+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1547,6 +1558,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f57c61e42e9b3dc309a7211101ee2ecb",
+          "title": "[유성룡의 입시 포인트] 건국대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/11/2026081180124.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-13T00:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "04c8a35f1d1265ee9331eda85f1b1af9",
           "title": "[2027 대학별 수시 분석] 서울여대 | 자유전공 5개 트랙 세분화 논술전형...",
           "link": "https://www.naeil.com/news/read/598506?ref=naver",
@@ -1667,31 +1688,21 @@
           "is_new": false
         },
         {
+          "id": "70083d1104b5d68090d8dc18e7cd24d3",
+          "title": "2027학년도 약술형 논술, '10월 16일 개막'... 15개 대학 국어·수학 중심 단문·풀이형으로 승부 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51MFA3SEd0UTJRN3k1VEREUzhJZlZNbEJVcnFDVzBoNVBEMDBrRWE5MDRMZW1vaWNoVW1VVnVSYktweVV6VWdpaXBTQkctVEwtQWNKNHJocXl6dHU2bnhYWE1HVnhBZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-07-30T06:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "97b3933a5c0a668ba62c846e33a7a32a",
           "title": "삼육대-가천대 연합 논술설명회 개최.. 약술형 논술 대비전략 공유",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621476",
           "source": "베리타스알파",
           "published": "2026-07-30T01:56:21.015371+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c1d4c39b4e5163436bdc783388304114",
-          "title": "[유성룡의 입시 포인트] 홍익대학교(서울) 2027학년도 수시 모집 가이드",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/07/28/2026072880125.html",
-          "source": "edu.chosun.com",
-          "published": "2026-07-30T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8a587e50ea2ee6df460a6858549b22b6",
-          "title": "[2027 논술 점검②] 자연논술, '10월 3일 출발'... 수능 전 일반 서술형 8곳 먼저 시험 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weTZBTS1ZOGZMYmh0OTlraEN5b1FXQ1BBVUZaalpuM0ZWVXY4M0pLRWtJTnRST2JlVkZCcl91bkV0dnJJVmRxc3NteHFVWUhDbXVzdmxHLTVYUFJfVDRVQ2MyXzBUdw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-07-30T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1703,6 +1714,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "7376e99be041cf251938a8968069ceab",
+          "title": "메가스터디 기숙학원 종합관, 2학기 수능 대비 학습전략 제시",
+          "link": "https://n.news.naver.com/mnews/article/022/0004150658?sid=101",
+          "source": "www.segye.com",
+          "published": "2026-08-13T00:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ed2135b990867c47554cae063f0a9e58",
           "title": "인하대, ‘2026년 학부모 아카데미’ 대입 정보 맞춤형 제공",
@@ -2190,6 +2211,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "12032ec1d6b9d1d4e7aa5d37fd677fad",
+          "title": "SKY 학종 지원… 일반고 1.87등급, 자사고 2.86등급",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53832",
+          "source": "에듀진",
+          "published": "2026-08-13T01:31:03.854147+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "7548493e0583a0c7ec256959079ed121",
           "title": "일반고·과학고 내신 격차 2등급…SKY 모의지원 봤더니",
