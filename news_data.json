@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-14T11:06:51.815494+00:00",
+  "updated_at": "2026-08-14T13:02:55.467794+00:00",
   "available_archives": [
     "index",
+    "2026-07",
     "2026-06",
     "2026-05",
     "2026-04",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-14T10:51:46.023098+00:00",
+          "published": "2026-08-14T12:48:06.775103+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +29,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-14T10:51:42.983914+00:00",
+          "published": "2026-08-14T12:48:04.949127+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +456,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-14T10:54:32.280646+00:00",
+          "published": "2026-08-14T12:50:44.068739+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +466,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-14T10:54:30.364129+00:00",
+          "published": "2026-08-14T12:50:43.214121+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1131,10 +1132,10 @@
           "is_new": false
         },
         {
-          "id": "078303f0dcad290fa0afea185026c23d",
-          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0RFZiakJaV19sMjVYTHIxS0dNd3hKOTViS0U1QnREQjNid1l4ZkdPeHJoYlI4RW5leHQ4Y1dTdnRMUUNlYmwxWWY0b1RvNTQ?oc=5",
-          "source": "v.daum.net",
+          "id": "87d55cb9ef345097f1aad931ee3c6f20",
+          "title": "서울권 대학 수시 합격 내신 '5년 새 최고' - hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uOTEyWC14bElrbDFiQWlmaW0zT1ZDU0pQcXo1X2dJMjM3ZzZlYThHazNKdWlIakJUNUM0Y2h3NWROR3ZWM1BDMzZxblJyMy1yUWJOMEo1S195YXVhVUUwMV8xV2d2eXM5YXc?oc=5",
+          "source": "hidomin.com",
           "published": "2026-08-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1182,9 +1183,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
+          "source": "job-post.co.kr",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1518,9 +1519,9 @@
         },
         {
           "id": "0fe7d017d6ddf3f29bd4843735a37f35",
-          "title": "[2027 수시특집] 삼육대, 수시 선발 80%로 미래형 융합 인재 선발 박차 - popcornnews.net",
+          "title": "[2027 수시특집] 삼육대, 수시 선발 80%로 미래형 융합 인재 선발 박차 - 팝콘뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VcTNBTGRtU3U1YlNEUmI3NGl3a2I2X1Z3R2ZfVXA5ZFNaQjdVMEE3SVl1QzdxSEJlWmU4VDJadnZVeW1mbThhVlk3bGpNNUk5amNQT2IwSzE0Q1Z0TjNLRU1DelozUDl6OW1JX1VR0gFyQVVfeXFMUGUzaFpPZDBZVXg2UGJnU3JEb21YWTVmWGxmaW8tYUpaZHlqbjFJMDZqVHBhNElETHdtVm5yMDdVSHA3Tk1pbnpxVVFHUEUtQWc4YUREYzJPSUo1V1o2NDV3M3I0TnExUEkwNVgteDZXR2NB?oc=5",
-          "source": "popcornnews.net",
+          "source": "팝콘뉴스",
           "published": "2026-08-13T04:10:29+00:00",
           "type": "news",
           "grade": "all",
@@ -2129,16 +2130,6 @@
           "link": "https://www.etoday.co.kr/news/view/2609672",
           "source": "www.etoday.co.kr",
           "published": "2026-07-31T23:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2570af00935c3368414ff721805c17e5",
-          "title": "인하대, 2027학년도 수시 2662명 선발…지역의사전형 신설 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IN0hneEUzYzRJTmctVWZQR3l2OVNnaktiSGV6YkJRYXY5YXJ5ZngxWHFuYmRGbnM0NnhwdVZ6SVA5a0hSRkhuLS1DWQ?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-07-31T12:24:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
