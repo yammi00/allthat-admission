@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:58:02.063816+00:00",
+  "updated_at": "2026-08-14T20:39:04.778192+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-14T18:43:15.456554+00:00",
+          "published": "2026-08-14T20:23:58.050194+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-14T18:43:13.277911+00:00",
+          "published": "2026-08-14T20:23:55.233810+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-14T18:45:52.018738+00:00",
+          "published": "2026-08-14T20:26:39.156479+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-14T18:45:50.689795+00:00",
+          "published": "2026-08-14T20:26:37.618210+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1578,9 +1578,9 @@
         },
         {
           "id": "acd625d5989c9932671147d814dd13c6",
-          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - kyobit.com",
+          "title": "국민대, 2027 논술전형 고사시간 안내...인문계 12월 5일·자연계 12월 6일 시행…오전 9시, 오후 3시 시작 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLQ0F4LU1Va3l0U2kxZktOSGlXamZpSjNLMWc2SGJFaUI1dC00RDhVemRCWHVjWU54OW95cE9ZQXRrWk1PRG81ZV9PS3BVcEkwWjlsRWFkbkVtbmlPYWtzY19FNm8zQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-08T04:53:26+00:00",
           "type": "news",
           "grade": "all",
@@ -1661,7 +1661,7 @@
           "published": "2026-08-14T08:29:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4160525c43919241f3956a625c0d15a3",
@@ -1984,21 +1984,21 @@
           "is_new": false
         },
         {
-          "id": "3a87ac470919fc7b0046bfd581926b0d",
-          "title": "2027학년도 수능 원서접수, 업무처리지침 설명회 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YndvVFctR3oyaEpyMUJzQUlLSFRmeHBETXZ4RUptNDMwM2k1Tm5hTXVUaFhaYkF5VEZITkNpLXVTeFRRSEdZOWR3Nkg3cFVtbEc2T0tyMng0cTJzX2JuOUd3RW1XOVRZ?oc=5",
-          "source": "금강일보",
-          "published": "2026-08-05T06:54:12+00:00",
+          "id": "2853fe3d5b5a85d20fd18481128d58f2",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "kyobit.com",
-          "published": "2026-08-05T05:46:43+00:00",
+          "id": "3a87ac470919fc7b0046bfd581926b0d",
+          "title": "2027학년도 수능 원서접수, 업무처리지침 설명회 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2YndvVFctR3oyaEpyMUJzQUlLSFRmeHBETXZ4RUptNDMwM2k1Tm5hTXVUaFhaYkF5VEZITkNpLXVTeFRRSEdZOWR3Nkg3cFVtbEc2T0tyMng0cTJzX2JuOUd3RW1XOVRZ?oc=5",
+          "source": "금강일보",
+          "published": "2026-08-05T06:54:12+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2125,9 +2125,9 @@
         },
         {
           "id": "f16f27cd8584625e3c8356af4c64da74",
-          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - kyobit.com",
+          "title": "[2027 수시 길잡이⑦] 음악계열, 실기 60~100% 반영…일정·과제곡부터 맞춰야 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TSjl0dzFFRGFqck5Ya3ZCSVQzaHJpQkQ2ekVZZHpjMjNPZTFZLTA3TThMLWN2MkxQN0V6aFJtc05ybGRpRmhlVUdUREM1Z3FuUzJIWmJmWmlQNE0yLWhMQ1FvVnZLZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-02T07:00:00+00:00",
           "type": "news",
           "grade": "all",
