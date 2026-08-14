@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T04:15:11.241384+00:00",
+  "updated_at": "2026-08-14T05:56:41.449701+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-14T04:00:21.436893+00:00",
+          "published": "2026-08-14T05:42:00.625511+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +29,10 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-14T04:00:18.257726+00:00",
+          "published": "2026-08-14T05:41:57.472353+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "08c61b05c4432b633b8dabd44a4f8452",
@@ -472,6 +472,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "b9ba030cd21f52e164220e0d5acef667",
+          "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
+          "source": "에듀진",
+          "published": "2026-08-14T05:44:30.277161+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6299a3f25d81806a09290246223cc4f6",
+          "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
+          "source": "에듀진",
+          "published": "2026-08-14T05:44:29.191670+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "63d3f01bd66bf44613cd23e5f4fe3476",
+          "title": "서울대는 왜 권장과목을 공개할까… 합격생 학생부의 결정적 차이",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53108",
+          "source": "에듀진",
+          "published": "2026-08-14T05:44:25.203681+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "22e289db4fab6cbd0f7cfbeb32e20bfa",
           "title": "[수시 특집] 2027학년도 한양대 ERICA 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53841",
@@ -482,36 +512,6 @@
           "is_new": false
         },
         {
-          "id": "b9ba030cd21f52e164220e0d5acef667",
-          "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
-          "source": "에듀진",
-          "published": "2026-08-14T04:02:51.073586+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6299a3f25d81806a09290246223cc4f6",
-          "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
-          "source": "에듀진",
-          "published": "2026-08-14T04:02:50.063023+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "63d3f01bd66bf44613cd23e5f4fe3476",
-          "title": "서울대는 왜 권장과목을 공개할까… 합격생 학생부의 결정적 차이",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53108",
-          "source": "에듀진",
-          "published": "2026-08-14T04:02:44.743259+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "c7b032835631fbd282c79adbdd4d8a4a",
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xS3VoLXJubnpmeElZeURoY2pOdjhBQi0yYVZWODdzeGJGZHp6ZU9LZkh4STQ3X0otWnpTUzFVblotSzVQWUplWksxVGRndWk0SnU4UldYQ2xaQlBjeE0xMGRWM2dHRl9ldFE?oc=5",
@@ -519,7 +519,7 @@
           "published": "2026-08-14T02:30:53+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f915befcda4800984a9eb03a313e1b53",
@@ -529,7 +529,7 @@
           "published": "2026-08-14T02:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd851cdbc6db0724c18e556ea95e4f8c",
@@ -1230,16 +1230,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "cc65f7d4f3a7b28209f5077ede16b787",
-          "title": "&quot;달라진 입시 앞둔 겨울방학&quot; ㈜잇올, 2027 통학 윈터스쿨 사전 모집 시...",
-          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52974",
-          "source": "www.enetnews.co.kr",
-          "published": "2026-07-31T04:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1558,11 +1548,21 @@
       "emoji": "✏️",
       "items": [
         {
-          "id": "140872bbed01a79ac6685947235c67e7",
-          "title": "[2027 수시특집] 멀티캠퍼스·글로벌캠퍼스로 날아오르는 동덕여대...'융...",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129149",
-          "source": "www.popcornnews.net",
-          "published": "2026-08-13T04:12:00+00:00",
+          "id": "e14bf9af3eaaf69694a8502b3968cd18",
+          "title": "고등인강 밀크티, 수능 D-100 맞춤형 솔루션·스타 강사 응원 영상 공개",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390533",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-08-14T05:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "0fe7d017d6ddf3f29bd4843735a37f35",
+          "title": "[2027 수시특집] 삼육대, 수시 선발 80%로 미래형 융합 인재 선발 박차 - popcornnews.net",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VcTNBTGRtU3U1YlNEUmI3NGl3a2I2X1Z3R2ZfVXA5ZFNaQjdVMEE3SVl1QzdxSEJlWmU4VDJadnZVeW1mbThhVlk3bGpNNUk5amNQT2IwSzE0Q1Z0TjNLRU1DelozUDl6OW1JX1VR0gFyQVVfeXFMUGUzaFpPZDBZVXg2UGJnU3JEb21YWTVmWGxmaW8tYUpaZHlqbjFJMDZqVHBhNElETHdtVm5yMDdVSHA3Tk1pbnpxVVFHUEUtQWc4YUREYzJPSUo1V1o2NDV3M3I0TnExUEkwNVgteDZXR2NB?oc=5",
+          "source": "popcornnews.net",
+          "published": "2026-08-13T04:10:29+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1702,7 +1702,7 @@
           "published": "2026-08-14T02:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5f912d9811fa8dfeb2ea7adc59d86553",
@@ -2219,7 +2219,7 @@
           "published": "2026-08-13T20:24:01+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12032ec1d6b9d1d4e7aa5d37fd677fad",
