@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:33:22.434968+00:00",
+  "updated_at": "2026-08-14T04:15:11.241384+00:00",
   "available_archives": [
     "index",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-14T01:18:11.610432+00:00",
+          "published": "2026-08-14T04:00:21.436893+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "dc21c8f7437f3113782a45d3b52b79d5",
+          "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
+          "source": "에듀진",
+          "published": "2026-08-14T04:00:18.257726+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "08c61b05c4432b633b8dabd44a4f8452",
@@ -453,16 +463,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0713f34373787a4147fde15902dbe4c7",
-          "title": "2027 건국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53636",
-          "source": "에듀진",
-          "published": "2026-07-31T02:06:28.847295+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -476,17 +476,17 @@
           "title": "[수시 특집] 2027학년도 한양대 ERICA 수시 주요사항과 변경사항",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53841",
           "source": "에듀진",
-          "published": "2026-08-14T01:20:49.403406+00:00",
+          "published": "2026-08-14T04:02:56.982499+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b9ba030cd21f52e164220e0d5acef667",
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-14T01:20:40.899750+00:00",
+          "published": "2026-08-14T04:02:51.073586+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -496,20 +496,40 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-14T01:20:39.458958+00:00",
+          "published": "2026-08-14T04:02:50.063023+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "63d3f01bd66bf44613cd23e5f4fe3476",
+          "title": "서울대는 왜 권장과목을 공개할까… 합격생 학생부의 결정적 차이",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53108",
+          "source": "에듀진",
+          "published": "2026-08-14T04:02:44.743259+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
         },
         {
-          "id": "3ef9977decb47aa2fcbc030d85b87a43",
-          "title": "[입시분석] 2027 인서울대 생명공학과 수시 교과전형 지원 전략은?",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53830",
-          "source": "에듀진",
-          "published": "2026-08-14T01:20:35.977626+00:00",
+          "id": "c7b032835631fbd282c79adbdd4d8a4a",
+          "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xS3VoLXJubnpmeElZeURoY2pOdjhBQi0yYVZWODdzeGJGZHp6ZU9LZkh4STQ3X0otWnpTUzFVblotSzVQWUplWksxVGRndWk0SnU4UldYQ2xaQlBjeE0xMGRWM2dHRl9ldFE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-14T02:30:53+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "f915befcda4800984a9eb03a313e1b53",
+          "title": "인하대, 논술 반영 비율 80%로 확대…457명 선발",
+          "link": "https://n.news.naver.com/mnews/article/011/0004651782?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-08-14T02:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bd851cdbc6db0724c18e556ea95e4f8c",
@@ -1192,6 +1212,16 @@
           "is_new": false
         },
         {
+          "id": "a18c397302439ced8323eaf28b462b22",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-07-31T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "d5933eeacf08376f607a06f01bb74d1d",
           "title": "2027 덕성여대 학생부교과 고교추천전형 합격컷 및 경쟁률, 충원인원",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53644",
@@ -1207,16 +1237,6 @@
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=52974",
           "source": "www.enetnews.co.kr",
           "published": "2026-07-31T04:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "0cce956d19ad29854c91d8ad5e28397a",
-          "title": "[수시 특집] 2027학년도 서울시립대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWFE3dnZSa093NzY0MnlJQ19QcEo3WVVfU244X0RJY01XeFlnZ0JIVzg5bXBWZ1BKMDJyeWJnYVJnT3Y0TDk4TzAyb2hwOFN0dzRJd2V1S3YxZDFscE80VFBxSGhoSzllRnc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-07-31T02:56:35+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1674,6 +1694,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "4160525c43919241f3956a625c0d15a3",
+          "title": "건국대, 수시 원서접수 앞두고 온오프라인 입학전형설명회 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110936",
+          "source": "edu.donga.com",
+          "published": "2026-08-14T02:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "5f912d9811fa8dfeb2ea7adc59d86553",
           "title": "중앙대 2027학년도 논술 두 갈래로… 수능 전 치르는 '창의형' 86명 신설 - 교육을 비추다",
@@ -2173,16 +2203,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "c2e4fcb6770a32694fbdf675de1028a0",
-          "title": "수시·정시 병행 중요성 커져…스마트정일학원 “수능 준비 끝까지 이어...",
-          "link": "https://www.gosiweek.com/article/1065580055142052",
-          "source": "www.gosiweek.com",
-          "published": "2026-07-31T02:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2191,6 +2211,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "79384dcc123dc3b482d96d26127ca4c6",
+          "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
+          "source": "Mshale",
+          "published": "2026-08-13T20:24:01+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "12032ec1d6b9d1d4e7aa5d37fd677fad",
           "title": "SKY 학종 지원… 일반고 1.87등급, 자사고 2.86등급",
