@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T22:42:04.830536+00:00",
+  "updated_at": "2026-08-16T01:07:56.666664+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-15T22:13:31.590090+00:00",
+          "published": "2026-08-16T00:53:01.920612+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-15T22:13:28.757917+00:00",
+          "published": "2026-08-16T00:52:59.367156+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-15T22:18:28.499518+00:00",
+          "published": "2026-08-16T00:55:43.472995+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-15T22:18:26.408563+00:00",
+          "published": "2026-08-16T00:55:42.127445+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-15T22:18:13.112861+00:00",
+          "published": "2026-08-16T00:55:29.495428+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-15T22:18:11.326425+00:00",
+          "published": "2026-08-16T00:55:28.124268+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "[2027전공돋보기] 한양대ERICA 스마트융합공학부 수시 정원외 150명 모집.. '조기취업형 계약학과’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623356",
           "source": "베리타스알파",
-          "published": "2026-08-15T22:18:10.149046+00:00",
+          "published": "2026-08-16T00:55:26.190899+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
           "source": "베리타스알파",
-          "published": "2026-08-15T22:18:10.148995+00:00",
+          "published": "2026-08-16T00:55:26.190845+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1701,7 +1701,7 @@
           "published": "2026-08-15T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "451104b4905b6ceefd71bc0596095f2a",
@@ -2194,7 +2194,7 @@
           "id": "79384dcc123dc3b482d96d26127ca4c6",
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
-          "source": "Mshale",
+          "source": "mshale.com",
           "published": "2026-08-13T20:24:01+00:00",
           "type": "news",
           "grade": "all",
