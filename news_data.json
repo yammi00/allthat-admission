@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T20:28:41.731449+00:00",
+  "updated_at": "2026-08-16T22:28:13.264071+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-16T20:13:37.736852+00:00",
+          "published": "2026-08-16T22:13:09.010304+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-16T20:13:35.310847+00:00",
+          "published": "2026-08-16T22:13:06.288370+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-16T20:16:21.289748+00:00",
+          "published": "2026-08-16T22:15:51.035076+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-16T20:16:19.822058+00:00",
+          "published": "2026-08-16T22:15:49.428954+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-16T20:16:06.369320+00:00",
+          "published": "2026-08-16T22:15:36.287369+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-16T20:16:05.070491+00:00",
+          "published": "2026-08-16T22:15:34.742202+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
           "source": "베리타스알파",
-          "published": "2026-08-16T20:16:02.256194+00:00",
+          "published": "2026-08-16T22:15:33.573871+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -561,6 +561,16 @@
           "is_new": false
         },
         {
+          "id": "b7c18f5bf592fb1c6c7d0c3685450427",
+          "title": "2027 한국외대 논술전형 경쟁률 분석 및 지원전략 - edujin.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5adzJCb1JaeE1HMkc5VHRXOHEya29JaDM2b2FORURmalBVRTd6OWlyTmM4RnhqN0xSU2w5LWprTExndkVMSncyM2dwZTR0SnlsTVM3WHhXTDY4RmJEa0s0cHBkWjZpNWtJNXc?oc=5",
+          "source": "edujin.co.kr",
+          "published": "2026-08-13T06:05:44+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "85da84e6a0b53d681291940c1fbe682a",
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16WGp1NHlfREJTcnNyWmNSSlltU1dnOVFVU1paQWZsczVpLWM1X1hEVFk3S2lwd1BEYzRsS1VUUEtIcFNReDN0R3JTX0tJcENBSjVIemNYbXRqankzMDRVcXVwVHJSbmd0WWc?oc=5",
@@ -592,9 +602,9 @@
         },
         {
           "id": "44fdbce7322c83f45bda3a961c810936",
-          "title": "[수시 특집] 2027학년도 숭실대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
+          "title": "[수시 특집] 2027학년도 숭실대 수시 주요사항과 변경사항 - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raVpuX1UzVG5nM1NwX0FpZzMwTlRGak43eXBJVThDa2tza0Vfb0RMeW5LamhIdzNBSlVhOHRZaTR4b2FrRUdnRnREMnhRUEZGRHpHRDFnalBxZlhJQktIcHVleVI1UmZvSmc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-08-12T06:33:36+00:00",
           "type": "news",
           "grade": "3",
@@ -1222,9 +1232,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
+          "source": "job-post.co.kr",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2194,7 +2204,7 @@
           "id": "79384dcc123dc3b482d96d26127ca4c6",
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
-          "source": "Mshale",
+          "source": "mshale.com",
           "published": "2026-08-13T20:24:01+00:00",
           "type": "news",
           "grade": "all",
