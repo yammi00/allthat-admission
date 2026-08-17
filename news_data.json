@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:37:54.027431+00:00",
+  "updated_at": "2026-08-17T22:31:16.201656+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-17T20:18:36.827501+00:00",
+          "published": "2026-08-17T22:16:38.945749+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-17T20:18:33.792149+00:00",
+          "published": "2026-08-17T22:16:36.458333+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-17T20:21:55.495510+00:00",
+          "published": "2026-08-17T22:19:13.430833+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-17T20:21:53.802629+00:00",
+          "published": "2026-08-17T22:19:12.581647+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-17T20:21:39.563654+00:00",
+          "published": "2026-08-17T22:19:01.771529+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-17T20:21:38.101520+00:00",
+          "published": "2026-08-17T22:19:00.821787+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "[2027전공돋보기] 한양대ERICA 스마트융합공학부 수시 정원외 150명 모집.. '조기취업형 계약학과’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623356",
           "source": "베리타스알파",
-          "published": "2026-08-17T20:21:36.622235+00:00",
+          "published": "2026-08-17T22:18:59.951523+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,10 +505,20 @@
           "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
           "source": "베리타스알파",
-          "published": "2026-08-17T20:21:36.622184+00:00",
+          "published": "2026-08-17T22:18:59.951469+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5511b5e5e7eb7195d7bfc51184d57137",
+          "title": "[Who Is ?] 김종량 한양대학교 법인 이사장",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444628",
+          "source": "www.businesspost.co.kr",
+          "published": "2026-08-17T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b94f022afd7ec603d70248d482eeab8e",
