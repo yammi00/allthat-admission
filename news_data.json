@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T01:06:48.761748+00:00",
+  "updated_at": "2026-08-17T03:08:42.122493+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-17T00:51:34.993509+00:00",
+          "published": "2026-08-17T02:53:42.285581+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-17T00:51:32.349335+00:00",
+          "published": "2026-08-17T02:53:40.457599+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-17T00:54:19.648876+00:00",
+          "published": "2026-08-17T02:56:22.009185+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-17T00:54:17.760530+00:00",
+          "published": "2026-08-17T02:56:21.116820+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-17T00:54:04.257969+00:00",
+          "published": "2026-08-17T02:56:12.182882+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-17T00:54:02.941419+00:00",
+          "published": "2026-08-17T02:56:11.372312+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,17 +495,17 @@
           "title": "[2027전공돋보기] 한양대ERICA 스마트융합공학부 수시 정원외 150명 모집.. '조기취업형 계약학과’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623356",
           "source": "베리타스알파",
-          "published": "2026-08-17T00:54:01.792356+00:00",
+          "published": "2026-08-17T02:56:10.449356+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4f8bf3c6b775455c18af2b64a5fcc36b",
           "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
           "source": "베리타스알파",
-          "published": "2026-08-17T00:54:01.792302+00:00",
+          "published": "2026-08-17T02:56:10.449311+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1076,16 +1076,6 @@
           "link": "https://n.news.naver.com/mnews/article/028/0002817314?sid=102",
           "source": "www.hani.co.kr",
           "published": "2026-08-05T11:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
