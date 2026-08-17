@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T12:44:08.577139+00:00",
+  "updated_at": "2026-08-17T14:34:39.734839+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-17T12:28:52.451373+00:00",
+          "published": "2026-08-17T14:19:51.717706+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-17T12:28:49.820752+00:00",
+          "published": "2026-08-17T14:19:49.893178+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-17T12:31:44.355618+00:00",
+          "published": "2026-08-17T14:22:28.305397+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
           "source": "에듀진",
-          "published": "2026-08-17T12:31:42.690941+00:00",
+          "published": "2026-08-17T14:22:27.324942+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-17T12:31:28.365411+00:00",
+          "published": "2026-08-17T14:22:16.972470+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-17T12:31:26.574643+00:00",
+          "published": "2026-08-17T14:22:15.984675+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "[2027전공돋보기] 한양대ERICA 스마트융합공학부 수시 정원외 150명 모집.. '조기취업형 계약학과’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623356",
           "source": "베리타스알파",
-          "published": "2026-08-17T12:31:25.409203+00:00",
+          "published": "2026-08-17T14:22:15.294703+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +505,7 @@
           "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
           "source": "베리타스알파",
-          "published": "2026-08-17T12:31:25.409134+00:00",
+          "published": "2026-08-17T14:22:15.294637+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -522,9 +522,9 @@
         },
         {
           "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - veritas-",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1091,6 +1091,16 @@
           "is_new": false
         },
         {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -1568,9 +1578,9 @@
       "items": [
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - veritas-a.com",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1731,7 +1741,7 @@
           "published": "2026-08-17T12:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae27f9b9722864fc34d3319b991611d0",
@@ -1745,9 +1755,9 @@
         },
         {
           "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - veritas-a.com",
+          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
