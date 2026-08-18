@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:31:16.201656+00:00",
+  "updated_at": "2026-08-18T01:03:58.134599+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-17T22:16:38.945749+00:00",
+          "published": "2026-08-18T00:49:15.137700+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-17T22:16:36.458333+00:00",
+          "published": "2026-08-18T00:49:13.092864+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,17 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-17T22:19:13.430833+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6299a3f25d81806a09290246223cc4f6",
-          "title": "2027 로봇·드론공학 수시 학종, 내신 2등급부터 4등급대까지 합격선 넓게 형성",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53836",
-          "source": "에듀진",
-          "published": "2026-08-17T22:19:12.581647+00:00",
+          "published": "2026-08-18T00:51:50.855067+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +465,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-17T22:19:01.771529+00:00",
+          "published": "2026-08-18T00:51:38.836635+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,10 +475,20 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-17T22:19:00.821787+00:00",
+          "published": "2026-08-18T00:51:37.545901+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "30814bb4f1f653c9f15afe0a14b8dd91",
+          "title": "[2027수시특집] 가톨릭관동대 1534명(94.3%).. '신설 학종 지역의사' 6명 모집",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621971",
+          "source": "베리타스알파",
+          "published": "2026-08-18T00:51:36.447077+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0b914c75bedabc644d4166c9ef5bc86c",
@@ -501,16 +501,6 @@
           "is_new": false
         },
         {
-          "id": "4f8bf3c6b775455c18af2b64a5fcc36b",
-          "title": "[2027수시특집] 성신여대 1342명(65.1%).. 교과 지균 312명 ‘72명 확대’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621504",
-          "source": "베리타스알파",
-          "published": "2026-08-17T22:18:59.951469+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "5511b5e5e7eb7195d7bfc51184d57137",
           "title": "[Who Is ?] 김종량 한양대학교 법인 이사장",
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444628",
@@ -518,7 +508,7 @@
           "published": "2026-08-17T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b94f022afd7ec603d70248d482eeab8e",
@@ -1268,6 +1258,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "97a675204a6831d3fde9e878f2bc72fc",
+          "title": "내신·수능 다 바뀐다…“학생부 중요성 커져”",
+          "link": "https://n.news.naver.com/mnews/article/056/0012239222?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-08-17T22:45:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "ffd6544dfe02db598bc22312d6b90fcc",
           "title": "[단독] ‘정시40% 폐지하라’ 서울16개대 공동 대응 나선다.. ‘중도이탈률/학업성취도 국교위 제출’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623068",
@@ -1578,9 +1578,9 @@
       "items": [
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1734,6 +1734,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "7d722ccd0270421306bf2e19e4b49cbf",
+          "title": "경기도교육청, 2027학년도 수능 응시원서 접수 24일 시작 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb3RWVk9YR0FLMHNadG1CWG42cWM4V0lhNVNlTGFUTWdpc1JlNmVsQS1JRUw2QVZRMFBMTkdIQ0l2d21CcnZuSGVpUTkwekFoMGFLdjFLbmtTNTAxRWRxODA4Zkc?oc=5",
+          "source": "매일일보",
+          "published": "2026-08-18T00:05:20+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fcfc41eb651f48a8e330a1df43fd6099",
+          "title": "9월 모평 이후 입시전략 점검 설명회 개최 가채점 성적 분포 분석부터 ...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110958",
+          "source": "edu.donga.com",
+          "published": "2026-08-17T23:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b75f256824a0bfc2df63e768266588d6",
+          "title": "경기도교육청, 2027학년도 수능 응시원서 8월 24일부터 접수 - 여성종합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYkowczJjdDZIWkw3b3NlaURoT05hQm5KMnBwam9NRE5DLVRFblFKck1SZXZnenRHRUdNVEZiTU53dk1sbTM4YzlEUFg5Rm43UXROVngyRDItYUxOa1ppWFRJdEVyUzZtX0pJ?oc=5",
+          "source": "여성종합뉴스",
+          "published": "2026-08-17T23:19:39+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cbd9a0b4b44e9c48b1b79d352ae89574",
           "title": "인하대, 2027학년도 수시모집 2천662명 선발",
           "link": "https://www.cstimes.com/news/articleView.html?idxno=716987",
@@ -1755,9 +1785,9 @@
         },
         {
           "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
+          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2240,6 +2270,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "253c0af5bf7aff2bfe157ea077d6e3b8",
+          "title": "2027학년도 과학고 입시, 주요 특징과 대비법 살펴보니",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/18/2026081880015.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-18T00:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "79384dcc123dc3b482d96d26127ca4c6",
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
