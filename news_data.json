@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:40:13.829553+00:00",
+  "updated_at": "2026-08-18T16:37:17.081225+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T14:25:13.204574+00:00",
+          "published": "2026-08-18T16:22:16.668929+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
           "source": "에듀진",
-          "published": "2026-08-18T14:25:07.226923+00:00",
+          "published": "2026-08-18T16:22:10.896054+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-18T14:27:45.682975+00:00",
+          "published": "2026-08-18T16:24:47.971794+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 홍익대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53851",
           "source": "에듀진",
-          "published": "2026-08-18T14:27:42.304135+00:00",
+          "published": "2026-08-18T16:24:45.457521+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -498,13 +498,13 @@
           "published": "2026-08-18T07:35:37+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3993e20ae919adda37b72bb9ebe86230",
-          "title": "통합수능과 함께 흔들리는 ‘정시40%의 벽’…선발도구를 다시 짜는 대학들 - 교육을 비추다",
+          "title": "통합수능과 함께 흔들리는 ‘정시40%의 벽’…선발도구를 다시 짜는 대학들 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZWtyVDFDU3JGOUhib1NUR1VlQWYxVThqNDZNbGNtZlJvZjZPVzRrd2lJaVlnNWlDZ3F0V1otZ3NwSmJ2MWFYSVRrUzhWODhIQVQ4YUxQQjNqM2Q2NzVmazdNVDNXQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-18T05:26:50+00:00",
           "type": "news",
           "grade": "3",
@@ -1126,16 +1126,6 @@
           "link": "https://n.news.naver.com/mnews/article/028/0002817314?sid=102",
           "source": "www.hani.co.kr",
           "published": "2026-08-05T11:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
