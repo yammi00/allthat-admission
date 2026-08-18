@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T01:03:58.134599+00:00",
+  "updated_at": "2026-08-18T03:04:30.345519+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T00:49:15.137700+00:00",
+          "published": "2026-08-18T02:49:45.056180+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-18T00:49:13.092864+00:00",
+          "published": "2026-08-18T02:49:42.867907+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-18T00:51:50.855067+00:00",
+          "published": "2026-08-18T02:52:20.247417+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-18T00:51:38.836635+00:00",
+          "published": "2026-08-18T02:52:08.425878+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-18T00:51:37.545901+00:00",
+          "published": "2026-08-18T02:52:07.476874+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,10 +485,10 @@
           "title": "[2027수시특집] 가톨릭관동대 1534명(94.3%).. '신설 학종 지역의사' 6명 모집",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621971",
           "source": "베리타스알파",
-          "published": "2026-08-18T00:51:36.447077+00:00",
+          "published": "2026-08-18T02:52:06.263552+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0b914c75bedabc644d4166c9ef5bc86c",
@@ -522,9 +522,9 @@
         },
         {
           "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - veritas-",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1265,7 +1265,7 @@
           "published": "2026-08-17T22:45:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ffd6544dfe02db598bc22312d6b90fcc",
@@ -1741,7 +1741,7 @@
           "published": "2026-08-18T00:05:20+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fcfc41eb651f48a8e330a1df43fd6099",
@@ -1751,7 +1751,7 @@
           "published": "2026-08-17T23:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b75f256824a0bfc2df63e768266588d6",
@@ -1761,7 +1761,7 @@
           "published": "2026-08-17T23:19:39+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cbd9a0b4b44e9c48b1b79d352ae89574",
@@ -2278,7 +2278,7 @@
           "published": "2026-08-18T00:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "79384dcc123dc3b482d96d26127ca4c6",
