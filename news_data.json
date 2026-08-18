@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:04:30.345519+00:00",
+  "updated_at": "2026-08-18T04:43:05.417912+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T02:49:45.056180+00:00",
+          "published": "2026-08-18T04:28:15.005867+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
           "source": "에듀진",
-          "published": "2026-08-18T02:49:42.867907+00:00",
+          "published": "2026-08-18T04:28:12.675035+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
-          "published": "2026-08-18T02:52:20.247417+00:00",
+          "published": "2026-08-18T04:30:53.192945+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
           "source": "에듀진",
-          "published": "2026-08-18T02:52:08.425878+00:00",
+          "published": "2026-08-18T04:30:40.324132+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,10 +475,20 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-18T02:52:07.476874+00:00",
+          "published": "2026-08-18T04:30:39.043975+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1febddd78947f4babfaf1df9c4111659",
+          "title": "[임성호의 입시 레이다] 수시 합격 가능권 대학, 정시에선 지원 어려울...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110990",
+          "source": "edu.donga.com",
+          "published": "2026-08-18T03:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "30814bb4f1f653c9f15afe0a14b8dd91",
@@ -522,9 +532,9 @@
         },
         {
           "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - veritas-",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1091,6 +1101,16 @@
           "is_new": false
         },
         {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -1242,9 +1262,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "잡포스트",
+          "source": "job-post.co.kr",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1578,9 +1598,9 @@
       "items": [
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - veritas-a.com",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1785,9 +1805,9 @@
         },
         {
           "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - veritas-a.com",
+          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2115,9 +2135,9 @@
         },
         {
           "id": "2853fe3d5b5a85d20fd18481128d58f2",
-          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - 교육을 비추다",
+          "title": "중앙대, '2027 파이널 디시전' 입학설명회... 22일부터 전국 7곳 순회 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRXdpUXd3Q2ZYRmZLMXFKSEJpRWtCcWYtUEJNUDJEdnBQb3VqdHY0MjlEZ0RFck9sUWJlT2h6Y3Rwai1qb2pVd2lRV2JjUURDNzJtdXY5Q1ZNeFZzTm9zVEl1YjE2QQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
