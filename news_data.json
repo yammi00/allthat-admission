@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T04:43:05.417912+00:00",
+  "updated_at": "2026-08-18T06:45:30.466472+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,20 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T04:28:15.005867+00:00",
+          "published": "2026-08-18T06:30:30.850366+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "dc21c8f7437f3113782a45d3b52b79d5",
-          "title": "2027 단국대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53805",
+          "id": "392633f1826882e3e980838c36a90cb9",
+          "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
           "source": "에듀진",
-          "published": "2026-08-18T04:28:12.675035+00:00",
+          "published": "2026-08-18T06:30:24.209513+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "3f8762576a4985010e7b3423788adbd1",
+          "title": "김문희 평가원장 &quot;서·논술형 AI 채점 가이드라인 연내 제안&quot;",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=540718",
+          "source": "www.joongangenews.com",
+          "published": "2026-08-18T05:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "08c61b05c4432b633b8dabd44a4f8452",
@@ -451,31 +461,41 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "05c81bac8dfe19219725c1d597cb6f29",
+          "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
+          "source": "에듀진",
+          "published": "2026-08-18T06:32:58.346158+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c523e21ac50a78fba99bbde5b29837de",
+          "title": "2027 홍익대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53851",
+          "source": "에듀진",
+          "published": "2026-08-18T06:32:55.824955+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3993e20ae919adda37b72bb9ebe86230",
+          "title": "통합수능과 함께 흔들리는 ‘정시40%의 벽’…선발도구를 다시 짜는 대학들 - kyobit.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZWtyVDFDU3JGOUhib1NUR1VlQWYxVThqNDZNbGNtZlJvZjZPVzRrd2lJaVlnNWlDZ3F0V1otZ3NwSmJ2MWFYSVRrUzhWODhIQVQ4YUxQQjNqM2Q2NzVmazdNVDNXQQ?oc=5",
+          "source": "kyobit.com",
+          "published": "2026-08-18T05:26:50+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b9ba030cd21f52e164220e0d5acef667",
           "title": "“봉사시간보다 중요한 것은 왜 했는가”… 동국대가 공개한 학생부 봉사활동 평가의 진실",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53843",
           "source": "에듀진",
           "published": "2026-08-18T04:30:53.192945+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f5d6c99f76d9c1902ebc13dcd3573288",
-          "title": "2027 동국대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53829",
-          "source": "에듀진",
-          "published": "2026-08-18T04:30:40.324132+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "05c81bac8dfe19219725c1d597cb6f29",
-          "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
-          "source": "에듀진",
-          "published": "2026-08-18T04:30:39.043975+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -488,7 +508,7 @@
           "published": "2026-08-18T03:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "30814bb4f1f653c9f15afe0a14b8dd91",
@@ -1101,16 +1121,6 @@
           "is_new": false
         },
         {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -1262,9 +1272,9 @@
         },
         {
           "id": "705e214039aa070eac1f6501b0ae6b26",
-          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - job-post.co.kr",
+          "title": "종로구, 2027학년도 수시전략 설명회… 학생부·수능 활용법 제시 - 잡포스트",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYWlZX2thZE5EbllhWktLeVpxQkdsektDd04tdGl4S1g1dnROOVZIeEZDMURSWUhaSThha2Y5TnVwUkcwVmJRMFJNaFgwWmhjaWlHN285VTNUbTdQNXZGdlB2XzNwQVgwSFg3Nmt30gFyQVVfeXFMTk5DVHVqSWZ2WXh0bnhRTnhidVc5cS1hdi1uaDl4dzhzZG91cmhNT3d5ZkoyVlp5ZEwwVEUwRGVtZnFteDdraWpXWGxkMnlUYVU3NncxZVNyeWZBNjNtZVpXVXJBRG9rTnV2cElzNk5JamNR?oc=5",
-          "source": "job-post.co.kr",
+          "source": "잡포스트",
           "published": "2026-08-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1596,6 +1606,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "b9c3741b0a5b97263b5fa0c9e73b702f",
+          "title": "[단독] 건국대가 전하는 2027논술 합격전략.. 인문 '정확한 독해' 자연 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623434",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-18T04:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
           "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
@@ -2304,7 +2324,7 @@
           "id": "79384dcc123dc3b482d96d26127ca4c6",
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
-          "source": "Mshale",
+          "source": "mshale.com",
           "published": "2026-08-13T20:24:01+00:00",
           "type": "news",
           "grade": "all",
