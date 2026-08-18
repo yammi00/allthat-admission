@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:41:43.746690+00:00",
+  "updated_at": "2026-08-18T10:35:09.850414+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T08:26:55.759012+00:00",
+          "published": "2026-08-18T10:20:24.329156+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
           "source": "에듀진",
-          "published": "2026-08-18T08:26:51.586498+00:00",
+          "published": "2026-08-18T10:20:19.147504+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-18T08:29:22.757464+00:00",
+          "published": "2026-08-18T10:22:51.458513+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,10 +475,20 @@
           "title": "2027 홍익대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53851",
           "source": "에듀진",
-          "published": "2026-08-18T08:29:20.552476+00:00",
+          "published": "2026-08-18T10:22:48.829325+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9518006797d5b2745c2bc2569a66df79",
+          "title": "[입시의 정석] 수시 6장, 어떻게 쓸까?…학년별 입시 전략",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60758995/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-08-18T09:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3993e20ae919adda37b72bb9ebe86230",
@@ -1288,6 +1298,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "655e0757f97467dbe1622224e1f1d848",
+          "title": "현 고1 수능 2028년 11월 16일…‘통합형 수능’ 체제 유지",
+          "link": "http://www.jndn.com/article.php?aid=1787045352437998005",
+          "source": "www.jndn.com",
+          "published": "2026-08-18T09:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "97a675204a6831d3fde9e878f2bc72fc",
           "title": "내신·수능 다 바뀐다…“학생부 중요성 커져”",
           "link": "https://n.news.naver.com/mnews/article/056/0012239222?sid=102",
@@ -1781,7 +1801,7 @@
           "published": "2026-08-18T08:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7d722ccd0270421306bf2e19e4b49cbf",
