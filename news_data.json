@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T10:35:09.850414+00:00",
+  "updated_at": "2026-08-18T12:45:11.571327+00:00",
   "available_archives": [
     "index",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-18T10:20:24.329156+00:00",
+          "published": "2026-08-18T12:30:19.315940+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
           "source": "에듀진",
-          "published": "2026-08-18T10:20:19.147504+00:00",
+          "published": "2026-08-18T12:30:13.514432+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-18T10:22:51.458513+00:00",
+          "published": "2026-08-18T12:32:49.245348+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 홍익대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53851",
           "source": "에듀진",
-          "published": "2026-08-18T10:22:48.829325+00:00",
+          "published": "2026-08-18T12:32:46.511623+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -488,7 +488,7 @@
           "published": "2026-08-18T09:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3993e20ae919adda37b72bb9ebe86230",
@@ -1298,6 +1298,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "c037e8659d7fd3606fa0a391ed281f8b",
+          "title": "내신·수능 다 바뀐다…“학생부 중요성 커져”",
+          "link": "https://n.news.naver.com/mnews/article/056/0012239631?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-08-18T10:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "655e0757f97467dbe1622224e1f1d848",
           "title": "현 고1 수능 2028년 11월 16일…‘통합형 수능’ 체제 유지",
           "link": "http://www.jndn.com/article.php?aid=1787045352437998005",
@@ -1305,7 +1315,7 @@
           "published": "2026-08-18T09:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "97a675204a6831d3fde9e878f2bc72fc",
@@ -1794,6 +1804,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "ee0c0027792fafbe2bafc25be63d832c",
+          "title": "수시 대비 수험생 맞춤형 진학 상담 제공",
+          "link": "http://www.kjdaily.com/article.php?aid=1787050977684752033",
+          "source": "www.kjdaily.com",
+          "published": "2026-08-18T11:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "907494022a62c9593ab4768bad939f68",
           "title": "남양주시, 9월 수시 원서접수 앞두고 학생부·전형 맞춤 상담 마무리",
           "link": "https://www.kmaeil.com/news/articleView.html?idxno=648827",
@@ -1825,9 +1845,9 @@
         },
         {
           "id": "b75f256824a0bfc2df63e768266588d6",
-          "title": "경기도교육청, 2027학년도 수능 응시원서 8월 24일부터 접수 - 여성종합뉴스",
+          "title": "경기도교육청, 2027학년도 수능 응시원서 8월 24일부터 접수 - womannews.net",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYkowczJjdDZIWkw3b3NlaURoT05hQm5KMnBwam9NRE5DLVRFblFKck1SZXZnenRHRUdNVEZiTU53dk1sbTM4YzlEUFg5Rm43UXROVngyRDItYUxOa1ppWFRJdEVyUzZtX0pJ?oc=5",
-          "source": "여성종합뉴스",
+          "source": "womannews.net",
           "published": "2026-08-17T23:19:39+00:00",
           "type": "news",
           "grade": "all",
