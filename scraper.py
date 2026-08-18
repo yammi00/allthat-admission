@@ -823,6 +823,7 @@ def main():
     available = sorted([
         f.stem.replace("archive_", "").replace("_", "-")
         for f in ARCHIVE_DIR.glob("archive_*.json")
+        if f.stem != "archive_index"
     ], reverse=True)
 
     # 경량 검색 인덱스 생성 (제목+링크+날짜+카테고리만)
