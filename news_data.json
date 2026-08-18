@@ -541,16 +541,6 @@
           "is_new": false
         },
         {
-          "id": "5511b5e5e7eb7195d7bfc51184d57137",
-          "title": "[Who Is ?] 김종량 한양대학교 법인 이사장",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444628",
-          "source": "www.businesspost.co.kr",
-          "published": "2026-08-17T22:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "b94f022afd7ec603d70248d482eeab8e",
           "title": "'무전공' 뚫고 '학폭' 피하라… 2027학년도 서울 주요 대학 수시모집 '이...",
           "link": "https://www.newstnt.com/news/articleView.html?idxno=714096",
@@ -1465,28 +1455,6 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "19c12718827f49696b843168a626d23f",
-          "title": "소방청, 추석 명절 대비 전국 전통시장 소방용수시설&middot;비상소화장치 일제점검",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774221",
-          "source": "정책브리핑(교육부)",
-          "published": "2026-08-12T00:00:00+00:00",
-          "type": "official",
-          "no_expire": true,
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "1021dd825a644126ac22db13dd40a275",
-          "title": "배경훈 부총리 겸 과기정통부 장관, 카자흐스탄 과학고등교육부 장관과 면담",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774202",
-          "source": "정책브리핑(교육부)",
-          "published": "2026-08-12T00:00:00+00:00",
-          "type": "official",
-          "no_expire": true,
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "ccabda9b71163851d7507975675abdbd",
           "title": "[보도자료] &quot;국민과 함께 그리는 미래 대입제도&quot; 지역 현장의 목소리를 듣습니다",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156774054",
@@ -1652,16 +1620,6 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
           "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "e14bf9af3eaaf69694a8502b3968cd18",
-          "title": "고등인강 밀크티, 수능 D-100 맞춤형 솔루션·스타 강사 응원 영상 공개",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390533",
-          "source": "www.fntoday.co.kr",
-          "published": "2026-08-14T05:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
