@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:42:26.257230+00:00",
+  "updated_at": "2026-08-19T10:35:56.748233+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T08:27:39.905014+00:00",
+          "published": "2026-08-19T10:21:00.149581+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-19T08:27:33.610216+00:00",
+          "published": "2026-08-19T10:20:54.495275+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,17 +465,7 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-19T08:30:08.125735+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9abd048a7b41b589154138c8466267fe",
-          "title": "2027 숭실대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53867",
-          "source": "에듀진",
-          "published": "2026-08-19T08:30:04.825825+00:00",
+          "published": "2026-08-19T10:23:30.609480+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,20 +475,20 @@
           "title": "[2027전문대수시특집] 김영도 한국전문대학교육협의회 회장 “전문대학은 4년제 대안 아니라 실질적 직업교육 처음부터 다른 길”",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623706",
           "source": "베리타스알파",
-          "published": "2026-08-19T08:30:03.654447+00:00",
+          "published": "2026-08-19T10:23:25.993051+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
           "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' 재학생 촉각'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
           "source": "베리타스알파",
-          "published": "2026-08-19T08:30:03.654421+00:00",
+          "published": "2026-08-19T10:23:25.993022+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5547d2e11fb9812249fac5c77730baed",
@@ -508,7 +498,7 @@
           "published": "2026-08-19T06:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "05c81bac8dfe19219725c1d597cb6f29",
@@ -519,6 +509,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c72307efb712587636f82ea6088ace2f",
+          "title": "[입시분석] 2027 건설환경·토목 교과전형, 경쟁률↓ 합격선↑ - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jT1RKaXo2NHV5VXRIdnJKbnllOFpULTZlLWNfNEp2VHhtem9KbWZac1huQjN6MndnNFUyaEdzX19lS2pxSWgyQUpaV094a3VGOWNUWTUzVFQ3MlJabjZOX05lTlJRUC11Y2c?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-19T03:01:35+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9b21f2d01e60ac7c0d4116a309baa158",
@@ -1912,6 +1912,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "9ae8feba2db5a607dedd872813e6aa67",
+          "title": "'성심당 학과' 내달 수시 모집 윤곽 나왔다… 졸업 후 채용 연계도",
+          "link": "https://n.news.naver.com/mnews/article/656/0000184461?sid=102",
+          "source": "www.daejonilbo.com",
+          "published": "2026-08-19T09:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1b555e2e5347fd8f300c18d1d9df445c",
           "title": "'불안감에 하향지원 NO'...대형 변수 속 입시 레이스 시작",
           "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026081900054&story_seq=0&soCode=114&socttSn=NS2026081900054&socttSeq=0",
@@ -1919,7 +1929,7 @@
           "published": "2026-08-19T07:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53cc6597c1505a41d4764b4a6e190fc2",
