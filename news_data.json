@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T06:50:17.992635+00:00",
+  "updated_at": "2026-08-19T08:42:26.257230+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T06:32:00.210987+00:00",
+          "published": "2026-08-19T08:27:39.905014+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,10 @@
           "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-19T06:31:53.671053+00:00",
+          "published": "2026-08-19T08:27:33.610216+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3f8762576a4985010e7b3423788adbd1",
@@ -465,7 +465,7 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-19T06:34:56.796051+00:00",
+          "published": "2026-08-19T08:30:08.125735+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,37 @@
           "title": "2027 숭실대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53867",
           "source": "에듀진",
-          "published": "2026-08-19T06:34:54.679766+00:00",
+          "published": "2026-08-19T08:30:04.825825+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "206d38c816c699cb3aabc1644b0b419b",
+          "title": "[2027전문대수시특집] 김영도 한국전문대학교육협의회 회장 “전문대학은 4년제 대안 아니라 실질적 직업교육 처음부터 다른 길”",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623706",
+          "source": "베리타스알파",
+          "published": "2026-08-19T08:30:03.654447+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
+          "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' 재학생 촉각'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
+          "source": "베리타스알파",
+          "published": "2026-08-19T08:30:03.654421+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5547d2e11fb9812249fac5c77730baed",
+          "title": "삼육대, 수시에서 80% 모집… '논술 100%'로 인서울 기회 넓혔다",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401978?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-08-19T06:57:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1882,6 +1912,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "1b555e2e5347fd8f300c18d1d9df445c",
+          "title": "'불안감에 하향지원 NO'...대형 변수 속 입시 레이스 시작",
+          "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026081900054&story_seq=0&soCode=114&socttSn=NS2026081900054&socttSeq=0",
+          "source": "ccn.hcn.co.kr",
+          "published": "2026-08-19T07:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "53cc6597c1505a41d4764b4a6e190fc2",
           "title": "건국대 '디멧' 차세대 유연 투명 유기태양전지 모듈 개발...온오프라인...",
           "link": "http://www.wsobi.com/news/articleView.html?idxno=316642",
@@ -2482,7 +2522,7 @@
           "id": "79384dcc123dc3b482d96d26127ca4c6",
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
-          "source": "mshale.com",
+          "source": "Mshale",
           "published": "2026-08-13T20:24:01+00:00",
           "type": "news",
           "grade": "all",
