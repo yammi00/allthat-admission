@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:44:58.011688+00:00",
+  "updated_at": "2026-08-19T06:50:17.992635+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,20 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T04:30:01.045175+00:00",
+          "published": "2026-08-19T06:32:00.210987+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "392633f1826882e3e980838c36a90cb9",
-          "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
+          "id": "53a87587e5c9f12ed983f42701d7e221",
+          "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-19T04:29:55.595107+00:00",
+          "published": "2026-08-19T06:31:53.671053+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "3f8762576a4985010e7b3423788adbd1",
@@ -461,6 +461,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "df57b09a8f1a4aad50fc1d7825082bab",
+          "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
+          "source": "에듀진",
+          "published": "2026-08-19T06:34:56.796051+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9abd048a7b41b589154138c8466267fe",
+          "title": "2027 숭실대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53867",
+          "source": "에듀진",
+          "published": "2026-08-19T06:34:54.679766+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "05c81bac8dfe19219725c1d597cb6f29",
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
@@ -469,26 +489,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "7a69b9124535e8104a2454fabfa3f4f7",
-          "title": "2027 숙명여대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53854",
-          "source": "에듀진",
-          "published": "2026-08-19T04:32:30.976888+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "df57b09a8f1a4aad50fc1d7825082bab",
-          "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
-          "source": "에듀진",
-          "published": "2026-08-19T04:32:29.529133+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "9b21f2d01e60ac7c0d4116a309baa158",
