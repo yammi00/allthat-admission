@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T01:05:05.077477+00:00",
+  "updated_at": "2026-08-19T03:06:00.247663+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T00:50:03.640739+00:00",
+          "published": "2026-08-19T02:51:17.380632+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53779",
           "source": "에듀진",
-          "published": "2026-08-19T00:49:57.319428+00:00",
+          "published": "2026-08-19T02:51:12.481167+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
           "source": "에듀진",
-          "published": "2026-08-19T00:52:35.777768+00:00",
+          "published": "2026-08-19T02:53:46.051418+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 홍익대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53851",
           "source": "에듀진",
-          "published": "2026-08-19T00:52:32.649305+00:00",
+          "published": "2026-08-19T02:53:43.620184+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -488,7 +488,7 @@
           "published": "2026-08-19T00:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3237ecf8c34c4c74a66c2c4b09f23f8f",
@@ -498,7 +498,7 @@
           "published": "2026-08-19T00:11:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "519bbf040a009aae48a468ec60ec9f25",
@@ -508,7 +508,7 @@
           "published": "2026-08-19T00:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4b9d8b35fea4de25e214621b5c8847f5",
@@ -518,7 +518,7 @@
           "published": "2026-08-18T23:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9518006797d5b2745c2bc2569a66df79",
@@ -1338,6 +1338,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "8f77d80af94c31995d1be9f9f5c7959e",
+          "title": "[2027 대학별 수시 분석] 동덕여대 | 논술전형 약술형으로 전환 교과·논...",
+          "link": "https://www.naeil.com/news/read/599233?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-08-19T01:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "c037e8659d7fd3606fa0a391ed281f8b",
           "title": "내신·수능 다 바뀐다…“학생부 중요성 커져”",
           "link": "https://n.news.naver.com/mnews/article/056/0012239631?sid=102",
@@ -1662,7 +1672,7 @@
           "published": "2026-08-19T00:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ff19151f21781933cc6f83a36337d300",
@@ -1672,7 +1682,7 @@
           "published": "2026-08-19T00:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e9374e7defb75d95a0cdc38d81d73da5",
@@ -1682,7 +1692,7 @@
           "published": "2026-08-18T23:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fdbde436165150d44bd1d50b02993643",
@@ -1692,7 +1702,7 @@
           "published": "2026-08-18T23:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b09e486238da1e952c191906b46afe7e",
@@ -1716,9 +1726,9 @@
         },
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1869,7 +1879,7 @@
           "published": "2026-08-18T23:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ee0c0027792fafbe2bafc25be63d832c",
@@ -2436,7 +2446,7 @@
           "published": "2026-08-19T00:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "50077b6600afc7411c7b4e69be69969c",
@@ -2446,7 +2456,7 @@
           "published": "2026-08-18T23:56:44+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "253c0af5bf7aff2bfe157ea077d6e3b8",
