@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:35:56.748233+00:00",
+  "updated_at": "2026-08-19T12:46:28.291355+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T10:21:00.149581+00:00",
+          "published": "2026-08-19T12:31:17.473679+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-19T10:20:54.495275+00:00",
+          "published": "2026-08-19T12:31:11.549441+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,7 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-19T10:23:30.609480+00:00",
+          "published": "2026-08-19T12:33:45.090208+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "[2027전문대수시특집] 김영도 한국전문대학교육협의회 회장 “전문대학은 4년제 대안 아니라 실질적 직업교육 처음부터 다른 길”",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623706",
           "source": "베리타스알파",
-          "published": "2026-08-19T10:23:25.993051+00:00",
+          "published": "2026-08-19T12:33:40.857494+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' 재학생 촉각'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
           "source": "베리타스알파",
-          "published": "2026-08-19T10:23:25.993022+00:00",
+          "published": "2026-08-19T12:33:40.857469+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -518,7 +518,7 @@
           "published": "2026-08-19T03:01:35+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9b21f2d01e60ac7c0d4116a309baa158",
@@ -1766,9 +1766,9 @@
         },
         {
           "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1919,7 +1919,7 @@
           "published": "2026-08-19T09:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1b555e2e5347fd8f300c18d1d9df445c",
