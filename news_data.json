@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T12:47:42.354756+00:00",
+  "updated_at": "2026-08-20T14:43:00.880073+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T12:33:06.300916+00:00",
+          "published": "2026-08-20T14:28:09.741416+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-20T12:32:59.308329+00:00",
+          "published": "2026-08-20T14:28:01.312652+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2033,6 +2033,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "811cdf29a1930e623e06e8d51619bf06",
+          "title": "[채용] 동부건설, 2026년 신입사원 수시채용…플랜트 분야 건축·기계·...",
+          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3135841",
+          "source": "www.ttlnews.com",
+          "published": "2026-08-20T13:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "bf9ad07845af6b9612a7c0266980e5d1",
           "title": "202027 수시 9월 7일 스타트… 지역대 신입생 10명 중 9명 뽑는다",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260820010005856",
@@ -2694,7 +2704,7 @@
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
           "source": "Mshale",
-          "published": "2026-08-13T20:24:01+00:00",
+          "published": "2026-08-13T20:24:02+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
