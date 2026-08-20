@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T01:04:59.669252+00:00",
+  "updated_at": "2026-08-20T03:05:28.316831+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T00:49:57.211072+00:00",
+          "published": "2026-08-20T02:50:40.701129+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-20T00:49:51.016459+00:00",
+          "published": "2026-08-20T02:50:34.737360+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,17 +465,27 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-20T00:52:25.046728+00:00",
+          "published": "2026-08-20T02:53:12.771485+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "9abd048a7b41b589154138c8466267fe",
-          "title": "2027 숭실대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53867",
+          "id": "3bf3f60cd1ef9736d448a2da3ed8c595",
+          "title": "2027 서울시립대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53856",
           "source": "에듀진",
-          "published": "2026-08-20T00:52:21.798434+00:00",
+          "published": "2026-08-20T02:53:05.967981+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d2bdfb92c6dd851f9e720a538befd095",
+          "title": "[2027수시특집] '수도권AI반도체 혁신대학' 평택대 738명(88.6%) 모집.. '학종' 글로벌자율전공 AI융합자율전공 등 4개 모집 신설",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623770",
+          "source": "베리타스알파",
+          "published": "2026-08-20T02:53:04.629119+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1715,6 +1725,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "d29075f30f3cbf7e6bf7149078000cf8",
+          "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
+          "source": "인천일보",
+          "published": "2026-08-20T01:53:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f04089a2ffe6431a4dd5a187c0c3e3ab",
           "title": "[유성룡의 입시 포인트] 서울시립대학교, 2027학년도 수시 모집 가이드",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/08/18/2026081880148.html",
@@ -1722,7 +1742,7 @@
           "published": "2026-08-20T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e486a052ea74bbb2d279c0f7dc80bfd5",
@@ -1790,6 +1810,16 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
           "source": "베리타스알파",
           "published": "2026-08-15T04:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "60f868acf5bb28747c38f3709ba8dc98",
+          "title": "한국항공대 2027 논술가이드북 공개…공학만 미적분, 수능최저 ‘2합 6’ - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IZ3dBNzdOUWlFbEJBcVV0TkM3dzN1ajBGSmV1a3ZMN0Y3YXkxc0RNOHhpY3MzRW8tSzBQNW9RWEt4aEUzMHRLZ1RXMGJhOUpkNWRIcXYyUmJwRngtV3JKTGV6QlhtQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-13T07:22:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1932,6 +1962,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "b2d4b9f175fa236b4da3649bc840749c",
+          "title": "정시 가능군부터 입결까지…합격 가능성 높이는 수시 지원 ‘4단계’",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/20/2026082080035.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-20T01:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "73672317d11d9dbe1aa9eba6da56b796",
           "title": "&quot;내신 낮아도 수시 활용해야…6장 모두 상향은 자제&quot;",
           "link": "https://edu.donga.com/news/articleView.html?idxno=111063",
@@ -1939,7 +1979,7 @@
           "published": "2026-08-20T00:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6debff8b0c92ca41bef33689a27edaf7",
@@ -1949,7 +1989,7 @@
           "published": "2026-08-19T23:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9ae8feba2db5a607dedd872813e6aa67",
