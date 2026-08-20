@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:44:11.418188+00:00",
+  "updated_at": "2026-08-20T10:36:29.800731+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T08:29:10.637345+00:00",
+          "published": "2026-08-20T10:21:48.956125+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,10 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-20T08:29:00.596553+00:00",
+          "published": "2026-08-20T10:21:42.259461+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "59ce58e14e371c98a0d826ea239cb68b",
@@ -41,7 +41,7 @@
           "published": "2026-08-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3f8762576a4985010e7b3423788adbd1",
@@ -1435,7 +1435,7 @@
           "published": "2026-08-20T07:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8f77d80af94c31995d1be9f9f5c7959e",
@@ -1783,7 +1783,7 @@
           "published": "2026-08-20T07:54:48+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e15710b0f38a29fedd0e888bc91297e7",
@@ -1793,12 +1793,12 @@
           "published": "2026-08-20T06:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "c16354ccd050e10d9eee8e3767c43f70",
+          "id": "d29075f30f3cbf7e6bf7149078000cf8",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
@@ -2040,7 +2040,7 @@
           "published": "2026-08-20T08:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b2d4b9f175fa236b4da3649bc840749c",
