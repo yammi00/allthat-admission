@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:05:28.316831+00:00",
+  "updated_at": "2026-08-20T04:44:52.137946+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,20 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T02:50:40.701129+00:00",
+          "published": "2026-08-20T04:29:58.829811+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "53a87587e5c9f12ed983f42701d7e221",
-          "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
+          "id": "57b2c065aee8dfb77a5f3822e03396f0",
+          "title": "2027 단국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53808",
           "source": "에듀진",
-          "published": "2026-08-20T02:50:34.737360+00:00",
+          "published": "2026-08-20T04:29:52.098709+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "3f8762576a4985010e7b3423788adbd1",
@@ -465,17 +465,27 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-20T02:53:12.771485+00:00",
+          "published": "2026-08-20T04:32:36.488026+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "3bf3f60cd1ef9736d448a2da3ed8c595",
-          "title": "2027 서울시립대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53856",
-          "source": "에듀진",
-          "published": "2026-08-20T02:53:05.967981+00:00",
+          "id": "359a7d1cf9c22e15a25b024b0782e47b",
+          "title": "주요 15개 대학 수시, 교과 1등급대 밀집… 종합은 평가 방식 따라 합격...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=596083",
+          "source": "news.unn.net",
+          "published": "2026-08-20T04:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ee5dc62a4b5acca4c571166e777f3799",
+          "title": "잇올 랩, 2027학년도 수시 컨설팅 추가 신청… 25일까지",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111081",
+          "source": "edu.donga.com",
+          "published": "2026-08-20T04:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -486,6 +496,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623770",
           "source": "베리타스알파",
           "published": "2026-08-20T02:53:04.629119+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "442199ae9945510ca0526917646410af",
+          "title": "2027 서울시립대 논술전형 경쟁률 분석 및 지원전략 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wYUJia2F6cDZjbTFWdUpxWUdEOTJpbGVfUmJFWWs2aUdNRV9Da0sxV2pjeU03cGUybGxtUXNueFBIM3EyTWZNYmdOUmx3WjFNbm1xeWVGMVd6c1gtRXJmLVVEUWYtZzBnT0E?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-20T02:51:24+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1732,7 +1752,7 @@
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f04089a2ffe6431a4dd5a187c0c3e3ab",
@@ -1969,7 +1989,7 @@
           "published": "2026-08-20T01:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "73672317d11d9dbe1aa9eba6da56b796",
