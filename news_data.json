@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T04:44:52.137946+00:00",
+  "updated_at": "2026-08-20T06:48:00.528877+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,17 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T04:29:58.829811+00:00",
+          "published": "2026-08-20T06:33:18.867836+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "57b2c065aee8dfb77a5f3822e03396f0",
-          "title": "2027 단국대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53808",
+          "id": "832711245b37fffc01b648818ad3f1bb",
+          "title": "2027 동덕여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53873",
           "source": "에듀진",
-          "published": "2026-08-20T04:29:52.098709+00:00",
+          "published": "2026-08-20T06:33:11.979757+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -465,7 +465,7 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-20T04:32:36.488026+00:00",
+          "published": "2026-08-20T06:35:53.843395+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -478,7 +478,7 @@
           "published": "2026-08-20T04:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ee5dc62a4b5acca4c571166e777f3799",
@@ -488,7 +488,7 @@
           "published": "2026-08-20T04:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d2bdfb92c6dd851f9e720a538befd095",
@@ -508,7 +508,7 @@
           "published": "2026-08-20T02:51:24+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
@@ -1594,6 +1594,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "87a60574b3e23597db1792a76dc2fe5a",
+          "title": "2027학년도 대학수학능력시험 원서자료 변경(취소) 신청서(양식)",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095990&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-08-20T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ccabda9b71163851d7507975675abdbd",
           "title": "[보도자료] &quot;국민과 함께 그리는 미래 대입제도&quot; 지역 현장의 목소리를 듣습니다",
