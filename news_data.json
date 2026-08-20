@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:32:24.456210+00:00",
+  "updated_at": "2026-08-20T01:04:59.669252+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-19T22:17:07.462664+00:00",
+          "published": "2026-08-20T00:49:57.211072+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 동덕여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53857",
           "source": "에듀진",
-          "published": "2026-08-19T22:17:01.602817+00:00",
+          "published": "2026-08-20T00:49:51.016459+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -465,7 +465,27 @@
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53868",
           "source": "에듀진",
-          "published": "2026-08-19T22:19:39.132475+00:00",
+          "published": "2026-08-20T00:52:25.046728+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9abd048a7b41b589154138c8466267fe",
+          "title": "2027 숭실대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53867",
+          "source": "에듀진",
+          "published": "2026-08-20T00:52:21.798434+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
+          "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-19T23:28:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -476,16 +496,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623706",
           "source": "베리타스알파",
           "published": "2026-08-19T22:19:34.179927+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
-          "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' 재학생 촉각'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
-          "source": "베리타스알파",
-          "published": "2026-08-19T22:19:34.179897+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1705,6 +1715,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f04089a2ffe6431a4dd5a187c0c3e3ab",
+          "title": "[유성룡의 입시 포인트] 서울시립대학교, 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/18/2026081880148.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-20T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "e486a052ea74bbb2d279c0f7dc80bfd5",
           "title": "한기대, 22일 '2027학년도 입학전형·논술고사 설명회'",
           "link": "https://n.news.naver.com/mnews/article/002/0002452558?sid=102",
@@ -1911,6 +1931,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "73672317d11d9dbe1aa9eba6da56b796",
+          "title": "&quot;내신 낮아도 수시 활용해야…6장 모두 상향은 자제&quot;",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111063",
+          "source": "edu.donga.com",
+          "published": "2026-08-20T00:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "6debff8b0c92ca41bef33689a27edaf7",
+          "title": "수시 6장 '상향'만 쓰면 위험… 이투스가 제시하는 지원전략 '4단계'",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403965",
+          "source": "www.m-i.kr",
+          "published": "2026-08-19T23:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "9ae8feba2db5a607dedd872813e6aa67",
           "title": "'성심당 학과' 내달 수시 모집 윤곽 나왔다… 졸업 후 채용 연계도",
