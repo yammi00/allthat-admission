@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T06:48:00.528877+00:00",
+  "updated_at": "2026-08-20T08:44:11.418188+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,17 +18,27 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T06:33:18.867836+00:00",
+          "published": "2026-08-20T08:29:10.637345+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "832711245b37fffc01b648818ad3f1bb",
-          "title": "2027 동덕여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53873",
+          "id": "1a41144ab1298a7bbd2c01857d3089a0",
+          "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-20T06:33:11.979757+00:00",
+          "published": "2026-08-20T08:29:00.596553+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "59ce58e14e371c98a0d826ea239cb68b",
+          "title": "[똑똑한교육] 재능교육, 교원 빨간펜, EBS, 아이스크림에듀, 에스티유니...",
+          "link": "https://www.ekn.kr/web/view.php?key=20260820026064672",
+          "source": "www.ekn.kr",
+          "published": "2026-08-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1418,6 +1428,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "3543933b829ab39d71a88370d800363a",
+          "title": "정시 가능 대학부터 전년도 입결까지… 수시 6장 합격 가능성 높이는 '...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=596115",
+          "source": "news.unn.net",
+          "published": "2026-08-20T07:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "8f77d80af94c31995d1be9f9f5c7959e",
           "title": "[2027 대학별 수시 분석] 동덕여대 | 논술전형 약술형으로 전환 교과·논...",
           "link": "https://www.naeil.com/news/read/599233?ref=naver",
@@ -1603,7 +1623,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ccabda9b71163851d7507975675abdbd",
@@ -1756,14 +1776,34 @@
       "emoji": "✏️",
       "items": [
         {
-          "id": "d29075f30f3cbf7e6bf7149078000cf8",
+          "id": "37df71449718d1120e8dc02b5429c372",
+          "title": "스카이입시교육학원, 2027학년도 가천대 등 약술형논술 대비 9월 특강 개설 - cwn.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xNXBsTUxLMmJfOW1BOWczTmljb2VOTjZJSzdsYm05MnlQZzVhQXBQZDUzUk9NYmJWcVVqOGNIeGc1Q0Vhd05qZWYyR0p4dlRpSk5ISTJqcVJ3RmdsQjRDZWxB?oc=5",
+          "source": "cwn.kr",
+          "published": "2026-08-20T07:54:48+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e15710b0f38a29fedd0e888bc91297e7",
+          "title": "대치동 재수학원 멘토스 윈터스쿨 사전예약 시작",
+          "link": "https://www.gosiweek.com/article/1065596215300766",
+          "source": "www.gosiweek.com",
+          "published": "2026-08-20T06:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c16354ccd050e10d9eee8e3767c43f70",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "f04089a2ffe6431a4dd5a187c0c3e3ab",
@@ -1992,6 +2032,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "bf9ad07845af6b9612a7c0266980e5d1",
+          "title": "202027 수시 9월 7일 스타트… 지역대 신입생 10명 중 9명 뽑는다",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260820010005856",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-08-20T08:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b2d4b9f175fa236b4da3649bc840749c",
           "title": "정시 가능군부터 입결까지…합격 가능성 높이는 수시 지원 ‘4단계’",
