@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T01:08:35.837786+00:00",
+  "updated_at": "2026-08-21T03:11:25.061946+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T00:53:46.161300+00:00",
+          "published": "2026-08-21T02:56:25.824966+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T00:53:37.465877+00:00",
+          "published": "2026-08-21T02:56:16.217447+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,11 +471,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "5a392b44ff45a0bab4c20ef4be66f670",
-          "title": "2027 이화여대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53882",
+          "id": "ac312dbf181e83ae7b65f4e37152f596",
+          "title": "2027 성신여대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53887",
           "source": "에듀진",
-          "published": "2026-08-21T00:56:15.985974+00:00",
+          "published": "2026-08-21T02:58:52.907149+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -488,7 +488,7 @@
           "published": "2026-08-21T00:56:11.738790+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "df57b09a8f1a4aad50fc1d7825082bab",
@@ -1796,6 +1796,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "bf84599a9c49a584e934a84161b7f84f",
+          "title": "[단독] [2027수시] 서강대 성균관대 한양대 등 16개교 논술가이드북으로...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623740",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-20T07:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "37df71449718d1120e8dc02b5429c372",
           "title": "스카이입시교육학원, 2027학년도 가천대 등 약술형논술 대비 9월 특강 개설 - cwn.kr",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xNXBsTUxLMmJfOW1BOWczTmljb2VOTjZJSzdsYm05MnlQZzVhQXBQZDUzUk9NYmJWcVVqOGNIeGc1Q0Vhd05qZWYyR0p4dlRpSk5ISTJqcVJ3RmdsQjRDZWxB?oc=5",
@@ -1816,14 +1826,14 @@
           "is_new": false
         },
         {
-          "id": "c16354ccd050e10d9eee8e3767c43f70",
+          "id": "d29075f30f3cbf7e6bf7149078000cf8",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f04089a2ffe6431a4dd5a187c0c3e3ab",
@@ -2724,7 +2734,7 @@
           "title": "[KNS] 2030 대입 성공 공식이 있다? 이만기 소장이 알려주는 고교 선택 법칙 (ft. 일반고 VS 특목고·자사고) Paul George",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92a2djVWtnYWdzczQ4VGZOVzhYaVFpem4xX2dkYUVWa21EYlRlaHJzbVdKaW9JLWdORndTWnVDT09TM19ndHRUWkJneUNZZkR3OVZnVk9sb3FYTnc?oc=5",
           "source": "Mshale",
-          "published": "2026-08-13T20:24:01+00:00",
+          "published": "2026-08-13T20:24:02+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
