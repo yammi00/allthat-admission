@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:11:25.061946+00:00",
+  "updated_at": "2026-08-21T04:45:27.700251+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T02:56:25.824966+00:00",
+          "published": "2026-08-21T04:30:26.329835+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T02:56:16.217447+00:00",
+          "published": "2026-08-21T04:30:20.261363+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,17 @@
           "title": "2027 성신여대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53887",
           "source": "에듀진",
-          "published": "2026-08-21T02:58:52.907149+00:00",
+          "published": "2026-08-21T04:32:54.629577+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "8fbddf2d83792314f7009747fccc4b40",
+          "title": "“현행 대입 마지막”…2027 수시, 지원 전략은 더 과감해져 - 조선에듀",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0FMVnBkTGdYcWlXQk10dnk1R01pZ01tVlVjaWdMYi12aFJ6eXdZQm1WVWFyOFg5cXRvWktKRkFFUG0yelpuSlpXcjZBQlhzMWR4emY0VmMtVTE1V3JpTnZnNklQYXdFUGFEckpPQ25OVmUzdFF0Z19rWW0tU2ZScGVaXzlpTlU?oc=5",
+          "source": "조선에듀",
+          "published": "2026-08-21T03:36:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1803,7 +1813,7 @@
           "published": "2026-08-20T07:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "37df71449718d1120e8dc02b5429c372",
