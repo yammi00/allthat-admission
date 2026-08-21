@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T12:46:37.462322+00:00",
+  "updated_at": "2026-08-21T14:41:39.248260+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T12:31:54.698411+00:00",
+          "published": "2026-08-21T14:26:48.453611+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T12:31:52.388658+00:00",
+          "published": "2026-08-21T14:26:46.266488+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-21T12:34:19.981821+00:00",
+          "published": "2026-08-21T14:29:15.714248+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2111,7 +2111,7 @@
           "published": "2026-08-21T06:25:41+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1f9afa4edb373840a2e658bd883a07a7",
