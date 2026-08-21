@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:46:19.437881+00:00",
+  "updated_at": "2026-08-21T10:37:20.311650+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T08:31:31.733212+00:00",
+          "published": "2026-08-21T10:21:57.504990+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T08:31:29.308533+00:00",
+          "published": "2026-08-21T10:21:54.541903+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,10 +475,10 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-21T08:33:56.854071+00:00",
+          "published": "2026-08-21T10:24:26.566065+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5ba86db86376c247814675251accf0bf",
@@ -488,7 +488,7 @@
           "published": "2026-08-21T07:52:18+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78e8ed9ac5aeb3cc3ac2273e2bc4e1e4",
@@ -498,7 +498,7 @@
           "published": "2026-08-21T07:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8fbddf2d83792314f7009747fccc4b40",
@@ -1673,7 +1673,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "87a60574b3e23597db1792a76dc2fe5a",
@@ -1867,9 +1867,9 @@
           "is_new": false
         },
         {
-          "id": "c16354ccd050e10d9eee8e3767c43f70",
+          "id": "d29075f30f3cbf7e6bf7149078000cf8",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
@@ -2125,7 +2125,7 @@
         },
         {
           "id": "bf9ad07845af6b9612a7c0266980e5d1",
-          "title": "202027 수시 9월 7일 스타트… 지역대 신입생 10명 중 9명 뽑는다",
+          "title": "2027 수시 9월 7일 스타트… 지역대 신입생 10명 중 9명 뽑는다",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260820010005856",
           "source": "www.joongdo.co.kr",
           "published": "2026-08-20T08:30:00+00:00",
