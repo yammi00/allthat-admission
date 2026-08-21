@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T10:37:20.311650+00:00",
+  "updated_at": "2026-08-21T12:46:37.462322+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T10:21:57.504990+00:00",
+          "published": "2026-08-21T12:31:54.698411+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T10:21:54.541903+00:00",
+          "published": "2026-08-21T12:31:52.388658+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-21T10:24:26.566065+00:00",
+          "published": "2026-08-21T12:34:19.981821+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2103,6 +2103,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "681ca5589992df067cbd9c472da92c6e",
+          "title": "중앙대, 2027 수시 ‘입학상담 해피콜’ 운영…8월 27일 예약 시작 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EVHJVcU5SajF6UUdpdFlCRW4tMGtyMmllVHRsXzlVamhxYk1feFItNll0bVk1X3liaWotVDBha3JwdG1aRXVvWWdzXzZjbVJkTGlYbWpzS0lvanEyUW84VkkwLXJwdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-21T06:25:41+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "1f9afa4edb373840a2e658bd883a07a7",
           "title": "영남대, 2027학년도 수시 4225명 선발…AI융합전공·지역의사전형 신설",
