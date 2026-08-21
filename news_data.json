@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:34:05.065764+00:00",
+  "updated_at": "2026-08-21T01:08:35.837786+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-20T22:19:31.775144+00:00",
+          "published": "2026-08-21T00:53:46.161300+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-20T22:19:24.398250+00:00",
+          "published": "2026-08-21T00:53:37.465877+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -470,6 +470,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "5a392b44ff45a0bab4c20ef4be66f670",
+          "title": "2027 이화여대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53882",
+          "source": "에듀진",
+          "published": "2026-08-21T00:56:15.985974+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "87f157d5258b1203d272f7248aea5325",
+          "title": "[단독] [2027수시] 서울대 서강대 등 상위대 학종 가이드북으로 보는 학생부 준비법.. ‘스펙보다 성장의 흐름’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623818",
+          "source": "베리타스알파",
+          "published": "2026-08-21T00:56:11.738790+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "df57b09a8f1a4aad50fc1d7825082bab",
           "title": "수험생 10명 중 9명 \"수시 원서 6장 아직 확정 못 했다\"",
@@ -1796,9 +1816,9 @@
           "is_new": false
         },
         {
-          "id": "d29075f30f3cbf7e6bf7149078000cf8",
+          "id": "c16354ccd050e10d9eee8e3767c43f70",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
