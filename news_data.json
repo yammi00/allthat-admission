@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:48:19.689074+00:00",
+  "updated_at": "2026-08-21T08:46:19.437881+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T06:33:35.652338+00:00",
+          "published": "2026-08-21T08:31:31.733212+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T06:33:30.739966+00:00",
+          "published": "2026-08-21T08:31:29.308533+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,11 +471,31 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "ceedd2713f9adb9b9a0e0de3558a06d9",
-          "title": "2027 동덕여대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53884",
+          "id": "140e51e557e0b5d5485a16f321d011a6",
+          "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-21T06:36:03.509458+00:00",
+          "published": "2026-08-21T08:33:56.854071+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5ba86db86376c247814675251accf0bf",
+          "title": "[입시분석] 2027 데이터사이언스·통계 교과전형, 같은 2등급도 합격 대학 달랐다 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLcnBucHBjc0ZnblBkWW1udEtIalZuLTh1Z3pDYWxJVXNUTjM1bnNOOThtbUwyWFlvbDBQOEVneUNKVlFwbkJPa1B5LUtKNkNHZXptbVhjMVdtZWpkNERCM3FnRG14WW0yVVE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-21T07:52:18+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "78e8ed9ac5aeb3cc3ac2273e2bc4e1e4",
+          "title": "“아들아! 지역의사제, 원서 한 장 써볼까”…내신 문턱 만만치 않네 [세...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002686858?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-08-21T07:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1645,6 +1665,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "be75902c14ad025e97d5d2340b77ba7e",
+          "title": "2027학년도 대학수학능력시험 응시원서 접수 안내",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096034&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-08-21T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "87a60574b3e23597db1792a76dc2fe5a",
           "title": "2027학년도 대학수학능력시험 원서자료 변경(취소) 신청서(양식)",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5095990&lev=0&m=0301&s=suneung",
@@ -1836,9 +1867,9 @@
           "is_new": false
         },
         {
-          "id": "d29075f30f3cbf7e6bf7149078000cf8",
+          "id": "c16354ccd050e10d9eee8e3767c43f70",
           "title": "경기대 수시 원서접수...전체 모집인원 68% 선발 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEU1M3Q21UUXlmVkRGY0RWbW9wc2tZOFRFSHptcldHRVlud1MxMWVoNEI4SVhfMk9KTW9lei12cWRvUjhYNjhQOXAzUFBaM2RPT19vbEg0LWhFZU5RZ01HSEIxdnEybTdvRUxjVm52WWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUNtd2JIXzREVHNJcE9BNXZLUGNMaHd5VjFmYzQ1YUhKS3dISFg5OXBwODgtSkV1U0xEOWlxS3RNZ0c4RF83cVA2TVkwY3VoUFg1dk1laFZjRURaUUQ1aE1hTDhwUTRaVHc?oc=5",
           "source": "인천일보",
           "published": "2026-08-20T01:53:00+00:00",
           "type": "news",
@@ -2080,7 +2111,7 @@
           "published": "2026-08-21T05:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "811cdf29a1930e623e06e8d51619bf06",
