@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:45:27.700251+00:00",
+  "updated_at": "2026-08-21T06:48:19.689074+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-21T04:30:26.329835+00:00",
+          "published": "2026-08-21T06:33:35.652338+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-21T04:30:20.261363+00:00",
+          "published": "2026-08-21T06:33:30.739966+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -471,14 +471,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "ac312dbf181e83ae7b65f4e37152f596",
-          "title": "2027 성신여대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53887",
+          "id": "ceedd2713f9adb9b9a0e0de3558a06d9",
+          "title": "2027 동덕여대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53884",
           "source": "에듀진",
-          "published": "2026-08-21T04:32:54.629577+00:00",
+          "published": "2026-08-21T06:36:03.509458+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "8fbddf2d83792314f7009747fccc4b40",
@@ -488,7 +488,7 @@
           "published": "2026-08-21T03:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "87f157d5258b1203d272f7248aea5325",
@@ -2072,6 +2072,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "1f9afa4edb373840a2e658bd883a07a7",
+          "title": "영남대, 2027학년도 수시 4225명 선발…AI융합전공·지역의사전형 신설",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2273544",
+          "source": "www.webeconomy.co.kr",
+          "published": "2026-08-21T05:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "811cdf29a1930e623e06e8d51619bf06",
           "title": "[채용] 동부건설, 2026년 신입사원 수시채용…플랜트 분야 건축·기계·...",
