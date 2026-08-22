@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:41:39.576598+00:00",
+  "updated_at": "2026-08-22T08:35:08.780001+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-22T06:27:06.553322+00:00",
+          "published": "2026-08-22T08:20:04.613828+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-22T06:27:04.488004+00:00",
+          "published": "2026-08-22T08:20:01.701015+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-22T06:29:33.651661+00:00",
+          "published": "2026-08-22T08:22:37.356402+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-22T06:29:28.794101+00:00",
+          "published": "2026-08-22T08:22:31.101745+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -531,9 +531,9 @@
           "is_new": false
         },
         {
-          "id": "5fbd92775b3dc90c87d56913ba8d468f",
+          "id": "8fbddf2d83792314f7009747fccc4b40",
           "title": "“현행 대입 마지막”…2027 수시, 지원 전략은 더 과감해져 - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hZ2c5MEF3S1lBS2NWWXNFS2w5R0g5c1Jwb2NIZktDZDZXUFdqUjhWSEJzUHFXUW5uRUx6b3pYZkVGVTBqS0dvYUM5aVhzQzNkMDE1NWhJVElibVBySzVRNXZQQkhOX0JCQkpfcG5DQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0FMVnBkTGdYcWlXQk10dnk1R01pZ01tVlVjaWdMYi12aFJ6eXdZQm1WVWFyOFg5cXRvWktKRkFFUG0yelpuSlpXcjZBQlhzMWR4emY0VmMtVTE1V3JpTnZnNklQYXdFUGFEckpPQ25OVmUzdFF0Z19rWW0tU2ZScGVaXzlpTlU?oc=5",
           "source": "조선에듀",
           "published": "2026-08-21T03:36:00+00:00",
           "type": "news",
@@ -1507,6 +1507,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "5ccfae72d7e270d60bb3bb8c5106e400",
+          "title": "수시 원서접수 보름 앞으로… 수험생 절반 ‘아직 고민’, 지방 국립대...",
+          "link": "https://n.news.naver.com/mnews/article/022/0004152798?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-08-22T06:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "3543933b829ab39d71a88370d800363a",
           "title": "정시 가능 대학부터 전년도 입결까지… 수시 6장 합격 가능성 높이는 '...",
