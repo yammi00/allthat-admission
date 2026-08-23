@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:29:11.609408+00:00",
+  "updated_at": "2026-08-23T22:28:54.808942+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T20:14:05.273325+00:00",
+          "published": "2026-08-23T22:13:49.569695+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T20:14:02.717713+00:00",
+          "published": "2026-08-23T22:13:46.873415+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T20:16:34.597124+00:00",
+          "published": "2026-08-23T22:16:23.020169+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,10 +495,20 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T20:16:29.125386+00:00",
+          "published": "2026-08-23T22:16:16.775508+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
+          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
+          "source": "뉴스1",
+          "published": "2026-08-23T22:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "36c04dddbe1fef384e9db9a5357c42bb",
@@ -1927,6 +1937,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "4a9f92d5819ec98c79937fb2948c4d1e",
+          "title": "[2027수시]상명대, 1958명 선발…자유전공 292명 모집",
+          "link": "https://n.news.naver.com/mnews/article/421/0009128182?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-23T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cb708b8af62f0e9c26094f40cfdaa602",
           "title": "[2027 대학 수시]한국공학대, '공학기술 선도대학' 창의인재 256명으로 확...",
           "link": "https://n.news.naver.com/mnews/article/030/0003459492?sid=102",
@@ -2224,9 +2244,9 @@
           "is_new": false
         },
         {
-          "id": "c91776ab68b47f09cbc04823cf77cc94",
-          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
+          "id": "068706f194d1d83e128c4b5835dffaf6",
+          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
@@ -2234,9 +2254,9 @@
           "is_new": false
         },
         {
-          "id": "068706f194d1d83e128c4b5835dffaf6",
-          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
+          "id": "c91776ab68b47f09cbc04823cf77cc94",
+          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
