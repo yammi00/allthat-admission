@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T03:10:35.229325+00:00",
+  "updated_at": "2026-08-23T04:44:40.688906+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T02:55:51.117995+00:00",
+          "published": "2026-08-23T04:29:49.168077+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T02:55:49.127850+00:00",
+          "published": "2026-08-23T04:29:47.131375+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3cece8cfbf0c87fb0776a242d817228b",
+          "title": "[2027 대학 수시]한국기술교육대, 사교육 도움없이 준비 가능… 806명 수...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459505?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "59ce58e14e371c98a0d826ea239cb68b",
@@ -475,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T02:58:19.927982+00:00",
+          "published": "2026-08-23T04:32:22.899541+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +495,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T02:58:15.693631+00:00",
+          "published": "2026-08-23T04:32:18.043790+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1907,6 +1917,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "cb708b8af62f0e9c26094f40cfdaa602",
+          "title": "[2027 대학 수시]한국공학대, '공학기술 선도대학' 창의인재 256명으로 확...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459492?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "bf84599a9c49a584e934a84161b7f84f",
           "title": "[단독] [2027수시] 서강대 성균관대 한양대 등 16개교 논술가이드북으로...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=623740",
@@ -2173,6 +2193,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "068706f194d1d83e128c4b5835dffaf6",
+          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c91776ab68b47f09cbc04823cf77cc94",
+          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "6c84e8b55388c331d7f66156fd549d18",
+          "title": "2027 수능 수학 ‘쉬운 확통으로’…확통런 65% 역대 최대 전망 - issueon.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVHVNWndod0ZxaWJYZktfNlc2RVJvUkxWNjVsN1lNM1EyUkNZTy1CWEwta2tmc2lyMWNYMm94MDZRa2FYOEtTUVlVUHFWczJ1YmxLWVBIaGI3UjBhd1pDSVJjemhXYkQzX1Jz?oc=5",
+          "source": "issueon.co.kr",
+          "published": "2026-08-23T03:05:17+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "681ca5589992df067cbd9c472da92c6e",
           "title": "중앙대, 2027 수시 ‘입학상담 해피콜’ 운영…8월 27일 예약 시작 - 교육을 비추다",
