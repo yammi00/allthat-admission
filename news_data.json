@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:31:32.743573+00:00",
+  "updated_at": "2026-08-23T18:33:32.040891+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T16:16:24.858768+00:00",
+          "published": "2026-08-23T18:18:40.724300+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T16:16:21.978870+00:00",
+          "published": "2026-08-23T18:18:38.143825+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T16:18:57.259520+00:00",
+          "published": "2026-08-23T18:21:11.638727+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T16:18:50.793713+00:00",
+          "published": "2026-08-23T18:21:05.935313+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2211,7 +2211,7 @@
           "published": "2026-08-23T07:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f920f5e67240572eb4bb702714caa243",
@@ -2224,9 +2224,9 @@
           "is_new": false
         },
         {
-          "id": "068706f194d1d83e128c4b5835dffaf6",
-          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
+          "id": "c91776ab68b47f09cbc04823cf77cc94",
+          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
@@ -2234,9 +2234,9 @@
           "is_new": false
         },
         {
-          "id": "c91776ab68b47f09cbc04823cf77cc94",
-          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
+          "id": "068706f194d1d83e128c4b5835dffaf6",
+          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
