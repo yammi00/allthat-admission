@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:29:16.538085+00:00",
+  "updated_at": "2026-08-23T01:08:43.629152+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-22T22:14:11.133163+00:00",
+          "published": "2026-08-23T00:53:59.523186+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-22T22:14:08.378423+00:00",
+          "published": "2026-08-23T00:53:57.435181+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-22T22:16:47.439197+00:00",
+          "published": "2026-08-23T00:56:30.945578+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,10 +485,40 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-22T22:16:40.375048+00:00",
+          "published": "2026-08-23T00:56:26.108251+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "cdcfda650451ad2a5e8f2670b882b24d",
+          "title": "이과생 10명 중 6명 수학 쉬운 과목 택했다… 수능 미적·기하 역대 최저",
+          "link": "https://n.news.naver.com/mnews/article/014/0005564964?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-08-23T00:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f8cc1553afc09d4bd8cee7afbe7c07d1",
+          "title": "올해 수능 미적분·기하 선택 35%대 전망…6년 중 최저",
+          "link": "https://n.news.naver.com/mnews/article/018/0006356280?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-08-22T23:21:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a053d0036679fd5e914d89e4ba2315c7",
+          "title": "이과 수학 기피 심화…올해 수능 미적·기하 30%대 예측",
+          "link": "https://n.news.naver.com/mnews/article/003/0014141977?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-22T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "01dc154ead5659b3a1e5f759b463c841",
