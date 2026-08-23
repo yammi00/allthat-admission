@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:08:43.629152+00:00",
+  "updated_at": "2026-08-23T03:10:35.229325+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T00:53:59.523186+00:00",
+          "published": "2026-08-23T02:55:51.117995+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T00:53:57.435181+00:00",
+          "published": "2026-08-23T02:55:49.127850+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -475,7 +475,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T00:56:30.945578+00:00",
+          "published": "2026-08-23T02:58:19.927982+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T00:56:26.108251+00:00",
+          "published": "2026-08-23T02:58:15.693631+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -498,7 +498,7 @@
           "published": "2026-08-23T00:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f8cc1553afc09d4bd8cee7afbe7c07d1",
@@ -508,7 +508,7 @@
           "published": "2026-08-22T23:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a053d0036679fd5e914d89e4ba2315c7",
@@ -518,7 +518,7 @@
           "published": "2026-08-22T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "01dc154ead5659b3a1e5f759b463c841",
