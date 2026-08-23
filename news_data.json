@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:44:40.688906+00:00",
+  "updated_at": "2026-08-23T06:43:24.536852+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T04:29:49.168077+00:00",
+          "published": "2026-08-23T06:28:26.578804+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T04:29:47.131375+00:00",
+          "published": "2026-08-23T06:28:24.539031+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "59ce58e14e371c98a0d826ea239cb68b",
@@ -485,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T04:32:22.899541+00:00",
+          "published": "2026-08-23T06:30:58.422417+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,10 +495,20 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T04:32:18.043790+00:00",
+          "published": "2026-08-23T06:30:53.327297+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f912cd9fdf3628a4659efb06334d1d59",
+          "title": "주요대 ‘확통’ 허용에 미적·기하 비중 &quot;뚝&quot;…3년새 55%→35% 전망",
+          "link": "http://www.metroseoul.co.kr/article/20260823500180",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-08-23T05:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "cdcfda650451ad2a5e8f2670b882b24d",
@@ -1924,7 +1934,7 @@
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bf84599a9c49a584e934a84161b7f84f",
@@ -2194,16 +2204,6 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "068706f194d1d83e128c4b5835dffaf6",
-          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
-          "source": "www.etnews.com",
-          "published": "2026-08-23T04:01:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
-        },
-        {
           "id": "c91776ab68b47f09cbc04823cf77cc94",
           "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
           "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
@@ -2211,7 +2211,17 @@
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "068706f194d1d83e128c4b5835dffaf6",
+          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         },
         {
           "id": "6c84e8b55388c331d7f66156fd549d18",
@@ -2221,7 +2231,7 @@
           "published": "2026-08-23T03:05:17+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "681ca5589992df067cbd9c472da92c6e",
