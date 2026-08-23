@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T14:35:45.989829+00:00",
+  "updated_at": "2026-08-23T16:31:32.743573+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T14:16:51.203924+00:00",
+          "published": "2026-08-23T16:16:24.858768+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T14:16:48.538330+00:00",
+          "published": "2026-08-23T16:16:21.978870+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T14:20:03.924182+00:00",
+          "published": "2026-08-23T16:18:57.259520+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +495,7 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T14:19:57.051571+00:00",
+          "published": "2026-08-23T16:18:50.793713+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -826,16 +826,6 @@
           "link": "https://www.newstnt.com/news/articleView.html?idxno=714096",
           "source": "www.newstnt.com",
           "published": "2026-08-16T03:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2214,6 +2204,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "7773da4c870c52296713fc5702b68279",
+          "title": "통합수능 6년 만에 최저…2027 수능 수학 ‘미적·기하’ 35%대로 붕괴 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tS2FESXNLVXk1TzA1ZVRpVmMzcW5EcWxCYnZyclhPd3dYb2JUWG5xV19yQzJRdVhJSjZUV2NfQzYyeTFQa0ZuQzZtZjhHTXM?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-08-23T07:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f920f5e67240572eb4bb702714caa243",
           "title": "2027학년도 대입 레이스 본격화…수능 원서접수부터 정시까지 ‘숨가쁜 6개월’ - kyongbuk.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NMC1nS2pBRVJ4VmhUaVFNb0J0N2N6b0NxMlpkRDQ2S0pRdXVyRXloaDRGUENlZjlXTVRlZGN2eEt2VXVZMmktOUFpOWJvRUcxb3JjYzNMaHRoODFhN1NqQWlxQ0lqam50LVU1VXJmZw?oc=5",
@@ -2249,6 +2249,16 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVHVNWndod0ZxaWJYZktfNlc2RVJvUkxWNjVsN1lNM1EyUkNZTy1CWEwta2tmc2lyMWNYMm94MDZRa2FYOEtTUVlVUHFWczJ1YmxLWVBIaGI3UjBhd1pDSVJjemhXYkQzX1Jz?oc=5",
           "source": "issueon.co.kr",
           "published": "2026-08-23T03:05:17+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "451104b4905b6ceefd71bc0596095f2a",
+          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-21T10:10:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2419,16 +2429,6 @@
           "link": "https://www.newspim.com/news/view/20260814000781",
           "source": "www.newspim.com",
           "published": "2026-08-15T21:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-15T04:16:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
