@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T06:55:44.994918+00:00",
+  "updated_at": "2026-08-24T08:53:47.727795+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T06:41:09.624173+00:00",
+          "published": "2026-08-24T08:39:11.556467+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T06:41:07.419605+00:00",
+          "published": "2026-08-24T08:39:09.301552+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-24T04:41:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5cad760f5c187bc552d36e6c2ba2d2f5",
@@ -511,6 +511,46 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "d265b8d41a98c1eaf17dc2921883a288",
+          "title": "[입시분석] 2027 수학·수학교육 교과전형, 합격선이 가장 낮았던 대학은? - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IYmx1TFZpaU5paGRvXzZDZDhaUmxGcE5OeU1pOTNXUEsxR2lYamhhMzRJMVRBOU9UMWhXLU12cE5QQTMwQzR4a2pzU0I3M1hiNHhxTG5yay0xUUJBQV8yN0QzUFYxaGFTdmc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-24T07:40:16+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a5d5f4f6217565892a773c5b0db3cb8e",
+          "title": "[단독] [2027대입] 대기업 계약학과 2026정시 입결.. 고대 스마트모빌리...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624231",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-24T07:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5accc54dc2fcecf199006bb5965a3c7d",
+          "title": "[2027대입] 사탐런 이어 '확통런' 본격화.. &quot;미적/기하 35% 예상&quot; 수능최...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624144",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-24T07:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2b4be3240e514409f620e6db0d7481de",
+          "title": "학년별 '2학기 대입 전략' 제언… 첫 통합수능 앞둔 고2 '내신도 중요'",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1405420",
+          "source": "www.m-i.kr",
+          "published": "2026-08-24T07:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "95b7a8fe6185b8f30530c5780b37e090",
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
@@ -581,14 +621,14 @@
           "is_new": false
         },
         {
-          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
-          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
+          "id": "52844b71d068625ce8d825d15f1973cd",
+          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
           "source": "뉴스1",
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "36c04dddbe1fef384e9db9a5357c42bb",
@@ -2038,6 +2078,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "7ecaaeb99cbc0253dd8fb8c75bfabde6",
+          "title": "고수교육학원, 추석논술특강 수능 전 마지막 기회!",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391154",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-08-24T08:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4a9f92d5819ec98c79937fb2948c4d1e",
           "title": "[2027수시]상명대, 1958명 선발…자유전공 292명 모집",
           "link": "https://n.news.naver.com/mnews/article/421/0009128182?sid=102",
@@ -2325,6 +2375,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a34ba895727b0ad4dd1fb67ce59a4ba1",
+          "title": "수능 원서접수 시작···수시 확대·지역의사제 변수에 달라지는 입시...",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405268",
+          "source": "www.todaykorea.co.kr",
+          "published": "2026-08-24T08:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "caad3a04acab9ef07564825a6510aeb6",
+          "title": "'2027수시 비상' 학자금지원 제한대학 '20개교 확정'.. 상지대 추계예대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624258",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-24T07:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b23797e35dea6eef4a8a87cda057fd0a",
           "title": "[수시특집] ‘철도특성화·AI 융합’ 송원대, 교육 혁신과 실용인재 양...",
           "link": "http://www.mdilbo.com/detail/c3QycN/758202",
@@ -2332,7 +2402,7 @@
           "published": "2026-08-24T05:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c736c57c1a01832d5ad378de32fc1be7",
@@ -2352,7 +2422,7 @@
           "published": "2026-08-24T01:59:40+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f5d1aa40e11b0cbb25f460beaff4dfe5",
