@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:12:08.784527+00:00",
+  "updated_at": "2026-08-24T04:52:23.009070+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,20 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T02:57:10.746022+00:00",
+          "published": "2026-08-24T04:37:32.002562+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "1a41144ab1298a7bbd2c01857d3089a0",
-          "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
+          "id": "2e4843a40ffa48366c86b02a76f070cf",
+          "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T02:57:08.956391+00:00",
+          "published": "2026-08-24T04:37:27.733871+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "5cad760f5c187bc552d36e6c2ba2d2f5",
@@ -41,7 +41,7 @@
           "published": "2026-08-24T01:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3cece8cfbf0c87fb0776a242d817228b",
@@ -49,6 +49,16 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003459505?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c4a553959851bea7c0c07074bda7e7e4",
+          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-21T10:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,7 +505,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-24T02:59:39.887608+00:00",
+          "published": "2026-08-24T04:40:07.005303+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -508,7 +518,7 @@
           "published": "2026-08-24T02:59:31.458948+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8d5203ae603ae5d747e25969dec4fc80",
@@ -518,7 +528,7 @@
           "published": "2026-08-24T02:59:31.458933+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "feddb4733835860630a5b771c9812eb6",
@@ -528,7 +538,7 @@
           "published": "2026-08-24T02:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fe3bf0316c399f4975832bef7680961b",
@@ -538,7 +548,7 @@
           "published": "2026-08-24T01:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1ccf06beda22aaf038de28d308d07c7a",
@@ -548,7 +558,7 @@
           "published": "2026-08-24T00:55:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "efe48007587ec76398ee4c50e2dcab31",
@@ -1628,6 +1638,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "2dcc1ef7a6dfded8e5e1f406952b954d",
+          "title": "&quot;정시 올인 위험하다&quot;… 2028 대입 첫 세대 고2, 학생부 챙겨야",
+          "link": "https://n.news.naver.com/mnews/article/014/0005565474?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-08-24T04:41:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "5ccfae72d7e270d60bb3bb8c5106e400",
           "title": "수시 원서접수 보름 앞으로… 수험생 절반 ‘아직 고민’, 지방 국립대...",
           "link": "https://n.news.naver.com/mnews/article/022/0004152798?sid=102",
@@ -1824,6 +1844,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "4027bd14e5113962e49aeb38d16c74ce",
+          "title": "교정시설에서 일할 의사, 국민이 직접 추천",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775269",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-24T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "be75902c14ad025e97d5d2340b77ba7e",
           "title": "2027학년도 대학수학능력시험 응시원서 접수 안내",
@@ -2284,9 +2315,19 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "36c5b55a53dc9de4053923630cad30ce",
+          "id": "c736c57c1a01832d5ad378de32fc1be7",
+          "title": "고1은 과목 선택, 고2는 첫 통합수능 대비…학년별 2학기 대입 전략",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/24/2026082480075.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-24T04:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "12784e147676fd6e3a91df11aa30a4f9",
           "title": "오늘부터 수능 원서 접수…'막차 대입'에 N수생 규모 주목 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2bHI2Z05JY3hqU1p4YnlzRDl0eXlOTkV1cnFVekZDYW9DQzZfVm1qajhRN3pHSVZwbUVrRkpJOER4UWpEdkZZRDV4Q0E3UkVKS1VrN0pIYlhxQdIBX0FVX3lxTE5scDVUdFdINVl5UURjOGJ5SDNaZ3Q3NzEyU3JNZnNySFlWdXNvOHpyQmtmRkZXOUNrT00tRGJyeU9BMWd2eXdGQ0RYUm54bXNJT1FqRXp2MTJ4SHA5SDlV?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5scDVUdFdINVl5UURjOGJ5SDNaZ3Q3NzEyU3JNZnNySFlWdXNvOHpyQmtmRkZXOUNrT00tRGJyeU9BMWd2eXdGQ0RYUm54bXNJT1FqRXp2MTJ4SHA5SDlV0gFfQVVfeXFMTmxwNVR0V0g1WXlRRGM4YnlIM1pndDc3MTJTck1mc3JIWVZ1c284enJCa2ZGRlc5Q2tPTS1EYnJ5T0ExZ3Z5d0ZDRFhSbnhtc0lPUWpFenYxMnhIcDlIOVU?oc=5",
           "source": "뉴스1",
           "published": "2026-08-24T02:26:50+00:00",
           "type": "news",
@@ -2301,7 +2342,7 @@
           "published": "2026-08-24T02:10:47+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f5d1aa40e11b0cbb25f460beaff4dfe5",
@@ -2311,7 +2352,7 @@
           "published": "2026-08-24T01:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6fa62da808e2873b53090c72f99ea3fc",
@@ -2361,7 +2402,7 @@
           "published": "2026-08-23T23:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7773da4c870c52296713fc5702b68279",
