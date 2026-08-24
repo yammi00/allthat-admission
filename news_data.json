@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:44:21.975569+00:00",
+  "updated_at": "2026-08-24T20:36:16.667378+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T18:29:26.100742+00:00",
+          "published": "2026-08-24T20:21:16.992825+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T18:29:23.829392+00:00",
+          "published": "2026-08-24T20:21:14.237927+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2088,6 +2088,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "99c8c56f9169336887ee4b62ab1c0407",
+          "title": "삼육대 약학과 올 첫 ‘약술형 논술’ 도입",
+          "link": "https://n.news.naver.com/mnews/article/081/0003673116?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-08-24T20:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7ecaaeb99cbc0253dd8fb8c75bfabde6",
           "title": "고수교육학원, 추석논술특강 수능 전 마지막 기회!",
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391154",
@@ -2385,6 +2395,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "f29f3102a98fcb65eb908cc3ee736fcf",
+          "title": "광운대, 수능최저 폐지로 지원 문턱 낮춰",
+          "link": "https://n.news.naver.com/mnews/article/081/0003673114?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-08-24T20:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "caad3a04acab9ef07564825a6510aeb6",
           "title": "'2027수시 비상' 학자금지원 제한대학 '20개교 확정'.. 상지대 추계예대...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624258",
@@ -2455,20 +2475,20 @@
           "is_new": false
         },
         {
-          "id": "7a6212213dc001baa3ab984f4eb8f61d",
-          "title": "대입캘린더 (26/08/28~)",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624103",
-          "source": "www.veritas-a.com",
+          "id": "a4a70c541d423fb48d1c7deebc009a9d",
+          "title": "[김형일의 입시컨설팅] (242) 2027학년도 주요대학 지원전략(8) - 홍익대...",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151632",
+          "source": "www.smartbizn.com",
           "published": "2026-08-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "a4a70c541d423fb48d1c7deebc009a9d",
-          "title": "[김형일의 입시컨설팅] (242) 2027학년도 주요대학 지원전략(8) - 홍익대...",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151632",
-          "source": "www.smartbizn.com",
+          "id": "7a6212213dc001baa3ab984f4eb8f61d",
+          "title": "대입캘린더 (26/08/28~)",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624103",
+          "source": "www.veritas-a.com",
           "published": "2026-08-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
