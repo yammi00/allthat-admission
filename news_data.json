@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T04:52:23.009070+00:00",
+  "updated_at": "2026-08-24T06:55:44.994918+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T04:37:32.002562+00:00",
+          "published": "2026-08-24T06:41:09.624173+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,17 @@
           "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T04:37:27.733871+00:00",
+          "published": "2026-08-24T06:41:07.419605+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "2dcc1ef7a6dfded8e5e1f406952b954d",
+          "title": "&quot;정시 올인 위험하다&quot;… 2028 대입 첫 세대 고2, 학생부 챙겨야",
+          "link": "https://n.news.naver.com/mnews/article/014/0005565474?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-08-24T04:41:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -505,7 +515,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-24T04:40:07.005303+00:00",
+          "published": "2026-08-24T06:43:43.181151+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1638,16 +1648,6 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "2dcc1ef7a6dfded8e5e1f406952b954d",
-          "title": "&quot;정시 올인 위험하다&quot;… 2028 대입 첫 세대 고2, 학생부 챙겨야",
-          "link": "https://n.news.naver.com/mnews/article/014/0005565474?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-08-24T04:41:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "5ccfae72d7e270d60bb3bb8c5106e400",
           "title": "수시 원서접수 보름 앞으로… 수험생 절반 ‘아직 고민’, 지방 국립대...",
           "link": "https://n.news.naver.com/mnews/article/022/0004152798?sid=102",
@@ -1663,6 +1663,16 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=596115",
           "source": "news.unn.net",
           "published": "2026-08-20T07:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b0ad12e6d9fbbbc253d17988e14b539f",
+          "title": "[2027 수시특집] '아웃씽커스 숙명' 숙명여대, 융합인재 모은다...고교 ...",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=130270",
+          "source": "www.popcornnews.net",
+          "published": "2026-08-20T04:38:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1853,7 +1863,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "be75902c14ad025e97d5d2340b77ba7e",
@@ -2315,6 +2325,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "b23797e35dea6eef4a8a87cda057fd0a",
+          "title": "[수시특집] ‘철도특성화·AI 융합’ 송원대, 교육 혁신과 실용인재 양...",
+          "link": "http://www.mdilbo.com/detail/c3QycN/758202",
+          "source": "www.mdilbo.com",
+          "published": "2026-08-24T05:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c736c57c1a01832d5ad378de32fc1be7",
           "title": "고1은 과목 선택, 고2는 첫 통합수능 대비…학년별 2학기 대입 전략",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/08/24/2026082480075.html",
@@ -2322,27 +2342,17 @@
           "published": "2026-08-24T04:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "12784e147676fd6e3a91df11aa30a4f9",
-          "title": "오늘부터 수능 원서 접수…'막차 대입'에 N수생 규모 주목 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5scDVUdFdINVl5UURjOGJ5SDNaZ3Q3NzEyU3JNZnNySFlWdXNvOHpyQmtmRkZXOUNrT00tRGJyeU9BMWd2eXdGQ0RYUm54bXNJT1FqRXp2MTJ4SHA5SDlV0gFfQVVfeXFMTmxwNVR0V0g1WXlRRGM4YnlIM1pndDc3MTJTck1mc3JIWVZ1c284enJCa2ZGRlc5Q2tPTS1EYnJ5T0ExZ3Z5d0ZDRFhSbnhtc0lPUWpFenYxMnhIcDlIOVU?oc=5",
-          "source": "뉴스1",
-          "published": "2026-08-24T02:26:50+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "9c099d88d8d0a8a7bf928c654f7cfefe",
-          "title": "수능 응시원서 접수 시작 - 남도일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BS0ZPUGhrYkdNWGdyaWttUzhkOGRkTGdQdUpTQU80LU9zd3RfZWdOM0lUQ2ctZU5jRnQ4OFpMZFQwdDZPcWZzYnhza2RrU2cwblRaOGJwRjVpUkU5OGVFNVE5MEZXTFVjZkRFc9IBcEFVX3lxTE5ybE5SeHdsT2tGdG9VcTFWdUZtc1QzZ29qMW04M1pNR3c1S2hueF9WWG5aSGFiV2c5UWFEeElXLUctcGo2UXF0c29UZmhZMzJfWGRPR0ZLSFNRSWlDc3BiaVVzck4zci1vc3FOUlhKeFA?oc=5",
-          "source": "남도일보",
-          "published": "2026-08-24T02:10:47+00:00",
-          "type": "news",
-          "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "2c2118afa38713c88d2655b8f17c9f5d",
+          "title": "오늘부터 2027학년도 수능 응시원서 접수 [뉴시스Pic] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZm56WWhXbXJicTkzUmJ4ZmpjOG9Id094ZGlIN1hObmJ3cWVfalhnWlBaODFsWFhpLVFaSEk0bmcyaE5uZkdQT3FxR082c1dwc3BUMHN6ZHYybVNmZ1g0VdIBeEFVX3lxTE1jMVpXanRJYzVJRHhoNkNMQlRWNlA3aEtuS3dLU3pjYjlURXhERmZPblpxa0wxWENZYzZieW43bElYZkJFdDc1U0hWeXd3ZTZfVVlzUGhjXzNVbU9WdHpEcFpRQzcxTWdOZGE2TVJGV20tb1NwMllTZA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-24T01:59:40+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "f5d1aa40e11b0cbb25f460beaff4dfe5",
