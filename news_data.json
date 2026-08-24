@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:53:47.727795+00:00",
+  "updated_at": "2026-08-24T10:45:45.514048+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T08:39:11.556467+00:00",
+          "published": "2026-08-24T10:30:38.344755+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T08:39:09.301552+00:00",
+          "published": "2026-08-24T10:30:35.318149+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -511,6 +511,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "a34ba895727b0ad4dd1fb67ce59a4ba1",
+          "title": "수능 원서접수 시작···수시 확대·지역의사제 변수에 달라지는 입시...",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405268",
+          "source": "www.todaykorea.co.kr",
+          "published": "2026-08-24T08:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "d265b8d41a98c1eaf17dc2921883a288",
           "title": "[입시분석] 2027 수학·수학교육 교과전형, 합격선이 가장 낮았던 대학은? - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IYmx1TFZpaU5paGRvXzZDZDhaUmxGcE5OeU1pOTNXUEsxR2lYamhhMzRJMVRBOU9UMWhXLU12cE5QQTMwQzR4a2pzU0I3M1hiNHhxTG5yay0xUUJBQV8yN0QzUFYxaGFTdmc?oc=5",
@@ -518,7 +528,7 @@
           "published": "2026-08-24T07:40:16+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a5d5f4f6217565892a773c5b0db3cb8e",
@@ -528,7 +538,7 @@
           "published": "2026-08-24T07:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5accc54dc2fcecf199006bb5965a3c7d",
@@ -538,7 +548,7 @@
           "published": "2026-08-24T07:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2b4be3240e514409f620e6db0d7481de",
@@ -548,7 +558,7 @@
           "published": "2026-08-24T07:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "95b7a8fe6185b8f30530c5780b37e090",
@@ -628,7 +638,7 @@
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "36c04dddbe1fef384e9db9a5357c42bb",
@@ -2085,7 +2095,7 @@
           "published": "2026-08-24T08:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4a9f92d5819ec98c79937fb2948c4d1e",
@@ -2375,16 +2385,6 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "a34ba895727b0ad4dd1fb67ce59a4ba1",
-          "title": "수능 원서접수 시작···수시 확대·지역의사제 변수에 달라지는 입시...",
-          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405268",
-          "source": "www.todaykorea.co.kr",
-          "published": "2026-08-24T08:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
-        },
-        {
           "id": "caad3a04acab9ef07564825a6510aeb6",
           "title": "'2027수시 비상' 학자금지원 제한대학 '20개교 확정'.. 상지대 추계예대...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624258",
@@ -2392,7 +2392,7 @@
           "published": "2026-08-24T07:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b23797e35dea6eef4a8a87cda057fd0a",
