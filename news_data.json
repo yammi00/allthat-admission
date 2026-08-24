@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:28:54.808942+00:00",
+  "updated_at": "2026-08-24T01:07:23.728138+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-23T22:13:49.569695+00:00",
+          "published": "2026-08-24T00:52:32.689316+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-23T22:13:46.873415+00:00",
+          "published": "2026-08-24T00:52:30.922633+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -485,7 +485,7 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-23T22:16:23.020169+00:00",
+          "published": "2026-08-24T00:55:00.135389+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -495,10 +495,20 @@
           "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
           "source": "에듀진",
-          "published": "2026-08-23T22:16:16.775508+00:00",
+          "published": "2026-08-24T00:54:55.863437+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "efe48007587ec76398ee4c50e2dcab31",
+          "title": "[2027수시특집] ‘AI/DX 융합인재 틔움대학’ 동명대 정원내 수시 1424명(98.21%) 모집.. 지역인재 14명, 실적우수자 13명 '",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
+          "source": "베리타스알파",
+          "published": "2026-08-24T00:54:55.106035+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9ad4ec19de7738c59e09422b9f6ae31f",
@@ -508,7 +518,7 @@
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "36c04dddbe1fef384e9db9a5357c42bb",
@@ -1944,7 +1954,7 @@
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cb708b8af62f0e9c26094f40cfdaa602",
@@ -2224,6 +2234,46 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "6fa62da808e2873b53090c72f99ea3fc",
+          "title": "[大入수시전략2027] 고려대, 수시 2731명 선발…전형 선택이 곧 전략",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179885",
+          "source": "weekly.hankooki.com",
+          "published": "2026-08-24T01:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8f45213e64969be20e1141b50ace2615",
+          "title": "중앙대, &quot;전형은 다양하게, 장학은 든든하게&quot;, 2027 수시 2862명 모집",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459902",
+          "source": "www.enewstoday.co.kr",
+          "published": "2026-08-24T00:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7a6212213dc001baa3ab984f4eb8f61d",
+          "title": "대입캘린더 (26/08/28~)",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624103",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-24T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "a4a70c541d423fb48d1c7deebc009a9d",
+          "title": "[김형일의 입시컨설팅] (242) 2027학년도 주요대학 지원전략(8) - 홍익대...",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151632",
+          "source": "www.smartbizn.com",
+          "published": "2026-08-24T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7773da4c870c52296713fc5702b68279",
           "title": "통합수능 6년 만에 최저…2027 수능 수학 ‘미적·기하’ 35%대로 붕괴 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tS2FESXNLVXk1TzA1ZVRpVmMzcW5EcWxCYnZyclhPd3dYb2JUWG5xV19yQzJRdVhJSjZUV2NfQzYyeTFQa0ZuQzZtZjhHTXM?oc=5",
@@ -2244,9 +2294,9 @@
           "is_new": false
         },
         {
-          "id": "068706f194d1d83e128c4b5835dffaf6",
-          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
+          "id": "c91776ab68b47f09cbc04823cf77cc94",
+          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
@@ -2254,9 +2304,9 @@
           "is_new": false
         },
         {
-          "id": "c91776ab68b47f09cbc04823cf77cc94",
-          "title": "[2027 대학 수시]중앙대, 수능최저 적용 학생부종합 '성장형인재'…재학...",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459504?sid=102",
+          "id": "068706f194d1d83e128c4b5835dffaf6",
+          "title": "[2027 대학 수시]광운대 수시모집 1135명 선발…수시 모든 전형에서 수능...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459511?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-23T04:01:00+00:00",
           "type": "news",
@@ -2274,9 +2324,9 @@
           "is_new": false
         },
         {
-          "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
+          "id": "1600165e8411415c30a5de94a8062465",
+          "title": "[단독] [2027수시] 44개 대학 논술 일정.. ‘수능직후’ 11월21일 고대 성대 경희대 건대 숙대 등 10개교 ‘격전’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSFFvaHF0T2RQbWFNT0Jka1JOZGpHb181dE8wMWluLThaRUlFNVFfNUtRcmo2R3RWcm9RYjJzbFpJbXgyYk9KUVA1Ry1mMEdtVURYY3dwa3NEbzg2aVU1QVFNRjFPOTZNWHZpdw?oc=5",
           "source": "베리타스알파",
           "published": "2026-08-21T10:10:00+00:00",
           "type": "news",
