@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T01:07:23.728138+00:00",
+  "updated_at": "2026-08-24T03:12:08.784527+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T00:52:32.689316+00:00",
+          "published": "2026-08-24T02:57:10.746022+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 숭실대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53778",
           "source": "에듀진",
-          "published": "2026-08-24T00:52:30.922633+00:00",
+          "published": "2026-08-24T02:57:08.956391+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5cad760f5c187bc552d36e6c2ba2d2f5",
+          "title": "&quot;통합 수능 치르는 고등 1, 2학년 새로운 출제 경향 파악·적응해야&quot;",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111147",
+          "source": "edu.donga.com",
+          "published": "2026-08-24T01:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3cece8cfbf0c87fb0776a242d817228b",
@@ -485,20 +495,60 @@
           "title": "[입시분석] 2027 국어국문·국어교육 학종, '등급'보다 학생부가 당락 갈랐다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53889",
           "source": "에듀진",
-          "published": "2026-08-24T00:55:00.135389+00:00",
+          "published": "2026-08-24T02:59:39.887608+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "140e51e557e0b5d5485a16f321d011a6",
-          "title": "2027 인하대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53895",
-          "source": "에듀진",
-          "published": "2026-08-24T00:54:55.863437+00:00",
+          "id": "36a09ce9ec53eae530133eb905c1cb6c",
+          "title": "[수학 논구술]  2027 수시 논술전형 수리논술 대비방안-홍익대",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624110",
+          "source": "베리타스알파",
+          "published": "2026-08-24T02:59:31.458948+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "8d5203ae603ae5d747e25969dec4fc80",
+          "title": "[온라인폴] 2027수시 지원전략 어떻게 세우셨습니까",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624113",
+          "source": "베리타스알파",
+          "published": "2026-08-24T02:59:31.458933+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "feddb4733835860630a5b771c9812eb6",
+          "title": "오늘부터 수능 원서 접수…'막차 대입'에 N수생 규모 주목",
+          "link": "https://n.news.naver.com/mnews/article/421/0009128842?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-24T02:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "fe3bf0316c399f4975832bef7680961b",
+          "title": "'미적분·기하 선택 급감' 대학들 고민… 학생부 수학 평가 커지나",
+          "link": "https://news.unn.net/news/articleView.html?idxno=596245",
+          "source": "news.unn.net",
+          "published": "2026-08-24T01:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1ccf06beda22aaf038de28d308d07c7a",
+          "title": "올해 수능 미적·기하 30%대 예측.. 2022학년도 통합수능 도입 이후 최저",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813296?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-24T00:55:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "efe48007587ec76398ee4c50e2dcab31",
@@ -508,7 +558,7 @@
           "published": "2026-08-24T00:54:55.106035+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9ad4ec19de7738c59e09422b9f6ae31f",
@@ -2234,6 +2284,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "36c5b55a53dc9de4053923630cad30ce",
+          "title": "오늘부터 수능 원서 접수…'막차 대입'에 N수생 규모 주목 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2bHI2Z05JY3hqU1p4YnlzRDl0eXlOTkV1cnFVekZDYW9DQzZfVm1qajhRN3pHSVZwbUVrRkpJOER4UWpEdkZZRDV4Q0E3UkVKS1VrN0pIYlhxQdIBX0FVX3lxTE5scDVUdFdINVl5UURjOGJ5SDNaZ3Q3NzEyU3JNZnNySFlWdXNvOHpyQmtmRkZXOUNrT00tRGJyeU9BMWd2eXdGQ0RYUm54bXNJT1FqRXp2MTJ4SHA5SDlV?oc=5",
+          "source": "뉴스1",
+          "published": "2026-08-24T02:26:50+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "9c099d88d8d0a8a7bf928c654f7cfefe",
+          "title": "수능 응시원서 접수 시작 - 남도일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BS0ZPUGhrYkdNWGdyaWttUzhkOGRkTGdQdUpTQU80LU9zd3RfZWdOM0lUQ2ctZU5jRnQ4OFpMZFQwdDZPcWZzYnhza2RrU2cwblRaOGJwRjVpUkU5OGVFNVE5MEZXTFVjZkRFc9IBcEFVX3lxTE5ybE5SeHdsT2tGdG9VcTFWdUZtc1QzZ29qMW04M1pNR3c1S2hueF9WWG5aSGFiV2c5UWFEeElXLUctcGo2UXF0c29UZmhZMzJfWGRPR0ZLSFNRSWlDc3BiaVVzck4zci1vc3FOUlhKeFA?oc=5",
+          "source": "남도일보",
+          "published": "2026-08-24T02:10:47+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f5d1aa40e11b0cbb25f460beaff4dfe5",
+          "title": "'시작된 수능 일정'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009128508?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-08-24T01:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6fa62da808e2873b53090c72f99ea3fc",
           "title": "[大入수시전략2027] 고려대, 수시 2731명 선발…전형 선택이 곧 전략",
           "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179885",
@@ -2241,7 +2321,7 @@
           "published": "2026-08-24T01:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8f45213e64969be20e1141b50ace2615",
@@ -2251,7 +2331,7 @@
           "published": "2026-08-24T00:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7a6212213dc001baa3ab984f4eb8f61d",
@@ -2261,7 +2341,7 @@
           "published": "2026-08-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a4a70c541d423fb48d1c7deebc009a9d",
@@ -2269,6 +2349,16 @@
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=151632",
           "source": "www.smartbizn.com",
           "published": "2026-08-24T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "518d0a38da2b4447aad244be33b42969",
+          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85dkVfRlUzX1pmVW5fOTZZclpLYUFpcFZTZ01NdTlvS2d3NGgxUk8wUkZXVlFoRVVSTWVDaE1VNGQ3bmQ3Qkp6M1RPUmRQaVZpWGwyQWFLbEJiQlFMNDdXdDBkZnhWZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-23T23:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
