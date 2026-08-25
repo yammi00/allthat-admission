@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:34:59.220393+00:00",
+  "updated_at": "2026-08-25T22:34:00.349066+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T20:19:59.215579+00:00",
+          "published": "2026-08-25T22:18:33.392087+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -540,6 +540,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "4807e4e195a86e2fa3b9e94a23805f2b",
+          "title": "[2026 대입 수시] 서강대, 학생부종합 일반전형 '일반I·일반II' 분리 신...",
+          "link": "https://www.asiatime.co.kr/article/20260825500094",
+          "source": "www.asiatime.co.kr",
+          "published": "2026-08-25T21:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
           "title": "[단독][2027수시] '추합 규모 가늠' 교과 충원율 성대 글로벌리더 790% '톱...",
@@ -1798,6 +1808,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "32eb926e1a62e7db4acdccc45331dd0f",
+          "title": "수시 직전 9월 모평 졸업생 등 11만명 몰려… ‘N수생·사탐런’ 주목",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260825010007542",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-08-25T08:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "f4ed0fcea14ef349cc2e293aa611f708",
           "title": "[大入수시전략2027] 이화여대, 수시 2092명 선발…전형 선택이 당락 좌우",
           "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180495",
@@ -2281,6 +2301,16 @@
           "is_new": false
         },
         {
+          "id": "2743446291f3a1a91ac46f7f2268f057",
+          "title": "[2027 수시]덕성여대, '진로선택' 반영 범위 확대…862명 모집 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNFNBT2RwLW1reTNCbDhFc2dvdF9HSGxsRHBMbmpHZXNlbmZEeEhiWnFCeDY1Z3hVamxpZlVRSjNOOENUV3BNd2lGcEl2TVhDWXFOYm1Jcko0bjczRGRsRmRB?oc=5",
+          "source": "뉴시스",
+          "published": "2026-08-25T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "ff0791f1a03e3eadd6e5d32765ff691c",
           "title": "한국공학대, 2027학년도 수시 1176명 선발…창의인재 확대·논술 축소",
           "link": "https://www.cstimes.com/news/articleView.html?idxno=717857",
@@ -2598,6 +2628,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "75aa34885bb72f85c726ac8b97531956",
+          "title": "[교육이 미래다] 수시·정시 지원 횟수 적용 없어 … 졸업 땐 미국 본교...",
+          "link": "https://n.news.naver.com/mnews/article/025/0003546822?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-08-25T20:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cc31d156d2dfc8c798a39a590a128923",
           "title": "[광화문에서/최예나]수능 서·논술형 문항 도입… 준비 안 됐다면 발표...",
           "link": "https://n.news.naver.com/mnews/article/020/0003743279?sid=110",
@@ -2618,9 +2658,9 @@
           "is_new": false
         },
         {
-          "id": "5d02876ca90391510e4a2ad7034c075c",
-          "title": "광운대, 모든 전형에서 수능최저 적용안해",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
+          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
+          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
@@ -2628,9 +2668,9 @@
           "is_new": false
         },
         {
-          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
-          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
+          "id": "5d02876ca90391510e4a2ad7034c075c",
+          "title": "광운대, 모든 전형에서 수능최저 적용안해",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
