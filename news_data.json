@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:52:05.272114+00:00",
+  "updated_at": "2026-08-25T16:42:30.148544+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T14:37:01.444924+00:00",
+          "published": "2026-08-25T16:27:49.936062+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2278,7 +2278,7 @@
           "published": "2026-08-25T00:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ff0791f1a03e3eadd6e5d32765ff691c",
@@ -2605,7 +2605,7 @@
           "published": "2026-08-25T14:13:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1af9bf8553b3bf59b7bf658c9b9c590b",
