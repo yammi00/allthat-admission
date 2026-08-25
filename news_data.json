@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:48:26.276270+00:00",
+  "updated_at": "2026-08-25T10:39:07.319002+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T08:33:30.439782+00:00",
+          "published": "2026-08-25T10:23:57.419455+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-08-25T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2cf231cbd449ee3583e033126b7873fe",
@@ -41,7 +41,7 @@
           "published": "2026-08-25T06:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7860b24c8bace67e6c8d02a5b12e801c",
@@ -541,14 +541,24 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "6fa48a8702467265abce48572c6f62f6",
-          "title": "[입시분석] 2027 문헌정보학과 학생부교과전형, 연세대 1.46등급… 3등급대 합격 대학도 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VWTV5WmZHQ01NSzBfaW8xTVBjSzJqcEhCOEkxU21ISkg3QmEtb3U5eWROcnlaOGNkVzNLUmtWTkFzVHhhY01uSlI4TGoxLWN2TFBCdTBDNTBldGpEbGJwQld3VTl0YXBoRWc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-08-25T06:26:55+00:00",
+          "id": "1635f8c7615018e7efacbe3a25ae6470",
+          "title": "[단독][2027수시] '추합 규모 가늠' 교과 충원율 성대 글로벌리더 790% '톱...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624435",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-25T09:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "43612a74bee676b36e95df30048468e7",
+          "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 산업인재 키운 100년… 국립...",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260825010007201",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-08-25T08:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b3edb81ae9e5c05f5424497a6ee6f9b1",
@@ -569,6 +579,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a9a11efa1720fec33a69f73ceda0a6e5",
+          "title": "[입시분석] 2027 로봇·드론계열 교과전형, 동국대 1.20등급 ‘최고’ - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweVdoTmJBdkxtbTI3VUJ6NVlIWkZjVm50bG1aR2xtazVaN3lSTlZHSUFsYUEtZUdwMFQ5amRlaHNTM2xrODBJREdoSzNjcHQ0OFlCQ284V0JaanNTdElZNW1xR2R1SHYxamc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-25T02:49:31+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d97a4dd94db86b1dee43f7c2b4a85274",
@@ -2218,7 +2238,7 @@
           "published": "2026-08-25T07:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1a530742020144fa666130f9066ee6ef",
@@ -2228,7 +2248,7 @@
           "published": "2026-08-25T06:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c73f49c1235ae6556d6abc2d82440120",
@@ -2595,17 +2615,7 @@
           "published": "2026-08-25T07:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
-          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-08-25T07:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5d02876ca90391510e4a2ad7034c075c",
@@ -2615,7 +2625,17 @@
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
+          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-25T07:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         },
         {
           "id": "260ff40620a0f49830d86d3c6d227e32",
