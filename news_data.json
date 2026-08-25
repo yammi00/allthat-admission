@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T12:48:56.403782+00:00",
+  "updated_at": "2026-08-25T14:52:05.272114+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T12:33:34.366434+00:00",
+          "published": "2026-08-25T14:37:01.444924+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2231,16 +2231,6 @@
       "emoji": "✏️",
       "items": [
         {
-          "id": "9f8925a3415e5d4fc9c60c8f11a11c95",
-          "title": "한국공학대, 논술전형, 280명서 200명으로 대폭축소",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725581?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-08-25T07:05:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "1a530742020144fa666130f9066ee6ef",
           "title": "대치동 멘토스 추석특강 논술, 지구과학 예약 중",
           "link": "https://www.gosiweek.com/article/1065595856229460",
@@ -2271,16 +2261,6 @@
           "is_new": false
         },
         {
-          "id": "ece5118c3225980d4fff6b64c57f9ac8",
-          "title": "논술고사 ‘서술 → 약술형’ 개편… 평생학습자전형 폐지",
-          "link": "https://n.news.naver.com/mnews/article/021/0002813632?sid=102",
-          "source": "www.munhwa.com",
-          "published": "2026-08-25T00:21:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "e61fb78aea61b1627fadab0189ca81cc",
           "title": "‘창의인재’256명 모집… 학생부 기반 면접전형 확대",
           "link": "https://n.news.naver.com/mnews/article/021/0002813614?sid=102",
@@ -2289,6 +2269,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "c5aa424c4f644a720139b5e4adf96f1f",
+          "title": "[2027 수시]삼육대, 논술전형 대폭 확대…약학과 '약술형 논술' 도입 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMZmJBazVRLWVFS2dqemtwRFRlNE5Ta0lETFVZN0RERDBUbXMwa0xDUHViT3FmU0RJdzlwOXZNYUM0Y2ZFdDNPNGMyTEZfeUhmOFBj?oc=5",
+          "source": "네이트",
+          "published": "2026-08-25T00:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "ff0791f1a03e3eadd6e5d32765ff691c",
@@ -2608,6 +2598,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "cc31d156d2dfc8c798a39a590a128923",
+          "title": "[광화문에서/최예나]수능 서·논술형 문항 도입… 준비 안 됐다면 발표...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003743279?sid=110",
+          "source": "www.donga.com",
+          "published": "2026-08-25T14:13:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1af9bf8553b3bf59b7bf658c9b9c590b",
           "title": "9월 모평 D-8…시간관리부터 가채점까지, 수능 전 점검할 것은?",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/08/25/2026082580169.html",
@@ -2618,9 +2618,9 @@
           "is_new": false
         },
         {
-          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
-          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
+          "id": "5d02876ca90391510e4a2ad7034c075c",
+          "title": "광운대, 모든 전형에서 수능최저 적용안해",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
@@ -2628,9 +2628,9 @@
           "is_new": false
         },
         {
-          "id": "5d02876ca90391510e4a2ad7034c075c",
-          "title": "광운대, 모든 전형에서 수능최저 적용안해",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
+          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
+          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
