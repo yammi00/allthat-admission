@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:33:27.510691+00:00",
+  "updated_at": "2026-08-25T01:07:03.134143+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-24T22:18:31.095185+00:00",
+          "published": "2026-08-25T00:52:20.504411+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
           "source": "에듀진",
-          "published": "2026-08-24T22:18:29.231355+00:00",
+          "published": "2026-08-25T00:52:18.567895+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -510,6 +510,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "6eaec846bb69b1a2b7732fb934c54658",
+          "title": "[2027전공돋보기] 단국대 AI건축융합학과 '신설' 수시 정원내 12명.. 건축디자인/디지털트윈 AI부터 구조안전/시공품질 AI까지",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624363",
+          "source": "베리타스알파",
+          "published": "2026-08-25T00:54:42.585113+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d97a4dd94db86b1dee43f7c2b4a85274",
+          "title": "학생부 없이‘논술 100%’로 277명… 약학과도 첫 도입",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813633?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-25T00:21:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0cc5babd55204987dc2698adf8017c49",
+          "title": "[2027 수시]삼육대, 논술전형 대폭 확대…약학과 '약술형 논술' 도입",
+          "link": "https://n.news.naver.com/mnews/article/003/0014145575?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-08-25T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "a34ba895727b0ad4dd1fb67ce59a4ba1",
           "title": "수능 원서접수 시작···수시 확대·지역의사제 변수에 달라지는 입시...",
@@ -2088,6 +2118,36 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "dbe823fee12aa2d07e74b7e60f317834",
+          "title": "의약학 선발 변화 뚜렷…수능최저·일정겹침 반드시 확인해야",
+          "link": "https://www.yeongnam.com/web/view.php?key=20260825027553433",
+          "source": "www.yeongnam.com",
+          "published": "2026-08-25T00:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e61fb78aea61b1627fadab0189ca81cc",
+          "title": "‘창의인재’256명 모집… 학생부 기반 면접전형 확대",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813614?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-25T00:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ff0791f1a03e3eadd6e5d32765ff691c",
+          "title": "한국공학대, 2027학년도 수시 1176명 선발…창의인재 확대·논술 축소",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=717857",
+          "source": "www.cstimes.com",
+          "published": "2026-08-24T22:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "99c8c56f9169336887ee4b62ab1c0407",
           "title": "삼육대 약학과 올 첫 ‘약술형 논술’ 도입",
           "link": "https://n.news.naver.com/mnews/article/081/0003673116?sid=102",
@@ -2394,6 +2454,46 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "44ab276d185872792e020abbb8c009be",
+          "title": "의대 지역의사전형 신설… 삼성 계약학과 ‘모바일AI공학전공’ 첫 모집",
+          "link": "https://www.yeongnam.com/web/view.php?key=20260825026132688",
+          "source": "www.yeongnam.com",
+          "published": "2026-08-25T00:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "9c4574769f597e6453732d43ec03f780",
+          "title": "全전형 ‘학폭’ 반영… 전학·퇴학처분 있으면 부적격",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813623?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-25T00:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8ad0853fc755ab3693f465f1f0ee0980",
+          "title": "인하미래인재 전형 ‘면접 939명·서류 261명’ 선발",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813604?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-25T00:17:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3094a95bf2fdb95979894653de99b5db",
+          "title": "수능 원서 접수 시작...N수생 대거 몰린다",
+          "link": "https://www.tbc.co.kr/news/view?pno=20260824141849AE04399&id=210159",
+          "source": "www.tbc.co.kr",
+          "published": "2026-08-24T23:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f29f3102a98fcb65eb908cc3ee736fcf",
           "title": "광운대, 수능최저 폐지로 지원 문턱 낮춰",
