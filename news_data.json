@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:39:07.319002+00:00",
+  "updated_at": "2026-08-25T12:48:56.403782+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T10:23:57.419455+00:00",
+          "published": "2026-08-25T12:33:34.366434+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -548,7 +548,7 @@
           "published": "2026-08-25T09:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "43612a74bee676b36e95df30048468e7",
@@ -558,7 +558,7 @@
           "published": "2026-08-25T08:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3edb81ae9e5c05f5424497a6ee6f9b1",
@@ -588,7 +588,7 @@
           "published": "2026-08-25T02:49:31+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d97a4dd94db86b1dee43f7c2b4a85274",
@@ -2618,9 +2618,9 @@
           "is_new": false
         },
         {
-          "id": "5d02876ca90391510e4a2ad7034c075c",
-          "title": "광운대, 모든 전형에서 수능최저 적용안해",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
+          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
+          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
@@ -2628,9 +2628,9 @@
           "is_new": false
         },
         {
-          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
-          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
+          "id": "5d02876ca90391510e4a2ad7034c075c",
+          "title": "광운대, 모든 전형에서 수능최저 적용안해",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-25T07:04:00+00:00",
           "type": "news",
