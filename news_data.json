@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:07:03.134143+00:00",
+  "updated_at": "2026-08-25T03:07:19.868537+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,20 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-25T00:52:20.504411+00:00",
+          "published": "2026-08-25T02:52:27.308218+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "2e4843a40ffa48366c86b02a76f070cf",
-          "title": "2027 성신여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53892",
+          "id": "c9243385cde1a9a2def08c7945dd3ab7",
+          "title": "2027 성신여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53894",
           "source": "에듀진",
-          "published": "2026-08-25T00:52:18.567895+00:00",
+          "published": "2026-08-25T02:52:20.163679+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "2dcc1ef7a6dfded8e5e1f406952b954d",
@@ -511,11 +511,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "6eaec846bb69b1a2b7732fb934c54658",
-          "title": "[2027전공돋보기] 단국대 AI건축융합학과 '신설' 수시 정원내 12명.. 건축디자인/디지털트윈 AI부터 구조안전/시공품질 AI까지",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624363",
+          "id": "b3edb81ae9e5c05f5424497a6ee6f9b1",
+          "title": "[2027전공돋보기] 단국대 상담학과 수시 정원내 22명.. ‘실천지향 상담전문가 양성’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624368",
           "source": "베리타스알파",
-          "published": "2026-08-25T00:54:42.585113+00:00",
+          "published": "2026-08-25T02:54:52.998194+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -528,7 +528,7 @@
           "published": "2026-08-25T00:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0cc5babd55204987dc2698adf8017c49",
@@ -538,7 +538,7 @@
           "published": "2026-08-25T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a34ba895727b0ad4dd1fb67ce59a4ba1",
@@ -1935,6 +1935,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "b25de930558c750aaf9c8967e16abf1c",
+          "title": "2028학년도 대학수학능력시험 시험시간표(일반·경증·중증) 안내",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096141&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-08-25T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4027bd14e5113962e49aeb38d16c74ce",
           "title": "교정시설에서 일할 의사, 국민이 직접 추천",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775269",
@@ -2125,6 +2136,16 @@
           "published": "2026-08-25T00:36:00+00:00",
           "type": "news",
           "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "ece5118c3225980d4fff6b64c57f9ac8",
+          "title": "논술고사 ‘서술 → 약술형’ 개편… 평생학습자전형 폐지",
+          "link": "https://n.news.naver.com/mnews/article/021/0002813632?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-25T00:21:00+00:00",
+          "type": "news",
+          "grade": "all",
           "is_new": true
         },
         {
@@ -2135,7 +2156,7 @@
           "published": "2026-08-25T00:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ff0791f1a03e3eadd6e5d32765ff691c",
@@ -2145,17 +2166,17 @@
           "published": "2026-08-24T22:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "99c8c56f9169336887ee4b62ab1c0407",
-          "title": "삼육대 약학과 올 첫 ‘약술형 논술’ 도입",
-          "link": "https://n.news.naver.com/mnews/article/081/0003673116?sid=102",
+          "id": "382783f79e5a39ec92f9e2be81b94b22",
+          "title": "동덕여대, 약술형 논술 도입… ‘실기’ 강화",
+          "link": "https://n.news.naver.com/mnews/article/081/0003673113?sid=102",
           "source": "www.seoul.co.kr",
           "published": "2026-08-24T20:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "7ecaaeb99cbc0253dd8fb8c75bfabde6",
@@ -2455,6 +2476,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "be5233b9d865b6314277f7629676c287",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요”",
+          "link": "https://www.etoday.co.kr/news/view/2617861",
+          "source": "www.etoday.co.kr",
+          "published": "2026-08-25T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "44ab276d185872792e020abbb8c009be",
           "title": "의대 지역의사전형 신설… 삼성 계약학과 ‘모바일AI공학전공’ 첫 모집",
           "link": "https://www.yeongnam.com/web/view.php?key=20260825026132688",
@@ -2462,7 +2493,7 @@
           "published": "2026-08-25T00:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9c4574769f597e6453732d43ec03f780",
@@ -2472,7 +2503,7 @@
           "published": "2026-08-25T00:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ad0853fc755ab3693f465f1f0ee0980",
@@ -2482,7 +2513,7 @@
           "published": "2026-08-25T00:17:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3094a95bf2fdb95979894653de99b5db",
@@ -2492,7 +2523,7 @@
           "published": "2026-08-24T23:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f29f3102a98fcb65eb908cc3ee736fcf",
