@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T06:48:21.895056+00:00",
+  "updated_at": "2026-08-25T08:48:26.276270+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,21 +14,31 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-08-25T06:33:28.060752+00:00",
+          "id": "c0ffddda8778c034a297d36dc488dddd",
+          "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
+          "source": "에듀진",
+          "published": "2026-08-25T08:33:30.439782+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "c0ffddda8778c034a297d36dc488dddd",
-          "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
-          "source": "에듀진",
-          "published": "2026-08-25T06:33:18.993283+00:00",
+          "id": "1c00d90a48bd3ef1bb77c2dec6aa06dc",
+          "title": "역대 최대 N수생·사탐런 덮친 9월 모평…입시업계 &quot;수시 가채점 보수적...",
+          "link": "https://www.ajunews.com/view/20260825155428325",
+          "source": "www.ajunews.com",
+          "published": "2026-08-25T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2cf231cbd449ee3583e033126b7873fe",
+          "title": "2027학년도 수능 9월 모의평가 9월 2일 실시…재학생 줄고 N수생 늘어",
+          "link": "https://www.ajunews.com/view/20260825154133286",
+          "source": "www.ajunews.com",
+          "published": "2026-08-25T06:50:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -538,7 +548,7 @@
           "published": "2026-08-25T06:26:55+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3edb81ae9e5c05f5424497a6ee6f9b1",
@@ -2004,7 +2014,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4444630cd1d72c0d3ea3f50b470303d0",
@@ -2015,7 +2025,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4027bd14e5113962e49aeb38d16c74ce",
@@ -2201,6 +2211,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "9f8925a3415e5d4fc9c60c8f11a11c95",
+          "title": "한국공학대, 논술전형, 280명서 200명으로 대폭축소",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725581?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-25T07:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "1a530742020144fa666130f9066ee6ef",
+          "title": "대치동 멘토스 추석특강 논술, 지구과학 예약 중",
+          "link": "https://www.gosiweek.com/article/1065595856229460",
+          "source": "www.gosiweek.com",
+          "published": "2026-08-25T06:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c73f49c1235ae6556d6abc2d82440120",
           "title": "[대학 수시 톺아보기] ④상명대, 자유전공·약술형 논술로 '학생 맞춤형...",
           "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663080",
@@ -2208,7 +2238,7 @@
           "published": "2026-08-25T05:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dbe823fee12aa2d07e74b7e60f317834",
@@ -2558,6 +2588,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "1af9bf8553b3bf59b7bf658c9b9c590b",
+          "title": "9월 모평 D-8…시간관리부터 가채점까지, 수능 전 점검할 것은?",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/25/2026082580169.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-25T07:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
+          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-25T07:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5d02876ca90391510e4a2ad7034c075c",
+          "title": "광운대, 모든 전형에서 수능최저 적용안해",
+          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-25T07:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "260ff40620a0f49830d86d3c6d227e32",
           "title": "[그래픽] 2027학년도 대학입시 주요 일정",
           "link": "https://n.news.naver.com/mnews/article/001/0016269502?sid=102",
@@ -2565,7 +2625,7 @@
           "published": "2026-08-25T05:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "354e79003e229d86861ccded33a6433b",
