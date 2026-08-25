@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T03:07:19.868537+00:00",
+  "updated_at": "2026-08-25T04:47:15.133299+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-25T02:52:27.308218+00:00",
+          "published": "2026-08-25T04:32:07.255082+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,27 @@
           "title": "2027 성신여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53894",
           "source": "에듀진",
-          "published": "2026-08-25T02:52:20.163679+00:00",
+          "published": "2026-08-25T04:31:58.684428+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "7860b24c8bace67e6c8d02a5b12e801c",
+          "title": "9월 수능 모의평가에 졸업생 11만명 역대 최다…사탐런도 최고",
+          "link": "https://n.news.naver.com/mnews/article/001/0016269147?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-08-25T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "de8ba833aaa355d0ab04160fd016d1e7",
+          "title": "9월 평가원 모의고사 분석 설명회 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111179",
+          "source": "edu.donga.com",
+          "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -515,7 +535,17 @@
           "title": "[2027전공돋보기] 단국대 상담학과 수시 정원내 22명.. ‘실천지향 상담전문가 양성’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624368",
           "source": "베리타스알파",
-          "published": "2026-08-25T02:54:52.998194+00:00",
+          "published": "2026-08-25T04:34:31.830084+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c4c4be5830087badc42fe5ec21f7b239",
+          "title": "'수능 가늠자' 9월 모평 N수생 11만명 역대 최대…'사탐런'도 가속",
+          "link": "https://www.newspim.com/news/view/20260825000457",
+          "source": "www.newspim.com",
+          "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1728,6 +1758,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "f4ed0fcea14ef349cc2e293aa611f708",
+          "title": "[大入수시전략2027] 이화여대, 수시 2092명 선발…전형 선택이 당락 좌우",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180495",
+          "source": "weekly.hankooki.com",
+          "published": "2026-08-25T01:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "5ccfae72d7e270d60bb3bb8c5106e400",
           "title": "수시 원서접수 보름 앞으로… 수험생 절반 ‘아직 고민’, 지방 국립대...",
           "link": "https://n.news.naver.com/mnews/article/022/0004152798?sid=102",
@@ -1943,7 +1983,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4027bd14e5113962e49aeb38d16c74ce",
@@ -2146,7 +2186,7 @@
           "published": "2026-08-25T00:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e61fb78aea61b1627fadab0189ca81cc",
@@ -2169,9 +2209,9 @@
           "is_new": false
         },
         {
-          "id": "382783f79e5a39ec92f9e2be81b94b22",
-          "title": "동덕여대, 약술형 논술 도입… ‘실기’ 강화",
-          "link": "https://n.news.naver.com/mnews/article/081/0003673113?sid=102",
+          "id": "99c8c56f9169336887ee4b62ab1c0407",
+          "title": "삼육대 약학과 올 첫 ‘약술형 논술’ 도입",
+          "link": "https://n.news.naver.com/mnews/article/081/0003673116?sid=102",
           "source": "www.seoul.co.kr",
           "published": "2026-08-24T20:02:00+00:00",
           "type": "news",
@@ -2476,10 +2516,10 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "be5233b9d865b6314277f7629676c287",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요”",
-          "link": "https://www.etoday.co.kr/news/view/2617861",
-          "source": "www.etoday.co.kr",
+          "id": "354e79003e229d86861ccded33a6433b",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…\"공통원서 미리 작성하세요\" - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jY2hZYTQ4bElQZVNCZEpsV0xMUWlMSHRsQkRvYzJacTBGWktJTFhVRGRmN2ZVdlA3SXNvcThsa3k2elhrNGxManpNQVJLSm5Cak5Z?oc=5",
+          "source": "네이트",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
