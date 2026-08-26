@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T04:47:26.411880+00:00",
+  "updated_at": "2026-08-26T06:50:35.300048+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T04:32:39.972700+00:00",
+          "published": "2026-08-26T06:35:29.228635+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,10 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T04:32:30.731188+00:00",
+          "published": "2026-08-26T06:35:21.717574+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d66ddd8028f09c5c140a2233f54ddac3",
@@ -565,10 +565,20 @@
           "title": "[입시분석] 2027 문헌정보학과 학생부교과전형, 연세대 1.46등급… 3등급대 합격 대학도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53927",
           "source": "에듀진",
-          "published": "2026-08-26T04:35:07.924164+00:00",
+          "published": "2026-08-26T06:38:02.560824+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ae09661ee04b053370c034bfb47e30b9",
+          "title": "[2027 대입 수시모집] 삼육대, 204명 늘린 1029명 선발… 약학과 논술전...",
+          "link": "https://www.viva100.com/article/20260823500380",
+          "source": "www.viva100.com",
+          "published": "2026-08-26T06:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6d4d04e067b23ab384f9ddcfa2d3fc7a",
@@ -582,7 +592,7 @@
         },
         {
           "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2026 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
+          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
           "link": "https://www.asiatime.co.kr/article/20260825500230",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
@@ -2675,7 +2685,7 @@
           "published": "2026-08-26T04:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6cf478288333f434f25efb860596ea7b",
@@ -3632,7 +3642,7 @@
           "published": "2026-08-26T04:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e02ebafe6dda4429110cbc630e7ae86",
