@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:34:00.349066+00:00",
+  "updated_at": "2026-08-26T01:07:54.786343+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,11 +14,21 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-08-26T00:52:54.321321+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "c0ffddda8778c034a297d36dc488dddd",
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-25T22:18:33.392087+00:00",
+          "published": "2026-08-26T00:52:44.753633+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -541,9 +551,29 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "4807e4e195a86e2fa3b9e94a23805f2b",
-          "title": "[2026 대입 수시] 서강대, 학생부종합 일반전형 '일반I·일반II' 분리 신...",
-          "link": "https://www.asiatime.co.kr/article/20260825500094",
+          "id": "6d4d04e067b23ab384f9ddcfa2d3fc7a",
+          "title": "2027 아주대 논술전형 경쟁률 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53906",
+          "source": "에듀진",
+          "published": "2026-08-26T00:55:32.114345+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e092ad117987e5693b357d944a9e8baa",
+          "title": "[입시분석] 2027 문헌정보학과 학생부교과전형, 연세대 1.46등급… 3등급대 합격 대학도",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53927",
+          "source": "에듀진",
+          "published": "2026-08-26T00:55:23.801873+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
+          "title": "[2026 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
+          "link": "https://www.asiatime.co.kr/article/20260825500235",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
@@ -1815,7 +1845,7 @@
           "published": "2026-08-25T08:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f4ed0fcea14ef349cc2e293aa611f708",
@@ -2308,7 +2338,7 @@
           "published": "2026-08-25T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ff0791f1a03e3eadd6e5d32765ff691c",
@@ -2628,6 +2658,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "6cf478288333f434f25efb860596ea7b",
+          "title": "“수시 원서접수 전, 정시 가능선부터 확인해야” - 조선에듀",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3FhSHlxaEh6VE92OVBzbldzdThxRkhOaXhqM1QyZm9WeVl4dlVFWGdlQkFjNW5qbi1OLUF6YkkyOGo2S3BseTlaN1hySDY1dFNSTUpyaTR3STh1SFJlQ055ZUl5VU5ncFdJYVh3VjlVbU9nai12enpwTVk0a3E0TlNMTThPS28?oc=5",
+          "source": "조선에듀",
+          "published": "2026-08-26T00:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5d408634dd865b86127e67d8d05c23be",
+          "title": "대성학원, 2027학년도 수시 지원 핵심 전략 제시",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111250",
+          "source": "edu.donga.com",
+          "published": "2026-08-26T00:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "026358e3ad2c3e712a2971e9098509d3",
+          "title": "[2027 수시특집] 창학 90주년 성신여대, '융합AI반도체공학과' 신설로 미...",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129819",
+          "source": "www.popcornnews.net",
+          "published": "2026-08-26T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "75aa34885bb72f85c726ac8b97531956",
           "title": "[교육이 미래다] 수시·정시 지원 횟수 적용 없어 … 졸업 땐 미국 본교...",
           "link": "https://n.news.naver.com/mnews/article/025/0003546822?sid=102",
@@ -2635,7 +2695,7 @@
           "published": "2026-08-25T20:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cc31d156d2dfc8c798a39a590a128923",
@@ -2688,14 +2748,14 @@
           "is_new": false
         },
         {
-          "id": "354e79003e229d86861ccded33a6433b",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…\"공통원서 미리 작성하세요\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jY2hZYTQ4bElQZVNCZEpsV0xMUWlMSHRsQkRvYzJacTBGWktJTFhVRGRmN2ZVdlA3SXNvcThsa3k2elhrNGxManpNQVJLSm5Cak5Z?oc=5",
-          "source": "네이트",
+          "id": "113ab4d1b6167a3fb850b40d21397cc5",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
+          "source": "이투데이",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "44ab276d185872792e020abbb8c009be",
