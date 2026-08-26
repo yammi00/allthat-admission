@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:54:25.724523+00:00",
+  "updated_at": "2026-08-26T22:52:44.855959+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T19:39:24.820631+00:00",
+          "published": "2026-08-26T22:38:01.681554+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T19:39:20.546292+00:00",
+          "published": "2026-08-26T22:37:55.943123+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -571,6 +571,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "d98049270a194bee1112d527964d57fb",
+          "title": "논술우수자전형 확대 약학과도 첫 도입…학교장추천전형은 내신 ‘5등급...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000950378?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-08-26T21:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "6e6e2af298c5648d96d851105bb542e8",
           "title": "[단독][2027수시] ‘추합 규모 가늠’ 지난해 학종 충원율.. 성대 반도체시스템 760% ‘톱’ 충원인원 성대 공학계열 421명 ‘최다’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624675",
@@ -628,7 +638,7 @@
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
@@ -2331,6 +2341,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "a22bfae6796d3ebf168669500957943b",
+          "title": "논술전형, 서술형→ 약술형 논술로 개편…약학과는 수능최저학력기준 ...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000950372?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-08-26T21:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c6e6c4e4e3a9a28606b3b8fe1cea9786",
+          "title": "학종(창의인재)전형 대폭 늘려 256명 모집 학생부 교과우수자전형만 수...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000950358?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-08-26T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "828a04e86f1f8298b4fb0494450c8b5d",
           "title": "스카이입시교육학원 대치동점, 2027학년도 대학별 논술 대비 강좌 9월 개...",
           "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225183",
@@ -2727,6 +2757,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "61646172720d3e6b7bb80890fd606b41",
+          "title": "전자공학부에 로봇공학전공 신설 논술은 언어·사회논술과 수리논술 중...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000950383?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-08-26T22:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ac113549116e4337bdfaa21a06f81028",
+          "title": "자유전공학부, 논술전형 71명으로 늘어 지역균형전형은 학생부교과 100%...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000950367?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-08-26T21:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ca3626a08a2cdd8bba9d68a863ffa146",
           "title": "아주대, AI컴퓨터공학부 신설…수시 1623명 선발",
