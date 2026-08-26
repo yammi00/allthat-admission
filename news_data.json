@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:07:54.786343+00:00",
+  "updated_at": "2026-08-26T03:13:04.611893+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,20 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T00:52:54.321321+00:00",
+          "published": "2026-08-26T02:58:30.584980+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c0ffddda8778c034a297d36dc488dddd",
           "title": "2027 한국항공대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53926",
           "source": "에듀진",
-          "published": "2026-08-26T00:52:44.753633+00:00",
+          "published": "2026-08-26T02:58:23.095958+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d66ddd8028f09c5c140a2233f54ddac3",
+          "title": "이은재수학학원, 수능보다 한 단계 높은 난이도 '이은재 모의고사' 출시",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111254",
+          "source": "edu.donga.com",
+          "published": "2026-08-26T01:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1c00d90a48bd3ef1bb77c2dec6aa06dc",
@@ -555,25 +565,25 @@
           "title": "2027 아주대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53906",
           "source": "에듀진",
-          "published": "2026-08-26T00:55:32.114345+00:00",
+          "published": "2026-08-26T03:01:05.435200+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e092ad117987e5693b357d944a9e8baa",
           "title": "[입시분석] 2027 문헌정보학과 학생부교과전형, 연세대 1.46등급… 3등급대 합격 대학도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53927",
           "source": "에듀진",
-          "published": "2026-08-26T00:55:23.801873+00:00",
+          "published": "2026-08-26T03:00:59.060528+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
-          "title": "[2026 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
-          "link": "https://www.asiatime.co.kr/article/20260825500235",
+          "id": "b37856291123a1f4412d85e907090597",
+          "title": "[2026 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
+          "link": "https://www.asiatime.co.kr/article/20260825500230",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
@@ -2665,7 +2675,7 @@
           "published": "2026-08-26T00:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5d408634dd865b86127e67d8d05c23be",
@@ -2675,7 +2685,7 @@
           "published": "2026-08-26T00:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "026358e3ad2c3e712a2971e9098509d3",
@@ -2685,7 +2695,7 @@
           "published": "2026-08-26T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "75aa34885bb72f85c726ac8b97531956",
@@ -2755,7 +2765,7 @@
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "44ab276d185872792e020abbb8c009be",
@@ -3604,6 +3614,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "8e02ebafe6dda4429110cbc630e7ae86",
+          "title": "인천 고교 자퇴생 3년 연속 증가··· &quot;고교학점제·내신 5등급제 재검...",
+          "link": "https://www.incheontoday.com/news/articleView.html?idxno=322728",
+          "source": "www.incheontoday.com",
+          "published": "2026-08-26T02:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ae8ae0ef708eec9c6714d6e67f526d8e",
           "title": "경기도교육청, 2027학년도 평준화학군 배정 방안 발표 - 투데이안산",
