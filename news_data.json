@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:51:50.086577+00:00",
+  "updated_at": "2026-08-26T16:57:52.637335+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T14:37:16.657364+00:00",
+          "published": "2026-08-26T16:42:57.972114+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T14:37:13.084256+00:00",
+          "published": "2026-08-26T16:42:53.226562+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1601,16 +1601,6 @@
           "is_new": false
         },
         {
-          "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-07T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "2ade66df678e303f4dce1973ea624cd8",
           "title": "[수시 특집] 2027학년도 연세대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oc1FxQTdJcHVId25uNW12b3lqN0lXYVk3UmFlMkZ3cnh1WTNiUmJ1OXpOUGRhNm55anRudDNZbGdYcWIyUEVvdXdEeUdMV2huWmhKelMtQ1ZRT0hheFI1d250aUJGUEtRUFE?oc=5",
@@ -1636,6 +1626,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622318",
           "source": "베리타스알파",
           "published": "2026-08-07T02:19:45.840296+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "02f72a853258bdda89077d03d7fe2a01",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
