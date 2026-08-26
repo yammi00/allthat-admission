@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:50:35.300048+00:00",
+  "updated_at": "2026-08-26T08:48:57.543245+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T06:35:29.228635+00:00",
+          "published": "2026-08-26T08:34:26.538698+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T06:35:21.717574+00:00",
+          "published": "2026-08-26T08:34:22.958810+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "009800476793a7283c49b6112d7b86d6",
+          "title": "반도체 인재 양성 ‘국책대학’ 한국기술교육대, 수시 806명 선발",
+          "link": "https://n.news.naver.com/mnews/article/021/0002814102?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-08-26T07:07:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d66ddd8028f09c5c140a2233f54ddac3",
@@ -64,20 +74,20 @@
           "is_new": false
         },
         {
-          "id": "7860b24c8bace67e6c8d02a5b12e801c",
-          "title": "9월 수능 모의평가에 졸업생 11만명 역대 최다…사탐런도 최고",
-          "link": "https://n.news.naver.com/mnews/article/001/0016269147?sid=102",
-          "source": "www.yna.co.kr",
+          "id": "de8ba833aaa355d0ab04160fd016d1e7",
+          "title": "9월 평가원 모의고사 분석 설명회 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111179",
+          "source": "edu.donga.com",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "de8ba833aaa355d0ab04160fd016d1e7",
-          "title": "9월 평가원 모의고사 분석 설명회 개최",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111179",
-          "source": "edu.donga.com",
+          "id": "7860b24c8bace67e6c8d02a5b12e801c",
+          "title": "9월 수능 모의평가에 졸업생 11만명 역대 최다…사탐런도 최고",
+          "link": "https://n.news.naver.com/mnews/article/001/0016269147?sid=102",
+          "source": "www.yna.co.kr",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -561,14 +571,34 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "e092ad117987e5693b357d944a9e8baa",
-          "title": "[입시분석] 2027 문헌정보학과 학생부교과전형, 연세대 1.46등급… 3등급대 합격 대학도",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53927",
-          "source": "에듀진",
-          "published": "2026-08-26T06:38:02.560824+00:00",
+          "id": "6e6e2af298c5648d96d851105bb542e8",
+          "title": "[단독][2027수시] ‘추합 규모 가늠’ 지난해 학종 충원율.. 성대 반도체시스템 760% ‘톱’ 충원인원 성대 공학계열 421명 ‘최다’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624675",
+          "source": "베리타스알파",
+          "published": "2026-08-26T08:36:50.465149+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "9062a4976253192e7e99b8ca6aa147bd",
+          "title": "[영남대, 2027 수시 특집] 정부가 인정하고 수험생이 선택한 ‘영남대’...",
+          "link": "https://dhnews.co.kr/news/view/1065599831883239",
+          "source": "dhnews.co.kr",
+          "published": "2026-08-26T08:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8cc3e464ade15aa3cafcc9750af07b22",
+          "title": "[입시분석] 2027 국어국문·국어교육 교과전형, 합격선보다 '변화폭'을 읽어라 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRS2dHN3gwYzJlSTc5bzZPSFpnc3lDMmQwQzQzeUNQeHNITF9IUXpYTl8wMlpaeWJwZGNDZDh6RkU3YlJUNU9IUjVyNVhwOTZka21GRm0tUFdWeFV4bnc5RXlSSFZ6M05TaUE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-26T07:47:22+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ae09661ee04b053370c034bfb47e30b9",
@@ -578,7 +608,7 @@
           "published": "2026-08-26T06:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6d4d04e067b23ab384f9ddcfa2d3fc7a",
@@ -591,14 +621,14 @@
           "is_new": false
         },
         {
-          "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
-          "link": "https://www.asiatime.co.kr/article/20260825500230",
+          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
+          "title": "[2027 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
+          "link": "https://www.asiatime.co.kr/article/20260825500235",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
@@ -2300,6 +2330,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "828a04e86f1f8298b4fb0494450c8b5d",
+          "title": "스카이입시교육학원 대치동점, 2027학년도 대학별 논술 대비 강좌 9월 개...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225183",
+          "source": "www.job-post.co.kr",
+          "published": "2026-08-26T07:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "1a530742020144fa666130f9066ee6ef",
           "title": "대치동 멘토스 추석특강 논술, 지구과학 예약 중",
