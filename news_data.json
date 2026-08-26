@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:57:52.637335+00:00",
+  "updated_at": "2026-08-26T19:54:25.724523+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T16:42:57.972114+00:00",
+          "published": "2026-08-26T19:39:24.820631+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T16:42:53.226562+00:00",
+          "published": "2026-08-26T19:39:20.546292+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -621,14 +621,14 @@
           "is_new": false
         },
         {
-          "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
-          "link": "https://www.asiatime.co.kr/article/20260825500230",
+          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
+          "title": "[2027 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
+          "link": "https://www.asiatime.co.kr/article/20260825500235",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
@@ -3033,6 +3033,16 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVHVNWndod0ZxaWJYZktfNlc2RVJvUkxWNjVsN1lNM1EyUkNZTy1CWEwta2tmc2lyMWNYMm94MDZRa2FYOEtTUVlVUHFWczJ1YmxLWVBIaGI3UjBhd1pDSVJjemhXYkQzX1Jz?oc=5",
           "source": "issueon.co.kr",
           "published": "2026-08-23T03:05:17+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5b1f00ecfb9eeed98b9465e5f2660e2b",
+          "title": "27 수시원서 접수처(유웨이 vs 진학사) 및 전형료 - 브런치",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVmI0RW9NWTVjV2t5MTdreU1DSHBiOXpDblE5RVd5SzZ6bTFfNGZpaFY0N183Z0c2b2MzYzVNT1ExV1NFTEZvQzU0OXNTLTVs?oc=5",
+          "source": "브런치",
+          "published": "2026-08-21T19:18:34+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
