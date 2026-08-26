@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:48:57.543245+00:00",
+  "updated_at": "2026-08-26T10:42:34.863599+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T08:34:26.538698+00:00",
+          "published": "2026-08-26T10:27:37.133390+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T08:34:22.958810+00:00",
+          "published": "2026-08-26T10:27:32.998070+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-26T07:07:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d66ddd8028f09c5c140a2233f54ddac3",
@@ -578,7 +578,7 @@
           "published": "2026-08-26T08:36:50.465149+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9062a4976253192e7e99b8ca6aa147bd",
@@ -588,7 +588,7 @@
           "published": "2026-08-26T08:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8cc3e464ade15aa3cafcc9750af07b22",
@@ -598,7 +598,7 @@
           "published": "2026-08-26T07:47:22+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae09661ee04b053370c034bfb47e30b9",
@@ -628,7 +628,7 @@
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
@@ -2338,7 +2338,7 @@
           "published": "2026-08-26T07:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1a530742020144fa666130f9066ee6ef",
@@ -2401,11 +2401,11 @@
           "is_new": false
         },
         {
-          "id": "ff0791f1a03e3eadd6e5d32765ff691c",
-          "title": "한국공학대, 2027학년도 수시 1176명 선발…창의인재 확대·논술 축소",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=717857",
-          "source": "www.cstimes.com",
-          "published": "2026-08-24T22:26:00+00:00",
+          "id": "cdebdfeeaea66e2a62eb1e02a80c492f",
+          "title": "한국공학대, 2027학년도 수시 1176명 선발…창의인재 확대·논술 축소 - 컨슈머타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGx6elhTajN5X0QxZFNpS2p0UDcxZzF4RzRVMV9nem90VUpWUjNOY1BXem1xb1JvZkgwRFhoS1FVWE41dU1kcWI4RG9qQWJ6bjdwdDAyWkNISnJRbXZZdGpYN200eno3R1E?oc=5",
+          "source": "컨슈머타임스",
+          "published": "2026-08-24T22:25:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
