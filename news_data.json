@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:51:57.654357+00:00",
+  "updated_at": "2026-08-26T14:51:50.086577+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-26T12:36:47.315375+00:00",
+          "published": "2026-08-26T14:37:16.657364+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 한국항공대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53925",
           "source": "에듀진",
-          "published": "2026-08-26T12:36:42.171810+00:00",
+          "published": "2026-08-26T14:37:13.084256+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -628,7 +628,7 @@
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1635f8c7615018e7efacbe3a25ae6470",
@@ -1601,6 +1601,16 @@
           "is_new": false
         },
         {
+          "id": "02f72a853258bdda89077d03d7fe2a01",
+          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-07T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "2ade66df678e303f4dce1973ea624cd8",
           "title": "[수시 특집] 2027학년도 연세대 수시 주요사항과 변경사항 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oc1FxQTdJcHVId25uNW12b3lqN0lXYVk3UmFlMkZ3cnh1WTNiUmJ1OXpOUGRhNm55anRudDNZbGdYcWIyUEVvdXdEeUdMV2huWmhKelMtQ1ZRT0hheFI1d250aUJGUEtRUFE?oc=5",
@@ -1626,16 +1636,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=622318",
           "source": "베리타스알파",
           "published": "2026-08-07T02:19:45.840296+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "02f72a853258bdda89077d03d7fe2a01",
-          "title": "김영일교육컨설팅 2027수시 책자/배치표 발간.. '전형 변화부터 대학별 분석까지 총정리' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QW1CZ3JIQkp1U0F0bW50V3h6TF9ybWU5dG5qY0dFSVhFWDg3di0xQVZ5dnJBS1ItYUVZakFfOXU4RGJBYzVFN1BFS2gtR0c2UUxCcFE3UjBiNGRvSEo4UTRUTng1NkVoaWNHag?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-07T01:17:21+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2436,6 +2436,16 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009128182?sid=102",
           "source": "www.news1.kr",
           "published": "2026-08-23T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "1edfcd7603c3c0797e0b89ccd8043a09",
+          "title": "경기대, ‘전형선택권’ 대폭 확대… 논술·교과·학종·실기 세분화 - 서울Pn",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91N3BJWUdQeFRBZUJGWkp6Vll2TkZCZ29TTkFJT2dkcU82VlFTcV9KN1A1ODh4MmM0bmlvWVFsYW55cUlRSDA1RjdhY1hiZXRUdU5IcTN2WDYzcm1LeFQxZkRTRy1WbUV4ZVZGYUV3?oc=5",
+          "source": "서울Pn",
+          "published": "2026-08-23T14:33:37+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
