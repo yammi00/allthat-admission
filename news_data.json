@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T06:47:42.180522+00:00",
+  "updated_at": "2026-08-27T18:56:21.550167+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,11 +14,21 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "c93922f18599488432fe3f4e918f16cd",
-          "title": "2027 덕성여대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53962",
+          "id": "348ed80c37a0d80d976ea0221ae67311",
+          "title": "2027 덕성여대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53960",
           "source": "에듀진",
-          "published": "2026-08-27T06:32:57.002979+00:00",
+          "published": "2026-08-27T18:41:45.594052+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d40af5711142e0d886ecd14cdb37a332",
+          "title": "AI가 시험 난이도에 학습 전략까지 브리핑...네이버, '모의고사' 검색 고...",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154677",
+          "source": "www.techm.kr",
+          "published": "2026-08-27T06:42:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -31,7 +41,7 @@
           "published": "2026-08-27T01:23:48+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53d89b15d65f782e44b3685d84bbae39",
@@ -41,7 +51,7 @@
           "published": "2026-08-26T23:13:53+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "009800476793a7283c49b6112d7b86d6",
@@ -581,6 +591,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "12aab0f129eb81222fc72e2708fab5da",
+          "title": "[학교를 폭파하라-③] 2등급이면 수시 포기?…학교를 떠나야 대학 가는...",
+          "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521750",
+          "source": "www.ilyoseoul.co.kr",
+          "published": "2026-08-27T07:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "a63cb1d866e490f8f972853793f8edb7",
           "title": "수시 접수 열흘전 지난해 논술, 학종 최고 경쟁률 봤더니…",
           "link": "https://n.news.naver.com/mnews/article/374/0000529740?sid=103",
@@ -588,7 +608,7 @@
           "published": "2026-08-27T06:33:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b6cd54f005764eda5209ce7564489a90",
@@ -598,7 +618,7 @@
           "published": "2026-08-27T04:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd2ac1971c5f9417c325f47f3a5fd7f3",
@@ -608,7 +628,7 @@
           "published": "2026-08-27T01:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "92215cbf97526a3f2090ec338444e8ef",
@@ -618,7 +638,7 @@
           "published": "2026-08-27T00:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f375144adb9f1cdaa31b1747238be787",
@@ -628,7 +648,7 @@
           "published": "2026-08-26T23:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6e6e2af298c5648d96d851105bb542e8",
@@ -691,9 +711,9 @@
           "is_new": false
         },
         {
-          "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
-          "link": "https://www.asiatime.co.kr/article/20260825500230",
+          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
+          "title": "[2027 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
+          "link": "https://www.asiatime.co.kr/article/20260825500235",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
@@ -891,9 +911,9 @@
           "is_new": false
         },
         {
-          "id": "52844b71d068625ce8d825d15f1973cd",
-          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
+          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
+          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
           "source": "뉴스1",
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
@@ -1958,6 +1978,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "bbec93e80599fe09585f334d796f2bcd",
+          "title": "2029대입 기본사항 ‘정시40% 폐지’ 대학가 공동대응 '묵살'.. 전형설계 자율성 ‘제자리’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624750",
+          "source": "베리타스알파",
+          "published": "2026-08-27T18:46:45.028886+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "32eb926e1a62e7db4acdccc45331dd0f",
           "title": "수시 직전 9월 모평 졸업생 등 11만명 몰려… ‘N수생·사탐런’ 주목",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260825010007542",
@@ -2185,6 +2215,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "34a826fa68c56d9eabc07054839bb78f",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 온라인 응시 안내",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096206&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-08-27T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b25de930558c750aaf9c8967e16abf1c",
           "title": "2028학년도 대학수학능력시험 시험시간표(일반·경증·중증) 안내",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096141&lev=0&m=0301&s=suneung",
@@ -2401,6 +2442,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "2ca699a8662956241833f60a7da90f48",
+          "title": "[대학특집] 한국공학대, ‘반도체 경쟁력·실무중심’ 한국공학대 수시...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003044782?sid=102",
+          "source": "www.dt.co.kr",
+          "published": "2026-08-27T09:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "900f1251894f3cd60b2cf0bf3eb24f6f",
           "title": "상명대, 2027학년도 수시모집 1958명 선발…자유전공 292명 모집",
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316971",
@@ -2408,7 +2459,7 @@
           "published": "2026-08-27T03:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a22bfae6796d3ebf168669500957943b",
@@ -2791,16 +2842,6 @@
           "is_new": false
         },
         {
-          "id": "a1256bdaf649bb65f4be81ebee75bcc0",
-          "title": "약술형 논술 모집 5년 새 37% 증가…내신 3~5등급 수도권 진입 전략 부상 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWQmxYdHJza1oza1VMMDlBZFdCVjJLczVOQ1hCeERlaUFTeWw4OXRaUTd0aUo1REdWQ2dfRVJjOEl3bDFqcUtpeGl4TG44NFhZQUJ1Q1AxMVRjcWIz?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-08-05T23:26:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "f91e08bb5d438f7aa90edb306581601c",
           "title": "[단독] 성균관대 논술 출제위원/합격생이 전한 2027논술 대비법.. &quot;제시...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621957",
@@ -2828,6 +2869,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a593962da0e027833678507061fac15a",
+          "title": "2028학년도 대입전형 기본사항 발표…농어촌 특별전형 거주요건 개정",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2436849",
+          "source": "www.ccdailynews.com",
+          "published": "2026-08-27T08:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "2c4218371fbbb9b0c4fad03d956e5ef3",
           "title": "백석대학교, 2027 수시 2761명 선발… ‘전 전형 수능 최저 無·교차지원 허용’ - 문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOZWZ5VC1tQm42ZTNyOEJyV0ZpSTV2Wm9lX3NTQ0F6R3B6bUkzN28xLVBKS2N3NEp1X2V4UUc5aTJYYklDYm1lSUtmR1IzQXZT?oc=5",
@@ -2835,7 +2886,7 @@
           "published": "2026-08-27T06:11:23+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0dbe77826e9154f7184ec33aa68b6127",
@@ -2845,7 +2896,7 @@
           "published": "2026-08-27T05:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4e961da6924dccd8d277483f8131e0f4",
@@ -2855,7 +2906,7 @@
           "published": "2026-08-27T03:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aeed429b921b43c145f437cd765bb208",
@@ -2865,7 +2916,7 @@
           "published": "2026-08-27T03:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "47ad79bc682526091f4d8bf144add4ed",
@@ -2875,7 +2926,7 @@
           "published": "2026-08-27T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "56de9cad17391a01df5a2cfaedd7d4b4",
@@ -2885,7 +2936,7 @@
           "published": "2026-08-27T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "05b9f2a1d524550db11305fe555bcbe1",
@@ -2895,7 +2946,7 @@
           "published": "2026-08-27T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "61646172720d3e6b7bb80890fd606b41",
