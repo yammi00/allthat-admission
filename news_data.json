@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T04:12:17.120600+00:00",
+  "updated_at": "2026-08-28T16:09:12.286215+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,17 +18,27 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-28T03:57:22.157404+00:00",
+          "published": "2026-08-28T15:54:31.682867+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "102a685d9dff319c40ae140ea3e69249",
+          "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
+          "source": "에듀진",
+          "published": "2026-08-28T15:54:22.699441+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
         },
         {
-          "id": "71a47f6e04086334256428d7a9a6ebfe",
-          "title": "2027 가톨릭대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53964",
-          "source": "에듀진",
-          "published": "2026-08-28T03:57:14.778818+00:00",
+          "id": "f256d491551c27b6b9bc3ae68249be7a",
+          "title": "[박원장의 대치동리포트] 9월 평가원 모의고사 지원자 통계로 알아보는...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111380",
+          "source": "edu.donga.com",
+          "published": "2026-08-28T08:50:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -605,17 +615,27 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-28T03:59:55.685763+00:00",
+          "published": "2026-08-28T15:57:09.843393+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81287ffe5538f4156accd0c1338e1cd1",
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-28T03:59:53.099674+00:00",
+          "published": "2026-08-28T15:57:07.478528+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "e3773d0de7f933761c7cf1d43081bf64",
+          "title": "[입시분석] 2027 지리·지구환경계열 교과전형, 합격선 1등급대 집중…경쟁률은 대학별 엇갈려 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tYVg5Z0FMSV9BTkVkZjNPVWtlWURSdUpqOEFsRUxtWmdEY1gyNjNOYnQ3ckF4NktTbzlfcjc2RTlBQWpWNmFJTVY3VUlUbTlYNjd3MTYxMk9mZTRwTkdVSkdoSEhMeDdKZkE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-08-28T07:45:25+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -628,7 +648,7 @@
           "published": "2026-08-28T02:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12aab0f129eb81222fc72e2708fab5da",
@@ -1286,6 +1306,16 @@
           "link": "https://www.newstnt.com/news/articleView.html?idxno=714096",
           "source": "www.newstnt.com",
           "published": "2026-08-16T03:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "479abe70e567f935af24d536d9a1db75",
+          "title": "지금 고3이 재수하면 '통합형 수능' 첫 세대…2028 일부 전형은 졸업생 학생부도 본다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYngzcTlmV1pKcDdweWtsMzQyMEpqamRQU21CdnEzUy1BU2tLbF9La0FieVZ5Ti02R1NCcTBhR0tyNTdwWUlmblNiVUI1dzV2cm9ycGlLWWNGcUF2SDRBem1hR2d0UQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-14T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2255,6 +2285,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "5d173571aa2fb39b4ce0584ad91c50fe",
+          "title": "법무부, 「교정시설 조성 부지 선정 공모」 추진",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775966",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-08-28T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "34a826fa68c56d9eabc07054839bb78f",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 온라인 응시 안내",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096206&lev=0&m=0301&s=suneung",
@@ -2489,7 +2530,7 @@
           "published": "2026-08-28T00:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ca699a8662956241833f60a7da90f48",
@@ -2892,16 +2933,6 @@
           "is_new": false
         },
         {
-          "id": "a1256bdaf649bb65f4be81ebee75bcc0",
-          "title": "약술형 논술 모집 5년 새 37% 증가…내신 3~5등급 수도권 진입 전략 부상 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWQmxYdHJza1oza1VMMDlBZFdCVjJLczVOQ1hCeERlaUFTeWw4OXRaUTd0aUo1REdWQ2dfRVJjOEl3bDFqcUtpeGl4TG44NFhZQUJ1Q1AxMVRjcWIz?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-08-05T23:26:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "f91e08bb5d438f7aa90edb306581601c",
           "title": "[단독] 성균관대 논술 출제위원/합격생이 전한 2027논술 대비법.. &quot;제시...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621957",
@@ -2929,6 +2960,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "49b7240c778542e6d35f6a43353e546d",
+          "title": "[2027수시특집] 가톨릭대 1209명(65.6%) '유지'.. 학종 6개전형 737명(40%)...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621415",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-28T07:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "81ca23402a60d89cd962281b304d2aa1",
           "title": "&quot;수시 합격하고 후회없으려면&quot;…원서접수 전 따져야 할 '마지노선'",
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1407108",
@@ -2936,7 +2977,7 @@
           "published": "2026-08-27T23:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a4ed0c7917155d964fead4d4397a92a",
@@ -2946,7 +2987,7 @@
           "published": "2026-08-27T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a593962da0e027833678507061fac15a",
@@ -4023,7 +4064,7 @@
           "published": "2026-08-28T01:37:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0cb47c8b1cbfb4ad42fedbde3b88d620",
