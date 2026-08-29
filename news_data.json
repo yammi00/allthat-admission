@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:07:22.937082+00:00",
+  "updated_at": "2026-08-29T19:18:32.023058+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-29T14:52:27.093577+00:00",
+          "published": "2026-08-29T19:03:34.281768+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-29T14:52:17.740309+00:00",
+          "published": "2026-08-29T19:03:25.197242+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,7 +625,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-29T14:55:09.016672+00:00",
+          "published": "2026-08-29T19:06:16.123158+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +635,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-29T14:55:06.116998+00:00",
+          "published": "2026-08-29T19:06:13.148215+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +645,7 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-29T14:54:55.024248+00:00",
+          "published": "2026-08-29T19:06:00.520016+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -811,9 +811,9 @@
           "is_new": false
         },
         {
-          "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
-          "link": "https://www.asiatime.co.kr/article/20260825500230",
+          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
+          "title": "[2027 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
+          "link": "https://www.asiatime.co.kr/article/20260825500235",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
@@ -2562,6 +2562,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "093f3a62df7aad61c4a54b979e4b494c",
+          "title": "[2027수시특집] 경기대 2026입결 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’.. 전자공 미디어영상 신소재화학공 자유전공(수원)",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NmJ0Q3RuQ2w2T0VTcGltaV94M3RtTVhyVW4wcU5xVGlUX2JERXB6VVQ0UGRBOEZscERDYUQ5ekRMN3VvZkFoYWc5NmNFbmsxMUN6MnpHWGtid0VYLW5OTWVSMzBfY0t6dWUwdw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-28T10:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
           "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
