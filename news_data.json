@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T08:45:01.242090+00:00",
+  "updated_at": "2026-08-29T15:07:22.937082+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-29T08:30:00.898359+00:00",
+          "published": "2026-08-29T14:52:27.093577+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-29T08:29:50.322639+00:00",
+          "published": "2026-08-29T14:52:17.740309+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,7 +625,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-29T08:32:43.098521+00:00",
+          "published": "2026-08-29T14:55:09.016672+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +635,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-29T08:32:39.943160+00:00",
+          "published": "2026-08-29T14:55:06.116998+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +645,7 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-29T08:32:29.098046+00:00",
+          "published": "2026-08-29T14:54:55.024248+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -658,7 +658,7 @@
           "published": "2026-08-29T05:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "67dfc87c73c9a7580b893404ad374d29",
@@ -811,9 +811,9 @@
           "is_new": false
         },
         {
-          "id": "ba0c8d3b4d4bdfef78ffb507c6bef59e",
-          "title": "[2027 대입 수시] 청운대, 산업대학 '수시 6회 제한' 미적용⋯ 1051명 선...",
-          "link": "https://www.asiatime.co.kr/article/20260825500235",
+          "id": "b37856291123a1f4412d85e907090597",
+          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
+          "link": "https://www.asiatime.co.kr/article/20260825500230",
           "source": "www.asiatime.co.kr",
           "published": "2026-08-25T21:02:00+00:00",
           "type": "news",
@@ -1011,9 +1011,9 @@
           "is_new": false
         },
         {
-          "id": "52844b71d068625ce8d825d15f1973cd",
-          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
+          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
+          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
           "source": "뉴스1",
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
@@ -3017,7 +3017,7 @@
           "published": "2026-08-29T04:58:28+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ec44c9f2e89b01e300076c79463bcf2",
