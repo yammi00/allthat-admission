@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T00:33:28.558727+00:00",
+  "updated_at": "2026-08-29T08:45:01.242090+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-29T00:18:42.361077+00:00",
+          "published": "2026-08-29T08:30:00.898359+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-29T00:18:35.096516+00:00",
+          "published": "2026-08-29T08:29:50.322639+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-08-28T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f256d491551c27b6b9bc3ae68249be7a",
@@ -625,7 +625,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-29T00:21:15.970143+00:00",
+          "published": "2026-08-29T08:32:43.098521+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +635,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-29T00:21:13.299346+00:00",
+          "published": "2026-08-29T08:32:39.943160+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +645,17 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-29T00:21:05.173540+00:00",
+          "published": "2026-08-29T08:32:29.098046+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "fb921545c85e7dc18b18bd375b062f1b",
+          "title": "[심층] 9월 모의평가 지원자 줄었지만 N수생 비중 22.4%로 증가···수험...",
+          "link": "https://n.news.naver.com/mnews/article/657/0000054820?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-08-29T05:24:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -658,7 +668,7 @@
           "published": "2026-08-28T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e3773d0de7f933761c7cf1d43081bf64",
@@ -1001,9 +1011,9 @@
           "is_new": false
         },
         {
-          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
-          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
+          "id": "52844b71d068625ce8d825d15f1973cd",
+          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
           "source": "뉴스1",
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
@@ -2560,7 +2570,7 @@
           "published": "2026-08-28T05:10:46+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b01e9de73a5ecab41ad9d0e4c2a22ace",
@@ -3000,6 +3010,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "980c7bc8c91d0e86e08c6fbf70a9ab82",
+          "title": "서울대 정시 1,374명 선발…‘수능만 잘 보면 끝’ 아니다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01X25JMWtTSlI2cTVPSjFvLVBXLS1sQktTTDhVaWhZRG04YnFPZGwwNDBqRFBEaDNtNUR5UGR5Q25VeGhXeHNZVERZLXhqOHFlRjZjZmFmVkVmQndfdHFHaFpUeFBFUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-29T04:58:28+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8ec44c9f2e89b01e300076c79463bcf2",
           "title": "“현행 대입 체제 마지막 수시, 올해 끝장 본다”…상향? 하향? 복잡해진...",
           "link": "https://n.news.naver.com/mnews/article/009/0005727427?sid=102",
@@ -3007,7 +3027,7 @@
           "published": "2026-08-28T22:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49b7240c778542e6d35f6a43353e546d",
@@ -3027,7 +3047,7 @@
           "published": "2026-08-28T06:28:24+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81ca23402a60d89cd962281b304d2aa1",
