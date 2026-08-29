@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T16:09:12.286215+00:00",
+  "updated_at": "2026-08-29T00:33:28.558727+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-28T15:54:31.682867+00:00",
+          "published": "2026-08-29T00:18:42.361077+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,17 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-28T15:54:22.699441+00:00",
+          "published": "2026-08-29T00:18:35.096516+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "817d03ac5dd79670de6227e4c0d703ae",
+          "title": "9월 모평 직후 수시 전략은…“정시 지원선 확인하고 ‘하한선’ 정해야...",
+          "link": "https://www.etoday.co.kr/news/view/2619155",
+          "source": "www.etoday.co.kr",
+          "published": "2026-08-28T22:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -41,7 +51,7 @@
           "published": "2026-08-28T08:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d40af5711142e0d886ecd14cdb37a332",
@@ -615,7 +625,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-28T15:57:09.843393+00:00",
+          "published": "2026-08-29T00:21:15.970143+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,10 +635,30 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-28T15:57:07.478528+00:00",
+          "published": "2026-08-29T00:21:13.299346+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "b5440933fb603f8394cdb3dff79a79e7",
+          "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
+          "source": "에듀진",
+          "published": "2026-08-29T00:21:05.173540+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "67dfc87c73c9a7580b893404ad374d29",
+          "title": "[AI입시 A to Z] &quot;원서 넣고 알았다&quot;…수시 접수 때 가장 많이 하는 실수",
+          "link": "https://www.newspim.com/news/view/20260828000963",
+          "source": "www.newspim.com",
+          "published": "2026-08-28T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e3773d0de7f933761c7cf1d43081bf64",
@@ -638,7 +668,7 @@
           "published": "2026-08-28T07:45:25+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78610cda052a922bba15df37e792e4dd",
@@ -1255,7 +1285,7 @@
           "title": "통합수능과 함께 흔들리는 ‘정시40%의 벽’…선발도구를 다시 짜는 대학들 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZWtyVDFDU3JGOUhib1NUR1VlQWYxVThqNDZNbGNtZlJvZjZPVzRrd2lJaVlnNWlDZ3F0V1otZ3NwSmJ2MWFYSVRrUzhWODhIQVQ4YUxQQjNqM2Q2NzVmazdNVDNXQQ?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-08-18T05:26:50+00:00",
+          "published": "2026-08-18T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2293,7 +2323,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "34a826fa68c56d9eabc07054839bb78f",
@@ -2522,6 +2552,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "613792d50f36b9ca47097da57df3c9d5",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
+          "source": "교수신문",
+          "published": "2026-08-28T05:10:46+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b01e9de73a5ecab41ad9d0e4c2a22ace",
           "title": "리드윈 약술형논술, 2027 수시지원전략설명회 진행… &quot;4~5등급, 상향 지...",
@@ -2960,11 +3000,31 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8ec44c9f2e89b01e300076c79463bcf2",
+          "title": "“현행 대입 체제 마지막 수시, 올해 끝장 본다”…상향? 하향? 복잡해진...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005727427?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-08-28T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "49b7240c778542e6d35f6a43353e546d",
           "title": "[2027수시특집] 가톨릭대 1209명(65.6%) '유지'.. 학종 6개전형 737명(40%)...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=621415",
           "source": "www.veritas-a.com",
           "published": "2026-08-28T07:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "b24bfac4f77aa0edccc6b83d99ed1a3f",
+          "title": "2027학년도 대학입시 주요 일정 - 데일리연합",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYzNwMFk3XzRSbi10d2xyQjBPUGdhMnM2YUUtNkNOakJiUjBlVDRBS3cxZU9PYVprSGkzWS1tb0JCd0QzT09RejI5UEVta2FfT0pMcmtiS1hfTkU?oc=5",
+          "source": "데일리연합",
+          "published": "2026-08-28T06:28:24+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
