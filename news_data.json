@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T14:51:18.500321+00:00",
+  "updated_at": "2026-08-30T19:13:17.841586+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-30T14:36:24.389680+00:00",
+          "published": "2026-08-30T18:58:20.717966+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-30T14:36:14.215223+00:00",
+          "published": "2026-08-30T18:58:10.670749+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +635,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-30T14:39:03.037313+00:00",
+          "published": "2026-08-30T19:01:02.082771+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +645,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-30T14:38:59.487395+00:00",
+          "published": "2026-08-30T19:00:59.563864+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -655,7 +655,7 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-30T14:38:49.858588+00:00",
+          "published": "2026-08-30T19:00:48.901138+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3130,9 +3130,9 @@
           "is_new": false
         },
         {
-          "id": "451104b4905b6ceefd71bc0596095f2a",
-          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
+          "id": "1600165e8411415c30a5de94a8062465",
+          "title": "[단독] [2027수시] 44개 대학 논술 일정.. ‘수능직후’ 11월21일 고대 성대 경희대 건대 숙대 등 10개교 ‘격전’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSFFvaHF0T2RQbWFNT0Jka1JOZGpHb181dE8wMWluLThaRUlFNVFfNUtRcmo2R3RWcm9RYjJzbFpJbXgyYk9KUVA1Ry1mMEdtVURYY3dwa3NEbzg2aVU1QVFNRjFPOTZNWHZpdw?oc=5",
           "source": "베리타스알파",
           "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
@@ -3595,16 +3595,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVmI0RW9NWTVjV2t5MTdreU1DSHBiOXpDblE5RVd5SzZ6bTFfNGZpaFY0N183Z0c2b2MzYzVNT1ExV1NFTEZvQzU0OXNTLTVs?oc=5",
           "source": "브런치",
           "published": "2026-08-21T19:18:34+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "1600165e8411415c30a5de94a8062465",
-          "title": "[단독] [2027수시] 44개 대학 논술 일정.. ‘수능직후’ 11월21일 고대 성대 경희대 건대 숙대 등 10개교 ‘격전’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSFFvaHF0T2RQbWFNT0Jka1JOZGpHb181dE8wMWluLThaRUlFNVFfNUtRcmo2R3RWcm9RYjJzbFpJbXgyYk9KUVA1Ry1mMEdtVURYY3dwa3NEbzg2aVU1QVFNRjFPOTZNWHZpdw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-21T10:10:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
