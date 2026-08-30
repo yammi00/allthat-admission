@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T03:08:49.330343+00:00",
+  "updated_at": "2026-08-30T09:53:08.323496+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-30T02:54:03.975311+00:00",
+          "published": "2026-08-30T09:38:04.172748+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-30T02:53:54.477658+00:00",
+          "published": "2026-08-30T09:37:53.623708+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -39,6 +39,16 @@
           "link": "https://www.etoday.co.kr/news/view/2619155",
           "source": "www.etoday.co.kr",
           "published": "2026-08-28T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "e05a156296eaf9dddef588accd60fbd7",
+          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,7 +635,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-30T02:56:40.599624+00:00",
+          "published": "2026-08-30T09:40:45.523124+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +645,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-30T02:56:38.168858+00:00",
+          "published": "2026-08-30T09:40:42.338808+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,10 +655,30 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-30T02:56:28.385223+00:00",
+          "published": "2026-08-30T09:40:31.415680+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2fbe33aeaab2205f8febd16bdfb8230e",
+          "title": "현행 대입 체제 '마지막 승부'…'N수생 변수' 커졌다",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326359?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-30T07:41:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "919c7d9e0ef9675d68da625d44201bf0",
+          "title": "[2027 수시특집] 국립한밭대학교 2053명 모집 … &quot;학생부 중심 선발로 미...",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1178415",
+          "source": "www.ggilbo.com",
+          "published": "2026-08-30T07:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0511799c674b824f90c6623fc8df90d1",
@@ -658,7 +688,7 @@
           "published": "2026-08-30T00:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fb921545c85e7dc18b18bd375b062f1b",
@@ -2573,6 +2603,26 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "0e4a4a7e684839f3f8f001324bbe6aa6",
+          "title": "삼육대학교, 약학과 약술형 논술 도입…5명 선발",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326346?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-30T07:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b3b03ef6dbc85739442311c3cd70e637",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
+          "source": "경기일보",
+          "published": "2026-08-30T07:02:50+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "093f3a62df7aad61c4a54b979e4b494c",
           "title": "[2027수시특집] 경기대 2026입결 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’.. 전자공 미디어영상 신소재화학공 자유전공(수원)",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NmJ0Q3RuQ2w2T0VTcGltaV94M3RtTVhyVW4wcU5xVGlUX2JERXB6VVQ0UGRBOEZscERDYUQ5ekRMN3VvZkFoYWc5NmNFbmsxMUN6MnpHWGtid0VYLW5OTWVSMzBfY0t6dWUwdw?oc=5",
@@ -3030,6 +3080,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "ac7683bb6ebb664bbaef9c761586f221",
+          "title": "단국대학교, 의예과 지역인재전형 신설…충청 학생 선발",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326347?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-30T07:27:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2941fa577a390871a2d59c9e1f527a26",
+          "title": "인하대학교, 지역의사전형에 수능 성적 반영 안 해",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326345?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-30T07:25:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
           "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNVpCMHh6MW9qdjFoYVZSVmtSWkt5UktWVmxQNXNHQ2hITjk3U0xUN0h1RzV4QUpnZXZWcDI2eFhxX1RNQWVpX0ZNWnZrbFRJLVROYy1peEh6SXVHMkFpag?oc=5",
@@ -3037,7 +3107,7 @@
           "published": "2026-08-30T00:59:58+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "980c7bc8c91d0e86e08c6fbf70a9ab82",
