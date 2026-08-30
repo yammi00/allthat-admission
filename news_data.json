@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T09:53:08.323496+00:00",
+  "updated_at": "2026-08-30T14:51:18.500321+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-30T09:38:04.172748+00:00",
+          "published": "2026-08-30T14:36:24.389680+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-30T09:37:53.623708+00:00",
+          "published": "2026-08-30T14:36:14.215223+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +635,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-30T09:40:45.523124+00:00",
+          "published": "2026-08-30T14:39:03.037313+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +645,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-30T09:40:42.338808+00:00",
+          "published": "2026-08-30T14:38:59.487395+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -655,7 +655,7 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-30T09:40:31.415680+00:00",
+          "published": "2026-08-30T14:38:49.858588+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -668,7 +668,7 @@
           "published": "2026-08-30T07:41:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "919c7d9e0ef9675d68da625d44201bf0",
@@ -678,7 +678,7 @@
           "published": "2026-08-30T07:15:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0511799c674b824f90c6623fc8df90d1",
@@ -1051,9 +1051,9 @@
           "is_new": false
         },
         {
-          "id": "52844b71d068625ce8d825d15f1973cd",
-          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
+          "id": "9ad4ec19de7738c59e09422b9f6ae31f",
+          "title": "[2027수시]한국외대, 2102명 모집…송도캠퍼스 신설 학부 첫 개설 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVS1SeTB2cEM3MzBUTS1pZ1JnX05JbjRFVjN1WWlEZkl4djBKTTlnV1dwdUNpai1LVzhpbEFDc091LTNtcjJERENOdHQyLXc5NVQ1MDRidXp5QdIBX0FVX3lxTE5iRkI4VUhWa3NoZmhGWmNncV9yMUtDa3g2UWIyaDFENF8xNTdiY2VIVDBIeDZVd3N0VVV3a0RWVmpWVWNOZ29xN1BlYkZlWUR5Uk5Ka3lCUzRSNVhRVUxB?oc=5",
           "source": "뉴스1",
           "published": "2026-08-23T22:01:00+00:00",
           "type": "news",
@@ -2610,7 +2610,7 @@
           "published": "2026-08-30T07:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
@@ -2620,7 +2620,7 @@
           "published": "2026-08-30T07:02:50+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "093f3a62df7aad61c4a54b979e4b494c",
@@ -3087,7 +3087,7 @@
           "published": "2026-08-30T07:27:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2941fa577a390871a2d59c9e1f527a26",
@@ -3097,7 +3097,7 @@
           "published": "2026-08-30T07:25:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
@@ -3125,6 +3125,16 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005727427?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-08-28T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "451104b4905b6ceefd71bc0596095f2a",
+          "title": "2027수능 응시원서 접수 24일부터 내달 4일까지.. ‘사탐런 극대화에 과목선택 혼전까지’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeDdzWW5xWWtMSEpSd1lCbkFEZDVHSTA3Q0s5MWFUVGRxSkdNcEJJT2c4bFVpVDJfeXVhNDhkY2ZNcndscE15YVVnNUtxYmxxRFVIMGR6MDJveV9NZl9NQVdGU0ZjTmZzWnc1UA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
