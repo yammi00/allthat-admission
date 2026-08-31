@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T18:49:01.514118+00:00",
+  "updated_at": "2026-08-31T23:47:23.308169+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 명지대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53975",
           "source": "에듀진",
-          "published": "2026-08-31T18:33:43.434133+00:00",
+          "published": "2026-08-31T23:32:16.907524+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-08-31T15:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "db757b71dcd7bd4ed78ab82f1af80f6f",
@@ -75,9 +75,9 @@
         },
         {
           "id": "e05a156296eaf9dddef588accd60fbd7",
-          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - veritas-a.com",
+          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
           "grade": "3",
@@ -115,9 +115,9 @@
         },
         {
           "id": "53d89b15d65f782e44b3685d84bbae39",
-          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - veritas-a.com",
+          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1SnZuSUpfT25nb3dISGdMZE80YVFLMnB4cjJuX3lOWHVaMWZMMWxya3hPU1haY3BFVFZjUjRQVC1CTnBmd1ExejRneUMtQUpMMHVKUlpPdEV6R3kzeUdTTlpjbVNRNkFqN3I4MQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-08-26T23:13:53+00:00",
           "type": "news",
           "grade": "3",
@@ -665,7 +665,7 @@
           "title": "수시 원서접수, 이것 놓치면 불합격? ‘실수 방지 체크리스트’ 공개",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53983",
           "source": "에듀진",
-          "published": "2026-08-31T18:36:19.226602+00:00",
+          "published": "2026-08-31T23:34:53.121531+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2051,16 +2051,6 @@
           "is_new": false
         },
         {
-          "id": "9ae52dfb04647becb6c58c03f9a256ad",
-          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
-          "source": "metroseoul.co.kr",
-          "published": "2026-08-05T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -3195,6 +3185,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "0d3193efdd950f87cc343d8e8b09ac68",
+          "title": "&quot;9월 모평 이후 학습 우선순위 재정비해야&quot;… 이투스, 수능 대비 3대 전...",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1408255",
+          "source": "www.m-i.kr",
+          "published": "2026-08-31T23:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f2ddb3b8c3f060cd033bbb250ef5efdd",
+          "title": "&quot;신입생 선점하자&quot;…수시비율 80.3%로 더 늘었다",
+          "link": "https://n.news.naver.com/mnews/article/018/0006361217?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-08-31T20:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "88a9ddd03c05ad8fa4674fa6702a6fb9",
           "title": "2029학년도 대입 일정 나왔다",
