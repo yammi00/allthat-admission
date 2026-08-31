@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:35:15.684495+00:00",
+  "updated_at": "2026-08-31T18:49:01.514118+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,17 @@
           "title": "2027 명지대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53975",
           "source": "에듀진",
-          "published": "2026-08-31T10:20:04.515762+00:00",
+          "published": "2026-08-31T18:33:43.434133+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "491a50c36f21d568ee8125a1f627b589",
+          "title": "'2026년 9월 모의고사' 작년 등급컷 어땠나? 시간표와 난이도 전망",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3680083",
+          "source": "www.gukjenews.com",
+          "published": "2026-08-31T15:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -31,7 +41,7 @@
           "published": "2026-08-31T07:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9cba824a5f329f0be8698ddd35ac1ace",
@@ -41,7 +51,7 @@
           "published": "2026-08-31T04:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3f31ee546c7190743b75b16283c7370",
@@ -51,7 +61,7 @@
           "published": "2026-08-31T04:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "817d03ac5dd79670de6227e4c0d703ae",
@@ -65,9 +75,9 @@
         },
         {
           "id": "e05a156296eaf9dddef588accd60fbd7",
-          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - 베리타스알파",
+          "title": "[단독][2027 6월모평] 평이했던 시험.. 작년 수능 대비 ‘국어 쉬워지고 수학 비슷, 영어 변별력 유지’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UWg2ZUFwT2dHTGk2UTVQUzAyc3RyeHB2SW5aTnFQM2NjMzhfSjNqWFo5Q0Y3c0hvTFVXSklUUUhCSkJJTEd6Ykw5Tng0bUh2OElHYmg2NlhfdVV1UzRjQl9wODlCazIxbTk5Sw?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
           "grade": "3",
@@ -105,9 +115,9 @@
         },
         {
           "id": "53d89b15d65f782e44b3685d84bbae39",
-          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - 베리타스알파",
+          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1SnZuSUpfT25nb3dISGdMZE80YVFLMnB4cjJuX3lOWHVaMWZMMWxya3hPU1haY3BFVFZjUjRQVC1CTnBmd1ExejRneUMtQUpMMHVKUlpPdEV6R3kzeUdTTlpjbVNRNkFqN3I4MQ?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-08-26T23:13:53+00:00",
           "type": "news",
           "grade": "3",
@@ -655,10 +665,10 @@
           "title": "수시 원서접수, 이것 놓치면 불합격? ‘실수 방지 체크리스트’ 공개",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53983",
           "source": "에듀진",
-          "published": "2026-08-31T10:22:38.422083+00:00",
+          "published": "2026-08-31T18:36:19.226602+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fa0f7514ffe1c6330c028725f3a70644",
@@ -668,7 +678,7 @@
           "published": "2026-08-31T09:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "044d2894f9c6868ac463fdea29e76b5c",
@@ -678,7 +688,7 @@
           "published": "2026-08-31T06:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "96492655969785fefc0e621a1b53ce7c",
@@ -786,6 +796,16 @@
           "link": "https://www.newspim.com/news/view/20260828000963",
           "source": "www.newspim.com",
           "published": "2026-08-28T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "521fc07ac4426da4195fdd6f2f83233f",
+          "title": "[단독] [2027수시] 서강대 성균관대 한양대 등 16개교 논술가이드북으로 본 합격전략.. ‘장황한 자기주장 감점’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Hd3htbUZIRHBzWHY1S1BBa3pOcGdKUW1yTHdSdTBHYzJQcFJLcjJST2Itdk1WeFN4WlpORm43UUg2SVV0ZGRERE9MQV9wOWgzR1pLLU9YOFM3V3MxMHMzSUlaT3V4NldNNHNlMw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-08-28T10:16:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2031,6 +2051,16 @@
           "is_new": false
         },
         {
+          "id": "9ae52dfb04647becb6c58c03f9a256ad",
+          "title": "[지상범 입시 토크] 2026 인서울 44개 대학 '어디가' 70%컷 분석 : 2027 수시 전략 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMEVEajlwbnBTVXB4amZIbmEtdXdIc05PdFItY1dvT05rcWRWQk1NR05RUE1xaGhnS3VzZlNRMHQ2d1JsazF1R1ZuT3hkVHJQSmN4NGhpQ0p5UlFuTGc2Ug?oc=5",
+          "source": "metroseoul.co.kr",
+          "published": "2026-08-05T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "4eaccae0dd42e2fc810bc9135c2f92da",
           "title": "'수능 절대평가' 하반기 국민의견 수렴…내년 3월 개편안 확정",
           "link": "https://n.news.naver.com/mnews/article/001/0016235302?sid=102",
@@ -2205,7 +2235,7 @@
           "published": "2026-08-31T10:25:16.360460+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78b4c6d726850dc522fa0ed8c4ce26d6",
@@ -2656,7 +2686,7 @@
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c65b70b6ccfcf9d58881f6af7c6a60ec",
@@ -3173,7 +3203,7 @@
           "published": "2026-08-31T09:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a6b2d2b4a04090ab351bc0269ec68f42",
@@ -3183,7 +3213,7 @@
           "published": "2026-08-31T08:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ed6444e967062efa0a665b1c20a0c40",
@@ -3193,7 +3223,7 @@
           "published": "2026-08-31T07:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ac7683bb6ebb664bbaef9c761586f221",
@@ -3497,9 +3527,9 @@
         },
         {
           "id": "113ab4d1b6167a3fb850b40d21397cc5",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - etoday.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
-          "source": "이투데이",
+          "source": "etoday.co.kr",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3670,7 +3700,7 @@
           "title": "2027학년도 대입 레이스 본격화…수능 원서접수부터 정시까지 ‘숨가쁜 6개월’ - kyongbuk.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NMC1nS2pBRVJ4VmhUaVFNb0J0N2N6b0NxMlpkRDQ2S0pRdXVyRXloaDRGUENlZjlXTVRlZGN2eEt2VXVZMmktOUFpOWJvRUcxb3JjYzNMaHRoODFhN1NqQWlxQ0lqam50LVU1VXJmZw?oc=5",
           "source": "kyongbuk.co.kr",
-          "published": "2026-08-23T06:40:49+00:00",
+          "published": "2026-08-23T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
