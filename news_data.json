@@ -34,16 +34,6 @@
           "is_new": false
         },
         {
-          "id": "7419bb2d6ed211d737202c04b96c2fcd",
-          "title": "환경재단 '제3회 기후수능' 개최...청소년 110명 역대 최다 참여",
-          "link": "https://www.lifein.news/news/articleView.html?idxno=20400",
-          "source": "www.lifein.news",
-          "published": "2026-08-31T01:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "817d03ac5dd79670de6227e4c0d703ae",
           "title": "9월 모평 직후 수시 전략은…“정시 지원선 확인하고 ‘하한선’ 정해야...",
           "link": "https://www.etoday.co.kr/news/view/2619155",
@@ -696,16 +686,6 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=111390",
           "source": "edu.donga.com",
           "published": "2026-08-31T01:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "abb3944d726fbe658d06b89108ca66f7",
-          "title": "롯데, 세자릿 수 신입사원 뽑는다…9월 수시채용 진행",
-          "link": "https://n.news.naver.com/mnews/article/011/0004656851?sid=101",
-          "source": "www.sedaily.com",
-          "published": "2026-08-31T01:40:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -2424,17 +2404,6 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
-        {
-          "id": "5d173571aa2fb39b4ce0584ad91c50fe",
-          "title": "법무부, 「교정시설 조성 부지 선정 공모」 추진",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775966",
-          "source": "정책브리핑(교육부)",
-          "published": "2026-08-28T00:00:00+00:00",
-          "type": "official",
-          "no_expire": true,
-          "grade": "all",
-          "is_new": false
-        },
         {
           "id": "34a826fa68c56d9eabc07054839bb78f",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 온라인 응시 안내",
