@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T22:32:13.606362+00:00",
+  "updated_at": "2026-08-31T03:02:30.237020+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-08-30T22:17:13.310538+00:00",
+          "published": "2026-08-31T02:47:31.109125+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "2027 가톨릭대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53965",
           "source": "에듀진",
-          "published": "2026-08-30T22:17:04.253450+00:00",
+          "published": "2026-08-31T02:47:19.450695+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "7419bb2d6ed211d737202c04b96c2fcd",
+          "title": "환경재단 '제3회 기후수능' 개최...청소년 110명 역대 최다 참여",
+          "link": "https://www.lifein.news/news/articleView.html?idxno=20400",
+          "source": "www.lifein.news",
+          "published": "2026-08-31T01:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "817d03ac5dd79670de6227e4c0d703ae",
@@ -635,7 +645,7 @@
           "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
           "source": "에듀진",
-          "published": "2026-08-30T22:19:53.099159+00:00",
+          "published": "2026-08-31T02:50:11.272470+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +655,7 @@
           "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
           "source": "에듀진",
-          "published": "2026-08-30T22:19:50.014901+00:00",
+          "published": "2026-08-31T02:50:07.964210+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -655,10 +665,60 @@
           "title": "[입시분석] 2027 무역·국제통상학과 학생부종합전형, 3~4등급대 합격 사례도 주목",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53976",
           "source": "에듀진",
-          "published": "2026-08-30T22:19:40.919506+00:00",
+          "published": "2026-08-31T02:49:57.254148+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c8dd7385ccac3139690e97e03a2f828c",
+          "title": "2027학년도 대학 수시 특집",
+          "link": "https://www.idomin.com/news/articleView.html?idxno=2013566",
+          "source": "www.idomin.com",
+          "published": "2026-08-31T02:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3157ca92e81236973815148893eb3ce2",
+          "title": "“충원율 높으면 합격 쉬울까”…수시 지원 전 ‘3개년 흐름’ 봐야",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/31/2026083180077.html",
+          "source": "edu.chosun.com",
+          "published": "2026-08-31T01:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "42c4e072643fe444c1e9f61c924ae0a6",
+          "title": "대동학원, 추석 연휴 '2027 수시 논술특강' 운영…대학별 논술 일정 맞춤...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111390",
+          "source": "edu.donga.com",
+          "published": "2026-08-31T01:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "abb3944d726fbe658d06b89108ca66f7",
+          "title": "롯데, 세자릿 수 신입사원 뽑는다…9월 수시채용 진행",
+          "link": "https://n.news.naver.com/mnews/article/011/0004656851?sid=101",
+          "source": "www.sedaily.com",
+          "published": "2026-08-31T01:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "94c31198c34a50b5ab183c1bc5b20775",
+          "title": "[재수 반수 대신 편입 98] 편입시장성장 핵심 공학계열..공학계열 최근...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624879",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-30T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2fbe33aeaab2205f8febd16bdfb8230e",
@@ -2602,6 +2662,36 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "c65b70b6ccfcf9d58881f6af7c6a60ec",
+          "title": "상명대, 2027학년도 수시 1958명…자유전공 확대",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326507?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-08-31T00:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b6ab386a1bee06bb192805e2a34f0208",
+          "title": "[김형일의 입시컨설팅] (243) 2027학년도 주요대학 지원전략(9) - 국민대...",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151636",
+          "source": "www.smartbizn.com",
+          "published": "2026-08-31T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "48b6bd0b10efb4dbfe57ca334d3ea8a8",
+          "title": "[2027 수시 특집] 상명대 수시 1,958명 맞춤형 선발…9월 7일부터 원서접...",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=20260831073944982792e75d13a3_30",
+          "source": "www.beyondpost.co.kr",
+          "published": "2026-08-30T23:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "0e4a4a7e684839f3f8f001324bbe6aa6",
           "title": "삼육대학교, 약학과 약술형 논술 도입…5명 선발",
