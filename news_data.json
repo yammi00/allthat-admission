@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:18:31.537826+00:00",
+  "updated_at": "2026-09-01T14:40:56.861437+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,27 @@
           "title": "2027 아주대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53993",
           "source": "에듀진",
-          "published": "2026-09-01T09:03:32.378291+00:00",
+          "published": "2026-09-01T14:26:19.605294+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9c7d8e6bc94b3dd807a4ebbc25168996",
+          "title": "2026 9월 모의고사 준비물·시간표 총정리... 등급컷 공개시간은?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1179062",
+          "source": "www.ggilbo.com",
+          "published": "2026-09-01T10:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ac9a0fd1fe54e967519d1817348fd919",
+          "title": "[입시의 정석] 9월 모평 D-1…역대 최다 N수생·'사탐런' 변수",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60763471/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-09-01T10:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -32,7 +52,7 @@
           "published": "2026-09-01T08:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1bc4ba282b271695c53f1ea3cb1bec53",
@@ -42,7 +62,7 @@
           "published": "2026-09-01T05:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9cff134b7d6cabee1c6db3019848cf61",
@@ -146,9 +166,9 @@
         },
         {
           "id": "ce6e8f34f2ac54adfed3d3c4feb9c1e1",
-          "title": "EBSi, 9월 모의평가 당일 '빠른 채점'부터 '경향분석 라이브'까지 지원 - specialtimes.co.kr",
+          "title": "EBSi, 9월 모의평가 당일 '빠른 채점'부터 '경향분석 라이브'까지 지원 - 스페셜타임스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43MGloQkMtWEw0M3FQN1BzaG9yZmtqRHFkMFJQM0ZoS2NqNm11S3M5Yy1lTWszZ1BleWppemstbUtPN1NHYUZwNDJfcERCYXQ5SWp0RXlQemVLeUJyYWhPdWtPR25sdUIxUVYyTm14QlJ0dw?oc=5",
-          "source": "specialtimes.co.kr",
+          "source": "스페셜타임스",
           "published": "2026-08-27T01:23:48+00:00",
           "type": "news",
           "grade": "3",
@@ -289,7 +309,7 @@
           "published": "2026-09-01T07:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81e7d46155721e50cd334e974132e988",
@@ -299,7 +319,7 @@
           "published": "2026-09-01T04:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "928abf91074d303b36001351e662db25",
@@ -309,7 +329,7 @@
           "published": "2026-09-01T02:57:16+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "595374f8edecab8eac0ffaa859ce9d0a",
@@ -1080,16 +1100,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "9518006797d5b2745c2bc2569a66df79",
-          "title": "[입시의 정석] 수시 6장, 어떻게 쓸까?…학년별 입시 전략",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60758995/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-08-18T09:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1106,7 +1116,7 @@
           "published": "2026-09-01T09:08:40.368661+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dbafb36760b8e9763557c83dd57276a5",
@@ -1194,26 +1204,6 @@
           "link": "https://www.naeil.com/news/read/599233?ref=naver",
           "source": "www.naeil.com",
           "published": "2026-08-19T01:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c037e8659d7fd3606fa0a391ed281f8b",
-          "title": "내신·수능 다 바뀐다…“학생부 중요성 커져”",
-          "link": "https://n.news.naver.com/mnews/article/056/0012239631?sid=102",
-          "source": "news.kbs.co.kr",
-          "published": "2026-08-18T10:30:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "655e0757f97467dbe1622224e1f1d848",
-          "title": "현 고1 수능 2028년 11월 16일…‘통합형 수능’ 체제 유지",
-          "link": "http://www.jndn.com/article.php?aid=1787045352437998005",
-          "source": "www.jndn.com",
-          "published": "2026-08-18T09:32:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1447,7 +1437,7 @@
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dce799901097ff27b133d9331c4c88db",
@@ -1521,9 +1511,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-08-28T05:10:46+00:00",
           "type": "news",
           "grade": "all",
@@ -1817,6 +1807,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "4ef0a0d5512419aebca130aa26e775fb",
+          "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 우송대, ‘글로벌 특성화’...",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260901010009033",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-09-01T09:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "045b9b3d88a9d7f842ef3eae5e258b66",
           "title": "메가스터디뷰티아카데미, '제1회 미용대학 입시박람회' 뜨거운 열기 속...",
           "link": "https://www.lecturernews.com/news/articleView.html?idxno=209823",
@@ -1824,7 +1824,7 @@
           "published": "2026-09-01T08:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "58196e14dfa2c0a16663e96e80e137f7",
@@ -1834,7 +1834,7 @@
           "published": "2026-09-01T07:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4d0ec57aed60dff7f79c1bb4b5ae2bbc",
@@ -1844,7 +1844,7 @@
           "published": "2026-09-01T05:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5438d246309458e0dc3a93cf7d8d27e",
@@ -1854,7 +1854,7 @@
           "published": "2026-09-01T04:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9b23a635b09f7c9d296073218dbb36f4",
@@ -1864,7 +1864,7 @@
           "published": "2026-09-01T04:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42f9fdf04efe673e67f7c1dd41b321db",
@@ -1874,7 +1874,7 @@
           "published": "2026-09-01T04:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "63bae666e4c19b5a401396777a5485cf",
@@ -2307,6 +2307,16 @@
           "is_new": false
         },
         {
+          "id": "518d0a38da2b4447aad244be33b42969",
+          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85dkVfRlUzX1pmVW5fOTZZclpLYUFpcFZTZ01NdTlvS2d3NGgxUk8wUkZXVlFoRVVSTWVDaE1VNGQ3bmQ3Qkp6M1RPUmRQaVZpWGwyQWFLbEJiQlFMNDdXdDBkZnhWZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-24T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "b23797e35dea6eef4a8a87cda057fd0a",
           "title": "[수시특집] ‘철도특성화·AI 융합’ 송원대, 교육 혁신과 실용인재 양...",
           "link": "http://www.mdilbo.com/detail/c3QycN/758202",
@@ -2382,16 +2392,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624103",
           "source": "www.veritas-a.com",
           "published": "2026-08-24T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "518d0a38da2b4447aad244be33b42969",
-          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85dkVfRlUzX1pmVW5fOTZZclpLYUFpcFZTZ01NdTlvS2d3NGgxUk8wUkZXVlFoRVVSTWVDaE1VNGQ3bmQ3Qkp6M1RPUmRQaVZpWGwyQWFLbEJiQlFMNDdXdDBkZnhWZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-08-23T23:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2552,16 +2552,6 @@
           "link": "http://www.wsobi.com/news/articleView.html?idxno=316642",
           "source": "www.wsobi.com",
           "published": "2026-08-18T23:20:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ee0c0027792fafbe2bafc25be63d832c",
-          "title": "수시 대비 수험생 맞춤형 진학 상담 제공",
-          "link": "http://www.kjdaily.com/article.php?aid=1787050977684752033",
-          "source": "www.kjdaily.com",
-          "published": "2026-08-18T11:08:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
