@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-01T19:21:06.258740+00:00",
+  "updated_at": "2026-09-01T22:31:22.217766+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,10 +19,20 @@
           "title": "2027 아주대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53993",
           "source": "에듀진",
-          "published": "2026-09-01T19:06:03.850496+00:00",
+          "published": "2026-09-01T22:16:08.634208+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ce21aa126f163c702d534104817c51f0",
+          "title": "오늘 '수능 가늠자' 9월 모평…&quot;일희일비 아닌 감각유지&quot;",
+          "link": "https://n.news.naver.com/mnews/article/003/0014162902?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-01T22:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9c7d8e6bc94b3dd807a4ebbc25168996",
@@ -300,6 +311,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "05177c16de08742337abf58ca553c012",
+          "title": "[대입 내비게이션] 논술전형 선발 늘려…약학과도 ‘약술형 논술’ 도입",
+          "link": "https://n.news.naver.com/mnews/article/025/0003548481?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-01T20:31:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "267504754b4993ce26d5154f9118d5c2",
           "title": "AI·반도체·신약부터 무전공까지… 2027 수시 ‘신설학과’ 어떻게 고를...",
@@ -1108,6 +1129,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "f82a432c7829b58281dcdcd1d31e1c84",
+          "title": "[대입 내비게이션] 선발 확대와 대학별 세부 전형 변화까지 살펴야",
+          "link": "https://n.news.naver.com/mnews/article/025/0003548491?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-01T20:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "8eb40cc9e820895411a98e2a5c0c81d7",
           "title": "[단독][2027정시] 지난해 정시 충원율.. 한대 인터칼리지 1313.3% ‘최고’.. 충원인원 중대 경영 933명 ‘최다’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=625579",
@@ -1408,6 +1439,26 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "0546c69ab3858e568817874261b62a75",
+          "title": "[거인의어깨 입시컨설팅] 수시 지원 시 반드시 주의해야 할 사항",
+          "link": "https://www.newspim.com/news/view/20260831000251",
+          "source": "www.newspim.com",
+          "published": "2026-09-01T22:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c1510b9a42ec224a9a0cc3c3d5de85ae",
+          "title": "[대입 내비게이션] 논술전형, 수능 최저기준 적용 안 해",
+          "link": "https://n.news.naver.com/mnews/article/025/0003548474?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-01T20:31:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a7af471941b3ddee23cde1eece2114d1",
           "title": "논술 154명→277명 대폭 확대…약대 첫 도입 [2027학년도 대입수시 가이...",
@@ -1787,16 +1838,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "b09e486238da1e952c191906b46afe7e",
-          "title": "[거인의어깨 입시컨설팅] 2027학년도 중앙대 수시등급 및 지원전략",
-          "link": "https://www.newspim.com/news/view/20260811000412",
-          "source": "www.newspim.com",
-          "published": "2026-08-18T22:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1805,6 +1846,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "899d6a3b10b33b439be616ce152c7e34",
+          "title": "[대입 내비게이션] 지역의사선발전형 도입해 6명 선발",
+          "link": "https://n.news.naver.com/mnews/article/025/0003548460?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-01T20:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "4ef0a0d5512419aebca130aa26e775fb",
           "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 우송대, ‘글로벌 특성화’...",
@@ -2236,10 +2287,10 @@
           "is_new": false
         },
         {
-          "id": "354e79003e229d86861ccded33a6433b",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…\"공통원서 미리 작성하세요\" - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jY2hZYTQ4bElQZVNCZEpsV0xMUWlMSHRsQkRvYzJacTBGWktJTFhVRGRmN2ZVdlA3SXNvcThsa3k2elhrNGxManpNQVJLSm5Cak5Z?oc=5",
-          "source": "네이트",
+          "id": "113ab4d1b6167a3fb850b40d21397cc5",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
+          "source": "이투데이",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
