@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-01T14:40:56.861437+00:00",
+  "updated_at": "2026-09-01T19:21:06.258740+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "2027 아주대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53993",
           "source": "에듀진",
-          "published": "2026-09-01T14:26:19.605294+00:00",
+          "published": "2026-09-01T19:06:03.850496+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-09-01T10:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ac9a0fd1fe54e967519d1817348fd919",
@@ -42,7 +41,7 @@
           "published": "2026-09-01T10:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "530fea2548882e6c0da3e7107a334743",
@@ -1814,7 +1813,7 @@
           "published": "2026-09-01T09:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "045b9b3d88a9d7f842ef3eae5e258b66",
@@ -2237,10 +2236,10 @@
           "is_new": false
         },
         {
-          "id": "113ab4d1b6167a3fb850b40d21397cc5",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
-          "source": "이투데이",
+          "id": "354e79003e229d86861ccded33a6433b",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…\"공통원서 미리 작성하세요\" - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jY2hZYTQ4bElQZVNCZEpsV0xMUWlMSHRsQkRvYzJacTBGWktJTFhVRGRmN2ZVdlA3SXNvcThsa3k2elhrNGxManpNQVJLSm5Cak5Z?oc=5",
+          "source": "네이트",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
