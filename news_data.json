@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-02T20:37:25.275923+00:00",
+  "updated_at": "2026-09-02T23:59:41.923548+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,10 +19,20 @@
           "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-02T20:22:05.461521+00:00",
+          "published": "2026-09-02T23:44:37.943753+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "80dfa6ecd23ab53a1432bf113dde12ae",
+          "title": "9월 모평만 믿고 낙관은 금물…\"보수적 수시 지원 필요\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTc2NKRXpVYzhpMWNuNUFDTGltSHNFelpOekVTZV82dUtxMTltUzVqMkVIbHQ0M2VBRUk3OWE3UkJCOVRUdWwtM3Zta3NGM0U3Q1lWTFpudUlNMkVUZDlvUdIBeEFVX3lxTFBjUlIzUEFhZjZydmM5T0s4dEdGYWRUMjVjU1o4cXJodVJGejdLTWlTTjFJMzBFazF5b0c1S1BHTGs5M2t6bHdWRWJscWphRUlSYU5uRXg2ZDV0ckJENGJiUER0b1AxajJIZ25nakQyMUZzN0VEY3hmaA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-02T21:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a65e7287a4170b70d11f70f7a3d96c30",
@@ -420,6 +431,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "1b7f1e29edc9475e866b47975095be9e",
+          "title": "“수능 역전 노린다면 집중해야 할 ‘이것’”",
+          "link": "https://woman.donga.com/3/all/12/6371029/1",
+          "source": "woman.donga.com",
+          "published": "2026-09-02T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b4a2f9f56bbe4e5424ec707c8da64b70",
+          "title": "9월 모평 끝 수시의 시간, 전형별 전략은…&quot;가채점·학생부 종합 판단&quot;",
+          "link": "https://n.news.naver.com/mnews/article/421/0009147758?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-02T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "241e7e28a44fa153f6d598c5533f5dd8",
           "title": "9월 모평 대체로 작년 수능보다 쉬워…급증한 N수생·사탐런 변수",
@@ -1219,26 +1250,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b00118c06f79a927e2d2fa22b2cb2cdf",
-          "title": "[단독] [2027수시] 상위15개대 수능최저 미적용 '34개 전형 1만2788명'..' ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623664",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-19T23:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "206d38c816c699cb3aabc1644b0b419b",
-          "title": "[2027전문대수시특집] 김영도 한국전문대학교육협의회 회장 “전문대학은 4년제 대안 아니라 실질적 직업교육 처음부터 다른 길”",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623706",
-          "source": "베리타스알파",
-          "published": "2026-08-19T22:19:34.179927+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1661,9 +1672,9 @@
           "is_new": false
         },
         {
-          "id": "5f32f319361a52c7520dddaac19e8762",
+          "id": "ebf84240363e25a21fee3860e93c1749",
           "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMXR4Y09HbTdva0ZVYlBVNS1USjJiQWd4bGNTRGtLS1haeEtPMzZJQm9WV3pDaEh1ZWI0MjNna1FFM2RhSUxaak9xczdUTk4tZmJVYk5YTmxhV01FWXljNm5sQ3RueWFpTy1YMTZDQjhuci16dk9pVDcxZ2h2RXfSAX9BVV95cUxQQzF0eGNPR203b2tGVWJQVTUtVEoyYkFneGxjU0RrS0tYWnhLTzM2SUJvVld6Q2hIdWViNDIzZ2tRRTNkYUlMWmpPcXM3VE5OLWZiVWJOWE5sYVdNRVl5YzZubEN0bnlhaU8tWDE2Q0I4bnItenZPaVQ3MWdodkV3?oc=5",
           "source": "뉴데일리 경기",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
@@ -1988,6 +1999,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a2b6af8c9c248915530e1eb3c2a82259",
+          "title": "지거국 수시 내신 합격선 5년새 최고…등록금 무상에 지원 쏠림 커지나",
+          "link": "https://www.newspim.com/news/view/20260903000165",
+          "source": "www.newspim.com",
+          "published": "2026-09-02T23:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "792cb15918a1c1e4d2c93b5bdd37e79b",
           "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 배재대, 대학 안팎 잇는 취...",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260902010000496",
@@ -2169,9 +2190,9 @@
         },
         {
           "id": "1096b7672f67150a4e5f2916bcc5c350",
-          "title": "한신대, 2027학년도 정시모집서 일반학생 등 110명 선발 - 교육을 비추다",
+          "title": "한신대, 2027학년도 정시모집서 일반학생 등 110명 선발 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PeFJGbU9wNnUxLXg1R3RlV01YMEVBTldxZ0VrOTB5RzlFbEhGb0pVMnlzWWZtTXVlOUhhWjhObmFvUF9ocGFQQ29aSGMyck1Oei1va0xkalIwcWJyU21wcU9wQXhCQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-31T14:07:05+00:00",
           "type": "news",
           "grade": "all",
@@ -2796,16 +2817,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "6debff8b0c92ca41bef33689a27edaf7",
-          "title": "수시 6장 '상향'만 쓰면 위험… 이투스가 제시하는 지원전략 '4단계'",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403965",
-          "source": "www.m-i.kr",
-          "published": "2026-08-19T23:50:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2850,16 +2861,6 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbHV2cFRjcEdkSTd1Z1B3TTlZVFROWVBvSzZPZFRwU0owTUR1LTN2WnBUS0Q5SjNIVS1qVDZvWVgzVGJDREhqb3BOMXdmblZ6aDNUWTVqRXZodTQwWWNCYUNPVmtneDZLeWJ4UWsyMFVkd9IBckFVX3lxTE9DbHV2cFRjcEdkSTd1Z1B3TTlZVFROWVBvSzZPZFRwU0owTUR1LTN2WnBUS0Q5SjNIVS1qVDZvWVgzVGJDREhqb3BOMXdmblZ6aDNUWTVqRXZodTQwWWNCYUNPVmtneDZLeWJ4UWsyMFVkdw?oc=5",
           "source": "투데이안산",
           "published": "2026-08-22T16:15:15+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ca06b392785531ced6f2995e73d7229c",
-          "title": "&quot;공정·합리성↑&quot; 경기도교육청, '2027학년도 평준화학군 학생 배정 방안...",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=717331",
-          "source": "www.cstimes.com",
-          "published": "2026-08-19T20:50:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
