@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-02T14:14:34.356590+00:00",
+  "updated_at": "2026-09-02T17:59:51.529772+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,10 +18,20 @@
           "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-02T13:59:22.677408+00:00",
+          "published": "2026-09-02T17:44:44.206384+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a65e7287a4170b70d11f70f7a3d96c30",
+          "title": "수능전 마지막 모평, 국어 쉽고 수학은 전년수준",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1066226",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-09-02T15:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9d498a66dd311a9be1c779e414b73f68",
@@ -32,7 +41,7 @@
           "published": "2026-09-02T13:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f3ecd7703752a9f8fc040d6f11520c00",
@@ -42,7 +51,7 @@
           "published": "2026-09-02T12:17:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fc149ffb327e837fe3d89880f53ac5d4",
@@ -52,7 +61,7 @@
           "published": "2026-09-02T08:51:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9f5488ff7425cef1b618959eab637380",
@@ -66,9 +75,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "youcandonews.com",
+          "source": "월드장애인사랑뉴스",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -82,7 +91,7 @@
           "published": "2026-09-02T01:21:41+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98a07e227e138fff2cf5428736304d0a",
@@ -185,9 +194,9 @@
           "is_new": false
         },
         {
-          "id": "08cd7217f79c782502a026c13e31e52f",
+          "id": "1f5b6e88b4ad92e074eb082a0046e01c",
           "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yQmR3MVo1czhtVDdpMXh0YThNMVJxS3lKbXZaaFBuUkhVbVNVTVIta25FNy1rVE5fckxlTUItTUNsVjhGck5lNzJ1V2MtZGxlSVNxczFJcVVsVUJtWE9aa0UzdXRSNFY1VXN0eG0zYzladw?oc=5",
           "source": "스페셜타임스",
           "published": "2026-09-01T01:00:15+00:00",
           "type": "news",
@@ -419,7 +428,7 @@
           "published": "2026-09-02T07:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "45b4066926b1ebb9b5a7f98bb4d98a97",
@@ -459,7 +468,7 @@
           "published": "2026-09-02T03:16:14+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "648180e427ff6a2e3c4ba55ef0d668d0",
@@ -1279,9 +1288,9 @@
           "is_new": false
         },
         {
-          "id": "76da97fa382263bdcea147fdc3d4be7b",
-          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
+          "id": "efe48007587ec76398ee4c50e2dcab31",
+          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1374,7 +1383,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "523437bd9eec54ceb170a7dd7eb41c45",
@@ -1652,10 +1661,10 @@
           "is_new": false
         },
         {
-          "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "id": "ebf84240363e25a21fee3860e93c1749",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMXR4Y09HbTdva0ZVYlBVNS1USjJiQWd4bGNTRGtLS1haeEtPMzZJQm9WV3pDaEh1ZWI0MjNna1FFM2RhSUxaak9xczdUTk4tZmJVYk5YTmxhV01FWXljNm5sQ3RueWFpTy1YMTZDQjhuci16dk9pVDcxZ2h2RXfSAX9BVV95cUxQQzF0eGNPR203b2tGVWJQVTUtVEoyYkFneGxjU0RrS0tYWnhLTzM2SUJvVld6Q2hIdWViNDIzZ2tRRTNkYUlMWmpPcXM3VE5OLWZiVWJOWE5sYVdNRVl5YzZubEN0bnlhaU8tWDE2Q0I4bnItenZPaVQ3MWdodkV3?oc=5",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
@@ -1733,9 +1742,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-08-28T05:10:46+00:00",
           "type": "news",
           "grade": "all",
@@ -1996,7 +2005,7 @@
           "published": "2026-09-02T08:03:07+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "32779cbb65eed785efe26871ef98f255",
@@ -2006,7 +2015,7 @@
           "published": "2026-09-02T08:02:58+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "eaeeb151873c2c1eeefff7addd29cf60",
@@ -2026,7 +2035,7 @@
           "published": "2026-09-02T02:32:12+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6dc17a949d2af11e4e6a28669e51b46",
@@ -2046,7 +2055,7 @@
           "published": "2026-09-01T20:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dbd4cd2946cf18b041f06ec711067f4e",
@@ -2154,6 +2163,16 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006361217?sid=102",
           "source": "www.edaily.co.kr",
           "published": "2026-08-31T20:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "1096b7672f67150a4e5f2916bcc5c350",
+          "title": "한신대, 2027학년도 정시모집서 일반학생 등 110명 선발 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PeFJGbU9wNnUxLXg1R3RlV01YMEVBTldxZ0VrOTB5RzlFbEhGb0pVMnlzWWZtTXVlOUhhWjhObmFvUF9ocGFQQ29aSGMyck1Oei1va0xkalIwcWJyU21wcU9wQXhCQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-08-31T14:07:05+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
