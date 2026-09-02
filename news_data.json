@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:32:50.649033+00:00",
+  "updated_at": "2026-09-02T08:31:50.151704+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -15,14 +15,44 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "6833500b8591f0513938b45117606232",
-          "title": "2027 아주대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53993",
+          "id": "32c86a7c3413d7cb3e54dd2f6059423d",
+          "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-02T02:18:07.903969+00:00",
+          "published": "2026-09-02T08:17:01.667592+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "9f5488ff7425cef1b618959eab637380",
+          "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
+          "source": "위키트리",
+          "published": "2026-09-02T03:33:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8f3455f30f65d5cd1a55b33c60808d02",
+          "title": "2027학년도 9월 모평 수학 “지난해 수능과 비슷…중난도 중심 출제” - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hOG9GRTF6RDJ1alJIeHFIanh4TEVyOXJPUl9vOENNaVVhMi1BT2xJQVJjT01hbTlOclU0Yjd0ZHZ1MjVJUmtCWDgycFBtUjdUMFp1bGdLbnc5WWdwR0ZYZUdOVmNMQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-02T03:30:51+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f300ceff23a035fed58b8ccf619442ff",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
+          "source": "월드장애인사랑뉴스",
+          "published": "2026-09-02T03:04:44+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "72879899a76f751495b9dea5bbf05617",
@@ -32,7 +62,7 @@
           "published": "2026-09-02T01:41:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98a07e227e138fff2cf5428736304d0a",
@@ -42,7 +72,7 @@
           "published": "2026-09-02T01:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2f422906aa78b3ed6a212b6b2dbb7721",
@@ -52,7 +82,7 @@
           "published": "2026-09-02T00:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e3406f78b4ee134041bde2ddb43f5898",
@@ -62,14 +92,14 @@
           "published": "2026-09-02T00:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "1c5ee368dba740102b097b169db6443e",
-          "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. '마지막 통합수능 최...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=625492",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-01T23:10:00+00:00",
+          "id": "86f2c4a6abf949fb78c85ce4f2fbff37",
+          "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. ‘마지막 통합수능 최종 시험대’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZ2JXV3oxUl85dnpXbG9hMWJBTWNfbUVHdUxkODRIMTAwRVhXZTZaMndpYVFYRHhFZ2pkbjluZExwVnBoR2RzbmxJTHpXQzd2b2taNGxNRzlvN0V1Slg5X3c4WlBMaGRWek52cw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-01T23:09:22+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -362,11 +392,61 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "45b4066926b1ebb9b5a7f98bb4d98a97",
+          "title": "9모 국·수 &quot;작년 수능 수준&quot;...영어 &quot;확실히 쉬워져&quot;",
+          "link": "https://n.news.naver.com/mnews/article/008/0005408472?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-09-02T06:39:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d8b5f2050a52415bb700379a27d543e8",
+          "title": "[속보] 2027학년도 9월 모의평가 '영어' 출제 경향 브리핑",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60763728/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-09-02T06:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "309f1b065c1938e72b9b2d89b9dd202a",
+          "title": "대치메이드학원, 학교별 맞춤 ‘추석·1차 파이널 논술 특강’ 전 지점...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003675956?sid=101",
+          "source": "www.seoul.co.kr",
+          "published": "2026-09-02T05:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "648180e427ff6a2e3c4ba55ef0d668d0",
+          "title": "약술형 논술의 비상, 중위권은 어떻게 대응해야 하나?",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111184",
+          "source": "edu.donga.com",
+          "published": "2026-09-02T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "f44771ebacb4b932f636819e05a1682c",
           "title": "수시 원서접수, 이것 놓치면 불합격? ‘실수 방지 체크리스트’ 공개",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53983",
           "source": "에듀진",
           "published": "2026-09-02T02:20:40.861059+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "0e432438022982512481bbbf57a5c48d",
+          "title": "[2027 수시]10명 중 8명 수시로…'막차 입시·지역의사제' 변수",
+          "link": "https://n.news.naver.com/mnews/article/277/0005810832?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-09-02T02:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1110,36 +1190,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5547d2e11fb9812249fac5c77730baed",
-          "title": "삼육대, 수시에서 80% 모집… '논술 100%'로 인서울 기회 넓혔다",
-          "link": "https://n.news.naver.com/mnews/article/008/0005401978?sid=102",
-          "source": "www.mt.co.kr",
-          "published": "2026-08-19T06:57:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "05c81bac8dfe19219725c1d597cb6f29",
-          "title": "학생부교과전형, 무엇을 준비해야 할까… ‘정량 중심’에서 ‘정성 평가’ 확대 가능성",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=52403",
-          "source": "에듀진",
-          "published": "2026-08-19T04:32:38.253867+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c72307efb712587636f82ea6088ace2f",
-          "title": "[입시분석] 2027 건설환경·토목 교과전형, 경쟁률↓ 합격선↑ - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jT1RKaXo2NHV5VXRIdnJKbnllOFpULTZlLWNfNEp2VHhtem9KbWZac1huQjN6MndnNFUyaEdzX19lS2pxSWgyQUpaV094a3VGOWNUWTUzVFQ3MlJabjZOX05lTlJRUC11Y2c?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-08-19T03:01:35+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1156,7 +1206,7 @@
           "published": "2026-09-02T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f82a432c7829b58281dcdcd1d31e1c84",
@@ -1184,6 +1234,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=625180",
           "source": "베리타스알파",
           "published": "2026-08-31T10:25:16.360460+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "76da97fa382263bdcea147fdc3d4be7b",
+          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
+          "source": "www.veritas-a.com",
+          "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1274,7 +1334,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "34a826fa68c56d9eabc07054839bb78f",
@@ -1471,11 +1531,11 @@
       "emoji": "✏️",
       "items": [
         {
-          "id": "759d0fae49965614d45dae66654f509a",
-          "title": "[2027 수시]동덕여대, 정원내 1102명 수시 선발",
-          "link": "https://n.news.naver.com/mnews/article/277/0005810800?sid=102",
-          "source": "view.asiae.co.kr",
-          "published": "2026-09-02T02:20:00+00:00",
+          "id": "c5f5506ac9ae115f520de72ed0d20684",
+          "title": "[한국공학대학교]수시 1176명…논술 줄이고 학종 확대",
+          "link": "https://www.naeil.com/news/read/600919?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-09-02T06:28:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1488,7 +1548,17 @@
           "published": "2026-09-02T02:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "759d0fae49965614d45dae66654f509a",
+          "title": "[2027 수시]동덕여대, 정원내 1102명 수시 선발",
+          "link": "https://n.news.naver.com/mnews/article/277/0005810800?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-09-02T02:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         },
         {
           "id": "0546c69ab3858e568817874261b62a75",
@@ -1508,7 +1578,7 @@
           "published": "2026-09-01T20:31:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a7af471941b3ddee23cde1eece2114d1",
@@ -1858,6 +1928,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "792cb15918a1c1e4d2c93b5bdd37e79b",
+          "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 배재대, 대학 안팎 잇는 취...",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260902010000496",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-09-02T08:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "409b3a8900c58f6f80e70418ebb6ccc6",
+          "title": "한국IT직업전문학교, 수시 원서접수 일정 기간 신입생 선발",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225869",
+          "source": "www.job-post.co.kr",
+          "published": "2026-09-02T08:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "eaeeb151873c2c1eeefff7addd29cf60",
+          "title": "2027 수시 교과전형 최종 점검…내신 등급보다 먼저 다시 계산하라 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lWGdxSmhDTE1LSEFUdmZXMG92THNtNDdtV0wzc0xXVHJ1OXNmaGNsVGh1a0FGRXBMMFA4dTRESlFaZjZ0UENJd1lzdFNhTzc5MU10SV94ZWtGd2JFbWlpNlpESUIta3E4d1E?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-09-02T03:16:03+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c6dc17a949d2af11e4e6a28669e51b46",
           "title": "영진전문대, 2027학년도 수시모집 2309명 선발",
           "link": "https://n.news.naver.com/mnews/article/015/0005327797?sid=102",
@@ -1865,7 +1965,7 @@
           "published": "2026-09-02T01:49:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b32143b99d732a0cff6d8c9cdd614ef7",
@@ -1875,7 +1975,7 @@
           "published": "2026-09-01T20:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dbd4cd2946cf18b041f06ec711067f4e",
@@ -1885,7 +1985,7 @@
           "published": "2026-09-01T15:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4ef0a0d5512419aebca130aa26e775fb",
@@ -2013,6 +2113,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=619482",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "de435d56b7a166b769ab029c14df496a",
+          "title": "대동학원, 추석 연휴 ‘2027 수시 논술특강’ 운영…대학별 논술 일정 맞춤 대비 - E동아",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySTNfMFFKaVBaN2QxbmgxYjJZcGJuTW1lUW1ib3p5cVBQdzRNb2FjOW40NWN2dmFfOGhMUEZ6dDRzdHNvbDR0dTZ3MVYxSjJIWE80a1dKZWxmTjdmTENzdU0zWkJUQ1U?oc=5",
+          "source": "E동아",
+          "published": "2026-08-31T01:52:40+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2616,16 +2726,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "1b555e2e5347fd8f300c18d1d9df445c",
-          "title": "'불안감에 하향지원 NO'...대형 변수 속 입시 레이스 시작",
-          "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026081900054&story_seq=0&soCode=114&socttSn=NS2026081900054&socttSeq=0",
-          "source": "ccn.hcn.co.kr",
-          "published": "2026-08-19T07:26:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2675,11 +2775,11 @@
           "is_new": false
         },
         {
-          "id": "cdc0616a5bbe2ebeb1e1ca912f57c181",
-          "title": "경기교육청, 2027학년도 도내 고교 평준화 배정안 발표 - gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12TEwtbXRCS1VDN3JpeUc1R1NMLUdLME40eTdvcjd6MnUzdTFKbGtfaVc4TXptbFJjYVZLemsyYThUWGtMVXljNEVmSWJTUDlubmVjTHNtSFBDeWg1MzRXaVpHY2ZJSUpTRHNqTlNn?oc=5",
-          "source": "gukjenews.com",
-          "published": "2026-08-19T04:46:33+00:00",
+          "id": "26b36b6e367431a4a9362ae26b550b33",
+          "title": "'선 지원, 후 추첨'…경기교육청, '27학년도 고교배정 방안 발표",
+          "link": "https://n.news.naver.com/mnews/article/018/0006354328?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-08-19T08:42:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
