@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:59:51.529772+00:00",
+  "updated_at": "2026-09-02T20:37:25.275923+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-02T17:44:44.206384+00:00",
+          "published": "2026-09-02T20:22:05.461521+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-02T15:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9d498a66dd311a9be1c779e414b73f68",
@@ -1601,9 +1601,9 @@
           "is_new": false
         },
         {
-          "id": "759d0fae49965614d45dae66654f509a",
-          "title": "[2027 수시]동덕여대, 정원내 1102명 수시 선발",
-          "link": "https://n.news.naver.com/mnews/article/277/0005810800?sid=102",
+          "id": "da940250d46a7d9835c9728fadd4c7c1",
+          "title": "[2027 수시]삼육대, 논술전형 대폭 확대…약학과도 '약술형 논술'",
+          "link": "https://n.news.naver.com/mnews/article/277/0005810804?sid=102",
           "source": "view.asiae.co.kr",
           "published": "2026-09-02T02:20:00+00:00",
           "type": "news",
@@ -1611,9 +1611,9 @@
           "is_new": false
         },
         {
-          "id": "da940250d46a7d9835c9728fadd4c7c1",
-          "title": "[2027 수시]삼육대, 논술전형 대폭 확대…약학과도 '약술형 논술'",
-          "link": "https://n.news.naver.com/mnews/article/277/0005810804?sid=102",
+          "id": "759d0fae49965614d45dae66654f509a",
+          "title": "[2027 수시]동덕여대, 정원내 1102명 수시 선발",
+          "link": "https://n.news.naver.com/mnews/article/277/0005810800?sid=102",
           "source": "view.asiae.co.kr",
           "published": "2026-09-02T02:20:00+00:00",
           "type": "news",
@@ -1661,10 +1661,10 @@
           "is_new": false
         },
         {
-          "id": "ebf84240363e25a21fee3860e93c1749",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMXR4Y09HbTdva0ZVYlBVNS1USjJiQWd4bGNTRGtLS1haeEtPMzZJQm9WV3pDaEh1ZWI0MjNna1FFM2RhSUxaak9xczdUTk4tZmJVYk5YTmxhV01FWXljNm5sQ3RueWFpTy1YMTZDQjhuci16dk9pVDcxZ2h2RXfSAX9BVV95cUxQQzF0eGNPR203b2tGVWJQVTUtVEoyYkFneGxjU0RrS0tYWnhLTzM2SUJvVld6Q2hIdWViNDIzZ2tRRTNkYUlMWmpPcXM3VE5OLWZiVWJOWE5sYVdNRVl5YzZubEN0bnlhaU8tWDE2Q0I4bnItenZPaVQ3MWdodkV3?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "id": "5f32f319361a52c7520dddaac19e8762",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
