@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T19:15:28.082091+00:00",
+  "updated_at": "2026-09-03T22:20:47.833089+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-03T19:00:35.797780+00:00",
+          "published": "2026-09-03T22:06:02.307615+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -84,14 +84,14 @@
           "is_new": false
         },
         {
-          "id": "795f73160b3c543dc63fe91ad58a1b4f",
-          "title": "[2027 9월 모평] EBS, 예상 1등급컷 ‘국어 131점·수학 130점’",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/03/2026090380056.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-03T01:30:00+00:00",
+          "id": "6b1d5f13d150dc911069baefb1181f9f",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "d984ea36309806c743c77f7420a1f683",
@@ -294,10 +294,10 @@
           "is_new": false
         },
         {
-          "id": "1f5b6e88b4ad92e074eb082a0046e01c",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yQmR3MVo1czhtVDdpMXh0YThNMVJxS3lKbXZaaFBuUkhVbVNVTVIta25FNy1rVE5fckxlTUItTUNsVjhGck5lNzJ1V2MtZGxlSVNxczFJcVVsVUJtWE9aa0UzdXRSNFY1VXN0eG0zYzladw?oc=5",
-          "source": "specialtimes.co.kr",
+          "id": "08cd7217f79c782502a026c13e31e52f",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
+          "source": "스페셜타임스",
           "published": "2026-09-01T01:00:15+00:00",
           "type": "news",
           "grade": "3",
@@ -515,7 +515,7 @@
           "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대 사범 학생부100% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "베리타스알파",
-          "published": "2026-09-03T19:03:05.271446+00:00",
+          "published": "2026-09-03T22:08:28.620662+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -525,10 +525,30 @@
           "title": "[2027수시] 원서접수 D-3 ‘마지막 실수 막아라’.. 수험생이 가장 많이 놓치는 체크포인트",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "베리타스알파",
-          "published": "2026-09-03T19:03:05.271401+00:00",
+          "published": "2026-09-03T22:08:28.620626+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6d5a06bb237cef690f458470adc83753",
+          "title": "수시 비중 80% 육박… 약학과도 ‘논술우수자전형’ 5명 선발",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745650?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-09-03T19:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3860bff973489f49a7d7198081056843",
+          "title": "N수생-사탐런-지역의사제… 올 수시 판 흔들 ‘3대 변수’",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745630?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-09-03T19:31:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4ab927059c1bd6bb7bcbf2bc48b7860b",
@@ -568,7 +588,7 @@
           "published": "2026-09-03T03:40:01+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "87a946259d51bc3ec7072a39763009ef",
@@ -1732,6 +1752,36 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "491846f9bc1c09c241754bcd648d1e51",
+          "title": "반도체 실전형 인재 양성… 학생부종합 대폭 확대",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745668?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-09-03T19:33:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "635524dda8e84a3146fecd7e6b048859",
+          "title": "논술전형으로 가장 많은 309명 선발",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745632?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-09-03T19:31:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3791a097cd6db962f86933fbe7d1fb23",
+          "title": "논술전형, 논술 성적 90%·학생부 교과 10% 반영 - chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLS1mZURrbWdLaHFDSXZXV2ZwQlZNT0FWZVE3cXN0d1R4SE5lZTdZZ1BHZlRfSllIb2RnT3psRzNIYXdEOW5VWnpVZkNLNmhSeWsyQkZBMmxWWExTdU5XRFhtNWpsTmM0R0Q1T2tUQnNUandvNVJHUlJXellldXVQcktpZW5nc1Q1V25tU0tn?oc=5",
+          "source": "chosun.com",
+          "published": "2026-09-03T15:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cceedf5abbd6f255e4c16488c1ff1bcd",
           "title": "[2027 수시 특집] 성신여대, '융합AI반도체공학과' 신설…'무전공 재편·...",
           "link": "http://www.beyondpost.co.kr/view.php?ud=2026090320192242692e75d13a3_30",
@@ -1822,9 +1872,9 @@
           "is_new": false
         },
         {
-          "id": "ebf84240363e25a21fee3860e93c1749",
+          "id": "5f32f319361a52c7520dddaac19e8762",
           "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMXR4Y09HbTdva0ZVYlBVNS1USjJiQWd4bGNTRGtLS1haeEtPMzZJQm9WV3pDaEh1ZWI0MjNna1FFM2RhSUxaak9xczdUTk4tZmJVYk5YTmxhV01FWXljNm5sQ3RueWFpTy1YMTZDQjhuci16dk9pVDcxZ2h2RXfSAX9BVV95cUxQQzF0eGNPR203b2tGVWJQVTUtVEoyYkFneGxjU0RrS0tYWnhLTzM2SUJvVld6Q2hIdWViNDIzZ2tRRTNkYUlMWmpPcXM3VE5OLWZiVWJOWE5sYVdNRVl5YzZubEN0bnlhaU8tWDE2Q0I4bnItenZPaVQ3MWdodkV3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
           "source": "뉴데일리 경기",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
@@ -2099,6 +2149,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a367f9e988898a182a1f94658e51a4d7",
+          "title": "논술우수자전형 239명… 논리적 사고력 높은 학생 노려볼만",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745633?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-09-03T19:31:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "78381b2fd2b6f082b37aa3a341e256c0",
           "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 한남대 ‘전통’ 넘어 첨단...",
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260902010000835",
@@ -2119,14 +2179,14 @@
           "is_new": false
         },
         {
-          "id": "6b9c1b4dd179dff9bcee41941ee4ac1f",
-          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - 유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45OWp0Yl81dVp5Z25mUlBCelpRdlI2OXhFWGUtR2N1RTZHXzVTWXRQcHpmRTAxWWpPYXR4LVNZOUxhRzA2WFk4NUwyMmx0N0o0TEE?oc=5",
-          "source": "유스연합",
+          "id": "9b45afdd1eeaa059f1a0d84585814242",
+          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - CCBS뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obi1vbjlOZVd1S2w4R0xTVlJBSkMzNS11SkQwUENLZnhoeTJpeHNEUEp6VXhQVU1IS2MyTWp4a1paSlMtcG5HYTQwUkU1aXM?oc=5",
+          "source": "CCBS뉴스",
           "published": "2026-09-03T06:45:38+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "4e52c4408ca9940f79dc1bc8c1ade634",
