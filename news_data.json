@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-03T14:16:24.070054+00:00",
+  "updated_at": "2026-09-03T19:15:28.082091+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "2027 아주대 학생부종합전형 경쟁률, 등급컷 분석 및 지원전략",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53994",
           "source": "에듀진",
-          "published": "2026-09-03T14:01:48.122960+00:00",
+          "published": "2026-09-03T19:00:35.797780+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -112,7 +111,7 @@
           "published": "2026-09-02T21:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a65e7287a4170b70d11f70f7a3d96c30",
@@ -516,7 +515,7 @@
           "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대 사범 학생부100% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "베리타스알파",
-          "published": "2026-09-03T14:04:12.067886+00:00",
+          "published": "2026-09-03T19:03:05.271446+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -526,7 +525,7 @@
           "title": "[2027수시] 원서접수 D-3 ‘마지막 실수 막아라’.. 수험생이 가장 많이 놓치는 체크포인트",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "베리타스알파",
-          "published": "2026-09-03T14:04:12.067847+00:00",
+          "published": "2026-09-03T19:03:05.271401+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -560,6 +559,16 @@
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2241ebc9548ad2323959022e19366365",
+          "title": "[2027 지원] 1~3등급 인서울 국제학과 교과 등급컷 및 경쟁률 순위 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xWXh1cXh1NlhpczJhTVpCRG01OVB0TDIyZGVpSVR3aUJPanI5N3lpUkhQWmVraGs4elRCYTVkRTdNZDh5Vi1QV24yU0dCdU15My0ycXc1b0JJaFVvb1RzRzRDYjNUbkgtVmc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-09-03T03:40:01+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "87a946259d51bc3ec7072a39763009ef",
@@ -633,9 +642,9 @@
         },
         {
           "id": "a673e78036a67bad3f0d737ade755c88",
-          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - edujin.co.kr",
+          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-02T03:16:14+00:00",
           "type": "news",
           "grade": "3",
@@ -1376,7 +1385,7 @@
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "78195fd3aac88c441d60aa590675be38",
@@ -1384,6 +1393,16 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002691582?sid=102",
           "source": "biz.heraldcorp.com",
           "published": "2026-09-02T00:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1c5ee368dba740102b097b169db6443e",
+          "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. '마지막 통합수능 최...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=625492",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-01T23:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1419,9 +1438,9 @@
           "is_new": false
         },
         {
-          "id": "76da97fa382263bdcea147fdc3d4be7b",
-          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
+          "id": "efe48007587ec76398ee4c50e2dcab31",
+          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1720,7 +1739,7 @@
           "published": "2026-09-03T12:28:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1796511d42e25a68bd9b253b53a8dcca",
@@ -2087,7 +2106,7 @@
           "published": "2026-09-03T08:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
@@ -2097,7 +2116,7 @@
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b9c1b4dd179dff9bcee41941ee4ac1f",
@@ -2451,9 +2470,9 @@
         },
         {
           "id": "b24bfac4f77aa0edccc6b83d99ed1a3f",
-          "title": "2027학년도 대학입시 주요 일정 - dailyan.com",
+          "title": "2027학년도 대학입시 주요 일정 - 데일리연합",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYzNwMFk3XzRSbi10d2xyQjBPUGdhMnM2YUUtNkNOakJiUjBlVDRBS3cxZU9PYVprSGkzWS1tb0JCd0QzT09RejI5UEVta2FfT0pMcmtiS1hfTkU?oc=5",
-          "source": "dailyan.com",
+          "source": "데일리연합",
           "published": "2026-08-28T06:28:24+00:00",
           "type": "news",
           "grade": "all",
