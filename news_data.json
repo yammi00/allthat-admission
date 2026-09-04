@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-04T14:09:05.928111+00:00",
+  "updated_at": "2026-09-04T17:33:13.348148+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-04T13:54:26.747665+00:00",
+          "published": "2026-09-04T17:18:48.653295+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,10 @@
           "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
           "source": "베리타스알파",
-          "published": "2026-09-04T08:18:00+00:00",
+          "published": "2026-09-04T11:25:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d5e3f15cd6816d47e55e3e342aed4570",
@@ -579,7 +578,7 @@
           "published": "2026-09-04T08:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e2f5985d36f3b075235769ee93dec1ba",
@@ -1509,9 +1508,9 @@
           "is_new": false
         },
         {
-          "id": "76da97fa382263bdcea147fdc3d4be7b",
-          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
+          "id": "efe48007587ec76398ee4c50e2dcab31",
+          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1924,9 +1923,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
