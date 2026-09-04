@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T08:35:08.503152+00:00",
+  "updated_at": "2026-09-04T14:09:05.928111+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-04T08:22:19.950682+00:00",
+          "published": "2026-09-04T13:54:26.747665+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9e55657073ada1fba761f53c76a2548f",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-04T08:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d5e3f15cd6816d47e55e3e342aed4570",
@@ -32,7 +42,7 @@
           "published": "2026-09-04T07:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21383377b11873ae37b64c099a6a3de0",
@@ -42,7 +52,7 @@
           "published": "2026-09-04T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8986f3a9499657da5734e6a1b8a616bf",
@@ -52,7 +62,7 @@
           "published": "2026-09-04T06:59:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "32c86a7c3413d7cb3e54dd2f6059423d",
@@ -553,16 +563,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "c4a553959851bea7c0c07074bda7e7e4",
-          "title": "[2027 7월학평] ‘변별력 유지’ 입시기관 원점수 1등급컷.. 화89~91 언87~88 확84 미79~81 기82~84 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdjBPa0tGbWhHcGlSbFZoU3pwREREcjdhSHdSOUlpRGd2ZTQzMVFMcXJnOE1XdTRYaEE4LWM5aEpYVERDOXpLZVBUZjFWSUxUOV9NT3RMTEF2R1dyWWI4QlJDZzFvb20yRDRDVA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-21T10:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -571,6 +571,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "141f443c26dc4532d5c38f06cd5bed7e",
+          "title": "'통합 수능' 전 마지막 입시 … 수시 눈치싸움 치열",
+          "link": "https://n.news.naver.com/mnews/article/009/0005730674?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-09-04T08:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "e2f5985d36f3b075235769ee93dec1ba",
           "title": "&quot;내신 0%·논술 100% 역전의 기회&quot;… 삼육대, 2027학년도 수시모집 원서...",
@@ -602,9 +612,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "84272e88f093ba74fe637affa7052b6b",
+          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -612,9 +622,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -1499,9 +1509,9 @@
           "is_new": false
         },
         {
-          "id": "efe48007587ec76398ee4c50e2dcab31",
-          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
+          "id": "76da97fa382263bdcea147fdc3d4be7b",
+          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -2197,7 +2207,7 @@
           "published": "2026-09-04T08:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7d797d83e44540495dc071a19849edf2",
@@ -2207,7 +2217,7 @@
           "published": "2026-09-04T07:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e76bbc35cae9998774b9d29f020eb43",
@@ -2861,9 +2871,9 @@
         },
         {
           "id": "113ab4d1b6167a3fb850b40d21397cc5",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - etoday.co.kr",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
-          "source": "etoday.co.kr",
+          "source": "이투데이",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
