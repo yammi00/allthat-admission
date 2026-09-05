@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-05T14:35:52.612930+00:00",
+  "updated_at": "2026-09-05T18:05:07.185594+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-05T14:21:18.395756+00:00",
+          "published": "2026-09-05T17:50:25.475300+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -641,9 +642,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "84272e88f093ba74fe637affa7052b6b",
+          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -651,9 +652,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -736,16 +737,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016286106?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-02T07:57:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
-          "published": "2026-09-02T06:51:47+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1528,9 +1519,9 @@
           "is_new": false
         },
         {
-          "id": "efe48007587ec76398ee4c50e2dcab31",
-          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
+          "id": "76da97fa382263bdcea147fdc3d4be7b",
+          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1813,13 +1804,13 @@
       "items": [
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "491846f9bc1c09c241754bcd648d1e51",
@@ -2610,9 +2601,9 @@
         },
         {
           "id": "c9396db91436c19db0aeaabf0dc8a69f",
-          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - hanibnews.com",
+          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-08-31T08:46:19+00:00",
           "type": "news",
           "grade": "all",
@@ -3191,16 +3182,6 @@
           "link": "https://www.incheontoday.com/news/articleView.html?idxno=322728",
           "source": "www.incheontoday.com",
           "published": "2026-08-26T02:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ae8ae0ef708eec9c6714d6e67f526d8e",
-          "title": "경기도교육청, 2027학년도 평준화학군 배정 방안 발표 - 투데이안산",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbHV2cFRjcEdkSTd1Z1B3TTlZVFROWVBvSzZPZFRwU0owTUR1LTN2WnBUS0Q5SjNIVS1qVDZvWVgzVGJDREhqb3BOMXdmblZ6aDNUWTVqRXZodTQwWWNCYUNPVmtneDZLeWJ4UWsyMFVkd9IBckFVX3lxTE9DbHV2cFRjcEdkSTd1Z1B3TTlZVFROWVBvSzZPZFRwU0owTUR1LTN2WnBUS0Q5SjNIVS1qVDZvWVgzVGJDREhqb3BOMXdmblZ6aDNUWTVqRXZodTQwWWNCYUNPVmtneDZLeWJ4UWsyMFVkdw?oc=5",
-          "source": "투데이안산",
-          "published": "2026-08-22T16:15:15+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
