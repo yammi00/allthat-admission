@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:55:51.898486+00:00",
+  "updated_at": "2026-09-05T14:35:52.612930+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-05T11:41:07.721628+00:00",
+          "published": "2026-09-05T14:21:18.395756+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -641,9 +641,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -651,9 +651,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "84272e88f093ba74fe637affa7052b6b",
+          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -1528,9 +1528,9 @@
           "is_new": false
         },
         {
-          "id": "76da97fa382263bdcea147fdc3d4be7b",
-          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
+          "id": "efe48007587ec76398ee4c50e2dcab31",
+          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1811,6 +1811,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "bfae41882d89e3010b4818be19881825",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
+          "source": "hanibnews.com",
+          "published": "2026-09-05T10:55:17+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "491846f9bc1c09c241754bcd648d1e51",
           "title": "반도체 실전형 인재 양성… 학생부종합 대폭 확대",
