@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-04T23:51:27.828585+00:00",
+  "updated_at": "2026-09-05T02:36:17.472325+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-04T23:36:33.803692+00:00",
+          "published": "2026-09-05T02:21:31.872303+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -156,9 +155,9 @@
         },
         {
           "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - kyobit.com",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
@@ -572,6 +571,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "db0614966d040f1d9ac5e4417e5e94f6",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-05T02:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "47fb953764d4490c9ecb0c13de558953",
+          "title": "심사도 전에 탈락?…수시접수 때 가장 많이 하는 실수는[2027 수시②]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014170921?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-05T01:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "e6f9c0acc37d43c450bf1513bcde3ed7",
           "title": "7일부터 ‘수시 눈치전쟁’…N수생·지역의사·무상등록금 변수넘쳐",
           "link": "https://n.news.naver.com/mnews/article/009/0005730748?sid=102",
@@ -579,7 +598,7 @@
           "published": "2026-09-04T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "141f443c26dc4532d5c38f06cd5bed7e",
@@ -1450,9 +1469,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
@@ -1509,9 +1528,9 @@
           "is_new": false
         },
         {
-          "id": "efe48007587ec76398ee4c50e2dcab31",
-          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
+          "id": "76da97fa382263bdcea147fdc3d4be7b",
+          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -1813,20 +1832,20 @@
           "is_new": false
         },
         {
-          "id": "16198b230b83205e41532dad92267045",
-          "title": "논술우수자전형 239명…논리적 사고력 높은 학생 노려볼만 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wX3lhQTdReEY4bFlrc1ZVRHJjRkVTczhVcklXVXZYOTlhMWVZNGg4NWpMZllMcW45NC1XOUluYzByUG5zZ3VyX2l4Y184aUlGa2Qw?oc=5",
-          "source": "네이트",
+          "id": "635524dda8e84a3146fecd7e6b048859",
+          "title": "논술전형으로 가장 많은 309명 선발",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745632?sid=102",
+          "source": "www.donga.com",
           "published": "2026-09-03T19:31:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "635524dda8e84a3146fecd7e6b048859",
-          "title": "논술전형으로 가장 많은 309명 선발",
-          "link": "https://n.news.naver.com/mnews/article/020/0003745632?sid=102",
-          "source": "www.donga.com",
+          "id": "16198b230b83205e41532dad92267045",
+          "title": "논술우수자전형 239명…논리적 사고력 높은 학생 노려볼만 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wX3lhQTdReEY4bFlrc1ZVRHJjRkVTczhVcklXVXZYOTlhMWVZNGg4NWpMZllMcW45NC1XOUluYzByUG5zZ3VyX2l4Y184aUlGa2Qw?oc=5",
+          "source": "네이트",
           "published": "2026-09-03T19:31:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2210,14 +2229,24 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "b4f9e2a5a050afa3f852e5101d0501b8",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kLThDaUxTNU82Z3pUcE5sYlpxdWhDZmJXVWczSTlZMXVRN3BPblhCX3RKbUlEVXNwVkthUFJ3UnJlc213NEVoakwtbUc5Y0Fob25aV0o5ZFZma0FwT19wdWVGWlV2c3kySDJ4SnVRc0xQRE9QSzVkRA?oc=5",
-          "source": "네이트",
-          "published": "2026-09-04T22:47:00+00:00",
+          "id": "54c3d68cfacc17d0a1d66c90ed6c8d8c",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5atIBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
+        },
+        {
+          "id": "b4f9e2a5a050afa3f852e5101d0501b8",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news.nate.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kLThDaUxTNU82Z3pUcE5sYlpxdWhDZmJXVWczSTlZMXVRN3BPblhCX3RKbUlEVXNwVkthUFJ3UnJlc213NEVoakwtbUc5Y0Fob25aV0o5ZFZma0FwT19wdWVGWlV2c3kySDJ4SnVRc0xQRE9QSzVkRA?oc=5",
+          "source": "news.nate.com",
+          "published": "2026-09-04T22:47:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         },
         {
           "id": "a35577acdb48653d0ce8d4e6154f7e8f",
@@ -2320,10 +2349,10 @@
           "is_new": false
         },
         {
-          "id": "9b45afdd1eeaa059f1a0d84585814242",
-          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - toptvkorea.com",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obi1vbjlOZVd1S2w4R0xTVlJBSkMzNS11SkQwUENLZnhoeTJpeHNEUEp6VXhQVU1IS2MyTWp4a1paSlMtcG5HYTQwUkU1aXM?oc=5",
-          "source": "toptvkorea.com",
+          "id": "6b9c1b4dd179dff9bcee41941ee4ac1f",
+          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - 유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45OWp0Yl81dVp5Z25mUlBCelpRdlI2OXhFWGUtR2N1RTZHXzVTWXRQcHpmRTAxWWpPYXR4LVNZOUxhRzA2WFk4NUwyMmx0N0o0TEE?oc=5",
+          "source": "유스연합",
           "published": "2026-09-03T06:45:38+00:00",
           "type": "news",
           "grade": "all",
@@ -2891,9 +2920,9 @@
         },
         {
           "id": "113ab4d1b6167a3fb850b40d21397cc5",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
+          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - etoday.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
-          "source": "이투데이",
+          "source": "etoday.co.kr",
           "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2961,9 +2990,9 @@
         },
         {
           "id": "518d0a38da2b4447aad244be33b42969",
-          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - kyobit.com",
+          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85dkVfRlUzX1pmVW5fOTZZclpLYUFpcFZTZ01NdTlvS2d3NGgxUk8wUkZXVlFoRVVSTWVDaE1VNGQ3bmQ3Qkp6M1RPUmRQaVZpWGwyQWFLbEJiQlFMNDdXdDBkZnhWZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-08-24T07:00:00+00:00",
           "type": "news",
           "grade": "all",
