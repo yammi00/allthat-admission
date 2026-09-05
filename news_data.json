@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-05T08:12:46.417537+00:00",
+  "updated_at": "2026-09-05T11:55:51.898486+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-05T07:58:01.908405+00:00",
+          "published": "2026-09-05T11:41:07.721628+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -156,9 +155,9 @@
         },
         {
           "id": "2c02610428b8c9c468e4ce397ac81449",
-          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - 한입신문",
+          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90YkVmdmZXUWg2NTFWQW1ILWc5QXN0cVBPM09VM2NjOWJNSm9VT1NvT2pQX1RCMHFqZl9FNWpHMC05SXViSEt1Nm80Wk90Ukpybk9IUzVvRm54a09vTndxenRPWldqUXBi?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-03T00:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -579,7 +578,7 @@
           "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "47fb953764d4490c9ecb0c13de558953",
@@ -737,6 +736,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016286106?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-02T07:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a342d1e47492dad9f027824f0af04122",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
+          "source": "hanibnews.com",
+          "published": "2026-09-02T06:51:47+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1519,9 +1528,9 @@
           "is_new": false
         },
         {
-          "id": "efe48007587ec76398ee4c50e2dcab31",
-          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
+          "id": "76da97fa382263bdcea147fdc3d4be7b",
+          "title": "[2027수시특집] '6년연속 1인당 장학금 서울권 톱' 삼육대 885명(76.5%) 모...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=618593",
           "source": "www.veritas-a.com",
           "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
@@ -2014,9 +2023,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-08-28T05:10:46+00:00",
           "type": "news",
           "grade": "all",
@@ -2217,7 +2226,7 @@
           "published": "2026-09-05T04:27:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "54c3d68cfacc17d0a1d66c90ed6c8d8c",
@@ -2231,13 +2240,13 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "news1.kr",
+          "source": "뉴스1",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a35577acdb48653d0ce8d4e6154f7e8f",
@@ -2591,9 +2600,9 @@
         },
         {
           "id": "c9396db91436c19db0aeaabf0dc8a69f",
-          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - 한입신문",
+          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-08-31T08:46:19+00:00",
           "type": "news",
           "grade": "all",
