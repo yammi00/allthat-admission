@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-06T20:05:30.830385+00:00",
+  "updated_at": "2026-09-06T22:07:51.996647+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-06T19:50:45.643494+00:00",
+          "published": "2026-09-06T21:52:51.037692+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,9 +246,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "youcandonews.com",
+          "source": "월드장애인사랑뉴스",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -571,6 +572,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "d70cc79cecf1828df400461be2e80369",
+          "title": "'80% 선발' 수시 원서접수 시작…'막차 입시·지역의사제' 변수",
+          "link": "https://n.news.naver.com/mnews/article/079/0004186379?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-06T20:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "557bfa224dbd1e6c9ccf50925a438864",
           "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRdIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
@@ -641,9 +652,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -651,9 +662,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "05142b018b1ec979f3ced508620acc14",
+          "title": "[단독] 2027수시 주요22개대/이공특/의약계열 원서접수 일정 총정리..'11...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626003",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -2161,16 +2172,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "4a9f92d5819ec98c79937fb2948c4d1e",
-          "title": "[2027수시]상명대, 1958명 선발…자유전공 292명 모집",
-          "link": "https://n.news.naver.com/mnews/article/421/0009128182?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-08-23T22:01:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2351,9 +2352,9 @@
         },
         {
           "id": "9b45afdd1eeaa059f1a0d84585814242",
-          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - toptvkorea.com",
+          "title": "[교육 기획] 수시 원서접수 D-4, 이것 놓치면 무효?... 2027 대입 수험생·학부모 ‘필수 체크리스트 3’ - CCBS뉴스",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obi1vbjlOZVd1S2w4R0xTVlJBSkMzNS11SkQwUENLZnhoeTJpeHNEUEp6VXhQVU1IS2MyTWp4a1paSlMtcG5HYTQwUkU1aXM?oc=5",
-          "source": "toptvkorea.com",
+          "source": "CCBS뉴스",
           "published": "2026-09-03T06:45:38+00:00",
           "type": "news",
           "grade": "all",
