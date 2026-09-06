@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:07:51.996647+00:00",
+  "updated_at": "2026-09-06T23:37:40.078278+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-06T21:52:51.037692+00:00",
+          "published": "2026-09-06T23:22:52.761724+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -579,7 +579,7 @@
           "published": "2026-09-06T20:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "557bfa224dbd1e6c9ccf50925a438864",
@@ -652,9 +652,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "84272e88f093ba74fe637affa7052b6b",
+          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -662,9 +662,9 @@
           "is_new": false
         },
         {
-          "id": "05142b018b1ec979f3ced508620acc14",
-          "title": "[단독] 2027수시 주요22개대/이공특/의약계열 원서접수 일정 총정리..'11...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626003",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -1390,16 +1390,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "52844b71d068625ce8d825d15f1973cd",
-          "title": "[2027수시]고려대, 2027학년도 수시 2731명 선발…학종 1675명 모집 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMDFSdE1GekF1VXBVS0gzZjM3Njg0ZW1reGl2MG1tbktxMnhyc1ZUYVhnTTFvdEtSVFN3cjZNTnRmNXBoQmxHRzBJbDcyOXN1cjhfa2JQU29FQdIBX0FVX3lxTE5TWTU3bnVmMVphXzJ2QzdwU2JqWWxmT3lWUk9FanVVUk9STXVwS09aUGp5OFNESVZHMExwM2N4ZXRRMEZSaEYxU2JFMmJQSFZPUUV3X0JjNFl2dHFNeGNj?oc=5",
-          "source": "뉴스1",
-          "published": "2026-08-23T22:01:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1995,9 +1985,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "경기일보",
+          "source": "kyeonggi.com",
           "published": "2026-08-30T07:02:50+00:00",
           "type": "news",
           "grade": "all",
