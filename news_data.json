@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:37:40.078278+00:00",
+  "updated_at": "2026-09-07T02:28:58.887899+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-06T23:22:52.761724+00:00",
+          "published": "2026-09-07T02:14:33.012561+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "69d1c4e655e7f72e96653dacd5f0fca5",
+          "title": "2028 수능 통합사회 신설, 무엇이 어떻게 바뀌나… 메가스터디교육 멕스...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003677368?sid=101",
+          "source": "www.seoul.co.kr",
+          "published": "2026-09-07T01:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f8208f625f062005a3413cfc6929b8b5",
+          "title": "2027 대입 수시모집 AI 계약학과 합격선 상승 예고",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=877375",
+          "source": "www.gokorea.kr",
+          "published": "2026-09-07T00:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ec897b410336a500000fa24bd0a55a2d",
@@ -553,16 +573,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5cad760f5c187bc552d36e6c2ba2d2f5",
-          "title": "&quot;통합 수능 치르는 고등 1, 2학년 새로운 출제 경향 파악·적응해야&quot;",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111147",
-          "source": "edu.donga.com",
-          "published": "2026-08-24T01:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -571,6 +581,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "89b0f2d8ea9ccca52440d5cc5703f53f",
+          "title": "[온라인폴] 수시 6장, 모집단위를 어떻게 구성하시겠습니까",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626370",
+          "source": "베리타스알파",
+          "published": "2026-09-07T02:16:55.122865+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "42fb8730f6692dd7d772c324c7592433",
+          "title": "[새책] '대학이 보는 것만 담는 합격 생기부 통합 설계' - 2028대입 위한 학생부 대비법",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626378",
+          "source": "베리타스알파",
+          "published": "2026-09-07T02:16:55.122841+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ebc2dbf6e7489f81121959d2dd75cba6",
+          "title": "[수학 논구술] 2027 수시 논술전형 수리논술 대비방안-건국대",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626382",
+          "source": "베리타스알파",
+          "published": "2026-09-07T02:16:55.122807+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "d70cc79cecf1828df400461be2e80369",
           "title": "'80% 선발' 수시 원서접수 시작…'막차 입시·지역의사제' 변수",
@@ -583,9 +623,9 @@
         },
         {
           "id": "557bfa224dbd1e6c9ccf50925a438864",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRdIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -652,9 +692,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "203bb1b0669040ade48ef667fdf40014",
+          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -662,9 +702,9 @@
           "is_new": false
         },
         {
-          "id": "203bb1b0669040ade48ef667fdf40014",
-          "title": "[2027수시] 7일 수시 개막 '마지막 실수 막아라'.. 수험생이 가장 많이 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624484",
+          "id": "05142b018b1ec979f3ced508620acc14",
+          "title": "[단독] 2027수시 주요22개대/이공특/의약계열 원서접수 일정 총정리..'11...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626003",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -1370,26 +1410,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "fe3bf0316c399f4975832bef7680961b",
-          "title": "'미적분·기하 선택 급감' 대학들 고민… 학생부 수학 평가 커지나",
-          "link": "https://news.unn.net/news/articleView.html?idxno=596245",
-          "source": "news.unn.net",
-          "published": "2026-08-24T01:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ccf06beda22aaf038de28d308d07c7a",
-          "title": "올해 수능 미적·기하 30%대 예측.. 2022학년도 통합수능 도입 이후 최저",
-          "link": "https://n.news.naver.com/mnews/article/021/0002813296?sid=102",
-          "source": "www.munhwa.com",
-          "published": "2026-08-24T00:55:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1824,21 +1844,21 @@
           "is_new": false
         },
         {
-          "id": "3791a097cd6db962f86933fbe7d1fb23",
-          "title": "논술전형, 논술 성적 90%·학생부 교과 10% 반영 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLS1mZURrbWdLaHFDSXZXV2ZwQlZNT0FWZVE3cXN0d1R4SE5lZTdZZ1BHZlRfSllIb2RnT3psRzNIYXdEOW5VWnpVZkNLNmhSeWsyQkZBMmxWWExTdU5XRFhtNWpsTmM0R0Q1T2tUQnNUandvNVJHUlJXellldXVQcktpZW5nc1Q1V25tU0tn?oc=5",
-          "source": "조선일보",
-          "published": "2026-09-03T18:33:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "cceedf5abbd6f255e4c16488c1ff1bcd",
           "title": "[2027 수시 특집] 성신여대, '융합AI반도체공학과' 신설…'무전공 재편·...",
           "link": "http://www.beyondpost.co.kr/view.php?ud=2026090320192242692e75d13a3_30",
           "source": "www.beyondpost.co.kr",
           "published": "2026-09-03T12:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "96b2242f4904d72bd0a6ce8710709340",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 서울권 9개 대학 9개 전형 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUGN1UWs3Q0dHT2E4MVIxRlMyY0xZMlVTbWVsOUlCbGhoUWNia3ZlZWZOc0tUNndjTWVSal9FVVdGT0FwbXBZRDdWa1ZHOGtZYUVNOEZ2bHNRRnBHU2VVaGR6OHZXM0Uw?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-03T01:11:46+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1985,9 +2005,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "kyeonggi.com",
+          "source": "경기일보",
           "published": "2026-08-30T07:02:50+00:00",
           "type": "news",
           "grade": "all",
@@ -2171,6 +2191,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "31884955b1e61a6fcd1caecbae2a91d9",
+          "title": "지역의사선발전형, 진료권 70%·광역권 30% 나눠 선발",
+          "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510977071",
+          "source": "medicalworldnews.co.kr",
+          "published": "2026-09-07T01:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fb838ab4cfe9b1dc6e50b15a898b7a81",
+          "title": "대입캘린더 (26/09/11~)",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626375",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-07T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "60975b8b714869b2352f67bf3aeac2c7",
           "title": "마지막 선택형 수능 수시모집 '지역의사제·N수생 증가' 변수",
           "link": "https://n.news.naver.com/mnews/article/654/0000199055?sid=102",
@@ -2222,9 +2262,9 @@
         },
         {
           "id": "54c3d68cfacc17d0a1d66c90ed6c8d8c",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5atIBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2232,9 +2272,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2992,9 +3032,9 @@
         },
         {
           "id": "518d0a38da2b4447aad244be33b42969",
-          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - 교육을 비추다",
+          "title": "수시 원서 마감, 대학마다 17시·18시 제각각…수험생은 ‘시간’까지 봐야 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85dkVfRlUzX1pmVW5fOTZZclpLYUFpcFZTZ01NdTlvS2d3NGgxUk8wUkZXVlFoRVVSTWVDaE1VNGQ3bmQ3Qkp6M1RPUmRQaVZpWGwyQWFLbEJiQlFMNDdXdDBkZnhWZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-08-24T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3016,66 +3056,6 @@
           "link": "https://www.ajunews.com/view/20260824113729233",
           "source": "www.ajunews.com",
           "published": "2026-08-24T02:44:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2c2118afa38713c88d2655b8f17c9f5d",
-          "title": "오늘부터 2027학년도 수능 응시원서 접수 [뉴시스Pic] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZm56WWhXbXJicTkzUmJ4ZmpjOG9Id094ZGlIN1hObmJ3cWVfalhnWlBaODFsWFhpLVFaSEk0bmcyaE5uZkdQT3FxR082c1dwc3BUMHN6ZHYybVNmZ1g0VdIBeEFVX3lxTE1jMVpXanRJYzVJRHhoNkNMQlRWNlA3aEtuS3dLU3pjYjlURXhERmZPblpxa0wxWENZYzZieW43bElYZkJFdDc1U0hWeXd3ZTZfVVlzUGhjXzNVbU9WdHpEcFpRQzcxTWdOZGE2TVJGV20tb1NwMllTZA?oc=5",
-          "source": "뉴시스",
-          "published": "2026-08-24T01:59:40+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f5d1aa40e11b0cbb25f460beaff4dfe5",
-          "title": "'시작된 수능 일정'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009128508?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-08-24T01:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "6fa62da808e2873b53090c72f99ea3fc",
-          "title": "[大入수시전략2027] 고려대, 수시 2731명 선발…전형 선택이 곧 전략",
-          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7179885",
-          "source": "weekly.hankooki.com",
-          "published": "2026-08-24T01:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8f45213e64969be20e1141b50ace2615",
-          "title": "중앙대, &quot;전형은 다양하게, 장학은 든든하게&quot;, 2027 수시 2862명 모집",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459902",
-          "source": "www.enewstoday.co.kr",
-          "published": "2026-08-24T00:05:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a4a70c541d423fb48d1c7deebc009a9d",
-          "title": "[김형일의 입시컨설팅] (242) 2027학년도 주요대학 지원전략(8) - 홍익대...",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151632",
-          "source": "www.smartbizn.com",
-          "published": "2026-08-24T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "7a6212213dc001baa3ab984f4eb8f61d",
-          "title": "대입캘린더 (26/08/28~)",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624103",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-24T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
