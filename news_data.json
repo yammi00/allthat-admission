@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-07T19:46:02.254333+00:00",
+  "updated_at": "2026-09-07T22:40:25.587790+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -13,6 +14,16 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "ec6fc7a7ebde1fa4ef277c657f55cced",
+          "title": "작년 수능보다 다소 쉬웠던 9월 모평…&quot;오답 노트 점검, 실수 줄여야&quot;",
+          "link": "https://n.news.naver.com/mnews/article/088/0001027230?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-09-07T21:31:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
           "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
@@ -185,9 +196,9 @@
         },
         {
           "id": "2c02610428b8c9c468e4ce397ac81449",
-          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - 한입신문",
+          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90YkVmdmZXUWg2NTFWQW1ILWc5QXN0cVBPM09VM2NjOWJNSm9VT1NvT2pQX1RCMHFqZl9FNWpHMC05SXViSEt1Nm80Wk90Ukpybk9IUzVvRm54a09vTndxenRPWldqUXBi?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-03T00:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -265,9 +276,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "월드장애인사랑뉴스",
+          "source": "youcandonews.com",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -395,9 +406,9 @@
         },
         {
           "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "specialtimes.co.kr",
+          "source": "스페셜타임스",
           "published": "2026-09-01T01:00:15+00:00",
           "type": "news",
           "grade": "3",
@@ -796,6 +807,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016286106?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-02T07:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a342d1e47492dad9f027824f0af04122",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
+          "source": "hanibnews.com",
+          "published": "2026-09-02T06:51:47+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1332,7 +1353,7 @@
           "title": "[알고보자] '급등' 2027반도체 계약학과,  과연 한의대급일까..‘정시 선발체제 무시한 단순 백분위 합 잣대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626590",
           "source": "베리타스알파",
-          "published": "2026-09-07T19:36:01.802172+00:00",
+          "published": "2026-09-07T22:30:40.754809+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1864,9 +1885,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
@@ -2061,26 +2082,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "cdebdfeeaea66e2a62eb1e02a80c492f",
-          "title": "한국공학대, 2027학년도 수시 1176명 선발…창의인재 확대·논술 축소 - 컨슈머타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1eGx6elhTajN5X0QxZFNpS2p0UDcxZzF4RzRVMV9nem90VUpWUjNOY1BXem1xb1JvZkgwRFhoS1FVWE41dU1kcWI4RG9qQWJ6bjdwdDAyWkNISnJRbXZZdGpYN200eno3R1E?oc=5",
-          "source": "컨슈머타임스",
-          "published": "2026-08-24T22:25:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "99c8c56f9169336887ee4b62ab1c0407",
-          "title": "삼육대 약학과 올 첫 ‘약술형 논술’ 도입",
-          "link": "https://n.news.naver.com/mnews/article/081/0003673116?sid=102",
-          "source": "www.seoul.co.kr",
-          "published": "2026-08-24T20:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2127,7 +2128,7 @@
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9f1c3cb39d7c0ac74bd0d77615bd15b6",
@@ -2137,7 +2138,7 @@
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "31884955b1e61a6fcd1caecbae2a91d9",
@@ -2955,16 +2956,6 @@
           "link": "https://www.tbc.co.kr/news/view?pno=20260824141849AE04399&id=210159",
           "source": "www.tbc.co.kr",
           "published": "2026-08-24T23:36:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f29f3102a98fcb65eb908cc3ee736fcf",
-          "title": "광운대, 수능최저 폐지로 지원 문턱 낮춰",
-          "link": "https://n.news.naver.com/mnews/article/081/0003673114?sid=102",
-          "source": "www.seoul.co.kr",
-          "published": "2026-08-24T20:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
