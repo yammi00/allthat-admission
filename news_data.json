@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-07T09:02:54.568070+00:00",
+  "updated_at": "2026-09-07T15:40:29.784254+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -15,14 +14,24 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "kyosu.net",
-          "published": "2026-09-07T02:30:32+00:00",
+          "id": "91e42d593cf631ae4adbdea334830183",
+          "title": "고3 9월 모평 난이도 분석...국어, 작년 수능보다 쉽고 6월모의고사보다...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3687566",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-07T15:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
+        },
+        {
+          "id": "4f78979f569bd7c5d01882ef64e765b8",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
+          "source": "교수신문",
+          "published": "2026-09-07T02:30:32+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "69d1c4e655e7f72e96653dacd5f0fca5",
@@ -572,6 +581,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "2ee944eec0d7dd2fca677b3542924fb2",
+          "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
+          "link": "https://n.news.naver.com/mnews/article/629/0000531565?sid=102",
+          "source": "news.tf.co.kr",
+          "published": "2026-09-07T15:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "5526650e810603911f6c91347ceb9d6a",
           "title": "9등급제 마지막 대학 수시 접수",
           "link": "https://www.naeil.com/news/read/601367?ref=naver",
@@ -579,7 +598,7 @@
           "published": "2026-09-07T04:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89b0f2d8ea9ccca52440d5cc5703f53f",
@@ -1323,10 +1342,10 @@
           "title": "[알고보자] '급등' 2027반도체 계약학과,  과연 한의대급일까..‘정시 선발체제 무시한 단순 백분위 합 잣대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626590",
           "source": "베리타스알파",
-          "published": "2026-09-07T08:53:02.035036+00:00",
+          "published": "2026-09-07T15:30:38.474866+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5434ccf11e0cf5358cb6903e1ea7ee20",
@@ -2081,6 +2100,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "4d520421d4a29fa82b215a5dfab1dc5d",
+          "title": "수시원서 6장 &quot;이렇게 쓰면 100% 재수 안합니다&quot;",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3687737",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-07T15:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ae80af25d5a6f51bfca17dc03f4efa53",
+          "title": "대입 수시 레이스…수험생 '6장의 승부' 돌입",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=922606",
+          "source": "www.namdonews.com",
+          "published": "2026-09-07T09:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cfd281b649c242c47efe9a7a26f7bf3e",
           "title": "[김형일의 입시컨설팅] (244) 9월 모평 이후 수시 지원 방향 확정",
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=153210",
@@ -2088,7 +2127,7 @@
           "published": "2026-09-07T06:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6038acb6c2fc79c97f8bea77d61a241e",
@@ -2098,7 +2137,7 @@
           "published": "2026-09-07T06:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c0b28633762fae08010b18bd9dbd6799",
@@ -2108,7 +2147,7 @@
           "published": "2026-09-07T04:35:35+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "31884955b1e61a6fcd1caecbae2a91d9",
@@ -2192,9 +2231,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2292,9 +2331,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
@@ -2582,9 +2621,9 @@
         },
         {
           "id": "de435d56b7a166b769ab029c14df496a",
-          "title": "대동학원, 추석 연휴 ‘2027 수시 논술특강’ 운영…대학별 논술 일정 맞춤 대비 - edu.donga.com",
+          "title": "대동학원, 추석 연휴 ‘2027 수시 논술특강’ 운영…대학별 논술 일정 맞춤 대비 - E동아",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySTNfMFFKaVBaN2QxbmgxYjJZcGJuTW1lUW1ib3p5cVBQdzRNb2FjOW40NWN2dmFfOGhMUEZ6dDRzdHNvbDR0dTZ3MVYxSjJIWE80a1dKZWxmTjdmTENzdU0zWkJUQ1U?oc=5",
-          "source": "edu.donga.com",
+          "source": "E동아",
           "published": "2026-08-31T01:52:40+00:00",
           "type": "news",
           "grade": "all",
@@ -2955,7 +2994,7 @@
           "published": "2026-09-07T06:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "adb46d4a813140f96de7fcb9975917dd",
