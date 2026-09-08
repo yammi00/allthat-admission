@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:41:29.997904+00:00",
+  "updated_at": "2026-09-08T08:41:24.870243+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-08T02:26:45.032060+00:00",
+          "published": "2026-09-08T08:28:42.490025+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b8f97bed8eefebcedad62df8bd15a07f",
+          "title": "23년만 역대급 'N수생' 온다...'현행 수능' 마지막 해, 사탐런·확통런도...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005410859?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-09-08T03:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -36,9 +46,9 @@
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-07T08:35:00+00:00",
           "type": "news",
           "grade": "3",
@@ -306,9 +316,9 @@
         },
         {
           "id": "77b40a4937e8d834af46275fdf259248",
-          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - 베리타스알파",
+          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMnhJQkFYRkdXV3hSOVdsNmVNcVBpN2k1QjVQZncxamVua2U3YktQYTNDaU9PM0lsQl8yV3V1R3Q0a2tJN0l6LTRXc0U0T2QwX1QzWlVUS3lpYkVCT0FJNWpUZ1BsQWJLOS1EYg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-02T01:21:41+00:00",
           "type": "news",
           "grade": "3",
@@ -543,46 +553,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "1c00d90a48bd3ef1bb77c2dec6aa06dc",
-          "title": "역대 최대 N수생·사탐런 덮친 9월 모평…입시업계 &quot;수시 가채점 보수적...",
-          "link": "https://www.ajunews.com/view/20260825155428325",
-          "source": "www.ajunews.com",
-          "published": "2026-08-25T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2cf231cbd449ee3583e033126b7873fe",
-          "title": "2027학년도 수능 9월 모의평가 9월 2일 실시…재학생 줄고 N수생 늘어",
-          "link": "https://www.ajunews.com/view/20260825154133286",
-          "source": "www.ajunews.com",
-          "published": "2026-08-25T06:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "de8ba833aaa355d0ab04160fd016d1e7",
-          "title": "9월 평가원 모의고사 분석 설명회 개최",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111179",
-          "source": "edu.donga.com",
-          "published": "2026-08-25T03:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7860b24c8bace67e6c8d02a5b12e801c",
-          "title": "9월 수능 모의평가에 졸업생 11만명 역대 최다…사탐런도 최고",
-          "link": "https://n.news.naver.com/mnews/article/001/0016269147?sid=102",
-          "source": "www.yna.co.kr",
-          "published": "2026-08-25T03:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -592,6 +562,86 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "7ec1e4c2d1123790b1be56c2cc5b33e0",
+          "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
+          "source": "에듀진",
+          "published": "2026-09-08T08:31:14.248103+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1f86a6e6fad4b012d10aa08223c826a7",
+          "title": "[2027정시] 성균관대 1503명(40.7%) ‘축소’.. 다군 사범계열 40명 ‘학생부100% 정성평가’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626631",
+          "source": "베리타스알파",
+          "published": "2026-09-08T08:31:12.849658+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "779becb4f588ec8a35c1f37ee961ea14",
+          "title": "[2027수시경쟁률] 고려대(마감전날) 4.36대1.. 교과 학교추천 서어서문학과 등 31개 ‘미달상태’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626833",
+          "source": "베리타스알파",
+          "published": "2026-09-08T08:31:12.849644+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2b9d8104eaffb7e61b1320f9adec0fcb",
+          "title": "[2027전문대수시특집] ‘AI/융합교육 강화’ 김포대 813명(98.9%).. 마이크로디그리 노인복지 미래기술융합 ‘신설’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626716",
+          "source": "베리타스알파",
+          "published": "2026-09-08T08:31:12.849601+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "763bcb4b48acfb5c8fba06ee680a51c9",
+          "title": "수능 N수생 20만 명 몰렸다…지역의사제·입시 개편 앞두고 대거 가세",
+          "link": "https://n.news.naver.com/mnews/article/660/0000116757?sid=102",
+          "source": "www.ikbc.co.kr",
+          "published": "2026-09-08T04:35:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "922cd7e56eebfdf11cf569070e5aa6f5",
+          "title": "'현행 수능' 마지막 해…N수생 20만명 몰려 &quot;23년 만에 최대&quot;",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=226640",
+          "source": "www.youthdaily.co.kr",
+          "published": "2026-09-08T03:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a5b655d1dddc3bd9f56a15a7ddcfaadd",
+          "title": "올해 수능 키워드는 '사탐런'과 '막차'…N수생 비중 31.5% 돌파",
+          "link": "https://n.news.naver.com/mnews/article/079/0004187031?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-08T03:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e223b0c5390e8fc50295e7f0fadbc140",
+          "title": "[대입 면접 칼럼] &quot;합격률 30%의 벽을 넘는다&quot;… 대입 수시 면접 컨설팅...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111688",
+          "source": "edu.donga.com",
+          "published": "2026-09-08T02:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "fef53bca3665ded44e242c0e0ee0bcba",
           "title": "2027 수시 원서접수 개막에 대거 몰린 N수생 변수",
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=877505",
@@ -599,7 +649,7 @@
           "published": "2026-09-08T00:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ee944eec0d7dd2fca677b3542924fb2",
@@ -1290,46 +1340,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "bcbdf58cf165637c7b9a33e007a8a415",
-          "title": "건국대 학생부위주전형 2027/2028 권장과목 공개.. ‘2015/2022개정교육과정 구분’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaUjlHdFJsSVRmeVN1TmpQanJmQnYyNlBFTjdZSW1FdW1vT2hFTUs4RlhCb3VxNkVBcFJsTjJxN0ZPWHh1bWUzTDhpemh2X1l2VVNfN28xMnc5Nm9ranA4UXU2XzZQVXFMMGV3Wg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-25T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b3edb81ae9e5c05f5424497a6ee6f9b1",
-          "title": "[2027전공돋보기] 단국대 상담학과 수시 정원내 22명.. ‘실천지향 상담전문가 양성’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624368",
-          "source": "베리타스알파",
-          "published": "2026-08-25T04:34:31.830084+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c4c4be5830087badc42fe5ec21f7b239",
-          "title": "'수능 가늠자' 9월 모평 N수생 11만명 역대 최대…'사탐런'도 가속",
-          "link": "https://www.newspim.com/news/view/20260825000457",
-          "source": "www.newspim.com",
-          "published": "2026-08-25T03:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a9a11efa1720fec33a69f73ceda0a6e5",
-          "title": "[입시분석] 2027 로봇·드론계열 교과전형, 동국대 1.20등급 ‘최고’ - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAweVdoTmJBdkxtbTI3VUJ6NVlIWkZjVm50bG1aR2xtazVaN3lSTlZHSUFsYUEtZUdwMFQ5amRlaHNTM2xrODBJREdoSzNjcHQ0OFlCQ284V0JaanNTdElZNW1xR2R1SHYxamc?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-08-25T02:49:31+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1339,11 +1349,51 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "aa9301d96fbfb9f15af00f8b83d47747",
+          "title": "[2027정시] 한양대 1297명(42.4%) ‘비슷’.. 데이터사이언스 ‘15명 증원’, 다군 한양인터칼리지 ‘10명 축소’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626785",
+          "source": "베리타스알파",
+          "published": "2026-09-08T08:33:44.019260+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "adb82a800d7866db89faac09d46d9d78",
+          "title": "'사탐런·확통런' 정점…N수생 증가에 상위권 경쟁 심화",
+          "link": "https://n.news.naver.com/mnews/article/003/0014177445?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-08T07:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c592f4b7c5491eaa78a54117973453d7",
+          "title": "수능 졸업생 17만명 돌파…반수생·사탐런 역대 최대 기록",
+          "link": "https://www.insight.co.kr/news/572457",
+          "source": "www.insight.co.kr",
+          "published": "2026-09-08T03:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "4af41c34c071f267e1d7dc71395b0368",
           "title": "[알고보자] '급등' 2027반도체 계약학과,  과연 한의대급일까..‘정시 선발체제 무시한 단순 백분위 합 잣대’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626590",
           "source": "베리타스알파",
           "published": "2026-09-08T02:31:42.979178+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "3b1fdf777cbe91309b181adc74632f62",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014170954?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1714,9 +1764,9 @@
           "is_new": false
         },
         {
-          "id": "c09b60871c7c509205bce9f6bf0ab0b0",
-          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
+          "id": "093f3a62df7aad61c4a54b979e4b494c",
+          "title": "[2027수시특집] 경기대 2026입결 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’.. 전자공 미디어영상 신소재화학공 자유전공(수원)",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NmJ0Q3RuQ2w2T0VTcGltaV94M3RtTVhyVW4wcU5xVGlUX2JERXB6VVQ0UGRBOEZscERDYUQ5ekRMN3VvZkFoYWc5NmNFbmsxMUN6MnpHWGtid0VYLW5OTWVSMzBfY0t6dWUwdw?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-04T11:25:00+00:00",
           "type": "news",
@@ -1724,9 +1774,9 @@
           "is_new": false
         },
         {
-          "id": "093f3a62df7aad61c4a54b979e4b494c",
-          "title": "[2027수시특집] 경기대 2026입결 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’.. 전자공 미디어영상 신소재화학공 자유전공(수원)",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NmJ0Q3RuQ2w2T0VTcGltaV94M3RtTVhyVW4wcU5xVGlUX2JERXB6VVQ0UGRBOEZscERDYUQ5ekRMN3VvZkFoYWc5NmNFbmsxMUN6MnpHWGtid0VYLW5OTWVSMzBfY0t6dWUwdw?oc=5",
+          "id": "c09b60871c7c509205bce9f6bf0ab0b0",
+          "title": "[단독] ‘수도권대 최초’ 경기대 '현 고2' 2028전형계획 공개.. 한 달 빠른 공개 ‘수요자 친화 행보’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdkFrUFpiN0tvTFF6d3ViYjU3R2dxOVJEVmlRY2hBcG1URXFvZ3JiUk04Tl80NTdUWXNJY2ttT2xOWlZObFNlM0RkODI3Z2JMYmJHaW1wX2JEQTJzWmVWRU52S2NGTFVvd25Gdg?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-04T11:25:00+00:00",
           "type": "news",
@@ -1739,6 +1789,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
           "source": "교수신문",
           "published": "2026-09-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "a393e3ca2a5f1524a34b46748c1415f2",
+          "title": "삼육대, 7일부터 '수시모집' 원서접수… 논술전형 대폭 확대",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=131896",
+          "source": "www.popcornnews.net",
+          "published": "2026-09-04T02:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2002,26 +2062,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "1a530742020144fa666130f9066ee6ef",
-          "title": "대치동 멘토스 추석특강 논술, 지구과학 예약 중",
-          "link": "https://www.gosiweek.com/article/1065595856229460",
-          "source": "www.gosiweek.com",
-          "published": "2026-08-25T06:54:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c73f49c1235ae6556d6abc2d82440120",
-          "title": "[대학 수시 톺아보기] ④상명대, 자유전공·약술형 논술로 '학생 맞춤형...",
-          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663080",
-          "source": "www.kfenews.co.kr",
-          "published": "2026-08-25T05:26:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2031,6 +2071,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
+          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkhLQjVUdWd0U2o3UGZ4NXB2V1h1b3pod2V1T3FOWF9SZG1CN1ZabVp1YloyYVlNSnBDWjRBaXo5My1qeFlTc0g4UlZvYXZQYUYtaDRUNHRDUjlGdkdueHNJOTFTaVJ1X0xLRQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-08T07:45:55+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "bbf6b7f60a3db17c8485c92302822966",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
+          "source": "딜라이브뉴스",
+          "published": "2026-09-08T02:37:41+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3ec36928dc7bee8f0ac38dfb873489ed",
           "title": "홍익대, 2027학년도 '학교생활우수자' 수시모집",
           "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=356862",
@@ -2038,7 +2098,7 @@
           "published": "2026-09-08T01:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f6257b0633802b9b122d1ac118adf3d7",
@@ -2048,7 +2108,7 @@
           "published": "2026-09-08T00:21:11+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4d520421d4a29fa82b215a5dfab1dc5d",
@@ -2068,7 +2128,7 @@
           "published": "2026-09-08T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
@@ -2078,7 +2138,7 @@
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae80af25d5a6f51bfca17dc03f4efa53",
@@ -2846,56 +2906,6 @@
           "link": "https://n.news.naver.com/mnews/article/020/0003743279?sid=110",
           "source": "www.donga.com",
           "published": "2026-08-25T14:13:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "1af9bf8553b3bf59b7bf658c9b9c590b",
-          "title": "9월 모평 D-8…시간관리부터 가채점까지, 수능 전 점검할 것은?",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/25/2026082580169.html",
-          "source": "edu.chosun.com",
-          "published": "2026-08-25T07:36:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ed8190b7851cb8be92e5ef4cc890fac7",
-          "title": "현행 대입 마지막 수시 … 적정 지원선 '안갯속' 눈치싸움 비상",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725563?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-08-25T07:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5d02876ca90391510e4a2ad7034c075c",
-          "title": "광운대, 모든 전형에서 수능최저 적용안해",
-          "link": "https://n.news.naver.com/mnews/article/009/0005725555?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-08-25T07:04:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "260ff40620a0f49830d86d3c6d227e32",
-          "title": "[그래픽] 2027학년도 대학입시 주요 일정",
-          "link": "https://n.news.naver.com/mnews/article/001/0016269502?sid=102",
-          "source": "www.yna.co.kr",
-          "published": "2026-08-25T05:21:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "113ab4d1b6167a3fb850b40d21397cc5",
-          "title": "2027학년도 수시 원서접수 9월 7일 시작…“공통원서 미리 작성하세요” - 이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVjRQb0hWdW1XdFlvWHIxaENVcm9vbTdDbHE1YWxhVHJ2dGpxRXNsQ0s1TlFPZUFTRnlOZHpreUdWRHRaZTdIMDJsNl96emRWanlxcQ?oc=5",
-          "source": "이투데이",
-          "published": "2026-08-25T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
