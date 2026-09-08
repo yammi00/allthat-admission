@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-08T19:25:12.517077+00:00",
+  "updated_at": "2026-09-08T22:29:39.585547+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-08T19:10:36.819410+00:00",
+          "published": "2026-09-08T22:14:49.148488+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,9 +216,9 @@
         },
         {
           "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - kyobit.com",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
@@ -575,7 +576,7 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-08T19:13:01.870282+00:00",
+          "published": "2026-09-08T22:17:21.832018+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -585,7 +586,7 @@
           "title": "[2027정시] 성균관대 1503명(40.7%) ‘축소’.. 다군 사범계열 40명 ‘학생부100% 정성평가’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626631",
           "source": "베리타스알파",
-          "published": "2026-09-08T19:13:00.937653+00:00",
+          "published": "2026-09-08T22:17:20.539565+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -595,7 +596,7 @@
           "title": "[2027수시경쟁률] 고려대(마감전날) 4.36대1.. 교과 학교추천 서어서문학과 등 31개 ‘미달상태’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626833",
           "source": "베리타스알파",
-          "published": "2026-09-08T19:13:00.937638+00:00",
+          "published": "2026-09-08T22:17:20.539550+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -605,10 +606,30 @@
           "title": "[2027전문대수시특집] ‘AI/융합교육 강화’ 김포대 813명(98.9%).. 마이크로디그리 노인복지 미래기술융합 ‘신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626716",
           "source": "베리타스알파",
-          "published": "2026-09-08T19:13:00.937591+00:00",
+          "published": "2026-09-08T22:17:20.539500+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "05b4b15f532d205c664e2a66fb771367",
+          "title": "[거인의어깨 입시컨설팅] 고2를 위한 2028학년도 입시컨설팅",
+          "link": "https://www.newspim.com/news/view/20260831000263",
+          "source": "www.newspim.com",
+          "published": "2026-09-08T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d0061d057c5e72ef31c0964ab7a041e7",
+          "title": "올해 수능 키워드 '사탐런·현 체제 마지막 수능'…상위권 경쟁·선택과...",
+          "link": "https://n.news.naver.com/mnews/article/421/0009159001?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-08T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e2476f789922c7306b1b612657d0f52f",
@@ -811,9 +832,9 @@
           "is_new": false
         },
         {
-          "id": "84272e88f093ba74fe637affa7052b6b",
-          "title": "[단독] [2027정시] 상위15개대 '의대351명/반도체70명' 등 2만120명.. 성대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626068",
+          "id": "05142b018b1ec979f3ced508620acc14",
+          "title": "[단독] 2027수시 주요22개대/이공특/의약계열 원서접수 일정 총정리..'11...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626003",
           "source": "www.veritas-a.com",
           "published": "2026-09-03T08:10:00+00:00",
           "type": "news",
@@ -1339,16 +1360,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b37856291123a1f4412d85e907090597",
-          "title": "[2027 대입 수시] 덕성여대, 덕성인재II 240명 확대·수능최저 완화⋯ 86...",
-          "link": "https://www.asiatime.co.kr/article/20260825500230",
-          "source": "www.asiatime.co.kr",
-          "published": "2026-08-25T21:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1362,7 +1373,7 @@
           "title": "[2027정시] 한양대 1297명(42.4%) ‘비슷’.. 데이터사이언스 ‘15명 증원’, 다군 한양인터칼리지 ‘10명 축소’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626785",
           "source": "베리타스알파",
-          "published": "2026-09-08T19:15:28.354031+00:00",
+          "published": "2026-09-08T22:19:54.326928+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1419,9 +1430,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
@@ -1934,9 +1945,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
@@ -2151,9 +2162,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2281,9 +2292,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2905,16 +2916,6 @@
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=129819",
           "source": "www.popcornnews.net",
           "published": "2026-08-26T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "75aa34885bb72f85c726ac8b97531956",
-          "title": "[교육이 미래다] 수시·정시 지원 횟수 적용 없어 … 졸업 땐 미국 본교...",
-          "link": "https://n.news.naver.com/mnews/article/025/0003546822?sid=102",
-          "source": "www.joongang.co.kr",
-          "published": "2026-08-25T20:30:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
