@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-08T14:17:19.947881+00:00",
+  "updated_at": "2026-09-08T19:25:12.517077+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-08T14:02:22.423165+00:00",
+          "published": "2026-09-08T19:10:36.819410+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-09-08T09:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0963b9974883353b03c8e45a79b86a0c",
@@ -42,7 +41,7 @@
           "published": "2026-09-08T08:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b8f97bed8eefebcedad62df8bd15a07f",
@@ -62,7 +61,7 @@
           "published": "2026-09-07T15:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
@@ -216,9 +215,9 @@
         },
         {
           "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
@@ -576,7 +575,7 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-08T14:04:50.399711+00:00",
+          "published": "2026-09-08T19:13:01.870282+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -586,7 +585,7 @@
           "title": "[2027정시] 성균관대 1503명(40.7%) ‘축소’.. 다군 사범계열 40명 ‘학생부100% 정성평가’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626631",
           "source": "베리타스알파",
-          "published": "2026-09-08T14:04:48.863233+00:00",
+          "published": "2026-09-08T19:13:00.937653+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -596,7 +595,7 @@
           "title": "[2027수시경쟁률] 고려대(마감전날) 4.36대1.. 교과 학교추천 서어서문학과 등 31개 ‘미달상태’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626833",
           "source": "베리타스알파",
-          "published": "2026-09-08T14:04:48.863219+00:00",
+          "published": "2026-09-08T19:13:00.937638+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -606,7 +605,7 @@
           "title": "[2027전문대수시특집] ‘AI/융합교육 강화’ 김포대 813명(98.9%).. 마이크로디그리 노인복지 미래기술융합 ‘신설’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626716",
           "source": "베리타스알파",
-          "published": "2026-09-08T14:04:48.863181+00:00",
+          "published": "2026-09-08T19:13:00.937591+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -619,7 +618,7 @@
           "published": "2026-09-08T09:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "763bcb4b48acfb5c8fba06ee680a51c9",
@@ -1363,7 +1362,7 @@
           "title": "[2027정시] 한양대 1297명(42.4%) ‘비슷’.. 데이터사이언스 ‘15명 증원’, 다군 한양인터칼리지 ‘10명 축소’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626785",
           "source": "베리타스알파",
-          "published": "2026-09-08T14:07:19.763950+00:00",
+          "published": "2026-09-08T19:15:28.354031+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1420,9 +1419,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
@@ -2078,7 +2077,7 @@
           "published": "2026-09-08T09:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
@@ -2098,7 +2097,7 @@
           "published": "2026-09-08T03:00:01+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
@@ -2152,9 +2151,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
