@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:29:39.585547+00:00",
+  "updated_at": "2026-09-09T02:43:40.715726+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-08T22:14:49.148488+00:00",
+          "published": "2026-09-09T02:28:58.341481+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -66,9 +66,9 @@
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "교수신문",
+          "source": "kyosu.net",
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "3",
@@ -290,6 +290,16 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004657950?sid=102",
           "source": "www.sedaily.com",
           "published": "2026-09-02T08:51:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b80ce1913ca8339820950a1a68cda13b",
+          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - yna.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
+          "source": "yna.co.kr",
+          "published": "2026-09-02T04:14:32+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -553,16 +563,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "d66ddd8028f09c5c140a2233f54ddac3",
-          "title": "이은재수학학원, 수능보다 한 단계 높은 난이도 '이은재 모의고사' 출시",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111254",
-          "source": "edu.donga.com",
-          "published": "2026-08-26T01:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -576,10 +576,20 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-08T22:17:21.832018+00:00",
+          "published": "2026-09-09T02:31:23.017325+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "04e265d08f405b923789cf77163ce319",
+          "title": "[대입 정보] 2026학년도 서울권 소재 대 내신 합격점수 평균 최근 5년 새...",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=462482",
+          "source": "www.queen.co.kr",
+          "published": "2026-09-08T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1f86a6e6fad4b012d10aa08223c826a7",
@@ -619,7 +629,7 @@
           "published": "2026-09-08T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d0061d057c5e72ef31c0964ab7a041e7",
@@ -629,7 +639,7 @@
           "published": "2026-09-08T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e2476f789922c7306b1b612657d0f52f",
@@ -763,9 +773,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1795,9 +1805,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "교수신문",
+          "source": "kyosu.net",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1945,9 +1955,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
@@ -2099,6 +2109,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "f85b9d5864461f3ac240b55a655a8091",
+          "title": "2027 수능 졸업생 23년 만에 최대 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzeERlMmYtSGtpc25TLXBjOHM0eERPV25aMk91aEFpWlI3b3kyVlEtV3E1Ty13eWhxTWZDSHdVbHpfQXluYzExeGFrcHh3UjZ3UjgzTWstZjhnZFdSTnF6NEUwVUNVRW05?oc=5",
+          "source": "2news.co.kr",
+          "published": "2026-09-08T04:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "6044984376f3e445860d8db53481cb06",
@@ -2282,9 +2302,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2292,9 +2312,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "news1.kr",
+          "source": "뉴스1",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2886,36 +2906,6 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003460516?sid=102",
           "source": "www.etnews.com",
           "published": "2026-08-26T04:01:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "6cf478288333f434f25efb860596ea7b",
-          "title": "“수시 원서접수 전, 정시 가능선부터 확인해야” - 조선에듀",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3FhSHlxaEh6VE92OVBzbldzdThxRkhOaXhqM1QyZm9WeVl4dlVFWGdlQkFjNW5qbi1OLUF6YkkyOGo2S3BseTlaN1hySDY1dFNSTUpyaTR3STh1SFJlQ055ZUl5VU5ncFdJYVh3VjlVbU9nai12enpwTVk0a3E0TlNMTThPS28?oc=5",
-          "source": "조선에듀",
-          "published": "2026-08-26T00:44:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5d408634dd865b86127e67d8d05c23be",
-          "title": "대성학원, 2027학년도 수시 지원 핵심 전략 제시",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111250",
-          "source": "edu.donga.com",
-          "published": "2026-08-26T00:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "026358e3ad2c3e712a2971e9098509d3",
-          "title": "[2027 수시특집] 창학 90주년 성신여대, '융합AI반도체공학과' 신설로 미...",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129819",
-          "source": "www.popcornnews.net",
-          "published": "2026-08-26T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
