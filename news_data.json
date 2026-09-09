@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-09T19:13:22.045414+00:00",
+  "updated_at": "2026-09-09T22:23:23.226944+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-09T18:58:56.187819+00:00",
+          "published": "2026-09-09T22:08:54.419004+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -225,9 +226,9 @@
         },
         {
           "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
@@ -304,16 +305,6 @@
           "is_new": false
         },
         {
-          "id": "b80ce1913ca8339820950a1a68cda13b",
-          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
-          "source": "연합뉴스",
-          "published": "2026-09-02T04:14:32+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -325,9 +316,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "youcandonews.com",
+          "source": "월드장애인사랑뉴스",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -345,9 +336,9 @@
         },
         {
           "id": "77b40a4937e8d834af46275fdf259248",
-          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - 베리타스알파",
+          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMnhJQkFYRkdXV3hSOVdsNmVNcVBpN2k1QjVQZncxamVua2U3YktQYTNDaU9PM0lsQl8yV3V1R3Q0a2tJN0l6LTRXc0U0T2QwX1QzWlVUS3lpYkVCT0FJNWpUZ1BsQWJLOS1EYg?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-02T01:21:41+00:00",
           "type": "news",
           "grade": "3",
@@ -575,7 +566,7 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-09T19:01:21.778930+00:00",
+          "published": "2026-09-09T22:11:24.115597+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1359,16 +1350,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "d98049270a194bee1112d527964d57fb",
-          "title": "논술우수자전형 확대 약학과도 첫 도입…학교장추천전형은 내신 ‘5등급...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000950378?sid=102",
-          "source": "www.hankookilbo.com",
-          "published": "2026-08-26T21:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1794,9 +1775,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -2078,26 +2059,6 @@
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316971",
           "source": "www.pointdaily.co.kr",
           "published": "2026-08-27T03:20:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a22bfae6796d3ebf168669500957943b",
-          "title": "논술전형, 서술형→ 약술형 논술로 개편…약학과는 수능최저학력기준 ...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000950372?sid=102",
-          "source": "www.hankookilbo.com",
-          "published": "2026-08-26T21:40:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c6e6c4e4e3a9a28606b3b8fe1cea9786",
-          "title": "학종(창의인재)전형 대폭 늘려 256명 모집 학생부 교과우수자전형만 수...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000950358?sid=102",
-          "source": "www.hankookilbo.com",
-          "published": "2026-08-26T21:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2721,9 +2682,9 @@
         },
         {
           "id": "c9396db91436c19db0aeaabf0dc8a69f",
-          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - 한입신문",
+          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-08-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2918,26 +2879,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "61646172720d3e6b7bb80890fd606b41",
-          "title": "전자공학부에 로봇공학전공 신설 논술은 언어·사회논술과 수리논술 중...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000950383?sid=102",
-          "source": "www.hankookilbo.com",
-          "published": "2026-08-26T22:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "ac113549116e4337bdfaa21a06f81028",
-          "title": "자유전공학부, 논술전형 71명으로 늘어 지역균형전형은 학생부교과 100%...",
-          "link": "https://n.news.naver.com/mnews/article/469/0000950367?sid=102",
-          "source": "www.hankookilbo.com",
-          "published": "2026-08-26T21:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2951,7 +2892,7 @@
           "title": "[단독][2027광역자사고] 비서울 8개교 2350명 '축소'.. 충남삼성 360명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626663",
           "source": "베리타스알파",
-          "published": "2026-09-09T19:11:03.877904+00:00",
+          "published": "2026-09-09T22:21:04.813344+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
