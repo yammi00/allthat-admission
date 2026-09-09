@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:19:20.650755+00:00",
+  "updated_at": "2026-09-09T19:13:22.045414+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-09T14:04:41.415514+00:00",
+          "published": "2026-09-09T18:58:56.187819+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -304,6 +304,16 @@
           "is_new": false
         },
         {
+          "id": "b80ce1913ca8339820950a1a68cda13b",
+          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-02T04:14:32+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -315,9 +325,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "월드장애인사랑뉴스",
+          "source": "youcandonews.com",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -565,7 +575,7 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-09T14:07:06.714239+00:00",
+          "published": "2026-09-09T19:01:21.778930+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -578,7 +588,7 @@
           "published": "2026-09-09T13:25:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "16659b370ea6d78ae8a5d95a0d79dd27",
@@ -588,7 +598,7 @@
           "published": "2026-09-09T12:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "61f793b56b89c355cd46ae00e94b5c60",
@@ -598,7 +608,7 @@
           "published": "2026-09-09T11:13:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1b23ec1926809e34c0145541d3d13da4",
@@ -608,7 +618,7 @@
           "published": "2026-09-09T09:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "04e265d08f405b923789cf77163ce319",
@@ -2151,9 +2161,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "news.dlive.kr",
+          "source": "딜라이브뉴스",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -2941,10 +2951,10 @@
           "title": "[단독][2027광역자사고] 비서울 8개교 2350명 '축소'.. 충남삼성 360명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626663",
           "source": "베리타스알파",
-          "published": "2026-09-09T14:17:01.864404+00:00",
+          "published": "2026-09-09T19:11:03.877904+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1902fada832f4ad2d0d81360693b9e0e",
