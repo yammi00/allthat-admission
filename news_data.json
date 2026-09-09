@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-09T08:46:20.862059+00:00",
+  "updated_at": "2026-09-09T14:19:20.650755+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-09T08:31:07.463861+00:00",
+          "published": "2026-09-09T14:04:41.415514+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "26b1b683d1c88c0f542137f0b4ccb87b",
+          "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLXRIRG84Rll5V3dvQkJpYmhHYjZmR0VtSkEwNENjc08zVUZwLThRd3lCSXl5ZXFwSUFlbTVteGx0ZU42Y1ZVOXNmaHRLVG8?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-08T12:09:26+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -66,9 +75,9 @@
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "3",
@@ -556,10 +565,50 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-09T08:33:39.297851+00:00",
+          "published": "2026-09-09T14:07:06.714239+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "90ff9f2e8eec1c908d991070bbd89d73",
+          "title": "“고대 수시 경쟁률은 올랐는데”…서울대·연대 이어 의대도 하락, 이...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005732999?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-09-09T13:25:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "16659b370ea6d78ae8a5d95a0d79dd27",
+          "title": "서울대·연세대 수시 경쟁률 낮아져…&quot;안정 지원 경향&quot;",
+          "link": "https://n.news.naver.com/mnews/article/001/0016301094?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-09-09T12:21:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "61f793b56b89c355cd46ae00e94b5c60",
+          "title": "막차 입시·지역의사제 영향…SKY 수시 경쟁률 14.40대 1, 전년比 하락",
+          "link": "https://n.news.naver.com/mnews/article/421/0009161353?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-09T11:13:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1b23ec1926809e34c0145541d3d13da4",
+          "title": "혁신 플랫폼 대학 국립한밭대, 11일까지 수시모집",
+          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=452084",
+          "source": "www.goodmorningcc.com",
+          "published": "2026-09-09T09:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "04e265d08f405b923789cf77163ce319",
@@ -917,16 +966,6 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016286106?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-02T07:57:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
-          "published": "2026-09-02T06:51:47+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1336,7 +1375,7 @@
           "published": "2026-09-09T08:36:09.373737+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aa9301d96fbfb9f15af00f8b83d47747",
@@ -1731,7 +1770,7 @@
           "published": "2026-09-09T02:53:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "79cb8140c225c16fe28a491d5e646cef",
@@ -1745,9 +1784,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -1774,10 +1813,20 @@
           "is_new": false
         },
         {
+          "id": "a32ce06fb75ed77b2b5b7ef676858b1f",
+          "title": "[2027수시] '막판 점검' 의약계열 논술 3년간 경쟁률.. 치대 '하락세', 한...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626307",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-04T08:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2058,7 +2107,7 @@
           "published": "2026-09-09T03:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49025e2cd4fede9ff31ad82df1a834ae",
@@ -2102,9 +2151,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "딜라이브뉴스",
+          "source": "news.dlive.kr",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -2282,9 +2331,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "news1.kr",
+          "source": "뉴스1",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2662,9 +2711,9 @@
         },
         {
           "id": "c9396db91436c19db0aeaabf0dc8a69f",
-          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - hanibnews.com",
+          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-08-31T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2887,6 +2936,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "b0d0aaf9e47664fe7196db6940940f59",
+          "title": "[단독][2027광역자사고] 비서울 8개교 2350명 '축소'.. 충남삼성 360명 '최다'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=626663",
+          "source": "베리타스알파",
+          "published": "2026-09-09T14:17:01.864404+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "1902fada832f4ad2d0d81360693b9e0e",
           "title": "[단독] [2027전국자사고] 현대청운고 180명 '동일'.. '이공계우수인재 폐...",
