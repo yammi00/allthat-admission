@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-10T17:50:48.428282+00:00",
+  "updated_at": "2026-09-10T20:32:38.217748+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-10T17:35:53.302289+00:00",
+          "published": "2026-09-10T20:17:41.678650+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -304,6 +305,16 @@
           "is_new": false
         },
         {
+          "id": "b80ce1913ca8339820950a1a68cda13b",
+          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - yna.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
+          "source": "yna.co.kr",
+          "published": "2026-09-02T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -335,9 +346,9 @@
         },
         {
           "id": "77b40a4937e8d834af46275fdf259248",
-          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - veritas-a.com",
+          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMnhJQkFYRkdXV3hSOVdsNmVNcVBpN2k1QjVQZncxamVua2U3YktQYTNDaU9PM0lsQl8yV3V1R3Q0a2tJN0l6LTRXc0U0T2QwX1QzWlVUS3lpYkVCT0FJNWpUZ1BsQWJLOS1EYg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-02T01:21:41+00:00",
           "type": "news",
           "grade": "3",
@@ -424,16 +435,6 @@
           "is_new": false
         },
         {
-          "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "스페셜타임스",
-          "published": "2026-09-01T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "1bc4ba282b271695c53f1ea3cb1bec53",
           "title": "기후위기 문제 다룬 ‘기후수능’에 청소년 110명 참여",
           "link": "http://www.lak.co.kr/news/boardview.php?id=23816",
@@ -449,6 +450,16 @@
           "link": "https://www.naeil.com/news/read/600744?ref=naver",
           "source": "www.naeil.com",
           "published": "2026-09-01T02:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "08cd7217f79c782502a026c13e31e52f",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
+          "source": "specialtimes.co.kr",
+          "published": "2026-09-01T01:00:15+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -538,7 +549,7 @@
           "published": "2026-09-10T15:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "304d17bac35f8bacfb62741a961f5d35",
@@ -1031,16 +1042,6 @@
           "is_new": false
         },
         {
-          "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
-          "published": "2026-09-02T06:51:47+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "45b4066926b1ebb9b5a7f98bb4d98a97",
           "title": "9모 국·수 &quot;작년 수능 수준&quot;...영어 &quot;확실히 쉬워져&quot;",
           "link": "https://n.news.naver.com/mnews/article/008/0005408472?sid=102",
@@ -1066,6 +1067,16 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003675956?sid=101",
           "source": "www.seoul.co.kr",
           "published": "2026-09-02T05:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a673e78036a67bad3f0d737ade755c88",
+          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-09-02T03:16:14+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1486,16 +1497,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "bbec93e80599fe09585f334d796f2bcd",
-          "title": "2029대입 기본사항 ‘정시40% 폐지’ 대학가 공동대응 '묵살'.. 전형설계 자율성 ‘제자리’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624750",
-          "source": "베리타스알파",
-          "published": "2026-08-27T18:46:45.028886+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1786,7 +1787,7 @@
           "id": "093f3a62df7aad61c4a54b979e4b494c",
           "title": "[2027수시특집] 경기대 2026입결 정시 수능 백분위 70%컷 공공안전 84.05 ‘최고’.. 전자공 미디어영상 신소재화학공 자유전공(수원)",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NmJ0Q3RuQ2w2T0VTcGltaV94M3RtTVhyVW4wcU5xVGlUX2JERXB6VVQ0UGRBOEZscERDYUQ5ekRMN3VvZkFoYWc5NmNFbmsxMUN6MnpHWGtid0VYLW5OTWVSMzBfY0t6dWUwdw?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-04T11:25:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2131,9 +2132,9 @@
         },
         {
           "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
-          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - veritas-a.com",
+          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkhLQjVUdWd0U2o3UGZ4NXB2V1h1b3pod2V1T3FOWF9SZG1CN1ZabVp1YloyYVlNSnBDWjRBaXo5My1qeFlTc0g4UlZvYXZQYUYtaDRUNHRDUjlGdkdueHNJOTFTaVJ1X0xLRQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-08T07:45:55+00:00",
           "type": "news",
           "grade": "all",
@@ -2341,9 +2342,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2761,9 +2762,9 @@
         },
         {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
-          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - cfnews.kr",
+          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNVpCMHh6MW9qdjFoYVZSVmtSWkt5UktWVmxQNXNHQ2hITjk3U0xUN0h1RzV4QUpnZXZWcDI2eFhxX1RNQWVpX0ZNWnZrbFRJLVROYy1peEh6SXVHMkFpag?oc=5",
-          "source": "cfnews.kr",
+          "source": "유교신문",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
