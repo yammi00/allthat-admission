@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:23:23.226944+00:00",
+  "updated_at": "2026-09-10T02:44:00.658609+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-09T22:08:54.419004+00:00",
+          "published": "2026-09-10T02:29:24.612222+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -305,6 +305,16 @@
           "is_new": false
         },
         {
+          "id": "b80ce1913ca8339820950a1a68cda13b",
+          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-09-02T04:14:32+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -316,9 +326,9 @@
         },
         {
           "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
+          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - youcandonews.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "월드장애인사랑뉴스",
+          "source": "youcandonews.com",
           "published": "2026-09-02T03:04:44+00:00",
           "type": "news",
           "grade": "3",
@@ -336,9 +346,9 @@
         },
         {
           "id": "77b40a4937e8d834af46275fdf259248",
-          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - veritas-a.com",
+          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMnhJQkFYRkdXV3hSOVdsNmVNcVBpN2k1QjVQZncxamVua2U3YktQYTNDaU9PM0lsQl8yV3V1R3Q0a2tJN0l6LTRXc0U0T2QwX1QzWlVUS3lpYkVCT0FJNWpUZ1BsQWJLOS1EYg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-02T01:21:41+00:00",
           "type": "news",
           "grade": "3",
@@ -525,31 +535,21 @@
           "is_new": false
         },
         {
+          "id": "45721dfe28e2283389ac96c4ee2d81b1",
+          "title": "수능 출제 경향 확인하자…EBS, 9월 모의평가 채점·해설 당일 공개 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IRXdHUm82bF9fM1VfSkVudFdfMjVCRVJ2VElkcHF5eF9YdlExaGJMMWRrVDk5dkJyQ25tdExpX3NZcjFYbXZFaUR3YkozUQ?oc=5",
+          "source": "전자신문",
+          "published": "2026-08-27T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "d40af5711142e0d886ecd14cdb37a332",
           "title": "AI가 시험 난이도에 학습 전략까지 브리핑...네이버, '모의고사' 검색 고...",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154677",
           "source": "www.techm.kr",
           "published": "2026-08-27T06:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ce6e8f34f2ac54adfed3d3c4feb9c1e1",
-          "title": "EBSi, 9월 모의평가 당일 '빠른 채점'부터 '경향분석 라이브'까지 지원 - 스페셜타임스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43MGloQkMtWEw0M3FQN1BzaG9yZmtqRHFkMFJQM0ZoS2NqNm11S3M5Yy1lTWszZ1BleWppemstbUtPN1NHYUZwNDJfcERCYXQ5SWp0RXlQemVLeUJyYWhPdWtPR25sdUIxUVYyTm14QlJ0dw?oc=5",
-          "source": "스페셜타임스",
-          "published": "2026-08-27T01:23:48+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "53d89b15d65f782e44b3685d84bbae39",
-          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1SnZuSUpfT25nb3dISGdMZE80YVFLMnB4cjJuX3lOWHVaMWZMMWxya3hPU1haY3BFVFZjUjRQVC1CTnBmd1ExejRneUMtQUpMMHVKUlpPdEV6R3kzeUdTTlpjbVNRNkFqN3I4MQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-26T23:13:53+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -566,10 +566,50 @@
           "title": "고3은 지금 수시 원서를 쓴다…그들이 3년 동안 만든 학생부에는 무엇이 있었을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54062",
           "source": "에듀진",
-          "published": "2026-09-09T22:11:24.115597+00:00",
+          "published": "2026-09-10T02:31:50.438421+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2f3150560c4a9168cbdb711b8d81a364",
+          "title": "의사보다 삼전닉스 취업?…SKY 수시지원 ‘의대↓ 반도체↑’",
+          "link": "https://n.news.naver.com/mnews/article/025/0003550433?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-10T02:15:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "574f26b71f195e620f9bc5ae29df0750",
+          "title": "[교육정보] SKY 수시 지원자 3362명 감소… 의대 경쟁률 3개 대학 모두 ...",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908747",
+          "source": "www.chungnamilbo.co.kr",
+          "published": "2026-09-10T00:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7240d76d1f9bf6349990a48336b11fe9",
+          "title": "[단독] 서울대 2028입학전형 안내영상 '주목'.. 'SNU역량평가 면접' 질문...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627078",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-10T00:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "348f0be4b9987efdc309c0fb29c4615c",
+          "title": "서연고 수시 지원자 3.2%↓…의대 줄고 고려대 논술·반도체로 몰렸다",
+          "link": "https://www.etoday.co.kr/news/view/2623870",
+          "source": "www.etoday.co.kr",
+          "published": "2026-09-09T23:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "90ff9f2e8eec1c908d991070bbd89d73",
@@ -972,6 +1012,16 @@
           "is_new": false
         },
         {
+          "id": "a342d1e47492dad9f027824f0af04122",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
+          "source": "hanibnews.com",
+          "published": "2026-09-02T06:51:47+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "45b4066926b1ebb9b5a7f98bb4d98a97",
           "title": "9모 국·수 &quot;작년 수능 수준&quot;...영어 &quot;확실히 쉬워져&quot;",
           "link": "https://n.news.naver.com/mnews/article/008/0005408472?sid=102",
@@ -1310,46 +1360,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "bd2ac1971c5f9417c325f47f3a5fd7f3",
-          "title": "논술은 '의약학' 싹쓸이, 교과는 '합격 최우선'…2026 수시 전형별 지원...",
-          "link": "https://www.ajunews.com/view/20260827105007489",
-          "source": "www.ajunews.com",
-          "published": "2026-08-27T01:56:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "92215cbf97526a3f2090ec338444e8ef",
-          "title": "&quot;14개 대학 중 8개 대학서 논술전형 경쟁률 '의약학' 1위&quot;",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111296",
-          "source": "edu.donga.com",
-          "published": "2026-08-27T00:12:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f375144adb9f1cdaa31b1747238be787",
-          "title": "같은 대학인데 경쟁률 1위는 달라논술 '의약학'·학종 '분산'",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1406548",
-          "source": "www.m-i.kr",
-          "published": "2026-08-26T23:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6e6e2af298c5648d96d851105bb542e8",
-          "title": "[단독][2027수시] '추합 규모 가늠' 지난해 학종 충원율.. 성대 반도체시...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624675",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-26T23:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1374,6 +1384,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626785",
           "source": "베리타스알파",
           "published": "2026-09-08T22:19:54.326928+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "8b6c1315289cabff5b999ecfaf359564",
+          "title": "[스마트 1분 상식 - 2027학년도 수시 모집] &quot;N수생 17만명 대폭발&quot;… 현...",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129427",
+          "source": "www.dailysmart.co.kr",
+          "published": "2026-09-08T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1430,9 +1450,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
@@ -1754,6 +1774,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "89027d8c0a8a8fd1f53ca9b399229cc5",
+          "title": "[유성룡의 입시포인트] 중앙대학교(서울) 2027학년도 수시 모집 가이드",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/08/2026090880171.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-10T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "9683556243c318bc7059d3d183e35f86",
           "title": "스카이입시교육학원 대치동점, 을지대·가천대 약술형논술 추석특강 9월...",
           "link": "https://www.ppss.kr/news/articleView.html?idxno=309669",
@@ -1965,9 +1995,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
@@ -2025,9 +2055,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "경기일보",
+          "source": "kyeonggi.com",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2070,6 +2100,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "e558368da795dd3741822c92c591cc8c",
+          "title": "2027학년도 수시 원서접수 본격화…예비 수험생, 겨울방학 어떻게 준비...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111777",
+          "source": "edu.donga.com",
+          "published": "2026-09-10T01:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "aa83870b2159dfb40669f3f127a1fce4",
+          "title": "경복대학교, AI 입시 챗봇 가동 … ‘합격 커트라인부터 장학금까지 24시...",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=911024",
+          "source": "www.kgnews.co.kr",
+          "published": "2026-09-10T00:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "76aa7b87b284069fa2d1d8b886ce2eb5",
           "title": "경희대 2027학년도 수시모집 경쟁률 5.66대 1…논술 17.15대 1",
@@ -2172,9 +2222,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2866,16 +2916,6 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005405580?sid=102",
           "source": "www.mt.co.kr",
           "published": "2026-08-27T03:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a5f6f227588e6c170965c466cf5efaa5",
-          "title": "2027학년도 수시모집 주요 일정, 원서접수 9월 7일부터, 대학별 마감시간 확인해야 - 군포시민신문",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84S1hmanloMHJUUllUY1ZFUUlRaGZJdGFGRXFNVkNtSXNKd2kwaXBibG9SOEh5N0pGVzY1dkhadlhUdG9mbk1sZ2R3?oc=5",
-          "source": "군포시민신문",
-          "published": "2026-08-26T22:53:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
