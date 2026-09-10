@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:32:38.217748+00:00",
+  "updated_at": "2026-09-10T23:55:39.836610+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-10T20:17:41.678650+00:00",
+          "published": "2026-09-10T23:36:52.038738+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2051,6 +2051,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "66de88f14b6d5d989c4a865e230b65d6",
+          "title": "삼성·효성·한국타이어·한화손해보험 등 하반기 신입 채용…9월 원서...",
+          "link": "https://www.gosiweek.com/article/1065564575539333",
+          "source": "www.gosiweek.com",
+          "published": "2026-09-10T22:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "bc2ea9444ace5b8be224dd9874c43856",
           "title": "[2027정시] 경희대 일반전형 2165명.. 국제학과 가군 이동, 3개년 입결 분석 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWVVXcERuQVNCcTdJQnVVMHIzM2E5dmVSRUxyaHZRNEczcW82a1A2WEd2VXU1bXY4SmFkRlNTZFRDYzQ2cXdMano1eDh5Y2xTWVc5MVBCeTdrVDFPaS1BSzNLdnVfd3Ex?oc=5",
@@ -2331,10 +2341,10 @@
           "is_new": false
         },
         {
-          "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "id": "0eb9a487bacd307abda5d860da3d6d9a",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014170875?sid=102",
+          "source": "www.newsis.com",
           "published": "2026-09-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2816,16 +2826,6 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYzNwMFk3XzRSbi10d2xyQjBPUGdhMnM2YUUtNkNOakJiUjBlVDRBS3cxZU9PYVprSGkzWS1tb0JCd0QzT09RejI5UEVta2FfT0pMcmtiS1hfTkU?oc=5",
           "source": "데일리연합",
           "published": "2026-08-28T06:28:24+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "81ca23402a60d89cd962281b304d2aa1",
-          "title": "&quot;수시 합격하고 후회없으려면&quot;…원서접수 전 따져야 할 '마지노선'",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1407108",
-          "source": "www.m-i.kr",
-          "published": "2026-08-27T23:38:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
