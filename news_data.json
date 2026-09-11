@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T02:38:43.579046+00:00",
+  "updated_at": "2026-09-11T08:42:34.629048+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-11T02:23:48.190389+00:00",
+          "published": "2026-09-11T08:27:34.415510+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "48b59ff3e692620d507cc2425917a7b3",
+          "title": "대치 상상미학x대치 상상독학 학원, 2027학년도 수능 대비 국어 사탐 총...",
+          "link": "https://www.gosiweek.com/article/1065597252524693",
+          "source": "www.gosiweek.com",
+          "published": "2026-09-11T07:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2febb173f189fe687e8f36d0fe2c0f94",
+          "title": "하늘교육 수학경시대회 대비서 'Premium Mex' 개정판 출시",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627433",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-11T04:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ae780e427a6b82a996c352866df4ed58",
@@ -285,21 +305,21 @@
           "is_new": false
         },
         {
-          "id": "f3ecd7703752a9f8fc040d6f11520c00",
-          "title": "9월 모평 가채점 1등급컷…국어 84~90점·수학 84~91점",
-          "link": "https://n.news.naver.com/mnews/article/003/0014165421?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-09-02T12:17:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "fc149ffb327e837fe3d89880f53ac5d4",
           "title": "‘불영어’는 피했다…국어·수학은 변별력 강화",
           "link": "https://n.news.naver.com/mnews/article/011/0004657950?sid=102",
           "source": "www.sedaily.com",
           "published": "2026-09-02T08:51:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "cff0a2d7a25d989c7d5c538bf71bf432",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-02T04:38:58+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -315,16 +335,6 @@
           "is_new": false
         },
         {
-          "id": "2be60534e14f63272e88c51025955bbb",
-          "title": "EBS \"9월 모평 수학, 작년과 수준 비슷…문항 연계율 50%\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BU0VlWnZEVngtcFQzVHlNbFl3bWdRT0ZpVWo5cmFVOHdzOUZneUhDRldMTUhrVENNcnczcXBCVmVVRkZxZHNHcWJmZXdJWjlWUHFNeFc1d081eGx5UjNGN9IBeEFVX3lxTE54WTlZYll5TFhfVG9OdjVoWU1NQTNaSkdBZ3NEdUVDZkpkQ1dYWjNWM3NWVGFVMkVMalJMdW5RU1Y3VFdmZFRWZENILTlRV3ZpcFFMWEtabVFIZnVCZzh2LVJIZFdPQXZ5ekpudktKSlVib3duSzk5dQ?oc=5",
-          "source": "뉴시스",
-          "published": "2026-09-02T03:12:08+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "4cce262800efa41fea5b925412a0f156",
           "title": "9월 모평 성적, 실제 수능에서는 얼마나 달라질까? - 네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHo1eXBtWHQtUU1SdEY1bVJ6SEV4V2RQbUtxTzFpZ3V4YWtmYkZpYjl5OFVyVm1FOU5wemRlYVhOSXBnLUFTQzRUX3ZIYkpLUG9WWmhXbnd4ZVFfZExaRnNWQjB2R1A4MnlZazZiN212NVRTbndnMlBFRXo0Ym8tV3ZuOTFHZUp3YXV3?oc=5",
@@ -335,11 +345,11 @@
           "is_new": false
         },
         {
-          "id": "77b40a4937e8d834af46275fdf259248",
-          "title": "[2027 9월모평] 국어 “6월보다 어렵고 지난해 수능보다 다소 쉬워”(종로) - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMnhJQkFYRkdXV3hSOVdsNmVNcVBpN2k1QjVQZncxamVua2U3YktQYTNDaU9PM0lsQl8yV3V1R3Q0a2tJN0l6LTRXc0U0T2QwX1QzWlVUS3lpYkVCT0FJNWpUZ1BsQWJLOS1EYg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-02T01:21:41+00:00",
+          "id": "6ebff751b3f2f5e6e9aa09c8931419d1",
+          "title": "입시업계 \"9월 모평 국어, 적정 난이도…작년 수능보다 쉬워\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92b1hOSHFhVDJlcG40UWFySnh6SU05RjNyZGk5ODI1QnlxZ040NTlLZktuM2ZCd1cwelljb0xwY2lBNmFUSlpPd093Y0xIZ3hXb1ExUVVYbk1uZ0EtbHRiXzVZd2RGOXdZai02Wkl1M051eXljbHJXddIBeEFVX3lxTE92b1hOSHFhVDJlcG40UWFySnh6SU05RjNyZGk5ODI1QnlxZ040NTlLZktuM2ZCd1cwelljb0xwY2lBNmFUSlpPd093Y0xIZ3hXb1ExUVVYbk1uZ0EtbHRiXzVZd2RGOXdZai02Wkl1M051eXljbHJXdQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-02T01:42:33+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,6 +542,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "1df9afafb0561b027cae8d6374abf769",
+          "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
+          "source": "에듀진",
+          "published": "2026-09-11T08:30:06.039038+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "290c44ca22e4c1fc1e4bd93bd25d50cd",
           "title": "[단독] [2027수시경쟁률] UNIST(최종) 19.26대1 ‘상승’.. '신설' 그릿인재 24.8대1 '최고'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=627386",
@@ -539,7 +559,7 @@
           "published": "2026-09-11T02:26:12.718319+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "09f2cd98a90dfd307e7acfba9d2d1899",
@@ -549,7 +569,7 @@
           "published": "2026-09-11T01:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ce66155ee50dae296877d872868b7844",
@@ -1330,16 +1350,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e3773d0de7f933761c7cf1d43081bf64",
-          "title": "[입시분석] 2027 지리·지구환경계열 교과전형, 합격선 1등급대 집중…경쟁률은 대학별 엇갈려 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tYVg5Z0FMSV9BTkVkZjNPVWtlWURSdUpqOEFsRUxtWmdEY1gyNjNOYnQ3ckF4NktTbzlfcjc2RTlBQWpWNmFJTVY3VUlUbTlYNjd3MTYxMk9mZTRwTkdVSkdoSEhMeDdKZkE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-08-28T07:45:25+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1744,6 +1754,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "fbbb3dd0f4b913f9f902f52fc234d4d4",
+          "title": "리드윈 약술형논술, 가천대·국민대 수시 이후 파이널 과정 개강",
+          "link": "https://www.kbsm.net/news/view.php?idx=533848",
+          "source": "www.kbsm.net",
+          "published": "2026-09-11T06:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "89027d8c0a8a8fd1f53ca9b399229cc5",
           "title": "[유성룡의 입시포인트] 중앙대학교(서울) 2027학년도 수시 모집 가이드",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/08/2026090880171.html",
@@ -2048,7 +2068,7 @@
           "published": "2026-09-11T00:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2cd371ba373f80511a45279520c8d63e",
@@ -2058,7 +2078,7 @@
           "published": "2026-09-11T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "66de88f14b6d5d989c4a865e230b65d6",
@@ -2078,7 +2098,7 @@
           "published": "2026-09-10T09:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bc2ea9444ace5b8be224dd9874c43856",
@@ -2829,26 +2849,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "49b7240c778542e6d35f6a43353e546d",
-          "title": "[2027수시특집] 가톨릭대 1209명(65.6%) '유지'.. 학종 6개전형 737명(40%)...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=621415",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-28T07:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b24bfac4f77aa0edccc6b83d99ed1a3f",
-          "title": "2027학년도 대학입시 주요 일정 - 데일리연합",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYzNwMFk3XzRSbi10d2xyQjBPUGdhMnM2YUUtNkNOakJiUjBlVDRBS3cxZU9PYVprSGkzWS1tb0JCd0QzT09RejI5UEVta2FfT0pMcmtiS1hfTkU?oc=5",
-          "source": "데일리연합",
-          "published": "2026-08-28T06:28:24+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2857,6 +2857,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "04fa7fdfb8a296550d2b3402b83a3d66",
+          "title": "&quot;명문고가 아니라 빈 교실 될 수도&quot;···자사고 지원자 4년 연속 감소,...",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54342",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-09-11T08:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b0d0aaf9e47664fe7196db6940940f59",
           "title": "[단독][2027광역자사고] 비서울 8개교 2350명 '축소'.. 충남삼성 360명 '최다'",
