@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:42:34.629048+00:00",
+  "updated_at": "2026-09-11T14:13:25.549387+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-11T08:27:34.415510+00:00",
+          "published": "2026-09-11T13:58:30.850420+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-09-11T07:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2febb173f189fe687e8f36d0fe2c0f94",
@@ -42,7 +42,7 @@
           "published": "2026-09-11T04:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae780e427a6b82a996c352866df4ed58",
@@ -256,9 +256,9 @@
         },
         {
           "id": "2c02610428b8c9c468e4ce397ac81449",
-          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - hanibnews.com",
+          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90YkVmdmZXUWg2NTFWQW1ILWc5QXN0cVBPM09VM2NjOWJNSm9VT1NvT2pQX1RCMHFqZl9FNWpHMC05SXViSEt1Nm80Wk90Ukpybk9IUzVvRm54a09vTndxenRPWldqUXBi?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-03T00:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -513,26 +513,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "491c589590395b159cf70c71f2a4f089",
-          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-28T10:16:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f256d491551c27b6b9bc3ae68249be7a",
-          "title": "[박원장의 대치동리포트] 9월 평가원 모의고사 지원자 통계로 알아보는...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111380",
-          "source": "edu.donga.com",
-          "published": "2026-08-28T08:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -546,7 +526,27 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-11T08:30:06.039038+00:00",
+          "published": "2026-09-11T14:00:58.403164+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a97f760a601a99f6f738e60090b584d6",
+          "title": "'서울대 10개 만들기' 지정 3개대 수시지원 11.6%↑…서울대는↓",
+          "link": "https://n.news.naver.com/mnews/article/003/0014185526?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-11T13:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e292da5b48595775a4ed628b4d52dfd4",
+          "title": "막차 입시에 막판 수시 눈치작전…서울대·연대 '주춤' 외대·중대 '껑충...",
+          "link": "https://n.news.naver.com/mnews/article/421/0009165938?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-11T12:41:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1067,6 +1067,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016286106?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-02T07:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a673e78036a67bad3f0d737ade755c88",
+          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - edujin.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
+          "source": "edujin.co.kr",
+          "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1761,7 +1771,7 @@
           "published": "2026-09-11T06:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89027d8c0a8a8fd1f53ca9b399229cc5",
@@ -2060,6 +2070,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "afbfd2f9032b41adf23b9c9d3b18c4ca",
+          "title": "삼육대, 수시 경쟁률 20.46대 1… 2년 연속 개교 이래 최고치",
+          "link": "https://news.unn.net/news/articleView.html?idxno=597332",
+          "source": "news.unn.net",
+          "published": "2026-09-11T10:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "14374228eaac9f23d16c9efc2a31d2c3",
           "title": "&quot;학생부 분석부터 실전 대응까지&quot;… 강북청솔학원, 19일 '2027 대입 면접...",
@@ -2492,9 +2512,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
@@ -2839,16 +2859,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "1600165e8411415c30a5de94a8062465",
-          "title": "[단독] [2027수시] 44개 대학 논술 일정.. ‘수능직후’ 11월21일 고대 성대 경희대 건대 숙대 등 10개교 ‘격전’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uSFFvaHF0T2RQbWFNT0Jka1JOZGpHb181dE8wMWluLThaRUlFNVFfNUtRcmo2R3RWcm9RYjJzbFpJbXgyYk9KUVA1Ry1mMEdtVURYY3dwa3NEbzg2aVU1QVFNRjFPOTZNWHZpdw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-08-28T10:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2859,13 +2869,13 @@
       "items": [
         {
           "id": "04fa7fdfb8a296550d2b3402b83a3d66",
-          "title": "&quot;명문고가 아니라 빈 교실 될 수도&quot;···자사고 지원자 4년 연속 감소,...",
+          "title": "&quot;명문고 아니라 빈 교실 될 수도&quot;···자사고 지원자 4년 연속 감소, 지...",
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54342",
           "source": "www.enetnews.co.kr",
           "published": "2026-09-11T08:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b0d0aaf9e47664fe7196db6940940f59",
