@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:51:20.470341+00:00",
+  "updated_at": "2026-09-11T20:32:09.722171+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-11T17:36:37.638444+00:00",
+          "published": "2026-09-11T20:17:22.142625+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -245,9 +245,9 @@
         },
         {
           "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - kyobit.com",
+          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T00:43:39+00:00",
           "type": "news",
           "grade": "3",
@@ -525,7 +525,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-11T17:39:08.756474+00:00",
+          "published": "2026-09-11T20:19:51.681296+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1439,9 +1439,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T09:33:28+00:00",
           "type": "news",
           "grade": "3",
@@ -2067,7 +2067,7 @@
           "published": "2026-09-11T16:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "afbfd2f9032b41adf23b9c9d3b18c4ca",
@@ -2078,6 +2078,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "b029f0134f71a7ec40bfaafaa5724910",
+          "title": "[2027정시] 고려대 일반 1030명 교과우수 595명.. 3개년 입결 분석 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53YkZSTVQ3WnVHeXlTTFZNbS1zMmNLYWZrRUNtNUR6N1U0TE1mMzNISkxaSk15Qk9JNFdYVVMxdVhDMjkza3B5cWw0MGsxcVFYN3JlRUYxSmZlbGJWenhxUU9kMEFVRkJJ?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-11T05:28:39+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "14374228eaac9f23d16c9efc2a31d2c3",
@@ -2281,9 +2291,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
