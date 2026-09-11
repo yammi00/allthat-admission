@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:55:39.836610+00:00",
+  "updated_at": "2026-09-11T02:38:43.579046+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-10T23:36:52.038738+00:00",
+          "published": "2026-09-11T02:23:48.190389+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oWDd2NEp5SmNLYXJ0eDBrSDVTWExnZ2NHV1FRc1h0ckN0Z1QwTUVSTUVqc2xGbVYwYThkTVJJbFdTdHN4Ync?oc=5",
           "source": "v.daum.net",
-          "published": "2026-09-08T12:09:00+00:00",
+          "published": "2026-09-08T12:09:26+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -305,16 +305,6 @@
           "is_new": false
         },
         {
-          "id": "b80ce1913ca8339820950a1a68cda13b",
-          "title": "EBS \"9월 모평 수학, 작년 수능과 비슷…중·상위권 모두 변별\"(종합) - yna.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HOHpISTFzbDFBeHZBSDVYbHF1NXVBWXZuRlRPc3loYS1PZ3d4c3pQRWNpOEdJTllrTlhKbE1MeTA3RUctTmszVGZHZHVOQXVpVEtQSDFFTlhDVTTSAWBBVV95cUxORXJlWThkRW05UHRWeUlpOExBb2hhTWRIa0Y4MlBnQjhPZGJqaDlFVFpnd3V2WkRDbUdiN1hmc2JYbkN6X2x4a0tfbFM1T0o2NTUtMGRaTVR2ZVNLNGpMalA?oc=5",
-          "source": "yna.co.kr",
-          "published": "2026-09-02T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -325,11 +315,11 @@
           "is_new": false
         },
         {
-          "id": "f300ceff23a035fed58b8ccf619442ff",
-          "title": "9월 모평 수학 ‘공통 22번’ 어려웠다…EBS가 꼽은 변별력 문항 5개 - 월드장애인사랑뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50S1QycnNLRFBiaU95Y0NGY3kzVEhucU94ZE1RZ1VydEozWEFxUUNxeEpWRGZPd0E0aVN3VmN0eUlyMFJ2amdUODJzWWtVX2c1OXF4OHpsdkVkRVJnV1ZzUFl0anhEUno4RmZxU3JKVQ?oc=5",
-          "source": "월드장애인사랑뉴스",
-          "published": "2026-09-02T03:04:44+00:00",
+          "id": "2be60534e14f63272e88c51025955bbb",
+          "title": "EBS \"9월 모평 수학, 작년과 수준 비슷…문항 연계율 50%\" - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BU0VlWnZEVngtcFQzVHlNbFl3bWdRT0ZpVWo5cmFVOHdzOUZneUhDRldMTUhrVENNcnczcXBCVmVVRkZxZHNHcWJmZXdJWjlWUHFNeFc1d081eGx5UjNGN9IBeEFVX3lxTE54WTlZYll5TFhfVG9OdjVoWU1NQTNaSkdBZ3NEdUVDZkpkQ1dYWjNWM3NWVGFVMkVMalJMdW5RU1Y3VFdmZFRWZENILTlRV3ZpcFFMWEtabVFIZnVCZzh2LVJIZFdPQXZ5ekpudktKSlVib3duSzk5dQ?oc=5",
+          "source": "뉴시스",
+          "published": "2026-09-02T03:12:08+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -435,6 +425,16 @@
           "is_new": false
         },
         {
+          "id": "08cd7217f79c782502a026c13e31e52f",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
+          "source": "스페셜타임스",
+          "published": "2026-09-01T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "1bc4ba282b271695c53f1ea3cb1bec53",
           "title": "기후위기 문제 다룬 ‘기후수능’에 청소년 110명 참여",
           "link": "http://www.lak.co.kr/news/boardview.php?id=23816",
@@ -450,16 +450,6 @@
           "link": "https://www.naeil.com/news/read/600744?ref=naver",
           "source": "www.naeil.com",
           "published": "2026-09-01T02:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "specialtimes.co.kr",
-          "published": "2026-09-01T01:00:15+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -541,6 +531,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "290c44ca22e4c1fc1e4bd93bd25d50cd",
+          "title": "[단독] [2027수시경쟁률] UNIST(최종) 19.26대1 ‘상승’.. '신설' 그릿인재 24.8대1 '최고'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627386",
+          "source": "베리타스알파",
+          "published": "2026-09-11T02:26:12.718319+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "09f2cd98a90dfd307e7acfba9d2d1899",
+          "title": "SKY 수시 지원자 3362명 줄었다… 의대 경쟁률도 3개교 모두 하락",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/11/2026091180055.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-11T01:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "ce66155ee50dae296877d872868b7844",
           "title": "서류 평가만 하는데 10만원…깜깜이 대입 전형료에 한숨만",
@@ -1042,6 +1052,16 @@
           "is_new": false
         },
         {
+          "id": "a342d1e47492dad9f027824f0af04122",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-02T06:51:47+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "45b4066926b1ebb9b5a7f98bb4d98a97",
           "title": "9모 국·수 &quot;작년 수능 수준&quot;...영어 &quot;확실히 쉬워져&quot;",
           "link": "https://n.news.naver.com/mnews/article/008/0005408472?sid=102",
@@ -1067,16 +1087,6 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003675956?sid=101",
           "source": "www.seoul.co.kr",
           "published": "2026-09-02T05:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a673e78036a67bad3f0d737ade755c88",
-          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-09-02T03:16:14+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1327,16 +1337,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tYVg5Z0FMSV9BTkVkZjNPVWtlWURSdUpqOEFsRUxtWmdEY1gyNjNOYnQ3ckF4NktTbzlfcjc2RTlBQWpWNmFJTVY3VUlUbTlYNjd3MTYxMk9mZTRwTkdVSkdoSEhMeDdKZkE?oc=5",
           "source": "에듀진 인터넷 교육신문",
           "published": "2026-08-28T07:45:25+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "78610cda052a922bba15df37e792e4dd",
-          "title": "[2027 수시/경상국립대학교] 수시 3729명 모집 전체의 80.3%… 우주항공...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=596319",
-          "source": "news.unn.net",
-          "published": "2026-08-28T02:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2032,16 +2032,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "b01e9de73a5ecab41ad9d0e4c2a22ace",
-          "title": "리드윈 약술형논술, 2027 수시지원전략설명회 진행… &quot;4~5등급, 상향 지...",
-          "link": "https://www.gosiweek.com/article/1065572737485430",
-          "source": "www.gosiweek.com",
-          "published": "2026-08-28T00:28:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2051,11 +2041,41 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "14374228eaac9f23d16c9efc2a31d2c3",
+          "title": "&quot;학생부 분석부터 실전 대응까지&quot;… 강북청솔학원, 19일 '2027 대입 면접...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111818",
+          "source": "edu.donga.com",
+          "published": "2026-09-11T00:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2cd371ba373f80511a45279520c8d63e",
+          "title": "[추민규의 입시 돋보기] 2027학년도 수시 원서 접수 후, 수험생이 꼭 지...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/10/2026091080052.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-11T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "66de88f14b6d5d989c4a865e230b65d6",
           "title": "삼성·효성·한국타이어·한화손해보험 등 하반기 신입 채용…9월 원서...",
           "link": "https://www.gosiweek.com/article/1065564575539333",
           "source": "www.gosiweek.com",
           "published": "2026-09-10T22:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "28b0593e77760705193473349a92a16a",
+          "title": "SKY 평균 경쟁률 하락… 지역 국립대 지원 늘어날까 [2027학년도 대입 수...",
+          "link": "https://n.news.naver.com/mnews/article/082/0001397838?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-09-10T09:26:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -2352,9 +2372,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "news1.kr",
+          "source": "뉴스1",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2863,16 +2883,6 @@
           "link": "https://daily.hankooki.com/news/articleView.html?idxno=1402790",
           "source": "daily.hankooki.com",
           "published": "2026-09-04T02:28:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "79c245a9fe9aee5f02982b9db36e0073",
-          "title": "금천구, 중위권 학생 대입전략 특강…내신 5등급제 대비법 제시",
-          "link": "https://n.news.naver.com/mnews/article/421/0009137619?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-08-28T01:37:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
