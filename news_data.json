@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:32:14.578357+00:00",
+  "updated_at": "2026-09-12T16:55:13.385634+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-12T13:17:15.010857+00:00",
+          "published": "2026-09-12T16:40:10.526630+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -105,9 +105,9 @@
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "3",
@@ -254,20 +254,20 @@
           "is_new": false
         },
         {
-          "id": "6b1d5f13d150dc911069baefb1181f9f",
-          "title": "EBS, 9월 모평 예상 등급컷 공개…국어 화작 90·언매 85, 수학 미적 86점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93X3B3TmhsSEtFbEtSajhZMzBYSGlUQUhEUHlNYVpaNllDYUtKWUpsYmV2bFVoRWd5alN1ZldzUGRtVTBaRzh5VHlpczY3MVlZMExjOThyQ2lNbVJZbERQTFd0MWFJdw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-09-03T00:43:39+00:00",
+          "id": "795f73160b3c543dc63fe91ad58a1b4f",
+          "title": "[2027 9월 모평] EBS, 예상 1등급컷 ‘국어 131점·수학 130점’",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/03/2026090380056.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-03T01:30:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
           "id": "2c02610428b8c9c468e4ce397ac81449",
-          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - 한입신문",
+          "title": "2027학년 9월모평, “수학 6모보다 어려웠다” - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90YkVmdmZXUWg2NTFWQW1ILWc5QXN0cVBPM09VM2NjOWJNSm9VT1NvT2pQX1RCMHFqZl9FNWpHMC05SXViSEt1Nm80Wk90Ukpybk9IUzVvRm54a09vTndxenRPWldqUXBi?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-03T00:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -445,9 +445,9 @@
         },
         {
           "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "specialtimes.co.kr",
+          "source": "스페셜타임스",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -525,7 +525,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-12T13:19:51.383137+00:00",
+          "published": "2026-09-12T16:42:46.223668+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -535,7 +535,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-12T13:19:44.569874+00:00",
+          "published": "2026-09-12T16:42:38.881379+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -545,10 +545,20 @@
           "title": "정부의 지역대학 육성정책 통했나…지거국 수시 경쟁률 8.44대 1→8.93대 1 상승",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54118",
           "source": "에듀진",
-          "published": "2026-09-12T13:19:41.387008+00:00",
+          "published": "2026-09-12T16:42:35.475225+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "007441d8a51a8cbef5031017c374227e",
+          "title": "'입시 전형료 부자' 성균·중앙·고려·경희 순…모두 50억대",
+          "link": "https://n.news.naver.com/mnews/article/629/0000533188?sid=102",
+          "source": "news.tf.co.kr",
+          "published": "2026-09-12T15:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f8d671d838baee7fbddeefd54bd22969",
@@ -1132,9 +1142,19 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
+          "published": "2026-09-02T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a673e78036a67bad3f0d737ade755c88",
+          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1834,9 +1854,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -1874,9 +1894,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1934,9 +1954,9 @@
         },
         {
           "id": "96b2242f4904d72bd0a6ce8710709340",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 서울권 9개 대학 9개 전형 - 한입신문",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 서울권 9개 대학 9개 전형 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUGN1UWs3Q0dHT2E4MVIxRlMyY0xZMlVTbWVsOUlCbGhoUWNia3ZlZWZOc0tUNndjTWVSal9FVVdGT0FwbXBZRDdWa1ZHOGtZYUVNOEZ2bHNRRnBHU2VVaGR6OHZXM0Uw?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-03T01:11:46+00:00",
           "type": "news",
           "grade": "all",
@@ -2300,21 +2320,21 @@
           "is_new": false
         },
         {
-          "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
-          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkhLQjVUdWd0U2o3UGZ4NXB2V1h1b3pod2V1T3FOWF9SZG1CN1ZabVp1YloyYVlNSnBDWjRBaXo5My1qeFlTc0g4UlZvYXZQYUYtaDRUNHRDUjlGdkdueHNJOTFTaVJ1X0xLRQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-08T07:45:55+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "f85b9d5864461f3ac240b55a655a8091",
           "title": "2027 수능 졸업생 23년 만에 최대 - 2news.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzeERlMmYtSGtpc25TLXBjOHM0eERPV25aMk91aEFpWlI3b3kyVlEtV3E1Ty13eWhxTWZDSHdVbHpfQXluYzExeGFrcHh3UjZ3UjgzTWstZjhnZFdSTnF6NEUwVUNVRW05?oc=5",
           "source": "2news.co.kr",
           "published": "2026-09-08T04:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "cbfbbbfa46fb6d49caa377da99d4358a",
+          "title": "2027학년도 수능 응시 N수생 20만 명 육박…재학생은 줄어 - news.kbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3NWlzU1ZRNlJhNDB0M0pvQ2VvbF8wbFZMWjY0SXd1S0VfWi1tNUlRVFBSWUVXcW9UTHNDaDdRaVFsdi1uR0l3dkszYTJYU3JiX1Vsc01DWkxXdDg?oc=5",
+          "source": "news.kbs.co.kr",
+          "published": "2026-09-08T03:01:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2411,9 +2431,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "김포신문",
+          "source": "igimpo.com",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
