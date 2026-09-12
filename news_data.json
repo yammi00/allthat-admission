@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T20:13:00.463420+00:00",
+  "updated_at": "2026-09-12T22:14:11.544407+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-12T19:58:29.039318+00:00",
+          "published": "2026-09-12T21:58:53.482307+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,9 +325,9 @@
         },
         {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "헤럴드경제",
+          "source": "biz.heraldcorp.com",
           "published": "2026-09-02T04:38:58+00:00",
           "type": "news",
           "grade": "3",
@@ -525,7 +525,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-12T20:01:01.428944+00:00",
+          "published": "2026-09-12T22:01:32.416712+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -535,7 +535,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-12T20:00:56.719735+00:00",
+          "published": "2026-09-12T22:01:26.365754+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -545,7 +545,7 @@
           "title": "정부의 지역대학 육성정책 통했나…지거국 수시 경쟁률 8.44대 1→8.93대 1 상승",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54118",
           "source": "에듀진",
-          "published": "2026-09-12T20:00:54.474389+00:00",
+          "published": "2026-09-12T22:01:22.824766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2013,16 +2013,6 @@
           "is_new": false
         },
         {
-          "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
-          "published": "2026-09-01T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "a7af471941b3ddee23cde1eece2114d1",
           "title": "논술 154명→277명 대폭 확대…약대 첫 도입 [2027학년도 대입수시 가이...",
           "link": "https://n.news.naver.com/mnews/article/016/0002691183?sid=102",
@@ -2038,6 +2028,16 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=111475",
           "source": "edu.donga.com",
           "published": "2026-09-01T02:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5f32f319361a52c7520dddaac19e8762",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
+          "source": "뉴데일리 경기",
+          "published": "2026-09-01T01:58:02+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2094,9 +2094,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "경기일보",
+          "source": "kyeonggi.com",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2941,9 +2941,9 @@
         },
         {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
-          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - cfnews.kr",
+          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNVpCMHh6MW9qdjFoYVZSVmtSWkt5UktWVmxQNXNHQ2hITjk3U0xUN0h1RzV4QUpnZXZWcDI2eFhxX1RNQWVpX0ZNWnZrbFRJLVROYy1peEh6SXVHMkFpag?oc=5",
-          "source": "cfnews.kr",
+          "source": "유교신문",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
