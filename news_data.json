@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-11T20:32:09.722171+00:00",
+  "updated_at": "2026-09-12T00:00:09.981964+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-11T20:17:22.142625+00:00",
+          "published": "2026-09-11T23:45:44.287113+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -502,16 +503,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "817d03ac5dd79670de6227e4c0d703ae",
-          "title": "9월 모평 직후 수시 전략은…“정시 지원선 확인하고 ‘하한선’ 정해야...",
-          "link": "https://www.etoday.co.kr/news/view/2619155",
-          "source": "www.etoday.co.kr",
-          "published": "2026-08-28T22:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -525,7 +516,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-11T20:19:51.681296+00:00",
+          "published": "2026-09-11T23:48:09.940567+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -902,9 +893,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1336,16 +1327,6 @@
           "link": "https://n.news.naver.com/mnews/article/657/0000054820?sid=102",
           "source": "dgmbc.com",
           "published": "2026-08-29T05:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "67dfc87c73c9a7580b893404ad374d29",
-          "title": "[AI입시 A to Z] &quot;원서 넣고 알았다&quot;…수시 접수 때 가장 많이 하는 실수",
-          "link": "https://www.newspim.com/news/view/20260828000963",
-          "source": "www.newspim.com",
-          "published": "2026-08-28T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1834,9 +1815,9 @@
         },
         {
           "id": "613792d50f36b9ca47097da57df3c9d5",
-          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - 교수신문",
+          "title": "[경기대] 글로벌 공동체 인재 키운다…전형선택권 보장하는 다양한 전형 설계 - kyosu.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3hPRFR0akRjNVZaazd2RldOdm9mQk4yejRCNmgtZndPZWFabUZMUmhYNnU0Y2FNT2dadVRQczUtUDJxbm1KeWxtSFpNN01WcXRKdFJjSTM4ck54SzI2ajNXeFVFaTg?oc=5",
-          "source": "교수신문",
+          "source": "kyosu.net",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2060,6 +2041,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "00f3a0117ebc15ac707f77c8f1ede8cd",
+          "title": "[AI입시 A to Z] 수시 원서 넣었다고 끝?…합격 가를 '마감 후 할 일'",
+          "link": "https://www.newspim.com/news/view/20260911001083",
+          "source": "www.newspim.com",
+          "published": "2026-09-11T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "58b79c791d6d666ba7d1dbea056c4313",
           "title": "건양대 수시 9178명 지원…'평균 6.05대 1'…의학과 지역의사선발전형 1...",
           "link": "https://www.bzeronews.com/news/articleView.html?idxno=822576",
@@ -2087,7 +2078,7 @@
           "published": "2026-09-11T05:28:39+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "14374228eaac9f23d16c9efc2a31d2c3",
@@ -2321,9 +2312,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "김포신문",
+          "source": "igimpo.com",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
@@ -2521,9 +2512,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
@@ -2841,9 +2832,9 @@
         },
         {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
-          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - 유교신문",
+          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - cfnews.kr",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNVpCMHh6MW9qdjFoYVZSVmtSWkt5UktWVmxQNXNHQ2hITjk3U0xUN0h1RzV4QUpnZXZWcDI2eFhxX1RNQWVpX0ZNWnZrbFRJLVROYy1peEh6SXVHMkFpag?oc=5",
-          "source": "유교신문",
+          "source": "cfnews.kr",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2855,16 +2846,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01X25JMWtTSlI2cTVPSjFvLVBXLS1sQktTTDhVaWhZRG04YnFPZGwwNDBqRFBEaDNtNUR5UGR5Q25VeGhXeHNZVERZLXhqOHFlRjZjZmFmVkVmQndfdHFHaFpUeFBFUQ?oc=5",
           "source": "교육을 비추다",
           "published": "2026-08-29T04:58:28+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8ec44c9f2e89b01e300076c79463bcf2",
-          "title": "“현행 대입 체제 마지막 수시, 올해 끝장 본다”…상향? 하향? 복잡해진...",
-          "link": "https://n.news.naver.com/mnews/article/009/0005727427?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-08-28T22:01:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
