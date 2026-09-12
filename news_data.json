@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-12T00:00:09.981964+00:00",
+  "updated_at": "2026-09-12T02:46:02.779791+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-11T23:45:44.287113+00:00",
+          "published": "2026-09-12T02:31:33.376028+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -96,9 +95,9 @@
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "교수신문",
+          "source": "kyosu.net",
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "3",
@@ -516,10 +515,40 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-11T23:48:09.940567+00:00",
+          "published": "2026-09-12T02:34:00.995249+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3180741ff58d1e6bb53319998f9eb622",
+          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
+          "source": "에듀진",
+          "published": "2026-09-12T02:33:56.049883+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "599abdd615d90d51d2fb273daf75849d",
+          "title": "[2027 수시] 논술로 몰린 N수생, 반도체는 '역대 최고'…전형·대학별 양...",
+          "link": "https://www.ajunews.com/view/20260912102354196",
+          "source": "www.ajunews.com",
+          "published": "2026-09-12T01:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7005fa6c675f45040c4e2fc99acf08e1",
+          "title": "[2027 수시 마감] 서울 11개 대학 논술 쏠림 속 '반도체 웃고, 의대 울었...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692932",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-12T00:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a97f760a601a99f6f738e60090b584d6",
@@ -893,9 +922,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1066,6 +1095,16 @@
           "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
           "source": "한입신문",
+          "published": "2026-09-02T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a673e78036a67bad3f0d737ade755c88",
+          "title": "2027 서울과기대 학생부교과전형 경쟁률, 등급컷 분석 및 지원전략 - edujin.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYklmQnZucU5meUdlVWVEbVRRMkJkZEctQk5ObS1OVnFjRkVVZzJFRkNLZUt1Z1NMX0thV0F4NWdWdjZpaU9vVld3aXBhT2xUdDlnX2JySW5jNGF3SGZBekxDRmFlY2tUY2c?oc=5",
+          "source": "edujin.co.kr",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2025,9 +2064,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "경기일보",
+          "source": "kyeonggi.com",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2041,6 +2080,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "69a4f2eb3a59dee5c3c4e2c7343797e4",
+          "title": "동원과기대, 2027학년도 수시모집…입학정원 73.5% 선발 - 이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vN2loR0JQRkZ5SlliZ054aWd4bUVyRTRsdHJ1dENnN1ZMbDFlVGxxT05TNWFQbGZmQkw2OGZid0lrU3l0ZzI3NmlhQ0k5Y2daSzdIZg?oc=5",
+          "source": "이투데이",
+          "published": "2026-09-12T02:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "187b709348e0cce24ec18d3e7ee20ae1",
+          "title": "계명대학교, 2027 수시 경쟁률 7.34대 1...의예과·간호학과 최다 지원",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692930",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-12T00:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "00f3a0117ebc15ac707f77c8f1ede8cd",
           "title": "[AI입시 A to Z] 수시 원서 넣었다고 끝?…합격 가를 '마감 후 할 일'",
           "link": "https://www.newspim.com/news/view/20260911001083",
@@ -2048,7 +2107,7 @@
           "published": "2026-09-11T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "58b79c791d6d666ba7d1dbea056c4313",
@@ -2202,9 +2261,9 @@
         },
         {
           "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
-          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - 베리타스알파",
+          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkhLQjVUdWd0U2o3UGZ4NXB2V1h1b3pod2V1T3FOWF9SZG1CN1ZabVp1YloyYVlNSnBDWjRBaXo5My1qeFlTc0g4UlZvYXZQYUYtaDRUNHRDUjlGdkdueHNJOTFTaVJ1X0xLRQ?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-08T07:45:55+00:00",
           "type": "news",
           "grade": "all",
@@ -2232,9 +2291,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "딜라이브뉴스",
+          "source": "딜라이브",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -2312,9 +2371,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "igimpo.com",
+          "source": "김포신문",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
@@ -2832,9 +2891,9 @@
         },
         {
           "id": "6ee987845e5fac5b9eb8a2cf9bd9654e",
-          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - cfnews.kr",
+          "title": "[2027 대입] 수시 원서접수 9월 7일 시작…‘6회 지원’ 실수하면 기회 잃는다 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSNVpCMHh6MW9qdjFoYVZSVmtSWkt5UktWVmxQNXNHQ2hITjk3U0xUN0h1RzV4QUpnZXZWcDI2eFhxX1RNQWVpX0ZNWnZrbFRJLVROYy1peEh6SXVHMkFpag?oc=5",
-          "source": "cfnews.kr",
+          "source": "유교신문",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
