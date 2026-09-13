@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:14:11.544407+00:00",
+  "updated_at": "2026-09-13T00:05:31.022209+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-12T21:58:53.482307+00:00",
+          "published": "2026-09-12T23:50:43.452534+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -325,9 +325,9 @@
         },
         {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "biz.heraldcorp.com",
+          "source": "헤럴드경제",
           "published": "2026-09-02T04:38:58+00:00",
           "type": "news",
           "grade": "3",
@@ -525,7 +525,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-12T22:01:32.416712+00:00",
+          "published": "2026-09-12T23:53:17.288518+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -535,7 +535,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-12T22:01:26.365754+00:00",
+          "published": "2026-09-12T23:53:11.732259+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -545,7 +545,7 @@
           "title": "정부의 지역대학 육성정책 통했나…지거국 수시 경쟁률 8.44대 1→8.93대 1 상승",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54118",
           "source": "에듀진",
-          "published": "2026-09-12T22:01:22.824766+00:00",
+          "published": "2026-09-12T23:53:08.525948+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1803,6 +1803,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "de35be03987d497db78f690c65374dc3",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-12T22:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "fbbb3dd0f4b913f9f902f52fc234d4d4",
           "title": "리드윈 약술형논술, 가천대·국민대 수시 이후 파이널 과정 개강",
           "link": "https://www.kbsm.net/news/view.php?idx=533848",
@@ -2094,9 +2104,9 @@
         },
         {
           "id": "b3b03ef6dbc85739442311c3cd70e637",
-          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - kyeonggi.com",
+          "title": "경기대, 신입생 68% 2천114명 수시모집…“학생 선택권 중심 전형 설계” - 경기일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1POFM5R3V0d1hTMUh4NEpIbFVvN1VIMlR3TjQ2cXRrTVB3TlZhTzh5amVFX2NNSEJiNUdnUmwwbHZ3ZlhBNGQyUmV5eERISlcwdXBJUEpfSnZZQ2s?oc=5",
-          "source": "kyeonggi.com",
+          "source": "경기일보",
           "published": "2026-08-30T07:00:00+00:00",
           "type": "news",
           "grade": "all",
