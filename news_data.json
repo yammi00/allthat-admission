@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-13T08:55:56.425841+00:00",
+  "updated_at": "2026-09-13T14:15:17.856351+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-13T08:40:46.219732+00:00",
+          "published": "2026-09-13T14:00:22.547854+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -305,21 +304,21 @@
           "is_new": false
         },
         {
-          "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-09-02T04:38:58+00:00",
+          "id": "9f5488ff7425cef1b618959eab637380",
+          "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
+          "source": "위키트리",
+          "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "9f5488ff7425cef1b618959eab637380",
-          "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
-          "source": "위키트리",
-          "published": "2026-09-02T03:33:00+00:00",
+          "id": "cff0a2d7a25d989c7d5c538bf71bf432",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-09-02T04:38:58+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -426,9 +425,9 @@
         },
         {
           "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "스페셜타임스",
+          "source": "specialtimes.co.kr",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -506,10 +505,20 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-13T08:43:24.574608+00:00",
+          "published": "2026-09-13T14:02:57.817300+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "98258af0ce8c00926deb4c55c358b317",
+          "title": "&quot;경쟁률 다 공개됐는데&quot; 먼저 낸 사람만 바보?...수시 구제책 '형평성 논...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005412984?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-09-13T09:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c6fe87c23ca1af5a2291e09b46c2d091",
@@ -519,7 +528,7 @@
           "published": "2026-09-13T05:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e2de30cc649448fcaf322f6cb96bb440",
@@ -529,7 +538,7 @@
           "published": "2026-09-13T05:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edaf6830b4884f9816a6ed68fe22bb43",
@@ -1952,9 +1961,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2027,6 +2036,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "9df49e82f2d033fcf59224c9f9b9eec3",
+          "title": "[속보] 교육부, 수시 전산장애 피해 최대 1200명 구제…16일까지 추가 접...",
+          "link": "https://n.news.naver.com/mnews/article/011/0004661354?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-09-13T10:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e1bc77c477493f84c175c7c309c3bd32",
+          "title": "수시 원서접수 마감 직전 '먹통'…교육부, 접수체계 전면 재검토",
+          "link": "https://n.news.naver.com/mnews/article/030/0003466235?sid=100",
+          "source": "www.etnews.com",
+          "published": "2026-09-13T09:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d589db6899c48ab0ad94b4aca62a2de1",
           "title": "삼육대 2027 수시 경쟁률 20.46대 1, 2년 연속 최고치 경신",
@@ -2459,9 +2488,9 @@
         },
         {
           "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "source": "news1.kr",
           "published": "2026-09-04T22:47:00+00:00",
           "type": "news",
           "grade": "all",
