@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-13T00:05:31.022209+00:00",
+  "updated_at": "2026-09-13T02:45:09.972165+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-12T23:50:43.452534+00:00",
+          "published": "2026-09-13T02:30:16.863696+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -525,30 +526,30 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-12T23:53:17.288518+00:00",
+          "published": "2026-09-13T02:32:52.279734+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "3180741ff58d1e6bb53319998f9eb622",
-          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
-          "source": "에듀진",
-          "published": "2026-09-12T23:53:11.732259+00:00",
+          "id": "2ab9e6d1b8d710f93f81aba908724c06",
+          "title": "[단독] [2027수시경쟁률] 전국 37개 약대 32.4대1 ‘하락’.. 삼육대 163.94대1 ‘최고’ 아주대 가천대 톱3",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627584",
+          "source": "베리타스알파",
+          "published": "2026-09-13T02:32:42.590288+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
-          "id": "0debc11b0c148d1f1a17b5c80c0de870",
-          "title": "정부의 지역대학 육성정책 통했나…지거국 수시 경쟁률 8.44대 1→8.93대 1 상승",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54118",
-          "source": "에듀진",
-          "published": "2026-09-12T23:53:08.525948+00:00",
+          "id": "edaf6830b4884f9816a6ed68fe22bb43",
+          "title": "‘반도체 슈퍼사이클’에 입시판도 들썩…계약학과 경쟁률 28.5대 1",
+          "link": "https://n.news.naver.com/mnews/article/011/0004661208?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-09-13T01:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "007441d8a51a8cbef5031017c374227e",
@@ -1389,16 +1390,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0511799c674b824f90c6623fc8df90d1",
-          "title": "수시 원서접수 D-7… '수시 납치' 피하고 접수 실수 막으려면",
-          "link": "https://n.news.naver.com/mnews/article/014/0005568087?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-08-30T00:44:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1810,7 +1801,7 @@
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fbbb3dd0f4b913f9f902f52fc234d4d4",
@@ -2119,6 +2110,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "d589db6899c48ab0ad94b4aca62a2de1",
+          "title": "삼육대 2027 수시 경쟁률 20.46대 1, 2년 연속 최고치 경신",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=210208",
+          "source": "www.kyosu.net",
+          "published": "2026-09-13T00:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7bf94736fc60403e959cf3e879be2cc5",
+          "title": "건국대 수시 마감, 1,900명 모집에 51,205명 지원…평균 26.95대1",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=718044",
+          "source": "www.newstnt.com",
+          "published": "2026-09-13T00:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "454a1f50fbb40fcc6863f958f3e10365",
           "title": "마감 10분 전 멈춘 수시 원서접수…‘지원 기회 형평성’ 논란",
