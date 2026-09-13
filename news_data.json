@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:42:16.047704+00:00",
+  "updated_at": "2026-09-13T22:14:23.639610+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-13T18:27:45.407455+00:00",
+          "published": "2026-09-13T21:59:20.365722+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1f9ade662fbb5de54ac0c8a0ede1d582",
+          "title": "수능은 어쩌다 'N수생·반복훈련' 시험이 됐나①[수능 30년, 우리는 무엇...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=595409",
+          "source": "news.unn.net",
+          "published": "2026-09-13T20:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "235943885915feec60fbaff91f1798af",
@@ -315,9 +325,9 @@
         },
         {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "biz.heraldcorp.com",
+          "source": "헤럴드경제",
           "published": "2026-09-02T04:38:58+00:00",
           "type": "news",
           "grade": "3",
@@ -505,7 +515,7 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-13T18:30:16.470040+00:00",
+          "published": "2026-09-13T22:01:56.216841+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -521,9 +531,9 @@
           "is_new": false
         },
         {
-          "id": "c6fe87c23ca1af5a2291e09b46c2d091",
-          "title": "서울 주요 11개 대학 수시 경쟁률 소폭 상승… 논술 지원 '쏠림'",
-          "link": "https://www.hidomin.com/news/articleView.html?idxno=720831",
+          "id": "e2de30cc649448fcaf322f6cb96bb440",
+          "title": "SKY 수시 지원자 3362명 감소… 의대 경쟁률 일제히 하락",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=720830",
           "source": "www.hidomin.com",
           "published": "2026-09-13T05:46:00+00:00",
           "type": "news",
@@ -531,9 +541,9 @@
           "is_new": false
         },
         {
-          "id": "e2de30cc649448fcaf322f6cb96bb440",
-          "title": "SKY 수시 지원자 3362명 감소… 의대 경쟁률 일제히 하락",
-          "link": "https://www.hidomin.com/news/articleView.html?idxno=720830",
+          "id": "c6fe87c23ca1af5a2291e09b46c2d091",
+          "title": "서울 주요 11개 대학 수시 경쟁률 소폭 상승… 논술 지원 '쏠림'",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=720831",
           "source": "www.hidomin.com",
           "published": "2026-09-13T05:46:00+00:00",
           "type": "news",
@@ -2037,6 +2047,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "9e4248d5600f02b3accb49adcd3195da",
+          "title": "대입 수시 접수 못해 '발 동동'…정부, 구제 나선다[오늘아침]",
+          "link": "https://n.news.naver.com/mnews/article/079/0004188820?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-13T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7b09ee04eae5baba203d49236f469ad2",
+          "title": "[이재희 칼럼] 서·논술형 평가에 대한 반대와 우려를 반드시 극복해야",
+          "link": "https://www.ajunews.com/view/20260912183925419",
+          "source": "www.ajunews.com",
+          "published": "2026-09-13T21:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "9df49e82f2d033fcf59224c9f9b9eec3",
           "title": "[속보] 교육부, 수시 전산장애 피해 최대 1200명 구제…16일까지 추가 접...",
           "link": "https://n.news.naver.com/mnews/article/011/0004661354?sid=102",
@@ -2278,9 +2308,9 @@
         },
         {
           "id": "b8cce22d2bf6ab84cbb5765251bd7c88",
-          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - veritas-a.com",
+          "title": "[2027수능] ‘마지막 통합형 수능' N수생 20만명에 '역대최대' 10만 반수생 '총력전 예고' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkhLQjVUdWd0U2o3UGZ4NXB2V1h1b3pod2V1T3FOWF9SZG1CN1ZabVp1YloyYVlNSnBDWjRBaXo5My1qeFlTc0g4UlZvYXZQYUYtaDRUNHRDUjlGdkdueHNJOTFTaVJ1X0xLRQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-08T07:45:55+00:00",
           "type": "news",
           "grade": "all",
