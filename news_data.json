@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T00:12:38.118833+00:00",
+  "updated_at": "2026-09-14T03:57:20.095339+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-13T23:58:00.079836+00:00",
+          "published": "2026-09-14T03:42:34.178224+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -512,6 +512,46 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "3180741ff58d1e6bb53319998f9eb622",
+          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
+          "source": "에듀진",
+          "published": "2026-09-14T03:45:06.148594+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "0d8260f683be3243793f2ab15915d657",
+          "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
+          "source": "에듀진",
+          "published": "2026-09-14T03:44:59.993048+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "afeb4374c7f7c52baef3cc02b1262de0",
+          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
+          "source": "에듀진",
+          "published": "2026-09-14T03:44:58.561598+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7a0aa188b0729b0ff021785b760c511a",
+          "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
+          "source": "에듀진",
+          "published": "2026-09-14T03:44:57.206573+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "1df9afafb0561b027cae8d6374abf769",
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
@@ -522,16 +562,6 @@
           "is_new": false
         },
         {
-          "id": "3180741ff58d1e6bb53319998f9eb622",
-          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
-          "source": "에듀진",
-          "published": "2026-09-14T00:00:26.867902+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "41e29c14474fc2ce7e6e27ef7b37697a",
           "title": "남서울대 2027수시경쟁률 5.37대1 '비슷'.. 간호학과(학생부종합 면접형) 25.0대1 '최고'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=627602",
@@ -539,7 +569,7 @@
           "published": "2026-09-14T00:00:23.121019+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98258af0ce8c00926deb4c55c358b317",
@@ -1340,56 +1370,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "96492655969785fefc0e621a1b53ce7c",
-          "title": "올해 수시 더 과감해지나… 수험생 52.5% 상향지원에 무게",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53956",
-          "source": "에듀진",
-          "published": "2026-08-31T02:50:11.272470+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "81287ffe5538f4156accd0c1338e1cd1",
-          "title": "2027 가톨릭대 논술전형 경쟁률 분석 및 지원전략",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=53963",
-          "source": "에듀진",
-          "published": "2026-08-31T02:50:07.964210+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c8dd7385ccac3139690e97e03a2f828c",
-          "title": "2027학년도 대학 수시 특집",
-          "link": "https://www.idomin.com/news/articleView.html?idxno=2013566",
-          "source": "www.idomin.com",
-          "published": "2026-08-31T02:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "3157ca92e81236973815148893eb3ce2",
-          "title": "“충원율 높으면 합격 쉬울까”…수시 지원 전 ‘3개년 흐름’ 봐야",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/31/2026083180077.html",
-          "source": "edu.chosun.com",
-          "published": "2026-08-31T01:56:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "42c4e072643fe444c1e9f61c924ae0a6",
-          "title": "대동학원, 추석 연휴 '2027 수시 논술특강' 운영…대학별 논술 일정 맞춤...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=111390",
-          "source": "edu.donga.com",
-          "published": "2026-08-31T01:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -2028,6 +2008,46 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "c3b2941524f71984dee1ce9bf0c422b9",
+          "title": "[2027학년도 수시 경쟁률] &quot;역대 최고치 찍었다&quot;… 숭실대, 2027학년도 수...",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129687",
+          "source": "www.dailysmart.co.kr",
+          "published": "2026-09-14T02:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f9ec3504587d389b9c98c48179a910ff",
+          "title": "수시 ‘먹통’에 경쟁률 보고 지원한 학생 조사",
+          "link": "https://n.news.naver.com/mnews/article/016/0002696926?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-09-14T02:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "65ce80f67548feadc1aa7b447a45be0f",
+          "title": "와이디아카데미, 고3 수시 원서접수 마무리… 입시 일정 관리 이어가",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067176",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-09-14T01:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b34d6f933d7ba9deff364932172ddd2f",
+          "title": "경상국립대 수시 경쟁률 8.09대 1…지원자 3만명 몰렸다",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1405723",
+          "source": "daily.hankooki.com",
+          "published": "2026-09-14T01:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "9e4248d5600f02b3accb49adcd3195da",
           "title": "대입 수시 접수 못해 '발 동동'…정부, 구제 나선다[오늘아침]",
           "link": "https://n.news.naver.com/mnews/article/079/0004188820?sid=102",
@@ -2478,6 +2498,16 @@
           "is_new": false
         },
         {
+          "id": "a8d1a9b3ac723c363a45a6f336c64772",
+          "title": "2027학년도 대입 수시 원서접수, 핵심 체크리스트와 유의사항 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmMTMyWWpjUXdHenZGT3UzTDJJaENIZG5vVjd3bHNaUWZMR1BhT195R2VXUGJCZk1oWDNEcWt5LW55cWFVY184MGRSdlNiSUlPMUJfRU94Qk1SR3F1cG1rUTNpUy01d0xH?oc=5",
+          "source": "2news.co.kr",
+          "published": "2026-09-05T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "b3777e8f0ac2fd306f61f1a7c477c9b0",
           "title": "수시철 앞둔 학폭 처분, 불복은 ‘시간 싸움’",
           "link": "https://n.news.naver.com/mnews/article/050/0000110503?sid=101",
@@ -2883,16 +2913,6 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
           "source": "한입신문",
           "published": "2026-08-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "de435d56b7a166b769ab029c14df496a",
-          "title": "대동학원, 추석 연휴 ‘2027 수시 논술특강’ 운영…대학별 논술 일정 맞춤 대비 - E동아",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySTNfMFFKaVBaN2QxbmgxYjJZcGJuTW1lUW1ib3p5cVBQdzRNb2FjOW40NWN2dmFfOGhMUEZ6dDRzdHNvbDR0dTZ3MVYxSjJIWE80a1dKZWxmTjdmTENzdU0zWkJUQ1U?oc=5",
-          "source": "E동아",
-          "published": "2026-08-31T01:52:40+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
