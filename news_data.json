@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-13T22:14:23.639610+00:00",
+  "updated_at": "2026-09-14T00:12:38.118833+00:00",
   "available_archives": [
+    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-13T21:59:20.365722+00:00",
+          "published": "2026-09-13T23:58:00.079836+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +32,7 @@
           "published": "2026-09-13T20:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "235943885915feec60fbaff91f1798af",
@@ -435,9 +436,9 @@
         },
         {
           "id": "08cd7217f79c782502a026c13e31e52f",
-          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - specialtimes.co.kr",
+          "title": "EBS, 9월 모의평가 당일 '특별생방송'으로 출제 경향 및 수능 전략 분석 - 스페셜타임스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zUXZ4Qm1OajhXWXRzMm1qTWtpbE03MXE0cElGWlJfRHhNU1RFQkd3UjFrZVMxbDBaSXhvSzRoRnFsUF9ZZDI5SVotUUtqb2xJVDBjMktHdkNMV0Zfb19VTjBDeE5oVzRJSmNJU3M5UXA5dmc?oc=5",
-          "source": "specialtimes.co.kr",
+          "source": "스페셜타임스",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -515,10 +516,30 @@
           "title": "서울대가 원하는 학생부와 다른 대학이 원하는 학생부는 같을까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54064",
           "source": "에듀진",
-          "published": "2026-09-13T22:01:56.216841+00:00",
+          "published": "2026-09-14T00:00:31.278219+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3180741ff58d1e6bb53319998f9eb622",
+          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
+          "source": "에듀진",
+          "published": "2026-09-14T00:00:26.867902+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "41e29c14474fc2ce7e6e27ef7b37697a",
+          "title": "남서울대 2027수시경쟁률 5.37대1 '비슷'.. 간호학과(학생부종합 면접형) 25.0대1 '최고'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627602",
+          "source": "베리타스알파",
+          "published": "2026-09-14T00:00:23.121019+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "98258af0ce8c00926deb4c55c358b317",
@@ -1369,16 +1390,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "94c31198c34a50b5ab183c1bc5b20775",
-          "title": "[재수 반수 대신 편입 98] 편입시장성장 핵심 공학계열..공학계열 최근...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624879",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-30T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -2008,36 +2019,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "c65b70b6ccfcf9d58881f6af7c6a60ec",
-          "title": "상명대, 2027학년도 수시 1958명…자유전공 확대",
-          "link": "https://n.news.naver.com/mnews/article/015/0005326507?sid=102",
-          "source": "www.hankyung.com",
-          "published": "2026-08-31T00:01:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b6ab386a1bee06bb192805e2a34f0208",
-          "title": "[김형일의 입시컨설팅] (243) 2027학년도 주요대학 지원전략(9) - 국민대...",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151636",
-          "source": "www.smartbizn.com",
-          "published": "2026-08-31T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "48b6bd0b10efb4dbfe57ca334d3ea8a8",
-          "title": "[2027 수시 특집] 상명대 수시 1,958명 맞춤형 선발…9월 7일부터 원서접...",
-          "link": "http://www.beyondpost.co.kr/view.php?ud=20260831073944982792e75d13a3_30",
-          "source": "www.beyondpost.co.kr",
-          "published": "2026-08-30T23:36:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2054,7 +2035,7 @@
           "published": "2026-09-13T22:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7b09ee04eae5baba203d49236f469ad2",
@@ -2064,7 +2045,7 @@
           "published": "2026-09-13T21:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9df49e82f2d033fcf59224c9f9b9eec3",
