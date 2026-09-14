@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:33:56.718221+00:00",
+  "updated_at": "2026-09-14T21:30:25.848089+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-14T16:05:35.105589+00:00",
+          "published": "2026-09-14T21:15:31.296006+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -486,7 +486,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-14T16:10:29.102650+00:00",
+          "published": "2026-09-14T21:18:08.585613+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -496,7 +496,7 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-14T16:10:19.598057+00:00",
+          "published": "2026-09-14T21:18:02.732243+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -506,7 +506,7 @@
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-14T16:10:16.168766+00:00",
+          "published": "2026-09-14T21:17:59.795382+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1855,7 +1855,7 @@
           "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 서울권 9개 대학 9개 전형 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUGN1UWs3Q0dHT2E4MVIxRlMyY0xZMlVTbWVsOUlCbGhoUWNia3ZlZWZOc0tUNndjTWVSal9FVVdGT0FwbXBZRDdWa1ZHOGtZYUVNOEZ2bHNRRnBHU2VVaGR6OHZXM0Uw?oc=5",
           "source": "한입신문",
-          "published": "2026-09-03T01:11:46+00:00",
+          "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1965,7 +1965,7 @@
           "published": "2026-09-14T15:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "045cf6cc1f454e4692507fcceb799db2",
@@ -2843,16 +2843,6 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1408255",
           "source": "www.m-i.kr",
           "published": "2026-08-31T23:38:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f2ddb3b8c3f060cd033bbb250ef5efdd",
-          "title": "&quot;신입생 선점하자&quot;…수시비율 80.3%로 더 늘었다",
-          "link": "https://n.news.naver.com/mnews/article/018/0006361217?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-08-31T20:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
