@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T03:57:20.095339+00:00",
+  "updated_at": "2026-09-14T09:41:55.168857+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-14T03:42:34.178224+00:00",
+          "published": "2026-09-14T09:26:44.593205+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3281d4813927459b9cfe920be472ba4b",
+          "title": "[단독] [2027수시경쟁률] 상위15개대 교과 7.05대1 '하락'.. 서강대 13.01...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627654",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-14T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1f9ade662fbb5de54ac0c8a0ede1d582",
@@ -473,36 +483,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "db757b71dcd7bd4ed78ab82f1af80f6f",
-          "title": "[2027수시특집] '복지/ICT 융합교육' 강남대 959명(64.3%) 모집.. 체육학...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623313",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-31T07:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9cba824a5f329f0be8698ddd35ac1ace",
-          "title": "환경재단, 청소년 대상 ‘제3회 기후수학능력시험’ 성료",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/08/31/2026083180117.html",
-          "source": "edu.chosun.com",
-          "published": "2026-08-31T04:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d3f31ee546c7190743b75b16283c7370",
-          "title": "메가스터디교육, 9월 수능 모의평가 풀서비스 무료 제공",
-          "link": "https://n.news.naver.com/mnews/article/421/0009141628?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-08-31T04:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -516,7 +496,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-14T03:45:06.148594+00:00",
+          "published": "2026-09-14T09:29:23.544481+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -526,27 +506,47 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-14T03:44:59.993048+00:00",
+          "published": "2026-09-14T09:29:17.184066+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "afeb4374c7f7c52baef3cc02b1262de0",
-          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
-          "source": "에듀진",
-          "published": "2026-09-14T03:44:58.561598+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7a0aa188b0729b0ff021785b760c511a",
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-14T03:44:57.206573+00:00",
+          "published": "2026-09-14T09:29:14.129899+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "10732df9275f06913eb25762ada18631",
+          "title": "삼육대, 논술전형 대폭 확대…약학과 ‘약술형 논술’ 도입",
+          "link": "https://n.news.naver.com/mnews/article/028/0002823030?sid=102",
+          "source": "www.hani.co.kr",
+          "published": "2026-09-14T08:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8ddcbd68858ab91a6108ff259d9fbdf7",
+          "title": "이투스, 2027년 수시 면접 ‘SKY’ 최대 40%…서류형·제시문형 전략 달...",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596930899538",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-09-14T07:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "991c5d17450cc308c7019e3cdeb5ef59",
+          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’ - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96VVlhZWZNSjBSZkxJaThvZUFGdXluU05JM0ZQNC1aVVVFM2o4eEN6Q01JUUpvZVNTdlNUNmZPTUdycEtET3dGcVNWOVkyV2RFbThTcHpmQVl0OTJLbXVna3dycUpBY2M5Vmc?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-09-14T02:41:11+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1350,26 +1350,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "fa0f7514ffe1c6330c028725f3a70644",
-          "title": "[스마트 1분 상식 – 2027학년도 대입 합격 팁] &quot;뽑아 놓으면 딴 학과 가...",
-          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128872",
-          "source": "www.dailysmart.co.kr",
-          "published": "2026-08-31T09:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "044d2894f9c6868ac463fdea29e76b5c",
-          "title": "롯데, 9월 예측 가능한 수시 채용 진행…15개 계열사 참여",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938757",
-          "source": "sports.hankooki.com",
-          "published": "2026-08-31T06:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1514,16 +1494,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=625180",
           "source": "베리타스알파",
           "published": "2026-08-31T10:25:16.360460+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "efe48007587ec76398ee4c50e2dcab31",
-          "title": "[2027수시특집] 'AI/DX 융합인재 틔움대학' 동명대 1424명(98.21%) 모집.. ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=624116",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-31T07:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1740,6 +1710,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "e27d375bdf86a500e41a5c9e80beccc0",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
+          "source": "한겨레",
+          "published": "2026-09-14T08:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "de35be03987d497db78f690c65374dc3",
           "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
@@ -1989,16 +1969,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "dce799901097ff27b133d9331c4c88db",
-          "title": "[2027수시특집] '미용/공연예술에서 미래융합까지' 서경대 1013명(79.8%) 모...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=623432",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-31T07:58:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2008,6 +1978,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "045cf6cc1f454e4692507fcceb799db2",
+          "title": "간호·보건 부동의 1위, 자율전공 쑥…전문대 수시 트렌드",
+          "link": "https://n.news.naver.com/mnews/article/079/0004189219?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-14T08:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "657ebd625d38f781038fb7afea876bfd",
+          "title": "경성대 수시, 모집 10명 줄었는데 지원자는 271명 늘어",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260914010004336",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-09-14T08:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e94364aa0a946f6aaba2a6b744c49ae3",
+          "title": "대교협, '수시 먹통' 사과…&quot;미접수 수험생 구제절차 마련&quot;",
+          "link": "https://n.news.naver.com/mnews/article/079/0004189205?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-14T08:33:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c3b2941524f71984dee1ce9bf0c422b9",
           "title": "[2027학년도 수시 경쟁률] &quot;역대 최고치 찍었다&quot;… 숭실대, 2027학년도 수...",
           "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129687",
@@ -2015,7 +2015,7 @@
           "published": "2026-09-14T02:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f9ec3504587d389b9c98c48179a910ff",
@@ -2025,7 +2025,7 @@
           "published": "2026-09-14T02:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "65ce80f67548feadc1aa7b447a45be0f",
@@ -2035,7 +2035,7 @@
           "published": "2026-09-14T01:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b34d6f933d7ba9deff364932172ddd2f",
@@ -2045,7 +2045,7 @@
           "published": "2026-09-14T01:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e4248d5600f02b3accb49adcd3195da",
@@ -2886,36 +2886,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "a6b2d2b4a04090ab351bc0269ec68f42",
-          "title": "동원과학기술대학교, 수시모집 전 학과에서 수능 성적 미반영",
-          "link": "https://n.news.naver.com/mnews/article/082/0001396244?sid=102",
-          "source": "www.busan.com",
-          "published": "2026-08-31T08:32:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8ed6444e967062efa0a665b1c20a0c40",
-          "title": "[2027수시특집] '취업사관학교' 경동대 1520명(97.7%) 모집.. '태권도특기...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=619482",
-          "source": "www.veritas-a.com",
-          "published": "2026-08-31T07:54:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c9396db91436c19db0aeaabf0dc8a69f",
-          "title": "2027 수시 원서 접수 언제까지?.. 128개 대학·캠퍼스 마감일·마감시간 총정리 - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93ZTdwc0FWQ0ZMT1Zfc0tneUJpVmdNM1dUZnNTTkdBbkRweU5RZE5oYm1oSUxNZ0V3VjFsYzNHaWJjVDF4bG1Md0dTWHIzazhaUUlhTTFIcmZtYTU1em1ZY1ctdldKRTFu?oc=5",
-          "source": "한입신문",
-          "published": "2026-08-31T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2924,6 +2894,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "f911fe172805373d5dc070c0830125f0",
+          "title": "&quot;내신 5등급제 대비는&quot;…울산교육청, 고교 맞춤형 진학 상담 개시",
+          "link": "https://n.news.naver.com/mnews/article/079/0004189148?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-14T07:21:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "04fa7fdfb8a296550d2b3402b83a3d66",
           "title": "&quot;명문고 아니라 빈 교실 될 수도&quot;···자사고 지원자 4년 연속 감소, 지...",
