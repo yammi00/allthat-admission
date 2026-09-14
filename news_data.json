@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T09:41:55.168857+00:00",
+  "updated_at": "2026-09-14T16:33:56.718221+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-14T09:26:44.593205+00:00",
+          "published": "2026-09-14T16:05:35.105589+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-09-14T08:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1f9ade662fbb5de54ac0c8a0ede1d582",
@@ -473,16 +473,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "491a50c36f21d568ee8125a1f627b589",
-          "title": "'2026년 9월 모의고사' 작년 등급컷 어땠나? 시간표와 난이도 전망",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3680083",
-          "source": "www.gukjenews.com",
-          "published": "2026-08-31T15:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -496,7 +486,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-14T09:29:23.544481+00:00",
+          "published": "2026-09-14T16:10:29.102650+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -506,7 +496,7 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-14T09:29:17.184066+00:00",
+          "published": "2026-09-14T16:10:19.598057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -516,7 +506,7 @@
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-14T09:29:14.129899+00:00",
+          "published": "2026-09-14T16:10:16.168766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -529,7 +519,7 @@
           "published": "2026-09-14T08:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ddcbd68858ab91a6108ff259d9fbdf7",
@@ -539,7 +529,7 @@
           "published": "2026-09-14T07:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "991c5d17450cc308c7019e3cdeb5ef59",
@@ -549,7 +539,7 @@
           "published": "2026-09-14T02:41:11+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1df9afafb0561b027cae8d6374abf769",
@@ -1487,16 +1477,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "dbafb36760b8e9763557c83dd57276a5",
-          "title": "서울대 2027정시요강 공개 '주목' 1374명(38.4%).. 일반 20명 지균1명 ‘확대’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=625180",
-          "source": "베리타스알파",
-          "published": "2026-08-31T10:25:16.360460+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1715,10 +1695,10 @@
           "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
           "source": "한겨레",
-          "published": "2026-09-14T08:30:00+00:00",
+          "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
@@ -1978,6 +1958,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "cf0775515d23577cf7ed89464154f3e9",
+          "title": "'등록금 0원' '지역의사제' 대학 수시 판도 흔들",
+          "link": "http://www.gjdream.com/news/articleView.html?idxno=672663",
+          "source": "www.gjdream.com",
+          "published": "2026-09-14T15:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "045cf6cc1f454e4692507fcceb799db2",
           "title": "간호·보건 부동의 1위, 자율전공 쑥…전문대 수시 트렌드",
           "link": "https://n.news.naver.com/mnews/article/079/0004189219?sid=102",
@@ -1985,7 +1975,7 @@
           "published": "2026-09-14T08:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "657ebd625d38f781038fb7afea876bfd",
@@ -1995,7 +1985,7 @@
           "published": "2026-09-14T08:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e94364aa0a946f6aaba2a6b744c49ae3",
@@ -2005,7 +1995,7 @@
           "published": "2026-09-14T08:33:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c3b2941524f71984dee1ce9bf0c422b9",
@@ -2419,9 +2409,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "김포신문",
+          "source": "igimpo.com",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
@@ -2866,26 +2856,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "1096b7672f67150a4e5f2916bcc5c350",
-          "title": "한신대, 2027학년도 정시모집서 일반학생 등 110명 선발 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PeFJGbU9wNnUxLXg1R3RlV01YMEVBTldxZ0VrOTB5RzlFbEhGb0pVMnlzWWZtTXVlOUhhWjhObmFvUF9ocGFQQ29aSGMyck1Oei1va0xkalIwcWJyU21wcU9wQXhCQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-08-31T14:07:05+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "88a9ddd03c05ad8fa4674fa6702a6fb9",
-          "title": "2029학년도 대입 일정 나왔다",
-          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1096845",
-          "source": "www.ccdn.co.kr",
-          "published": "2026-08-31T09:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -2902,7 +2872,7 @@
           "published": "2026-09-14T07:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "04fa7fdfb8a296550d2b3402b83a3d66",
