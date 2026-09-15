@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:30:25.848089+00:00",
+  "updated_at": "2026-09-15T00:22:08.795636+00:00",
   "available_archives": [
     "2026-08",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-14T21:15:31.296006+00:00",
+          "published": "2026-09-15T00:07:10.713150+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6082f176319f1f67ce38c82206fa09a6",
+          "title": "&quot;등록금 공짜, 억대 연봉 보장?&quot; 수험생 우르르...대입 판 흔드는 '계약...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005413683?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-09-14T21:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3281d4813927459b9cfe920be472ba4b",
@@ -65,9 +75,9 @@
           "is_new": false
         },
         {
-          "id": "ae780e427a6b82a996c352866df4ed58",
+          "id": "26b1b683d1c88c0f542137f0b4ccb87b",
           "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oWDd2NEp5SmNLYXJ0eDBrSDVTWExnZ2NHV1FRc1h0ckN0Z1QwTUVSTUVqc2xGbVYwYThkTVJJbFdTdHN4Ync?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLXRIRG84Rll5V3dvQkJpYmhHYjZmR0VtSkEwNENjc08zVUZwLThRd3lCSXl5ZXFwSUFlbTVteGx0ZU42Y1ZVOXNmaHRLVG8?oc=5",
           "source": "v.daum.net",
           "published": "2026-09-08T12:09:26+00:00",
           "type": "news",
@@ -486,7 +496,7 @@
           "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
           "source": "에듀진",
-          "published": "2026-09-14T21:18:08.585613+00:00",
+          "published": "2026-09-15T00:09:46.661405+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -496,20 +506,70 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-14T21:18:02.732243+00:00",
+          "published": "2026-09-15T00:09:41.831769+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "afeb4374c7f7c52baef3cc02b1262de0",
+          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
+          "source": "에듀진",
+          "published": "2026-09-15T00:09:40.171996+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "7a0aa188b0729b0ff021785b760c511a",
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-14T21:17:59.795382+00:00",
+          "published": "2026-09-15T00:09:38.993703+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "7fa3295fb25998d09ce03a18d744b07a",
+          "title": "[단독] [2027수시경쟁률] 전국 44개교 논술 48.07대1 ‘역대 최고’.. '개편 전 막차' 20만 육박 N수생 합류",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627780",
+          "source": "베리타스알파",
+          "published": "2026-09-15T00:09:33.590541+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8309c2c8f80aadbd49a59d49a997cf39",
+          "title": "수시 면접 준비, 9월 모의고사 가채점 뒤 먼저 볼 것은 면접 형식",
+          "link": "https://dhnews.co.kr/news/view/1065599600099991",
+          "source": "dhnews.co.kr",
+          "published": "2026-09-15T00:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7abae750959b16bbe2c6869164ddfd7e",
+          "title": "현대차·LG, 대기업 계약학과 열풍…7개 대학 수시 8994명 지원 '역대 최...",
+          "link": "https://n.news.naver.com/mnews/article/421/0009170069?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-15T00:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7f7b5841a4907619be4e74a2b66a3809",
+          "title": "삼전닉스 계약학과 수시 지원 8994명…'역대 최다'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014189974?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-14T23:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "10732df9275f06913eb25762ada18631",
@@ -1958,6 +2018,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "4f78046eae029e8b252005ce615c6494",
+          "title": "[정영주의 도란도란 입시톡] 경쟁률 확인은 그만…수시 합격을 위해 지...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/14/2026091480164.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-15T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "cf0775515d23577cf7ed89464154f3e9",
           "title": "'등록금 0원' '지역의사제' 대학 수시 판도 흔들",
           "link": "http://www.gjdream.com/news/articleView.html?idxno=672663",
@@ -2409,9 +2479,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "igimpo.com",
+          "source": "김포신문",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
@@ -2833,16 +2903,6 @@
           "link": "https://n.news.naver.com/mnews/article/079/0004184501?sid=102",
           "source": "www.nocutnews.co.kr",
           "published": "2026-09-01T01:41:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "0d3193efdd950f87cc343d8e8b09ac68",
-          "title": "&quot;9월 모평 이후 학습 우선순위 재정비해야&quot;… 이투스, 수능 대비 3대 전...",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1408255",
-          "source": "www.m-i.kr",
-          "published": "2026-08-31T23:38:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
