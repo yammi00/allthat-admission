@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-09-15T00:22:08.795636+00:00",
+  "updated_at": "2026-09-15T07:16:40.404426+00:00",
   "available_archives": [
-    "2026-08",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-15T00:07:10.713150+00:00",
+          "published": "2026-09-15T07:02:01.990655+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-09-14T21:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3281d4813927459b9cfe920be472ba4b",
@@ -75,9 +74,9 @@
           "is_new": false
         },
         {
-          "id": "26b1b683d1c88c0f542137f0b4ccb87b",
+          "id": "ae780e427a6b82a996c352866df4ed58",
           "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLXRIRG84Rll5V3dvQkJpYmhHYjZmR0VtSkEwNENjc08zVUZwLThRd3lCSXl5ZXFwSUFlbTVteGx0ZU42Y1ZVOXNmaHRLVG8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oWDd2NEp5SmNLYXJ0eDBrSDVTWExnZ2NHV1FRc1h0ckN0Z1QwTUVSTUVqc2xGbVYwYThkTVJJbFdTdHN4Ync?oc=5",
           "source": "v.daum.net",
           "published": "2026-09-08T12:09:26+00:00",
           "type": "news",
@@ -492,21 +491,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "3180741ff58d1e6bb53319998f9eb622",
-          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
-          "source": "에듀진",
-          "published": "2026-09-15T00:09:46.661405+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "0d8260f683be3243793f2ab15915d657",
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-15T00:09:41.831769+00:00",
+          "published": "2026-09-15T07:04:36.410467+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -516,17 +505,47 @@
           "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
           "source": "에듀진",
-          "published": "2026-09-15T00:09:40.171996+00:00",
+          "published": "2026-09-15T07:04:34.676305+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7a0aa188b0729b0ff021785b760c511a",
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-15T00:09:38.993703+00:00",
+          "published": "2026-09-15T07:04:33.584893+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "d1a4ae00900e149bd53b1debe60423eb",
+          "title": "‘언제까지 수험생 피해자 몰아갈 건가' 수시 먹통 어플라이 '공공관리체제 넘겨야 .. '공정위 시정명령, 합격선 조작의혹 이어 지원기회 훼손까지",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=627905",
+          "source": "베리타스알파",
+          "published": "2026-09-15T07:04:24.719896+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bae469fe74d62ed3991530d1ff6732c9",
+          "title": "수시 면접, 대학마다 평가 기준 달라…서류·제시문 면접 어떻게 준비할...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/15/2026091580020.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-15T00:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3180741ff58d1e6bb53319998f9eb622",
+          "title": "인서울·수도권 중상위권 수시 경쟁률 엇갈려…숭실대 급상승, 국민대·서울과기대 하락",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54116",
+          "source": "에듀진",
+          "published": "2026-09-15T00:09:46.661405+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -539,7 +558,7 @@
           "published": "2026-09-15T00:09:33.590541+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8309c2c8f80aadbd49a59d49a997cf39",
@@ -549,7 +568,7 @@
           "published": "2026-09-15T00:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7abae750959b16bbe2c6869164ddfd7e",
@@ -559,7 +578,7 @@
           "published": "2026-09-15T00:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7f7b5841a4907619be4e74a2b66a3809",
@@ -569,7 +588,7 @@
           "published": "2026-09-14T23:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "10732df9275f06913eb25762ada18631",
@@ -1490,9 +1509,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1762,9 +1781,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2018,6 +2037,66 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "5a750ac1724c42ded5ae7a8962554f97",
+          "title": "수시 접수 장애에 드러난 민간 대행 한계… 교육부 &quot;직접 관리 검토&quot;",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3432888",
+          "source": "www.newscj.com",
+          "published": "2026-09-15T06:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "6767bd64fbd17b1bd4e7657efff96c59",
+          "title": "서정대 2027 수시, 자연과학계열 219명 선발…조리·반려동물·뷰티 실무...",
+          "link": "https://www.wikitree.co.kr/articles/1159598",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-09-15T04:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f3dff22c5e90cc3b998d041d5bcea5d8",
+          "title": "동국대 WISE캠퍼스 수시 경쟁률 4.8대 1…의예과 최고 36대 1",
+          "link": "https://n.news.naver.com/mnews/article/025/0003551468?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-15T03:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "84e6c7c215b05016d8063c471c90269a",
+          "title": "교육부 ‘수시 먹통’ 사태에 맹탕 대책만",
+          "link": "https://n.news.naver.com/mnews/article/021/0002818882?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-09-15T02:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "9d4787bb1ee9d301f5ca77f27ad9225d",
+          "title": "막차 입시·지역의사·컨설팅 제한·수시 먹통…&quot;왜 하필 올해냐&quot; 뿔난 ...",
+          "link": "https://n.news.naver.com/mnews/article/421/0009170819?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-15T02:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e22e2135c95a6357156746619c47cc6d",
+          "title": "수시 원서접수 후 찾아오는 '수시병' 주의…수능까지 학습 페이스 유지...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111916",
+          "source": "edu.donga.com",
+          "published": "2026-09-15T00:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4f78046eae029e8b252005ce615c6494",
           "title": "[정영주의 도란도란 입시톡] 경쟁률 확인은 그만…수시 합격을 위해 지...",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/14/2026091480164.html",
@@ -2025,7 +2104,7 @@
           "published": "2026-09-15T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cf0775515d23577cf7ed89464154f3e9",
@@ -2449,9 +2528,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
