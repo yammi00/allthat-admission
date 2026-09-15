@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:16:54.740150+00:00",
+  "updated_at": "2026-09-15T18:06:02.517892+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-15T13:02:17.591891+00:00",
+          "published": "2026-09-15T17:51:20.023405+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-15T08:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6082f176319f1f67ce38c82206fa09a6",
@@ -239,6 +239,16 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1179603",
           "source": "www.ggilbo.com",
           "published": "2026-09-03T07:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "80dfa6ecd23ab53a1432bf113dde12ae",
+          "title": "9월 모평만 믿고 낙관은 금물…\"보수적 수시 지원 필요\" - newsis.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTc2NKRXpVYzhpMWNuNUFDTGltSHNFelpOekVTZV82dUtxMTltUzVqMkVIbHQ0M2VBRUk3OWE3UkJCOVRUdWwtM3Zta3NGM0U3Q1lWTFpudUlNMkVUZDlvUdIBeEFVX3lxTFBjUlIzUEFhZjZydmM5T0s4dEdGYWRUMjVjU1o4cXJodVJGejdLTWlTTjFJMzBFazF5b0c1S1BHTGs5M2t6bHdWRWJscWphRUlSYU5uRXg2ZDV0ckJENGJiUER0b1AxajJIZ25nakQyMUZzN0VEY3hmaA?oc=5",
+          "source": "newsis.com",
+          "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -505,7 +515,7 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-15T13:04:50.318301+00:00",
+          "published": "2026-09-15T17:53:55.723268+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -515,7 +525,7 @@
           "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
           "source": "에듀진",
-          "published": "2026-09-15T13:04:49.069229+00:00",
+          "published": "2026-09-15T17:53:54.263716+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -525,7 +535,7 @@
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-15T13:04:47.900684+00:00",
+          "published": "2026-09-15T17:53:53.150977+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1115,7 +1125,7 @@
           "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
           "source": "newsis.com",
-          "published": "2026-09-05T02:00:00+00:00",
+          "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1583,7 +1593,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5c264a09af6fd7af4fa2a363962704ab",
@@ -1792,9 +1802,9 @@
       "items": [
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "hani.co.kr",
+          "source": "한겨레",
           "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2058,6 +2068,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "cedbe8ffdc2b1351fcfe7d81fa0b7583",
+          "title": "수시 '먹통' 사태 당시 경쟁률 볼 수 있었던 대학 '17곳'",
+          "link": "https://n.news.naver.com/mnews/article/277/0005816811?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-09-15T14:57:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "e0c92b361d772401fb301b984ae2d7d0",
           "title": "“마감 후 접수 원서 일괄 취소” 서명 2만여명…교육부 정문에 항의 화...",
           "link": "https://n.news.naver.com/mnews/article/025/0003551579?sid=102",
@@ -2065,7 +2085,7 @@
           "published": "2026-09-15T09:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "248b40f3718cf37e2cfc6aa35b4c22dd",
@@ -2075,7 +2095,7 @@
           "published": "2026-09-15T08:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "62985d26cf247f1aa980b7bd40abfbe3",
@@ -2085,7 +2105,7 @@
           "published": "2026-09-15T08:31:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8ab62d00e9d6589cbd9722cbcc52038e",
@@ -2095,7 +2115,7 @@
           "published": "2026-09-15T07:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a750ac1724c42ded5ae7a8962554f97",
@@ -2136,6 +2156,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "42b16f4bf6f8c94cf67acc355921036c",
+          "title": "2027학년도 대입 수험생, 연쇄 입시 변수에 혼란 가중 - 2news.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sYWNtX1hRVnpwUl96b25zRlRyeXNNR2s5bjA2bVQ5ejd1SWdVZE03eks1Mk1LNEg5dlgyWUFYcDR5NXdHT3FKRGdxRTlOV00tbGZVaC1yZ1BMUi03TGtTOUwwb2hlbWVt?oc=5",
+          "source": "2news.co.kr",
+          "published": "2026-09-15T02:55:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "9d4787bb1ee9d301f5ca77f27ad9225d",
@@ -2619,9 +2649,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "igimpo.com",
+          "source": "김포신문",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
