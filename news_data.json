@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T02:59:38.243891+00:00",
+  "updated_at": "2026-09-16T09:13:37.450173+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,6 +14,36 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "2d7bc133b9ad2dff037f43efe7883277",
+          "title": "수능 앞둔 수험생, 실전 감각이 성적 좌우… 반복적인 모의고사 훈련 중...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112008",
+          "source": "edu.donga.com",
+          "published": "2026-09-16T04:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a9bbfb4fcc9bfffa9f6b58aade76414d",
+          "title": "평가원 '2026 수능 결과' 발표…'N수생 압도적 우위' 재확인",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=227177",
+          "source": "www.youthdaily.co.kr",
+          "published": "2026-09-16T03:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "abb9eb3b822f667e9c94ffd8040f24f1",
+          "title": "작년 수능도 'N수생' 강세…국수 평균 고3보다 12∼13점 높아",
+          "link": "https://n.news.naver.com/mnews/article/001/0016314509?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-09-16T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "04eeb5f2ae00ac2a4f679cea09f9ec8c",
           "title": "EBS, ‘9월 모의평가 출제 경향 및 학습 전략’ 공개",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/16/2026091680045.html",
@@ -21,7 +51,7 @@
           "published": "2026-09-16T01:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9a4b1daf0648207388ff85bd09b77012",
@@ -511,6 +541,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "86b9dd799ab0d77b37877e792f624df2",
+          "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
+          "source": "에듀진",
+          "published": "2026-09-16T09:01:01.631766+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "077075ec41566c53635690b075942236",
+          "title": "[단독] [2027정시] '정시 학생부 반영' 7개대 6684명 경쟁률 하락할까.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628153",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-16T07:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "afeb4374c7f7c52baef3cc02b1262de0",
           "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
@@ -529,16 +579,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "86b9dd799ab0d77b37877e792f624df2",
-          "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
-          "source": "에듀진",
-          "published": "2026-09-16T02:47:04.071241+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "af2cf99c861bab8e34c62ca39c4b7e64",
@@ -2078,6 +2118,46 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "33d2649288935734ffb13bbe708fc95d",
+          "title": "광운대 정보과학교육원, 수시 기간 논술·실기 없이 면접전형 선발",
+          "link": "https://n.news.naver.com/mnews/article/215/0001266212?sid=102",
+          "source": "www.wowtv.co.kr",
+          "published": "2026-09-16T08:33:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f4ae3dd916ade9beaaa49cbebce46de4",
+          "title": "2학기 대입 준비, 학년별 전략이 승패 가른다…고3 ‘실전’ · 고2 ‘전...",
+          "link": "https://www.kbmaeil.com/article/20260916500481",
+          "source": "www.kbmaeil.com",
+          "published": "2026-09-16T08:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "86ed9d8c23445f4094ed005c7022b9a2",
+          "title": "[단독] [2027정시] ‘정시 학생부 반영’ 7개대 6684명 경쟁률 하락할까.. 'N수생 상대적 부담' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSmlyNjVhXzV6enhUMjJPNXVnN2FzU0Z1MGpXZDN2RVRoWUdIRzl4c0pOMDVveWZxUVZwN09OWXJUQm5tZHJydDE4NG9wUmVYNDNocGhCZnlsaFNLeWFVaHlrSkxTcmFPeDc4OA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-16T06:41:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "4e63e9d06af36e8f142fb38511ffe586",
+          "title": "대입 원서접수 장애 '관리 공백'… 법조계 &quot;법률로 관리·감독 근거 마련...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=597494",
+          "source": "news.unn.net",
+          "published": "2026-09-16T04:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3891d5edd0524b1ee82952b7fefb215e",
           "title": "전교조 “경쟁 중심 대입제도와 대학 서열체제 근본적으로 개편해야”",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/16/2026091680031.html",
@@ -2085,7 +2165,7 @@
           "published": "2026-09-16T01:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a0449547c28b47e5d4068b06793aaa6",
@@ -2095,7 +2175,7 @@
           "published": "2026-09-16T00:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cedbe8ffdc2b1351fcfe7d81fa0b7583",
@@ -2599,9 +2679,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "딜라이브뉴스",
+          "source": "news.dlive.kr",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -3114,6 +3194,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "d00e1fb07685cb7c4f9514d2c0c86fde",
+          "title": "[단독] [2027광역자사고] 서울 14개교 5597명 ‘축소’.. 휘문 70명 축소, 경희 완전추첨 전환",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628180",
+          "source": "베리타스알파",
+          "published": "2026-09-16T09:11:16.961896+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f911fe172805373d5dc070c0830125f0",
           "title": "&quot;내신 5등급제 대비는&quot;…울산교육청, 고교 맞춤형 진학 상담 개시",
