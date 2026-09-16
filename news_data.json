@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T14:45:20.385401+00:00",
+  "updated_at": "2026-09-16T19:31:18.731934+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -545,7 +545,7 @@
           "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
           "source": "에듀진",
-          "published": "2026-09-16T14:32:55.003474+00:00",
+          "published": "2026-09-16T19:18:26.916893+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1342,9 +1342,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2898,6 +2898,16 @@
           "is_new": false
         },
         {
+          "id": "4fafb2f6bab7e0014c49b73b2d5405ed",
+          "title": "가톨릭대 2027수시 대학별고사 시간 공개.. 일반 논술 10월11일 ‘의약 11월22일’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FdFJyWEZNNVR1YlNwMTZsak5Vek9VUjFFWGY2RnU4X0JsYnN4SFBCbjhmRWVKQjBsckNBUW9FU1Z6SkY1a2U1VjAzQmtuakRQNmhTS1dzMGdxZmsweDBVLW5Sa1JMRFBRVnhrWg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-04T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "8e76bbc35cae9998774b9d29f020eb43",
           "title": "영진전문대 수시 2309명 선발…AI·디지털 전환 학과 강화",
           "link": "https://n.news.naver.com/mnews/article/079/0004185898?sid=102",
@@ -3199,7 +3209,7 @@
           "title": "[단독] [2027광역자사고] 서울 14개교 5597명 ‘축소’.. 휘문 70명 축소, 경희 완전추첨 전환",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628180",
           "source": "베리타스알파",
-          "published": "2026-09-16T14:43:02.134225+00:00",
+          "published": "2026-09-16T19:28:57.334972+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
