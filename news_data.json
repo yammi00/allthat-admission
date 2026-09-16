@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:58:41.505730+00:00",
+  "updated_at": "2026-09-16T00:07:59.947954+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-15T20:43:28.835986+00:00",
+          "published": "2026-09-15T23:52:50.739125+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -135,9 +135,9 @@
         },
         {
           "id": "4f78979f569bd7c5d01882ef64e765b8",
-          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - kyosu.net",
+          "title": "잇올, 9월 모의평가 분석 및 수능 대비 전략 제시 - 교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zRXRuVlVSVU5WVFdDWjc2M2kydS1HTWZtTEFUMGVBcHJMUDhvdFdoRXBLNGltQ0E4dTlCVkZKX0toSW83T192SVdEa1VzYlZTaTJiamdPQjJiSGljSGhsR1RLZTh6aVk?oc=5",
-          "source": "kyosu.net",
+          "source": "교수신문",
           "published": "2026-09-07T02:30:32+00:00",
           "type": "news",
           "grade": "3",
@@ -515,7 +515,7 @@
           "title": "‘서울대 10개 만들기', '등록금 무료' 기대감 속… 지거국 수시 지원자 1만 4,476명 증가",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54124",
           "source": "에듀진",
-          "published": "2026-09-15T20:46:09.225922+00:00",
+          "published": "2026-09-15T23:55:30.875668+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -525,7 +525,7 @@
           "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54123",
           "source": "에듀진",
-          "published": "2026-09-15T20:46:07.919439+00:00",
+          "published": "2026-09-15T23:55:29.424296+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -535,10 +535,20 @@
           "title": "'지역의사제·안정지원' 겹친 2027학년도 의대 수시 판도",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54125",
           "source": "에듀진",
-          "published": "2026-09-15T20:46:06.439727+00:00",
+          "published": "2026-09-15T23:55:28.117421+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "af2cf99c861bab8e34c62ca39c4b7e64",
+          "title": "[지방고가 살아남는 법] 수시 원서 접수는 끝이 아니라 진짜 출발선이다",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111979",
+          "source": "edu.donga.com",
+          "published": "2026-09-15T23:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d1a4ae00900e149bd53b1debe60423eb",
@@ -1529,9 +1539,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1802,9 +1812,9 @@
       "items": [
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "hani.co.kr",
+          "source": "한겨레",
           "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1812,9 +1822,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2619,9 +2629,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
