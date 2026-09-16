@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:13:37.450173+00:00",
+  "updated_at": "2026-09-16T14:45:20.385401+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -21,7 +21,7 @@
           "published": "2026-09-16T04:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a9bbfb4fcc9bfffa9f6b58aade76414d",
@@ -31,7 +31,7 @@
           "published": "2026-09-16T03:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "abb9eb3b822f667e9c94ffd8040f24f1",
@@ -41,7 +41,7 @@
           "published": "2026-09-16T03:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "04eeb5f2ae00ac2a4f679cea09f9ec8c",
@@ -545,7 +545,7 @@
           "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
           "source": "에듀진",
-          "published": "2026-09-16T09:01:01.631766+00:00",
+          "published": "2026-09-16T14:32:55.003474+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -558,7 +558,7 @@
           "published": "2026-09-16T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "afeb4374c7f7c52baef3cc02b1262de0",
@@ -682,9 +682,9 @@
         },
         {
           "id": "991c5d17450cc308c7019e3cdeb5ef59",
-          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’ - edujin.co.kr",
+          "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’ - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96VVlhZWZNSjBSZkxJaThvZUFGdXluU05JM0ZQNC1aVVVFM2o4eEN6Q01JUUpvZVNTdlNUNmZPTUdycEtET3dGcVNWOVkyV2RFbThTcHpmQVl0OTJLbXVna3dycUpBY2M5Vmc?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-14T02:41:11+00:00",
           "type": "news",
           "grade": "3",
@@ -2125,7 +2125,7 @@
           "published": "2026-09-16T08:33:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f4ae3dd916ade9beaaa49cbebce46de4",
@@ -2135,7 +2135,7 @@
           "published": "2026-09-16T08:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "86ed9d8c23445f4094ed005c7022b9a2",
@@ -2145,7 +2145,7 @@
           "published": "2026-09-16T06:41:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4e63e9d06af36e8f142fb38511ffe586",
@@ -2155,7 +2155,7 @@
           "published": "2026-09-16T04:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3891d5edd0524b1ee82952b7fefb215e",
@@ -2679,9 +2679,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "news.dlive.kr",
+          "source": "딜라이브뉴스",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -2969,9 +2969,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
@@ -3199,10 +3199,10 @@
           "title": "[단독] [2027광역자사고] 서울 14개교 5597명 ‘축소’.. 휘문 70명 축소, 경희 완전추첨 전환",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628180",
           "source": "베리타스알파",
-          "published": "2026-09-16T09:11:16.961896+00:00",
+          "published": "2026-09-16T14:43:02.134225+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f911fe172805373d5dc070c0830125f0",
