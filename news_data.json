@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:42:07.961495+00:00",
+  "updated_at": "2026-09-17T22:49:23.580297+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-17T19:27:31.412283+00:00",
+          "published": "2026-09-17T22:34:25.536105+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -404,6 +404,16 @@
           "is_new": false
         },
         {
+          "id": "86f2c4a6abf949fb78c85ce4f2fbff37",
+          "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. ‘마지막 통합수능 최종 시험대’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZ2JXV3oxUl85dnpXbG9hMWJBTWNfbUVHdUxkODRIMTAwRVhXZTZaMndpYVFYRHhFZ2pkbjluZExwVnBoR2RzbmxJTHpXQzd2b2taNGxNRzlvN0V1Slg5X3c4WlBMaGRWek52cw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-02T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "9f5488ff7425cef1b618959eab637380",
           "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
@@ -469,16 +479,6 @@
           "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2437912",
           "source": "www.ccdailynews.com",
           "published": "2026-09-02T00:18:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "86f2c4a6abf949fb78c85ce4f2fbff37",
-          "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. ‘마지막 통합수능 최종 시험대’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZ2JXV3oxUl85dnpXbG9hMWJBTWNfbUVHdUxkODRIMTAwRVhXZTZaMndpYVFYRHhFZ2pkbjluZExwVnBoR2RzbmxJTHpXQzd2b2taNGxNRzlvN0V1Slg5X3c4WlBMaGRWek52cw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-01T23:09:22+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1232,9 +1232,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1562,7 +1562,7 @@
           "title": "[2027정시] 연세대 1515명(41.1%) '비슷'.. 상경대학 통합형 전환, 첨단약과학과 '신설'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628508",
           "source": "베리타스알파",
-          "published": "2026-09-17T19:32:30.932412+00:00",
+          "published": "2026-09-17T22:39:24.343353+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1932,9 +1932,9 @@
         },
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "한겨레",
+          "source": "hani.co.kr",
           "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2198,6 +2198,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "65e9b0539f5b08171084a5ec316c88ca",
+          "title": "'수시 먹통' 일주일째…'부실 매뉴얼·민간 독점'에 흔들린 대입",
+          "link": "https://n.news.naver.com/mnews/article/003/0014198461?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-09-17T21:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "447343b2d3288c13ade83f9a71a03b5e",
           "title": "[일문일답] 교육부 &quot;대입 원서접수 직접 하는 방안도 열어놓고 검토&quot;",
           "link": "https://n.news.naver.com/mnews/article/001/0016319141?sid=102",
@@ -2225,7 +2235,7 @@
           "published": "2026-09-17T07:47:40+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49bb31878e0ad9769208ce7a6626f1d7",
