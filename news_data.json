@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:49:08.502936+00:00",
+  "updated_at": "2026-09-17T19:42:07.961495+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-17T14:34:16.811237+00:00",
+          "published": "2026-09-17T19:27:31.412283+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1232,9 +1232,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1562,7 +1562,7 @@
           "title": "[2027정시] 연세대 1515명(41.1%) '비슷'.. 상경대학 통합형 전환, 첨단약과학과 '신설'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628508",
           "source": "베리타스알파",
-          "published": "2026-09-17T14:39:11.494443+00:00",
+          "published": "2026-09-17T19:32:30.932412+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1928,7 +1928,7 @@
           "published": "2026-09-17T06:58:16+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
@@ -2205,7 +2205,7 @@
           "published": "2026-09-17T09:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d516e6a8eaea2828f2beb320a1a22bab",
@@ -2216,6 +2216,16 @@
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "612dd1f8936ce92ea5f271a739d4797b",
+          "title": "[2027정시] 연세대 일반 1515명.. 상경 수능 반영 변경, 컴퓨팅 분리 모집 ‘3개년 입결 분석’ - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUzBxbVhhTHh1NEFDcEljODZNc3V6ZHZUOWUweWdna1dRM0JUeUF5dkgxVGdIRWk1QW1UbDhKYTFyQW9vQXZidE5JaHNid0JzNXA4cGJNUzJOZmJza09xbXpDeTBNc1F5?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-17T07:47:40+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "49bb31878e0ad9769208ce7a6626f1d7",
