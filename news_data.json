@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T03:03:15.104091+00:00",
+  "updated_at": "2026-09-17T09:19:19.074836+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-17T02:48:32.241325+00:00",
+          "published": "2026-09-17T09:04:28.324981+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f04c7d0ebe274f77fec143017c7123af",
@@ -31,7 +31,7 @@
           "published": "2026-09-17T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2d7bc133b9ad2dff037f43efe7883277",
@@ -561,14 +561,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "86b9dd799ab0d77b37877e792f624df2",
-          "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
-          "source": "에듀진",
-          "published": "2026-09-17T02:50:56.915176+00:00",
+          "id": "795ba6a52aaf8280dd4c9292d808951f",
+          "title": "대기업 계약학과 수시 지원자 8994명 ‘역대 최고’…전년보다 18.2% 증가",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/17/2026091780121.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-17T05:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "a540d485e1781c51901142fd1010a428",
@@ -578,7 +578,7 @@
           "published": "2026-09-17T02:50:54.956109+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f638030781aeaa556566dbc5133aede3",
@@ -588,7 +588,7 @@
           "published": "2026-09-17T01:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dc32586c77f5e5e64bf28b0d85489c5f",
@@ -598,7 +598,7 @@
           "published": "2026-09-17T01:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "abababb9fdd154af02ef28e4847f1a56",
@@ -608,7 +608,7 @@
           "published": "2026-09-17T01:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "077075ec41566c53635690b075942236",
@@ -1558,6 +1558,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "9eb91d59c0c413439c96b3b0920d3eb4",
+          "title": "[2027정시] 연세대 1515명(41.1%) '비슷'.. 상경대학 통합형 전환, 첨단약과학과 '신설'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628508",
+          "source": "베리타스알파",
+          "published": "2026-09-17T09:09:25.540398+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "d6d702fbfd91fe6dbc0e309794f6aa6c",
           "title": "[2027정시] 한국외대 1277명(37.8%) ‘축소’..  '송도캠 다군 신설', '자유전공 확대'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=626977",
@@ -1912,9 +1922,9 @@
       "items": [
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "한겨레",
+          "source": "hani.co.kr",
           "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2178,6 +2188,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "d516e6a8eaea2828f2beb320a1a22bab",
+          "title": "웅지세무대, 수시 1차 9월 30일까지… 최초합격자 등록금 50% 지원",
+          "link": "https://www.gosiweek.com/article/1065599268652579",
+          "source": "www.gosiweek.com",
+          "published": "2026-09-17T07:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "49bb31878e0ad9769208ce7a6626f1d7",
+          "title": "'부정선거' 비유까지... 수시 접수 먹통, 고3이 분노한 진짜 이유",
+          "link": "https://n.news.naver.com/mnews/article/047/0002529319?sid=102",
+          "source": "www.ohmynews.com",
+          "published": "2026-09-17T05:11:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "71de84b9d9ab03f7a123adb6ad22f5d7",
           "title": "국교위 숙의 참여 56% &quot;수능 서·논술형 필요&quot;…세대 인식차는 '뚜렷'",
           "link": "https://n.news.naver.com/mnews/article/003/0014196523?sid=102",
@@ -2185,7 +2215,7 @@
           "published": "2026-09-17T02:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98c4c3894a3e215ce72f8ca6c4673c01",
@@ -2195,7 +2225,7 @@
           "published": "2026-09-17T01:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "33d2649288935734ffb13bbe708fc95d",
@@ -2738,6 +2768,16 @@
           "is_new": false
         },
         {
+          "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-08T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "f85b9d5864461f3ac240b55a655a8091",
           "title": "2027 수능 졸업생 23년 만에 최대 - 2news.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzeERlMmYtSGtpc25TLXBjOHM0eERPV25aMk91aEFpWlI3b3kyVlEtV3E1Ty13eWhxTWZDSHdVbHpfQXluYzExeGFrcHh3UjZ3UjgzTWstZjhnZFdSTnF6NEUwVUNVRW05?oc=5",
@@ -2803,16 +2843,6 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003677811?sid=101",
           "source": "www.seoul.co.kr",
           "published": "2026-09-08T00:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-09-07T22:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -3284,6 +3314,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "41cb673d3a5de5013044e2839891f1ed",
+          "title": "[주장] 무분별한 영재학교 증설 이대로는 안 된다",
+          "link": "https://n.news.naver.com/mnews/article/047/0002529317?sid=102",
+          "source": "www.ohmynews.com",
+          "published": "2026-09-17T05:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d00e1fb07685cb7c4f9514d2c0c86fde",
           "title": "[단독] [2027광역자사고] 서울 14개교 5597명 ‘축소’.. 휘문 70명 축소, 경희 완전추첨 전환",
