@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T08:53:35.597202+00:00",
+  "updated_at": "2026-09-18T14:15:38.702018+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-18T08:38:47.163729+00:00",
+          "published": "2026-09-18T14:00:49.776996+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-18T06:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2534b134c18c7a0887680d8a7a379106",
@@ -595,30 +595,30 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-18T08:41:14.780111+00:00",
+          "published": "2026-09-18T14:03:17.950685+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "602f6a5c3dea092a98c6846caab3d568",
           "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
           "source": "베리타스알파",
-          "published": "2026-09-18T08:41:12.176162+00:00",
+          "published": "2026-09-18T14:03:15.337057+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d83d3d9c3a0e430f15730ee3fbab205e",
-          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - 베",
+          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - v",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLWtHaUtYT1NYY1J4blpEaUpIYlNOTFBDWDFQcklsX1Z1SnFfUV9BZkFZOFl2OHROejl2d2tjLUkyMGpwUXJxUjI5NlgySDNPQTJGdkwxbGNmbTRad3J6UE11UlkxSVFhdGh2bQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T05:50:00+00:00",
+          "source": "veritas-a.com",
+          "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a80685b3a631535b2920caa265173cb4",
@@ -628,7 +628,7 @@
           "published": "2026-09-18T05:39:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f68090df7d4450a746a8275400cc4c03",
@@ -638,7 +638,7 @@
           "published": "2026-09-18T05:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "86b9dd799ab0d77b37877e792f624df2",
@@ -1345,7 +1345,7 @@
           "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
           "source": "뉴시스",
-          "published": "2026-09-05T07:00:00+00:00",
+          "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1512,9 +1512,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2038,7 +2038,7 @@
           "published": "2026-09-18T06:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6c0322517276c604fcf962dcfd224ea0",
@@ -2325,17 +2325,17 @@
           "published": "2026-09-18T08:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c64f12490840004d5b7136c62f31cff9",
-          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - 베리타스알파",
+          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTU3VXhJZk9tYUVGLTVOX3ViUkNudHUwc3lLa3RzNW12NVJjSkRSQ0t5NHh5VXVuaENDRWQ0RHZOcmttdmcxT3RJbURyckh1NTFsUXdWdktJejhZYzJFa0c3dTNISzJIdkU1WA?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-18T07:23:52+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3392cc104c688a8c3a5c05f0d1a0cd18",
@@ -2345,7 +2345,7 @@
           "published": "2026-09-18T06:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a7c6f499d17498463d6f1a7b070164e2",
@@ -3019,9 +3019,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "news.dlive.kr",
+          "source": "딜라이브뉴스",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -3188,10 +3188,10 @@
           "is_new": false
         },
         {
-          "id": "0eb9a487bacd307abda5d860da3d6d9a",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①]",
-          "link": "https://n.news.naver.com/mnews/article/003/0014170875?sid=102",
-          "source": "www.newsis.com",
+          "id": "842dd5c4c1c897d8779ba209cc6011a3",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
+          "source": "뉴시스",
           "published": "2026-09-05T00:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3229,9 +3229,9 @@
         },
         {
           "id": "06d628e43c6300024c1081e49b915948",
-          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - 베리타스알파",
+          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - veritas-a.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OaU1HUE45TFo1MEMtbF9fNDdrQU1qTHhVZ2laUnUtYVFEeU0wb2xrblFDblFEYTc0SWU0UDVIZ1A5SUVpNmdkOWZtMGs1QVBKcWlYeGxuZ0d4UUlleEUzV3ZNQkVDZHQtSVhOSQ?oc=5",
-          "source": "베리타스알파",
+          "source": "veritas-a.com",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
