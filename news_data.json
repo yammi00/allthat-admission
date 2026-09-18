@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T22:49:23.580297+00:00",
+  "updated_at": "2026-09-18T02:50:12.231606+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-17T22:34:25.536105+00:00",
+          "published": "2026-09-18T02:35:12.729457+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2534b134c18c7a0887680d8a7a379106",
+          "title": "수시 지원 후 방심은 금물…최저·면접·논술 따라 공부 비중 달라져",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112091",
+          "source": "edu.donga.com",
+          "published": "2026-09-18T01:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ca8193a180caa7e703c35cb663c2af22",
+          "title": "면접·논술 앞둬도 수능 놓지 말아야…&quot;최저 기준·일정 따라 학습 비중...",
+          "link": "https://www.newspim.com/news/view/20260918000133",
+          "source": "www.newspim.com",
+          "published": "2026-09-17T23:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f04c7d0ebe274f77fec143017c7123af",
@@ -560,6 +580,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "86b9dd799ab0d77b37877e792f624df2",
+          "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
+          "source": "에듀진",
+          "published": "2026-09-18T02:37:47.612436+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7e3833aacf536110dc838e1c14cc0fd9",
+          "title": "수시 지원 후 '최저·면접·논술' 수능 공부 시간 얼마나?",
+          "link": "https://news.unn.net/news/articleView.html?idxno=597697",
+          "source": "news.unn.net",
+          "published": "2026-09-18T00:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "46f272acb3c011c2c026437a78d4f8f3",
+          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628563",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-17T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "795ba6a52aaf8280dd4c9292d808951f",
           "title": "대기업 계약학과 수시 지원자 8994명 ‘역대 최고’…전년보다 18.2% 증가",
@@ -1232,9 +1282,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1932,9 +1982,9 @@
         },
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "hani.co.kr",
+          "source": "한겨레",
           "published": "2026-09-14T08:35:00+00:00",
           "type": "news",
           "grade": "all",
@@ -1942,9 +1992,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2198,6 +2248,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a7c6f499d17498463d6f1a7b070164e2",
+          "title": "이투스에듀 &quot;수시 원서 접수 후에도 수능 학습 유지해야&quot;",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1415873",
+          "source": "www.m-i.kr",
+          "published": "2026-09-18T02:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c1e1633afbbcefb562562df08e045e9a",
+          "title": "수시 지원 후 '수능 손절'은 금물… 대학별 면접·논술 병행 속 균형 잡...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005577839?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-09-18T00:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "16675a3bc21eb09740bf36592e6be961",
+          "title": "수시 원서 냈다고 '수능 손절' 금물…면접·논술 따라 전략 달라",
+          "link": "https://n.news.naver.com/mnews/article/421/0009177959?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-17T23:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "65e9b0539f5b08171084a5ec316c88ca",
           "title": "'수시 먹통' 일주일째…'부실 매뉴얼·민간 독점'에 흔들린 대입",
           "link": "https://n.news.naver.com/mnews/article/003/0014198461?sid=102",
@@ -2205,7 +2285,7 @@
           "published": "2026-09-17T21:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "447343b2d3288c13ade83f9a71a03b5e",
@@ -2809,9 +2889,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
