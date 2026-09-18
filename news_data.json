@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T02:50:12.231606+00:00",
+  "updated_at": "2026-09-18T08:53:35.597202+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-18T02:35:12.729457+00:00",
+          "published": "2026-09-18T08:38:47.163729+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e1e1a21a16ad94e3e9715b25620a15df",
+          "title": "수시 끝나도 수능은 계속된다… 9월 이후 공부 전략",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/18/2026091880151.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-18T06:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2534b134c18c7a0887680d8a7a379106",
@@ -31,7 +41,7 @@
           "published": "2026-09-18T01:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ca8193a180caa7e703c35cb663c2af22",
@@ -41,7 +51,7 @@
           "published": "2026-09-17T23:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f04c7d0ebe274f77fec143017c7123af",
@@ -581,6 +591,56 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "e4b69e2bae2c17cd235dc1fff858b38e",
+          "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
+          "source": "에듀진",
+          "published": "2026-09-18T08:41:14.780111+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "602f6a5c3dea092a98c6846caab3d568",
+          "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
+          "source": "베리타스알파",
+          "published": "2026-09-18T08:41:12.176162+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d83d3d9c3a0e430f15730ee3fbab205e",
+          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - 베",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLWtHaUtYT1NYY1J4blpEaUpIYlNOTFBDWDFQcklsX1Z1SnFfUV9BZkFZOFl2OHROejl2d2tjLUkyMGpwUXJxUjI5NlgySDNPQTJGdkwxbGNmbTRad3J6UE11UlkxSVFhdGh2bQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-18T05:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a80685b3a631535b2920caa265173cb4",
+          "title": "'수시 먹통' 354건 구제에 수험생들 '유감'…&quot;소송도 검토&quot;",
+          "link": "https://n.news.naver.com/mnews/article/629/0000535144?sid=102",
+          "source": "news.tf.co.kr",
+          "published": "2026-09-18T05:39:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f68090df7d4450a746a8275400cc4c03",
+          "title": "스카이입시교육학원, 연세대·중앙대(창의형) 인문·수리·과학 온오프...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228234",
+          "source": "www.job-post.co.kr",
+          "published": "2026-09-18T05:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "86b9dd799ab0d77b37877e792f624df2",
           "title": "지방국립대 지원자 42.2% “등록금 지원 정책, 수시 지원에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54155",
@@ -588,7 +648,7 @@
           "published": "2026-09-18T02:37:47.612436+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7e3833aacf536110dc838e1c14cc0fd9",
@@ -598,7 +658,7 @@
           "published": "2026-09-18T00:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "46f272acb3c011c2c026437a78d4f8f3",
@@ -608,7 +668,7 @@
           "published": "2026-09-17T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "795ba6a52aaf8280dd4c9292d808951f",
@@ -1971,6 +2031,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "34d6c069abb6be393568e74e2b836943",
+          "title": "스카이입시교육학원 대치동점, 을지대·가천대 약술형논술 현강·화상강...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=210823",
+          "source": "www.lecturernews.com",
+          "published": "2026-09-18T06:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6c0322517276c604fcf962dcfd224ea0",
           "title": "[2027수시] 서울시립대 수리논술 기출 어떻게 활용할까.. 2027모의 2026본고사 ‘예시답안’ 공개 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CRzJaaWxqbEpkVVUyRmYyMFFlaFdwX2NFSDI3TTkyTXlFQVc5X3JPTmZzU3ZpdmZrc2dvY3RvTV9tVTQ1VVA2bGRMMHdLNlp5VXR3eXpfUWp2VklpbHBJLURZYlhGYlBJ?oc=5",
@@ -1992,9 +2062,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2248,6 +2318,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "3e212d91a561b775c61829bfe14ebec8",
+          "title": "초유의 ‘수시 먹통’ 사태, 수습 의지 있나?… 커지는 ‘최교진 사퇴론...",
+          "link": "https://n.news.naver.com/mnews/article/022/0004160192?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-09-18T08:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c64f12490840004d5b7136c62f31cff9",
+          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTU3VXhJZk9tYUVGLTVOX3ViUkNudHUwc3lLa3RzNW12NVJjSkRSQ0t5NHh5VXVuaENDRWQ0RHZOcmttdmcxT3RJbURyckh1NTFsUXdWdktJejhZYzJFa0c3dTNISzJIdkU1WA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-18T07:23:52+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3392cc104c688a8c3a5c05f0d1a0cd18",
+          "title": "“수시 원서 냈어도 수능 ‘손절’ 안 돼…정시까지 대비”",
+          "link": "https://n.news.naver.com/mnews/article/018/0006372042?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-09-18T06:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "a7c6f499d17498463d6f1a7b070164e2",
           "title": "이투스에듀 &quot;수시 원서 접수 후에도 수능 학습 유지해야&quot;",
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1415873",
@@ -2255,7 +2355,7 @@
           "published": "2026-09-18T02:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c1e1633afbbcefb562562df08e045e9a",
@@ -2265,7 +2365,7 @@
           "published": "2026-09-18T00:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "16675a3bc21eb09740bf36592e6be961",
@@ -2275,7 +2375,7 @@
           "published": "2026-09-17T23:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "65e9b0539f5b08171084a5ec316c88ca",
@@ -2889,9 +2989,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2919,9 +3019,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "딜라이브뉴스",
+          "source": "news.dlive.kr",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
