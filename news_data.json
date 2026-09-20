@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T00:14:53.653339+00:00",
+  "updated_at": "2026-09-20T04:35:49.992753+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-19T23:59:45.933185+00:00",
+          "published": "2026-09-20T04:21:03.457999+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -605,7 +605,7 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-20T00:02:13.479115+00:00",
+          "published": "2026-09-20T04:23:29.032962+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -615,20 +615,30 @@
           "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
           "source": "베리타스알파",
-          "published": "2026-09-20T00:02:10.639417+00:00",
+          "published": "2026-09-20T04:23:26.547351+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
+          "id": "5901903cb27c741fa73e8703d9eeb226",
+          "title": "서울 의대 수시 지원 10년 새 최저…지역의사제·반도체호황 '영향'",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260920010007385",
+          "source": "www.asiatoday.co.kr",
+          "published": "2026-09-20T01:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "4f1734ebb4e04c822607fceee5822f4a",
-          "title": "지역선발 늘자 어려워진 서울학생 의대 진학…지원자 10년 새 최저",
+          "title": "서울지역 의대 수시지원 10년래 최저…이유 봤더니",
           "link": "https://n.news.naver.com/mnews/article/018/0006372763?sid=102",
           "source": "www.edaily.co.kr",
           "published": "2026-09-19T23:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d83d3d9c3a0e430f15730ee3fbab205e",
@@ -2302,9 +2312,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3119,9 +3129,9 @@
         },
         {
           "id": "daa234b9b4e3267499c2bd8220dd6b62",
-          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - 김포신문",
+          "title": "2027 수능 9월 모의평가와 수시 원서접수 및 수능 준비 전략 - igimpo.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQjFaV0xfQ3F5dDRnUllZSmMwdzJidl91MmZZYTh6Vk5zVFVJMWZjNkpTYTdycjZOdjdGVzFzbXhLd1ViMm1SY1lPb2VJMlpXMHFGQ0R1N3lTRVU1N2pYaEtaS3kwMjTSAWtBVV95cUxQZXk5NzFvdUdWcXVIU3V4b1AwMG9ibWJMX0hKU0pvZWtxQmRhU1hjdFprUUZvR2lPRk1DYnQ0TU5TSzZTWTNsWmFfTk1iNFlEemZPM3R6S3dldXgzYUdzaGhqZHczYS1YbnV4NA?oc=5",
-          "source": "김포신문",
+          "source": "igimpo.com",
           "published": "2026-09-07T03:51:09+00:00",
           "type": "news",
           "grade": "all",
