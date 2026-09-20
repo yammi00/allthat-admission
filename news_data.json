@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:39:05.599079+00:00",
+  "updated_at": "2026-09-20T15:27:43.274384+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,15 +18,15 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-20T10:23:52.838042+00:00",
+          "published": "2026-09-20T15:12:48.345938+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
@@ -605,7 +605,7 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-20T10:26:20.372004+00:00",
+          "published": "2026-09-20T15:15:15.343608+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -615,7 +615,7 @@
           "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
           "source": "베리타스알파",
-          "published": "2026-09-20T10:26:17.891108+00:00",
+          "published": "2026-09-20T15:15:12.721571+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -628,7 +628,7 @@
           "published": "2026-09-20T09:09:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "11b8ddcb37f56106414636c47bbfc6d3",
@@ -638,7 +638,7 @@
           "published": "2026-09-20T04:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5901903cb27c741fa73e8703d9eeb226",
@@ -1392,10 +1392,10 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
-          "published": "2026-09-05T02:00:00+00:00",
+          "source": "newsis.com",
+          "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2098,7 +2098,7 @@
           "published": "2026-09-20T05:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "34d6c069abb6be393568e74e2b836943",
@@ -2395,7 +2395,7 @@
           "published": "2026-09-20T08:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b8f71bbcb018f81ead412a0a36b42f3f",
@@ -2405,7 +2405,7 @@
           "published": "2026-09-20T04:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "01912d34f12af70afd88575f1e4c26bb",
@@ -3279,9 +3279,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
