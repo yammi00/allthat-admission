@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:35:49.992753+00:00",
+  "updated_at": "2026-09-20T10:39:05.599079+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-20T04:21:03.457999+00:00",
+          "published": "2026-09-20T10:23:52.838042+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -605,7 +605,7 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-20T04:23:29.032962+00:00",
+          "published": "2026-09-20T10:26:20.372004+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -615,10 +615,30 @@
           "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
           "source": "베리타스알파",
-          "published": "2026-09-20T04:23:26.547351+00:00",
+          "published": "2026-09-20T10:26:17.891108+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c1cbc653b3951dfc74542b0d5d2e8d32",
+          "title": "SKY는 ‘제시문’ 중앙대는 ‘학생부’…대학별 면접 맞춤대비 필수",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663787?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-09-20T09:09:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "11b8ddcb37f56106414636c47bbfc6d3",
+          "title": "&quot;한 해만 더 늦게 낳아주지&quot;…내년 대입 '재수 불리' 고민 커지는 고3들",
+          "link": "https://n.news.naver.com/mnews/article/088/0001029516?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-09-20T04:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5901903cb27c741fa73e8703d9eeb226",
@@ -628,7 +648,7 @@
           "published": "2026-09-20T01:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4f1734ebb4e04c822607fceee5822f4a",
@@ -1375,7 +1395,7 @@
           "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
           "source": "뉴시스",
-          "published": "2026-09-05T07:00:00+00:00",
+          "published": "2026-09-05T02:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1406,6 +1426,16 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005730674?sid=102",
           "source": "www.mk.co.kr",
           "published": "2026-09-04T08:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "49dadc2444b875ce647cfbc0447da0c6",
+          "title": "[2027 수시, 지난해를 읽다①] 의대 줄고 전공자율선택 늘었던 지난해 수시 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFbEs1aW5SWjJuZFF5X1ROY2RJbHYzYXQ5UGtKdVppTkFiQmlkZURNMjllZG9oVkJhWFU5UE1HZlYxMFVRZzJmUWlQRktYN1czVzlyZE14Q2NDMm4yT3hNWURrLTFkZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2061,6 +2091,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f5658259222220db1e497a3fce320f56",
+          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-20T05:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "34d6c069abb6be393568e74e2b836943",
           "title": "스카이입시교육학원 대치동점, 을지대·가천대 약술형논술 현강·화상강...",
           "link": "https://www.lecturernews.com/news/articleView.html?idxno=210823",
@@ -2347,6 +2387,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "39388df91ddf433225fbe3012d7733da",
+          "title": "수능 D-60, 추석 연휴에도 학습 리듬 지켜라",
+          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084907",
+          "source": "www.kyongbuk.co.kr",
+          "published": "2026-09-20T08:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b8f71bbcb018f81ead412a0a36b42f3f",
+          "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 첫 학기 등록금 ‘0원’…대...",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260920010006478",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-09-20T04:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "01912d34f12af70afd88575f1e4c26bb",
           "title": "[AI입시 A to Z] 4년제 수시 마감 후 전문대 노린다면",
@@ -3059,9 +3119,9 @@
         },
         {
           "id": "bbf6b7f60a3db17c8485c92302822966",
-          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - news.dlive.kr",
+          "title": "'9모' 끝, 수시 접수 시작…대입 초읽기 돌입 - 딜라이브뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdE1aNUo1dzNZMWtuaWk3cmc1eG1FU2owek15NHJVby0zWXpqaHhEcVNWSzNYRUUzT1BLWllkanZxMGNSN2lQX3FqSTRsci1Ya2pmZEt1Z01TMlNqeldiQmFaZHd3Zw?oc=5",
-          "source": "news.dlive.kr",
+          "source": "딜라이브뉴스",
           "published": "2026-09-08T02:37:41+00:00",
           "type": "news",
           "grade": "all",
@@ -3208,9 +3268,9 @@
           "is_new": false
         },
         {
-          "id": "0344d065efea8505917f79ad407c8312",
+          "id": "ae863fe73ac6eb282079814bc371ca44",
           "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTXUtcFdVX1dUX3RtcEJhY1VSektPMFFYcm8yZE51bVplWXhOUjl6bVRPMmRCeXpqcnBXUG9uVGhPT3Bzbi1NNldvTGp3dEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85ZDI1UWREbVJYMjNZS0ZPcjV0NVprREdLTjNZNm9KWHNNY19SY0RXcWpCdFc5dHhfcFBTZEdoUUFZa1A2WkE?oc=5",
           "source": "v.daum.net",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
