@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T02:58:32.792053+00:00",
+  "updated_at": "2026-09-21T09:30:59.691848+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-21T02:43:24.206236+00:00",
+          "published": "2026-09-21T09:28:55.352103+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -615,10 +615,30 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-21T02:45:53.338109+00:00",
+          "published": "2026-09-21T09:29:18.484996+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "26e37473df58a7eb83204d6990403d89",
+          "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
+          "source": "에듀진",
+          "published": "2026-09-21T09:29:16.131873+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "96e0fe4470e3c3ea8fdf64e5c26e15fd",
+          "title": "2학기 맞은 고1·2…“내신부터 바뀐 수능까지, ‘학업 기초체력’ 키워...",
+          "link": "https://www.kbmaeil.com/article/20260921500427",
+          "source": "www.kbmaeil.com",
+          "published": "2026-09-21T06:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4486c29d7e0d33d68013a1ae5755d90d",
@@ -628,7 +648,7 @@
           "published": "2026-09-21T02:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "875f14f07741ced15f049c52c8e8c359",
@@ -638,7 +658,7 @@
           "published": "2026-09-21T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ee2f4ba21eae39febb10a13e8aee53c4",
@@ -648,7 +668,7 @@
           "published": "2026-09-20T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "602f6a5c3dea092a98c6846caab3d568",
@@ -1432,9 +1452,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2138,7 +2158,7 @@
           "published": "2026-09-21T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f5658259222220db1e497a3fce320f56",
@@ -2438,6 +2458,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "e44630cc31e434cf9d4ba2bf7034c2a1",
+          "title": "장동혁 &quot;수시 먹통 책임은 李대통령&quot;…국힘, 대여 공세 고삐",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854496",
+          "source": "www.newsworks.co.kr",
+          "published": "2026-09-21T08:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "261ede08298344d6eeef4e187d1d1381",
+          "title": "[2027정시] 한양대 일반 1297명.. 수능90%+학생부10% 유지, 한양인터칼리지 50명 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sVy1jbGlyczE2VWdjMTZiQmRLeGVPRmtKTlI2TWNobDh4Q1g1WkRmc2w0aDVTMXRLWms1RWFqeTRVXy1wTXBaU3lHcVhGMGRMOU53cUpkRWNrRFVTSHlUYXpGMkU3cHA0?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-21T06:56:57+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "fac0ce055fde5a5808738e880b8b9afe",
           "title": "&quot;무엇을 안 할 지부터 정하라&quot;… 수능 앞둔 추석 연휴 활용법",
           "link": "https://edu.donga.com/news/articleView.html?idxno=112143",
@@ -2445,7 +2485,7 @@
           "published": "2026-09-21T00:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "39388df91ddf433225fbe3012d7733da",
@@ -3339,9 +3379,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
