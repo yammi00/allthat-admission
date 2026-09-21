@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:30:59.691848+00:00",
+  "updated_at": "2026-09-21T16:22:28.531619+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-21T09:28:55.352103+00:00",
+          "published": "2026-09-21T16:07:31.968541+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -615,7 +615,7 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-21T09:29:18.484996+00:00",
+          "published": "2026-09-21T16:10:05.066033+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,10 +625,10 @@
           "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
           "source": "에듀진",
-          "published": "2026-09-21T09:29:16.131873+00:00",
+          "published": "2026-09-21T16:10:01.086311+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "96e0fe4470e3c3ea8fdf64e5c26e15fd",
@@ -638,7 +638,7 @@
           "published": "2026-09-21T06:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4486c29d7e0d33d68013a1ae5755d90d",
@@ -1879,9 +1879,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2162,9 +2162,9 @@
         },
         {
           "id": "f5658259222220db1e497a3fce320f56",
-          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
+          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-20T05:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2202,9 +2202,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2422,9 +2422,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2465,7 +2465,7 @@
           "published": "2026-09-21T08:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "261ede08298344d6eeef4e187d1d1381",
@@ -2475,7 +2475,7 @@
           "published": "2026-09-21T06:56:57+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fac0ce055fde5a5808738e880b8b9afe",
@@ -3189,9 +3189,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
