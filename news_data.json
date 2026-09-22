@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:42:45.005210+00:00",
+  "updated_at": "2026-09-22T07:23:21.244024+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-22T00:27:54.864793+00:00",
+          "published": "2026-09-22T07:08:32.493745+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -601,21 +601,21 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "e4b69e2bae2c17cd235dc1fff858b38e",
-          "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
+          "id": "26e37473df58a7eb83204d6990403d89",
+          "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
           "source": "에듀진",
-          "published": "2026-09-22T00:30:23.106432+00:00",
+          "published": "2026-09-22T07:11:01.606617+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "26e37473df58a7eb83204d6990403d89",
-          "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
+          "id": "e4b69e2bae2c17cd235dc1fff858b38e",
+          "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-22T00:30:20.363774+00:00",
+          "published": "2026-09-22T00:30:23.106432+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1452,9 +1452,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1935,6 +1935,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "214e4e2387371dfaf6d29e4d07301cae",
+          "title": "(참고) 외국인 어업 노동자 소화기 분사 사건, 즉시 수시감독 착수",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782941",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-09-22T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "08dbb87dcf7ccd0cfd3323f9ec999221",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 문제 및 정답 이의신청 심사 결과 보도...",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096623&lev=0&m=0301&s=suneung",
@@ -2158,7 +2169,7 @@
           "published": "2026-09-22T00:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ddcd056cf8a8947b44f113bf9f48bfb6",
@@ -2432,9 +2443,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2468,6 +2479,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "e93c869d37af95ed904a233cc0ad731b",
+          "title": "“무엇을 할지보다 안 할 것부터”…수능 앞둔 추석 연휴 활용법",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/22/2026092280129.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-22T05:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "925b0b7c4411c54a9094f52fafcfc128",
+          "title": "㈜잇올, 수능 D-50 맞아 하반기 입시 컨설팅 본격화",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54667",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-09-22T01:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d31a6ae231760cdacb525527871398fb",
           "title": "수능 두 달 앞으로…불안감에 흔들리는 수험생 위한 3가지 조언",
           "link": "https://edu.donga.com/news/articleView.html?idxno=112174",
@@ -2475,7 +2506,7 @@
           "published": "2026-09-22T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e44630cc31e434cf9d4ba2bf7034c2a1",
@@ -3399,9 +3430,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3754,6 +3785,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "08c966c4155923660b5ded8a07f0703a",
+          "title": "영천시장학회, '대입 내신 5등급제' 학부모교실 성료…입시전략 강연",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3703371",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-22T07:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "41cb673d3a5de5013044e2839891f1ed",
           "title": "[주장] 무분별한 영재학교 증설 이대로는 안 된다",
