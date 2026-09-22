@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:46:14.119896+00:00",
+  "updated_at": "2026-09-22T00:42:45.005210+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,36 +18,16 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-21T21:31:28.078979+00:00",
+          "published": "2026-09-22T00:27:54.864793+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
-          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
-          "source": "veritas-a.com",
-          "published": "2026-09-18T08:31:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - veritas-a.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "veritas-a.com",
-          "published": "2026-09-18T08:31:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "53d89b15d65f782e44b3685d84bbae39",
-          "title": "'빠른 채점'부터 '경향분석 라이브 방송'까지... EBSi, 고3/N수 대상 9월 모의평가 풀서비스 제공 - veritas-a.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1SnZuSUpfT25nb3dISGdMZE80YVFLMnB4cjJuX3lOWHVaMWZMMWxya3hPU1haY3BFVFZjUjRQVC1CTnBmd1ExejRneUMtQUpMMHVKUlpPdEV6R3kzeUdTTlpjbVNRNkFqN3I4MQ?oc=5",
-          "source": "veritas-a.com",
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -625,7 +605,7 @@
           "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
           "source": "에듀진",
-          "published": "2026-09-21T21:33:57.017229+00:00",
+          "published": "2026-09-22T00:30:23.106432+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +615,7 @@
           "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
           "source": "에듀진",
-          "published": "2026-09-21T21:33:53.122746+00:00",
+          "published": "2026-09-22T00:30:20.363774+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -732,9 +712,9 @@
         },
         {
           "id": "d83d3d9c3a0e430f15730ee3fbab205e",
-          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - v",
+          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - 베",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLWtHaUtYT1NYY1J4blpEaUpIYlNOTFBDWDFQcklsX1Z1SnFfUV9BZkFZOFl2OHROejl2d2tjLUkyMGpwUXJxUjI5NlgySDNPQTJGdkwxbGNmbTRad3J6UE11UlkxSVFhdGh2bQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -742,9 +722,9 @@
         },
         {
           "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - veritas-a.com",
+          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1472,9 +1452,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2171,6 +2151,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "fcaf4691b895714adfa50f3f57c0d02a",
+          "title": "[김종두 칼럼] 수능 전 인문논술, 한 편의 답안을 완성하는 힘",
+          "link": "https://www.cfnews.kr/news/article.html?no=112250",
+          "source": "www.cfnews.kr",
+          "published": "2026-09-22T00:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "ddcd056cf8a8947b44f113bf9f48bfb6",
           "title": "[김형일의 입시컨설팅] (246) 논술 대비 실전 유형 총정리",
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=154116",
@@ -2477,6 +2467,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "d31a6ae231760cdacb525527871398fb",
+          "title": "수능 두 달 앞으로…불안감에 흔들리는 수험생 위한 3가지 조언",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112174",
+          "source": "edu.donga.com",
+          "published": "2026-09-22T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "e44630cc31e434cf9d4ba2bf7034c2a1",
           "title": "장동혁 &quot;수시 먹통 책임은 李대통령&quot;…국힘, 대여 공세 고삐",
@@ -3399,9 +3399,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3449,9 +3449,9 @@
         },
         {
           "id": "06d628e43c6300024c1081e49b915948",
-          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - veritas-a.com",
+          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OaU1HUE45TFo1MEMtbF9fNDdrQU1qTHhVZ2laUnUtYVFEeU0wb2xrblFDblFEYTc0SWU0UDVIZ1A5SUVpNmdkOWZtMGs1QVBKcWlYeGxuZ0d4UUlleEUzV3ZNQkVDZHQtSVhOSQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
