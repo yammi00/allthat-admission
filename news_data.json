@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:50:38.522660+00:00",
+  "updated_at": "2026-09-23T19:37:27.442787+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-23T14:35:26.505741+00:00",
+          "published": "2026-09-23T19:22:32.428018+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,7 +625,7 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-23T14:37:52.236738+00:00",
+          "published": "2026-09-23T19:24:57.922606+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -648,7 +648,7 @@
           "published": "2026-09-23T03:00:28+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f08d1430e595841131842c20dfe25cdc",
@@ -2593,9 +2593,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2633,7 +2633,7 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-23T14:45:42.093901+00:00",
+          "published": "2026-09-23T19:32:34.765185+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
