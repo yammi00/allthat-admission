@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:11:19.916756+00:00",
+  "updated_at": "2026-09-23T03:19:51.962209+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-22T23:56:25.716548+00:00",
+          "published": "2026-09-23T03:05:21.099869+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-22T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
@@ -615,10 +615,50 @@
           "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
           "source": "에듀진",
-          "published": "2026-09-22T23:58:57.127916+00:00",
+          "published": "2026-09-23T03:07:50.437929+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f08d1430e595841131842c20dfe25cdc",
+          "title": "자퇴로 ‘내신 리셋’ 실효 다하나…상위권 대학, 정시에도 학생부 반영",
+          "link": "https://n.news.naver.com/mnews/article/018/0006374806?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-09-23T00:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b2469e538dba50e813e67d449e80db06",
+          "title": "2027 대입 수능 영역별 고득점 전략 및 의대·의학계열 합격 입시 컨설팅",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112228",
+          "source": "edu.donga.com",
+          "published": "2026-09-23T00:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "17420548161637660c4dd515b8b930d7",
+          "title": "'재수하면 입시 바뀐다'…수시 지원자 83% &quot;지원 전략 영향&quot;",
+          "link": "https://n.news.naver.com/mnews/article/079/0004192345?sid=102",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-09-23T00:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9cf5319200a73f8f5c42dadbf7158f87",
+          "title": "서울대·고려대 정시도 학생부 본다…&quot;내신 5등급제 자퇴 신중해야&quot;",
+          "link": "https://www.newspim.com/news/view/20260923000178",
+          "source": "www.newspim.com",
+          "published": "2026-09-22T23:59:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6e88c11709a2a64f2eed88234e2aa735",
@@ -628,7 +668,7 @@
           "published": "2026-09-22T23:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a8d5df59bdc67476e89eb454984d2e0f",
@@ -1492,9 +1532,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2222,6 +2262,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "dbca7df7291479013ec999095a541af4",
+          "title": "스카이입시교육학원, 을지대·가천대 약술형논술 추석·개천절 현강·화...",
+          "link": "https://www.itbiznews.com/news/articleView.html?idxno=225814",
+          "source": "www.itbiznews.com",
+          "published": "2026-09-23T00:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "095ea762eb44b8b9f54cc35e44a1aa54",
           "title": "스카이입시교육학원, 중앙대(창의형)·연세대 추석·개천절 인문·수리...",
           "link": "http://www.e2news.com/news/articleView.html?idxno=334535",
@@ -2229,7 +2279,7 @@
           "published": "2026-09-22T23:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fcaf4691b895714adfa50f3f57c0d02a",
@@ -2556,7 +2606,7 @@
           "published": "2026-09-23T00:01:40+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d52db3e34eaffc5404a27a96ee9a84dd",
@@ -2566,17 +2616,17 @@
           "published": "2026-09-23T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d6f45ebeb49bae20a694f957a779b482",
-          "title": "현 체제 마지막이라…수시 지원자 83% \"'대입 개편' 고려했다\" - newsis.com",
+          "title": "현 체제 마지막이라…수시 지원자 83% \"'대입 개편' 고려했다\" - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2TVdmRnZtT2hXWlYxalAzeVhBd2tuUkNuLU53N0JubGJwZkUyMmN5NzA0a2FJaVAzdnF4bVlsbGZPN2c1TnZjMlpyREZ5MGJtUjRvVWRINXJQenRPbmNOa9IBeEFVX3lxTE9HcjBDVTdVUEpWSFNrb2FqRnhaWGkwS1lWUWdzMTJkbElDSlBLUjlXYW5Xb0hCOGNnSWg5TXdCQUJqSlV5QU90QU9EcnNza0lWdHk3UFBNYUR5RS1YNWszZy0wX2V0VnBNTjgwNGllZU9VUG1lempWRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-22T23:50:27+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0951f7a89c82054b891a7426ce0b7df1",
@@ -3560,9 +3610,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
