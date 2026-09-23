@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:57:51.559480+00:00",
+  "updated_at": "2026-09-23T00:11:19.916756+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-22T20:43:20.607387+00:00",
+          "published": "2026-09-22T23:56:25.716548+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ee115da3e607ab8311137b5810773dbe",
+          "title": "[거인의어깨 입시컨설팅] 수능 대비 마무리·최종 점검 전략",
+          "link": "https://www.newspim.com/news/view/20260831000296",
+          "source": "www.newspim.com",
+          "published": "2026-09-22T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
@@ -605,10 +615,20 @@
           "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
           "source": "에듀진",
-          "published": "2026-09-22T20:45:49.437241+00:00",
+          "published": "2026-09-22T23:58:57.127916+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6e88c11709a2a64f2eed88234e2aa735",
+          "title": "수험생 83% &quot;2028 대입개편, 올해 수시 지원에 영향&quot;",
+          "link": "https://n.news.naver.com/mnews/article/421/0009187883?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-22T23:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a8d5df59bdc67476e89eb454984d2e0f",
@@ -1472,9 +1492,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1812,7 +1832,7 @@
           "title": "[단독] [2027정시] 37개 약대 663명(37.6%) ‘2022학부체제 이후 최저’.. '정시에서도 경쟁률 하락 이어질까'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629046",
           "source": "베리타스알파",
-          "published": "2026-09-22T20:48:14.736822+00:00",
+          "published": "2026-09-23T00:01:23.026884+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1919,9 +1939,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2202,6 +2222,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "095ea762eb44b8b9f54cc35e44a1aa54",
+          "title": "스카이입시교육학원, 중앙대(창의형)·연세대 추석·개천절 인문·수리...",
+          "link": "http://www.e2news.com/news/articleView.html?idxno=334535",
+          "source": "www.e2news.com",
+          "published": "2026-09-22T23:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "fcaf4691b895714adfa50f3f57c0d02a",
           "title": "[김종두 칼럼] 수능 전 인문논술, 한 편의 답안을 완성하는 힘",
           "link": "https://www.cfnews.kr/news/article.html?no=112250",
@@ -2223,9 +2253,9 @@
         },
         {
           "id": "f5658259222220db1e497a3fce320f56",
-          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - kyobit.com",
+          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-20T05:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2256,16 +2286,16 @@
           "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
           "source": "한겨레",
-          "published": "2026-09-14T08:35:00+00:00",
+          "published": "2026-09-14T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2518,6 +2548,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "2bce3d04d93c9e784b4220b5d2bf7587",
+          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
+          "source": "아주경제",
+          "published": "2026-09-23T00:01:40+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d52db3e34eaffc5404a27a96ee9a84dd",
+          "title": "강인함입시컨설팅, 2027학년도 수시 면접 컨설팅 문의 증가",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112157",
+          "source": "edu.donga.com",
+          "published": "2026-09-23T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d6f45ebeb49bae20a694f957a779b482",
+          "title": "현 체제 마지막이라…수시 지원자 83% \"'대입 개편' 고려했다\" - newsis.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2TVdmRnZtT2hXWlYxalAzeVhBd2tuUkNuLU53N0JubGJwZkUyMmN5NzA0a2FJaVAzdnF4bVlsbGZPN2c1TnZjMlpyREZ5MGJtUjRvVWRINXJQenRPbmNOa9IBeEFVX3lxTE9HcjBDVTdVUEpWSFNrb2FqRnhaWGkwS1lWUWdzMTJkbElDSlBLUjlXYW5Xb0hCOGNnSWg5TXdCQUJqSlV5QU90QU9EcnNza0lWdHk3UFBNYUR5RS1YNWszZy0wX2V0VnBNTjgwNGllZU9VUG1lempWRQ?oc=5",
+          "source": "newsis.com",
+          "published": "2026-09-22T23:50:27+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "0951f7a89c82054b891a7426ce0b7df1",
           "title": "올해 모의평가 오답 분석·EBS 연계 교재 복습 ‘주안점’ [추석 연휴 수...",
@@ -3310,9 +3370,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3500,9 +3560,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3860,7 +3920,7 @@
           "title": "[단독] '자사고부터 외고 국제고 일반고까지' 2027하반기 고입 설명회 총정리..'막판 고입 점검'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629283",
           "source": "베리타스알파",
-          "published": "2026-09-22T20:55:33.357284+00:00",
+          "published": "2026-09-23T00:08:56.087386+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
