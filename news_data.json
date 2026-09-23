@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:13:52.008064+00:00",
+  "updated_at": "2026-09-23T14:50:38.522660+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-23T08:58:40.678279+00:00",
+          "published": "2026-09-23T14:35:26.505741+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-23T06:20:27+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ee115da3e607ab8311137b5810773dbe",
@@ -194,16 +194,6 @@
           "is_new": false
         },
         {
-          "id": "26b1b683d1c88c0f542137f0b4ccb87b",
-          "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLXRIRG84Rll5V3dvQkJpYmhHYjZmR0VtSkEwNENjc08zVUZwLThRd3lCSXl5ZXFwSUFlbTVteGx0ZU42Y1ZVOXNmaHRLVG8?oc=5",
-          "source": "v.daum.net",
-          "published": "2026-09-08T12:09:26+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "4ea46d6005253df852f9bdf86dc97514",
           "title": "[입시의 정석] &quot;의대 지원권까지 '사탐런'&quot;…수시 판도 흔드나",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60766232/N",
@@ -219,6 +209,16 @@
           "link": "https://www.newspost.kr/news/articleView.html?idxno=225522",
           "source": "www.newspost.kr",
           "published": "2026-09-08T08:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "26b1b683d1c88c0f542137f0b4ccb87b",
+          "title": "국·수 변별력 유지… EBS 연계율 50%대 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kLXRIRG84Rll5V3dvQkJpYmhHYjZmR0VtSkEwNENjc08zVUZwLThRd3lCSXl5ZXFwSUFlbTVteGx0ZU42Y1ZVOXNmaHRLVG8?oc=5",
+          "source": "v.daum.net",
+          "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -625,10 +625,10 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-23T09:01:18.681837+00:00",
+          "published": "2026-09-23T14:37:52.236738+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7f6b9ae08d8da3211b1c14392d3d8e28",
@@ -638,17 +638,17 @@
           "published": "2026-09-23T06:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "26e37473df58a7eb83204d6990403d89",
-          "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
-          "source": "에듀진",
-          "published": "2026-09-23T03:07:50.437929+00:00",
+          "id": "24891e0b8ef3af07cfa39f21559965c0",
+          "title": "수학 문제는 많이 푸는데 성적은 그대로…합격생은 무엇이 달랐을까 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Wkx6UWpHN1F4Wmx2V0phM25FSVBXNHZXcWxMX3VfakhNOUdRVjBObzBWdkpJVFJpR19DOUk4NGh3NFpINXFfR3FOQW1JNVMxYWpsRnNldmpwNWtheEZVQkNFbU5MQTl1ekE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-09-23T03:00:28+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "f08d1430e595841131842c20dfe25cdc",
@@ -816,16 +816,6 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006372763?sid=102",
           "source": "www.edaily.co.kr",
           "published": "2026-09-19T23:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d83d3d9c3a0e430f15730ee3fbab205e",
-          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - 베",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLWtHaUtYT1NYY1J4blpEaUpIYlNOTFBDWDFQcklsX1Z1SnFfUV9BZkFZOFl2OHROejl2d2tjLUkyMGpwUXJxUjI5NlgySDNPQTJGdkwxbGNmbTRad3J6UE11UlkxSVFhdGh2bQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1905,7 +1895,7 @@
           "published": "2026-09-23T00:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3af9ab1ebfe84b6f98cd6a5b9e84f7a9",
@@ -2603,9 +2593,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2643,16 +2633,26 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-23T09:08:50.394526+00:00",
+          "published": "2026-09-23T14:45:42.093901+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "c64f12490840004d5b7136c62f31cff9",
+          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTU3VXhJZk9tYUVGLTVOX3ViUkNudHUwc3lLa3RzNW12NVJjSkRSQ0t5NHh5VXVuaENDRWQ0RHZOcmttdmcxT3RJbURyckh1NTFsUXdWdktJejhZYzJFa0c3dTNISzJIdkU1WA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-23T06:47:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
         },
         {
           "id": "2bce3d04d93c9e784b4220b5d2bf7587",
-          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - ajunews.com",
+          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
-          "source": "ajunews.com",
+          "source": "아주경제",
           "published": "2026-09-23T00:01:40+00:00",
           "type": "news",
           "grade": "all",
@@ -2804,16 +2804,6 @@
           "link": "https://n.news.naver.com/mnews/article/022/0004160192?sid=102",
           "source": "www.segye.com",
           "published": "2026-09-18T08:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c64f12490840004d5b7136c62f31cff9",
-          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTU3VXhJZk9tYUVGLTVOX3ViUkNudHUwc3lLa3RzNW12NVJjSkRSQ0t5NHh5VXVuaENDRWQ0RHZOcmttdmcxT3RJbURyckh1NTFsUXdWdktJejhZYzJFa0c3dTNISzJIdkU1WA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T07:23:52+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
