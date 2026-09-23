@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T03:19:51.962209+00:00",
+  "updated_at": "2026-09-23T09:13:52.008064+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-23T03:05:21.099869+00:00",
+          "published": "2026-09-23T08:58:40.678279+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ff98abee5747406f67b6225bba21a33a",
+          "title": "[대입 데이터 분석]③국어ㆍ수학 수능 수준 대체로 9모와 유사해 - eduplusnews.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUUVvUElmTnZObzl4bUhGN01Jb1pnbjU2T3JLeVN5S21TY0xGcEoza3hZMDdnUzZUbWEyOWtOTDNybHpYMnJDU19iUXgtLTc1VHRxTWUxOHdSeFUzUldENzktVU11dFRjblpQYzVFXzQ4d9IBckFVX3lxTE0wUUVvUElmTnZObzl4bUhGN01Jb1pnbjU2T3JLeVN5S21TY0xGcEoza3hZMDdnUzZUbWEyOWtOTDNybHpYMnJDU19iUXgtLTc1VHRxTWUxOHdSeFUzUldENzktVU11dFRjblpQYzVFXzQ4dw?oc=5",
+          "source": "eduplusnews.com",
+          "published": "2026-09-23T06:20:27+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ee115da3e607ab8311137b5810773dbe",
@@ -611,6 +621,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "50e9155bdc0167d22a8f9c7635d3da6a",
+          "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
+          "source": "베리타스알파",
+          "published": "2026-09-23T09:01:18.681837+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7f6b9ae08d8da3211b1c14392d3d8e28",
+          "title": "수험생 10명 중 8명 &quot;2028학년도 대입 개편, 수시 지원에 영향&quot;",
+          "link": "https://n.news.naver.com/mnews/article/088/0001030356?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-09-23T06:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "26e37473df58a7eb83204d6990403d89",
           "title": "[합격사례] 중앙대 합격생은 무엇이 달랐을까…내신·학생부·면접 합격 비결",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54207",
@@ -628,7 +658,7 @@
           "published": "2026-09-23T00:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b2469e538dba50e813e67d449e80db06",
@@ -638,7 +668,7 @@
           "published": "2026-09-23T00:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "17420548161637660c4dd515b8b930d7",
@@ -648,7 +678,7 @@
           "published": "2026-09-23T00:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9cf5319200a73f8f5c42dadbf7158f87",
@@ -658,7 +688,7 @@
           "published": "2026-09-22T23:59:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6e88c11709a2a64f2eed88234e2aa735",
@@ -1868,6 +1898,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "2edf831a770cd9049e14c43e32ce3378",
+          "title": "2028 대입개편 부담에…수시 지원자 10명 중 8명 &quot;올해 수시 지원 전략에...",
+          "link": "https://www.newspim.com/news/view/20260923000186",
+          "source": "www.newspim.com",
+          "published": "2026-09-23T00:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "3af9ab1ebfe84b6f98cd6a5b9e84f7a9",
           "title": "[단독] [2027정시] 37개 약대 663명(37.6%) ‘2022학부체제 이후 최저’.. '정시에서도 경쟁률 하락 이어질까'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629046",
@@ -2269,7 +2309,7 @@
           "published": "2026-09-23T00:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "095ea762eb44b8b9f54cc35e44a1aa54",
@@ -2563,9 +2603,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2599,10 +2639,20 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "f436b206ede667b68519d5141f413cb6",
+          "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
+          "source": "베리타스알파",
+          "published": "2026-09-23T09:08:50.394526+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "2bce3d04d93c9e784b4220b5d2bf7587",
-          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
+          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - ajunews.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
-          "source": "아주경제",
+          "source": "ajunews.com",
           "published": "2026-09-23T00:01:40+00:00",
           "type": "news",
           "grade": "all",
