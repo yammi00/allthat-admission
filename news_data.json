@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T02:48:58.687420+00:00",
+  "updated_at": "2026-09-24T09:09:14.731638+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-24T02:34:22.671858+00:00",
+          "published": "2026-09-24T08:54:30.994075+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-24T02:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ff98abee5747406f67b6225bba21a33a",
@@ -55,9 +55,9 @@
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - veritas-a.com",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -635,7 +635,7 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-24T02:36:47.568818+00:00",
+          "published": "2026-09-24T08:56:53.856422+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -648,7 +648,7 @@
           "published": "2026-09-24T02:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b83e36220186db3ce30bd2a21aad682c",
@@ -658,7 +658,7 @@
           "published": "2026-09-24T01:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "593058411662d61d671d7e98f6298ccf",
@@ -668,7 +668,7 @@
           "published": "2026-09-24T00:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a4fe983e9856a74ede8af48d0af4ac1",
@@ -678,7 +678,7 @@
           "published": "2026-09-24T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7bd866020848f0cd690ad4336566d25f",
@@ -688,7 +688,7 @@
           "published": "2026-09-23T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7f6b9ae08d8da3211b1c14392d3d8e28",
@@ -882,9 +882,9 @@
         },
         {
           "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - veritas-a.com",
+          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1952,10 +1952,10 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-24T02:39:17.862349+00:00",
+          "published": "2026-09-24T08:59:33.523688+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2edf831a770cd9049e14c43e32ce3378",
@@ -2703,10 +2703,20 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-24T02:44:12.864789+00:00",
+          "published": "2026-09-24T09:04:27.869199+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "3c3aa1bfab7c7cf1299a591917d1cf2b",
+          "title": "수시 지원 후에도 수능 공부는 계속…9월 이후 학습 전략은",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112122",
+          "source": "edu.donga.com",
+          "published": "2026-09-24T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "bdcabcaf7b8625fcd7bf42b829ea8fc0",
@@ -2716,13 +2726,13 @@
           "published": "2026-09-24T00:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c64f12490840004d5b7136c62f31cff9",
-          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - veritas-a.com",
+          "title": "[단독] 세화고 2027입시가이드북 '주목'.. 수능만점자, 서울대의대 합격자 인터뷰 수록 '최강 라인업' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOTU3VXhJZk9tYUVGLTVOX3ViUkNudHUwc3lLa3RzNW12NVJjSkRSQ0t5NHh5VXVuaENDRWQ0RHZOcmttdmcxT3RJbURyckh1NTFsUXdWdktJejhZYzJFa0c3dTNISzJIdkU1WA?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "all",
@@ -3780,9 +3790,9 @@
         },
         {
           "id": "06d628e43c6300024c1081e49b915948",
-          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - veritas-a.com",
+          "title": "서울여대 2027 수시 실기/논술고사 일정 공개..'논술고사 11월 21일' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OaU1HUE45TFo1MEMtbF9fNDdrQU1qTHhVZ2laUnUtYVFEeU0wb2xrblFDblFEYTc0SWU0UDVIZ1A5SUVpNmdkOWZtMGs1QVBKcWlYeGxuZ0d4UUlleEUzV3ZNQkVDZHQtSVhOSQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "all",
