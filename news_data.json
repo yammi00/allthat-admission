@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:09:14.731638+00:00",
+  "updated_at": "2026-09-24T14:47:58.521109+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-24T08:54:30.994075+00:00",
+          "published": "2026-09-24T14:33:29.584276+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,10 +635,20 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-24T08:56:53.856422+00:00",
+          "published": "2026-09-24T14:35:51.064500+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2e517b94485c6fd0319e632c3c4b090f",
+          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bnhGdUctQkl5ZE1ycWRNZmJuUWVLY1ZwWUFjTnk5NGN2X0JEUUU4c2hTNDR5cVgyT3RVaS14ZWtuNXJXMUZocC1HVEktLTFZU3UzblhsVEtjUzVZenlzVGhNb3hIZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-24T13:04:01+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d52a940ebe281afa2c14e83c92e2c969",
@@ -1125,7 +1135,7 @@
           "title": "서울 11개 대학 수시 마감… 논술 쏠림 속 반도체 ‘웃고’ 의대 ‘울고’ - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96VVlhZWZNSjBSZkxJaThvZUFGdXluU05JM0ZQNC1aVVVFM2o4eEN6Q01JUUpvZVNTdlNUNmZPTUdycEtET3dGcVNWOVkyV2RFbThTcHpmQVl0OTJLbXVna3dycUpBY2M5Vmc?oc=5",
           "source": "에듀진 인터넷 교육신문",
-          "published": "2026-09-14T02:41:11+00:00",
+          "published": "2026-09-14T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1952,10 +1962,20 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-24T08:59:33.523688+00:00",
+          "published": "2026-09-24T14:38:22.517588+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ad7ce2ae161e79795feababb4f6744bf",
+          "title": "‘아버지, 자퇴하고 정시올인 할래요’…학교 떠난 1만명 신중론 나왔다...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002701725?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-09-24T10:43:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2edf831a770cd9049e14c43e32ce3378",
@@ -2703,10 +2723,20 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-24T09:04:27.869199+00:00",
+          "published": "2026-09-24T14:43:12.514375+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "ac0aea2ae5816b766cbd68240825ca6a",
+          "title": "2027 성균관대 정시 모집요강 분석... 사범계열 40명, 학생부 100%에 수능 3개 영역 합 6 적용 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13bFJtZENndllnQlJnOUdGbDNQQlJ2cTNyRWVGRU9ac3c0eHNsQTNNMHduM0ZhdlphM09NVHlSY1FPVFZ1akFlYWhmcUFySFRzUGhWZ0ZvdUNHY1lWcjdDNkhyakx1QQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-24T09:07:09+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "3c3aa1bfab7c7cf1299a591917d1cf2b",
@@ -2716,7 +2746,7 @@
           "published": "2026-09-24T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdcabcaf7b8625fcd7bf42b829ea8fc0",
