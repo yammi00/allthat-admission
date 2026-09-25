@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T03:06:41.368962+00:00",
+  "updated_at": "2026-09-25T09:30:01.055626+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-25T02:51:39.869239+00:00",
+          "published": "2026-09-25T09:15:09.450177+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -631,24 +631,24 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "5c1bb317af8fd62fbff6b97e82e54277",
-          "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
-          "source": "에듀진",
-          "published": "2026-09-25T02:54:05.242902+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "50e9155bdc0167d22a8f9c7635d3da6a",
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-25T02:54:01.907710+00:00",
+          "published": "2026-09-25T09:17:33.853983+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ba9aa1637245c106590d554d7515cf15",
+          "title": "2028 대입 수시 'N수생 제한' 늘어…&quot;성취도·교과세특이 합격 가른다&quot;",
+          "link": "https://www.ajunews.com/view/20260925104537789",
+          "source": "www.ajunews.com",
+          "published": "2026-09-25T03:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2e517b94485c6fd0319e632c3c4b090f",
@@ -951,10 +951,10 @@
           "is_new": false
         },
         {
-          "id": "46f272acb3c011c2c026437a78d4f8f3",
-          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628563",
-          "source": "www.veritas-a.com",
+          "id": "4bed24acfa9cc5ccbfd5474fa7888328",
+          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등' 양극화 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eUFIc1JSb2tHdDdXVElJcVpQV1QwMk93MGtnR2g4NW5jY0RZTm1wby1DS3VjNUxRdXFHYzlUbDM2cWlQS01qNVV0aWg4N1lQVElNdjVsZGs5RUxkTVlDa1RTd0pRVWxENUh5Tg?oc=5",
+          "source": "베리타스알파",
           "published": "2026-09-17T23:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1972,7 +1972,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-25T02:57:01.010842+00:00",
+          "published": "2026-09-25T09:20:13.150627+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2399,7 +2399,7 @@
           "published": "2026-09-25T00:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dbca7df7291479013ec999095a541af4",
@@ -2743,7 +2743,7 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-25T03:01:54.298856+00:00",
+          "published": "2026-09-25T09:25:11.166037+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2790,9 +2790,9 @@
         },
         {
           "id": "2bce3d04d93c9e784b4220b5d2bf7587",
-          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - ajunews.com",
+          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
-          "source": "ajunews.com",
+          "source": "아주경제",
           "published": "2026-09-23T00:01:40+00:00",
           "type": "news",
           "grade": "all",
