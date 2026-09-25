@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:30:01.055626+00:00",
+  "updated_at": "2026-09-25T15:09:14.705888+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-25T09:15:09.450177+00:00",
+          "published": "2026-09-25T14:54:09.329251+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a94797194454c601174e578ed6836eec",
+          "title": "수능 50여 일 앞으로…남은 기간 어떻게 준비할까?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60772726/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-09-25T09:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a5479be234fb75e7c30009e72892ab34",
@@ -29,6 +39,16 @@
           "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64843",
           "source": "www.newsroad.co.kr",
           "published": "2026-09-24T02:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
+          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -635,7 +655,7 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-25T09:17:33.853983+00:00",
+          "published": "2026-09-25T14:56:35.560440+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -648,7 +668,7 @@
           "published": "2026-09-25T03:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2e517b94485c6fd0319e632c3c4b090f",
@@ -1972,7 +1992,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-25T09:20:13.150627+00:00",
+          "published": "2026-09-25T14:59:11.961277+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2743,7 +2763,7 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-25T09:25:11.166037+00:00",
+          "published": "2026-09-25T15:04:13.358910+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
