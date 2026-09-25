@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:59:58.655999+00:00",
+  "updated_at": "2026-09-25T23:14:23.830007+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-25T19:44:58.686192+00:00",
+          "published": "2026-09-25T22:59:45.552630+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -54,11 +54,11 @@
           "is_new": false
         },
         {
-          "id": "ff98abee5747406f67b6225bba21a33a",
+          "id": "d20cb5614eeb9345c979835eda040f08",
           "title": "[대입 데이터 분석]③국어ㆍ수학 수능 수준 대체로 9모와 유사해 - eduplusnews.com",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUUVvUElmTnZObzl4bUhGN01Jb1pnbjU2T3JLeVN5S21TY0xGcEoza3hZMDdnUzZUbWEyOWtOTDNybHpYMnJDU19iUXgtLTc1VHRxTWUxOHdSeFUzUldENzktVU11dFRjblpQYzVFXzQ4d9IBckFVX3lxTE0wUUVvUElmTnZObzl4bUhGN01Jb1pnbjU2T3JLeVN5S21TY0xGcEoza3hZMDdnUzZUbWEyOWtOTDNybHpYMnJDU19iUXgtLTc1VHRxTWUxOHdSeFUzUldENzktVU11dFRjblpQYzVFXzQ4dw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PUjZmVXpvOEpwQlZndzhuaVB0WFFXTDFsM2Z4S3ZKM0RiSVZNSUQxOE1xU3ByNnM4MC0weWlrdW5SQUgtcW15S0hRMVNxT0Q3Q09oNFRqbVZ2RG8tRHdKYVNvQmlGNzY3ckhhSGtn0gFyQVVfeXFMTTBRRW9QSWZOdk5vOXhtSEY3TUlvWmduNTZPckt5U3lLbVNjTEZwSjNreFkwN2dTNlRtYTI5a05MM3JselgyckNTX2JReC0tNzVUdHFNZTE4d1J4VTNSV0Q3OS1VTXV0VGNuWlBjNUVfNDh3?oc=5",
           "source": "eduplusnews.com",
-          "published": "2026-09-23T06:20:27+00:00",
+          "published": "2026-09-23T06:14:30+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -655,7 +655,7 @@
           "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
-          "published": "2026-09-25T19:47:23.434583+00:00",
+          "published": "2026-09-25T23:02:08.043876+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -672,9 +672,9 @@
         },
         {
           "id": "2e517b94485c6fd0319e632c3c4b090f",
-          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - 교육을 비추다",
+          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bnhGdUctQkl5ZE1ycWRNZmJuUWVLY1ZwWUFjTnk5NGN2X0JEUUU4c2hTNDR5cVgyT3RVaS14ZWtuNXJXMUZocC1HVEktLTFZU3UzblhsVEtjUzVZenlzVGhNb3hIZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-24T13:04:01+00:00",
           "type": "news",
           "grade": "3",
@@ -726,6 +726,16 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016334307?sid=102",
           "source": "www.yna.co.kr",
           "published": "2026-09-23T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "247661f1815119c4c8f1120e042ece22",
+          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -916,16 +926,6 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006372763?sid=102",
           "source": "www.edaily.co.kr",
           "published": "2026-09-19T23:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1692,9 +1692,9 @@
         },
         {
           "id": "49dadc2444b875ce647cfbc0447da0c6",
-          "title": "[2027 수시, 지난해를 읽다①] 의대 줄고 전공자율선택 늘었던 지난해 수시 - 교육을 비추다",
+          "title": "[2027 수시, 지난해를 읽다①] 의대 줄고 전공자율선택 늘었던 지난해 수시 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFbEs1aW5SWjJuZFF5X1ROY2RJbHYzYXQ5UGtKdVppTkFiQmlkZURNMjllZG9oVkJhWFU5UE1HZlYxMFVRZzJmUWlQRktYN1czVzlyZE14Q2NDMm4yT3hNWURrLTFkZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1832,9 +1832,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1992,7 +1992,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-25T19:50:03.667868+00:00",
+          "published": "2026-09-25T23:04:38.431180+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2029,9 +2029,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2129,9 +2129,9 @@
         },
         {
           "id": "656fc65b724381cc667106bba8c649f2",
-          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - 교육을 비추다",
+          "title": "성대는 학생부로 뽑고, 서강대는 높은 점수 골라준다…2027 정시의 반전 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRXE1alZVZ1ZQTVJFdGJCSmRBYXJvTEpSR2ZISlZ6TVVWX004OXhnSGJfVDg2UnZBdjFZVjBxUVZqc2JwNHo5WmZQS2RYZVRLa1B4OVgtU1RCZ0gxcUFHQmtXR0tlZw?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2463,9 +2463,9 @@
         },
         {
           "id": "f5658259222220db1e497a3fce320f56",
-          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
+          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-20T05:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2503,9 +2503,9 @@
         },
         {
           "id": "de35be03987d497db78f690c65374dc3",
-          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
+          "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-12T22:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2553,9 +2553,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -2763,10 +2763,20 @@
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
           "source": "베리타스알파",
-          "published": "2026-09-25T19:55:01.460691+00:00",
+          "published": "2026-09-25T23:09:37.607423+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
+        },
+        {
+          "id": "d781f017c1aa09435be82939a1991151",
+          "title": "[AI입시 A to Z] 수능 코앞인데 공부법 그대로?…막판 50일 전략은",
+          "link": "https://www.newspim.com/news/view/20260923001028",
+          "source": "www.newspim.com",
+          "published": "2026-09-25T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
         },
         {
           "id": "ac0aea2ae5816b766cbd68240825ca6a",
@@ -2810,9 +2820,9 @@
         },
         {
           "id": "2bce3d04d93c9e784b4220b5d2bf7587",
-          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - ajunews.com",
+          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
-          "source": "ajunews.com",
+          "source": "아주경제",
           "published": "2026-09-23T00:01:40+00:00",
           "type": "news",
           "grade": "all",
@@ -3620,9 +3630,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "교육을 비추다",
+          "source": "kyobit.com",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
