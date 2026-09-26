@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T09:12:39.942756+00:00",
+  "updated_at": "2026-09-26T14:14:44.565900+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-26T08:58:09.240038+00:00",
+          "published": "2026-09-26T13:59:41.956786+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -665,7 +665,7 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-26T09:00:35.493913+00:00",
+          "published": "2026-09-26T14:02:08.646654+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -678,7 +678,7 @@
           "published": "2026-09-26T07:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "50e9155bdc0167d22a8f9c7635d3da6a",
@@ -2022,7 +2022,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-26T09:03:02.901371+00:00",
+          "published": "2026-09-26T14:04:41.798109+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2452,6 +2452,16 @@
           "is_new": false
         },
         {
+          "id": "0cbbfee2172427d79acce5b4ee74b39f",
+          "title": "[2027수시특집] 경기대 1975명(67.5%) ‘확대’.. ‘무전공 577명’ 자유전공학부 수원/서울캠 270명, 5개 단과대통합학부 307",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQ2lBRlJKSmRpU1lnVmRXUW4zd2RvZEViWmxiNEdNRGxwQi1nTG5GUC1xYjA3VVlJMnpJWENLZDRRNVhSNUt6a1R5dC1DeFhyOWd2TlIxS2p2eUE1VnRkZnByM3FWZGhZVTRMaw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-23T06:47:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "dbca7df7291479013ec999095a541af4",
           "title": "스카이입시교육학원, 을지대·가천대 약술형논술 추석·개천절 현강·화...",
           "link": "https://www.itbiznews.com/news/articleView.html?idxno=225814",
@@ -2753,9 +2763,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2788,6 +2798,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "57964d1f3f5a3b156dea27a62f1a47c0",
+          "title": "경희대 2027 정시 2,427명…국제학과 가군 이동, 자유전공은 과탐 가산 제외 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MVEJXb1dVVkY5WEl6WkFmM25MQzVockQ3OGEyenl0LXBKVVpoOTU4YzVfa3NJdGlpcGFtdnotWlNaSm5WYUEwM0VtdVVFNlUxNTh0ZTNfelVtUy03ekVBTVlPYTFrUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-09-26T04:47:04+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f436b206ede667b68519d5141f413cb6",
           "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
@@ -3980,9 +4000,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-09-03T07:55:37+00:00",
           "type": "news",
           "grade": "all",
