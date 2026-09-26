@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T03:09:48.055890+00:00",
+  "updated_at": "2026-09-26T09:12:39.942756+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-26T02:55:01.082910+00:00",
+          "published": "2026-09-26T08:58:09.240038+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-26T01:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a94797194454c601174e578ed6836eec",
@@ -665,7 +665,17 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-26T02:57:29.456499+00:00",
+          "published": "2026-09-26T09:00:35.493913+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "2f12ea1d4b217f11c07e27388eced411",
+          "title": "“재수는 꿈도 꾸지말자” 확 바뀌는 내년 수능…수험생 10명 중 8명 수...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002702027?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-09-26T07:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -2009,10 +2019,10 @@
       "items": [
         {
           "id": "1ce03fbca5858b8596efe908971bb32a",
-          "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제  합격선‘촉각’",
+          "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-26T02:59:59.916462+00:00",
+          "published": "2026-09-26T09:03:02.901371+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2526,7 +2536,7 @@
           "title": "약술형 논술 시행 대학 4년 새 두 배, 2027 수시에서도 지원 집중 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUXFWdWcxNWJDbHFSMHM1My01T3F4Yy1HX3JDdW15NXVnYXlWSkxyZ2RoM2M5WS16d0tlSjZ0SDJ6M0Uyd1pqMjhUWHRaY3hQb3picHpLWHkzR0RjSFd1ZE9uWE9HUQ?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-09-12T22:00:00+00:00",
+          "published": "2026-09-13T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2743,9 +2753,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "뉴데일리 경기",
+          "source": "gg.newdaily.co.kr",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2789,6 +2799,16 @@
           "is_new": false
         },
         {
+          "id": "c1e82cfe1b32b6f8d0b77f9c38f15cc7",
+          "title": "[단독] [2027수능] 추석 직전 수험생 많이 산 참고서? ‘영어 대신 수학’ 뚜렷.. 수학/사탐런 ‘급증’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVWt6eHpCc1kzOFBrd2pYZDVXZHZVRWZCN3Y4c1ZTVFZHeXQ5UW9uaVRzd2dieE5OUmhQVzJVMzFTRXRWZ1VzemJwYnhTeFZ0dmtOR0dSQWxXT21pVzg3dlJPNXZOSDViY2FLVg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-26T01:21:55+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "d781f017c1aa09435be82939a1991151",
           "title": "[AI입시 A to Z] 수능 코앞인데 공부법 그대로?…막판 50일 전략은",
           "link": "https://www.newspim.com/news/view/20260923001028",
@@ -2824,16 +2844,6 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002701611?sid=102",
           "source": "biz.heraldcorp.com",
           "published": "2026-09-24T00:46:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c1e82cfe1b32b6f8d0b77f9c38f15cc7",
-          "title": "[단독] [2027수능] 추석 직전 수험생 많이 산 참고서? ‘영어 대신 수학’ 뚜렷.. 수학/사탐런 ‘급증’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVWt6eHpCc1kzOFBrd2pYZDVXZHZVRWZCN3Y4c1ZTVFZHeXQ5UW9uaVRzd2dieE5OUmhQVzJVMzFTRXRWZ1VzemJwYnhTeFZ0dmtOR0dSQWxXT21pVzg3dlJPNXZOSDViY2FLVg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
