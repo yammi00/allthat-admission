@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T00:20:09.479890+00:00",
+  "updated_at": "2026-09-27T07:54:00.124672+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-27T00:05:18.130535+00:00",
+          "published": "2026-09-27T07:25:56.276875+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -665,10 +665,20 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-27T00:07:47.361889+00:00",
+          "published": "2026-09-27T07:30:37.225610+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4734be3e1330ffde8e1117e7de66d3ab",
+          "title": "수시접수 '경쟁률 비공개' 무색…143개 대학 접수번호로 지원자 수 짐작...",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183743",
+          "source": "www.ggilbo.com",
+          "published": "2026-09-27T07:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2f12ea1d4b217f11c07e27388eced411",
@@ -1862,9 +1872,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2022,7 +2032,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-27T00:10:17.164017+00:00",
+          "published": "2026-09-27T07:35:15.795814+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2059,9 +2069,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2593,9 +2603,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -2806,7 +2816,7 @@
           "published": "2026-09-26T22:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "25004ff30ee84b6538f9f5ff449579bd",
@@ -4023,7 +4033,7 @@
           "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
           "source": "에듀진 인터넷 교육신문",
-          "published": "2026-09-03T07:55:37+00:00",
+          "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -4245,6 +4255,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "bf8f1c4360193009fb39f8067d0bb654",
+          "title": "중3·학부모 대상 '고교학점제·2028 고교선택 설명회' 10월 10일 개최",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112123",
+          "source": "edu.donga.com",
+          "published": "2026-09-27T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f5ccb0fda6f57df509ff4a0ea71e4787",
           "title": "[단독] '자사고부터 외고 국제고 일반고까지' 2027하반기 고입 설명회 총정리..'막판 고입 점검'",
