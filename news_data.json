@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:54:00.124672+00:00",
+  "updated_at": "2026-09-27T13:40:18.683152+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-27T07:25:56.276875+00:00",
+          "published": "2026-09-27T13:27:18.226102+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -665,7 +665,7 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-27T07:30:37.225610+00:00",
+          "published": "2026-09-27T13:29:44.331713+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -678,7 +678,7 @@
           "published": "2026-09-27T07:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2f12ea1d4b217f11c07e27388eced411",
@@ -971,6 +971,16 @@
           "is_new": false
         },
         {
+          "id": "4bed24acfa9cc5ccbfd5474fa7888328",
+          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등' 양극화 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eUFIc1JSb2tHdDdXVElJcVpQV1QwMk93MGtnR2g4NW5jY0RZTm1wby1DS3VjNUxRdXFHYzlUbDM2cWlQS01qNVV0aWg4N1lQVElNdjVsZGs5RUxkTVlDa1RTd0pRVWxENUh5Tg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-18T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "a80685b3a631535b2920caa265173cb4",
           "title": "'수시 먹통' 354건 구제에 수험생들 '유감'…&quot;소송도 검토&quot;",
           "link": "https://n.news.naver.com/mnews/article/629/0000535144?sid=102",
@@ -1006,16 +1016,6 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=597697",
           "source": "news.unn.net",
           "published": "2026-09-18T00:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "4bed24acfa9cc5ccbfd5474fa7888328",
-          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등' 양극화 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eUFIc1JSb2tHdDdXVElJcVpQV1QwMk93MGtnR2g4NW5jY0RZTm1wby1DS3VjNUxRdXFHYzlUbDM2cWlQS01qNVV0aWg4N1lQVElNdjVsZGs5RUxkTVlDa1RTd0pRVWxENUh5Tg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-17T23:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1872,9 +1872,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2032,7 +2032,7 @@
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
-          "published": "2026-09-27T07:35:15.795814+00:00",
+          "published": "2026-09-27T13:30:28.704261+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2069,9 +2069,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2603,9 +2603,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
@@ -4263,7 +4263,7 @@
           "published": "2026-09-27T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f5ccb0fda6f57df509ff4a0ea71e4787",
