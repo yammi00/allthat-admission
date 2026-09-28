@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T03:11:43.160099+00:00",
+  "updated_at": "2026-09-28T10:37:10.774442+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,14 +14,64 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-09-28T02:56:49.994130+00:00",
+          "id": "be823cf9b49418debed3e9ecc1ebea7c",
+          "title": "2027 수능 9월 모평, ‘불국어·물수학·물영어’에 변별력 비상…11월 ...",
+          "link": "https://www.kbmaeil.com/article/20260928500328",
+          "source": "www.kbmaeil.com",
+          "published": "2026-09-28T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "8738f44d464ed0835f20d230ff465601",
+          "title": "수능 모평 영어 3개월만 불에서 물로⋯ 난이도 조절 또 실패",
+          "link": "https://www.asiatime.co.kr/article/20260928500347",
+          "source": "www.asiatime.co.kr",
+          "published": "2026-09-28T06:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "faadc2c8d1303f47d46c014c6ad2ae9e",
+          "title": "수능 D-50…메가스터디교육, 수험생·학부모가 해야 할 5가지 소개",
+          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45115",
+          "source": "www.financialreview.co.kr",
+          "published": "2026-09-28T06:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b82a2011dcd4b02a0c86d7c648ea2c5c",
+          "title": "[학교에서는 다 하지 못한 말] 대입 제도의 변화가 학교 교육의 변화로...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112292",
+          "source": "edu.donga.com",
+          "published": "2026-09-28T05:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2ee4fc9faf62c77d681e6cad57527934",
+          "title": "2027학년도 9월 모의평가 성적표 29일 배부…등급컷도 공개",
+          "link": "https://www.kizmom.com/news/articleView.html?idxno=112980",
+          "source": "www.kizmom.com",
+          "published": "2026-09-28T03:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2b15e37c68095fd906722c8765e1dcc4",
+          "title": "9월 모평 영어 1등급 비율 15.5%…지난해 수능보다 4배 많아",
+          "link": "https://n.news.naver.com/mnews/article/025/0003554157?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-09-28T03:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "fe34485c2289f0103b3e221e3ebdafb1",
@@ -665,10 +715,40 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-28T02:59:22.272073+00:00",
+          "published": "2026-09-28T10:24:50.590066+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "cc4c72b4d63437438dda0d16f6467f7f",
+          "title": "[2027전문대수시특집] '창학 75주년' 정화예대 수시 1961명(91.0%).. 명동/대학로 잇는 ‘현장형 예술교육’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629701",
+          "source": "베리타스알파",
+          "published": "2026-09-28T10:24:39.919051+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2b48c9a46ae30f0b99bd68c2212ee764",
+          "title": "2027 수시 면접, 학생부에서 어떤 질문이 나올까 서류 기반 면접 대비 3...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112272",
+          "source": "edu.donga.com",
+          "published": "2026-09-28T04:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e999de75d33af1b0b8add5d91a3380c4",
+          "title": "영어 1등급 6만명이 쏟아졌다…N수생·사탐런 예측불가 2027 수능[세상&amp;]",
+          "link": "https://n.news.naver.com/mnews/article/016/0002702607?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-09-28T03:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "36f2395af018adb7010d65822c81d699",
@@ -678,7 +758,7 @@
           "published": "2026-09-28T00:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4734be3e1330ffde8e1117e7de66d3ab",
@@ -1882,9 +1962,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2038,6 +2118,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "f4437f8e66471412b34fa6fca2e25cb5",
+          "title": "안성이투스247기숙학원이 제시하는 검정고시생을 위한 2028학년도 입시 ...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003683952?sid=101",
+          "source": "www.seoul.co.kr",
+          "published": "2026-09-28T04:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "dcf965a4e96d1f4800cbd7591963c639",
           "title": "수능 D-50 &quot;반복적으로 틀리는 내용과 문제 유형 집중 공부가 효과적&quot;",
           "link": "https://n.news.naver.com/mnews/article/014/0005581433?sid=102",
@@ -2045,7 +2135,7 @@
           "published": "2026-09-28T00:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1ce03fbca5858b8596efe908971bb32a",
@@ -2099,9 +2189,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2264,6 +2354,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "8c61eda0d369fd9d88630642001b4303",
+          "title": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과 보도자료",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096684&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-09-28T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "214e4e2387371dfaf6d29e4d07301cae",
           "title": "(참고) 외국인 어업 노동자 소화기 분사 사건, 즉시 수시감독 착수",
@@ -2492,6 +2593,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "415d298c6d3d00d76a84002d5ad978d2",
+          "title": "스카이입시교육학원 대치동점, 을지대·가천대 등 약술형논술 10월 특강...",
+          "link": "http://www.e2news.com/news/articleView.html?idxno=334628",
+          "source": "www.e2news.com",
+          "published": "2026-09-28T08:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "445d13813d5bfd5dcc7c51291134dd20",
           "title": "[이종환의 입시큐] 수시 원서 낸 고3, 수능 전 50일 ‘시간 배분’이 합...",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/28/2026092880027.html",
@@ -2499,7 +2610,7 @@
           "published": "2026-09-28T00:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "684a553f8bca1f203cede915d45cb96c",
@@ -2858,6 +2969,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "9ee46e64205c340feb7a3f6517b9e9ff",
+          "title": "'수시 먹통' 특별조사 연장한다…교육부 &quot;종료일 미정&quot;",
+          "link": "https://n.news.naver.com/mnews/article/008/0005419124?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-09-28T06:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b18efff2b06fbb3d91497a3a7baa4aec",
           "title": "수능 코앞 ‘수시 올인’은 금물 ‘수능 성적’이 당락 좌우",
@@ -3949,10 +4070,10 @@
           "is_new": false
         },
         {
-          "id": "0344d065efea8505917f79ad407c8312",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTXUtcFdVX1dUX3RtcEJhY1VSektPMFFYcm8yZE51bVplWXhOUjl6bVRPMmRCeXpqcnBXUG9uVGhPT3Bzbi1NNldvTGp3dEE?oc=5",
-          "source": "v.daum.net",
+          "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
+          "source": "뉴스1",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4315,6 +4436,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "01305c344b7a101d309639c023535da4",
+          "title": "경기도교육청, 2027학년도 평준화지역 고교 배정 설명회 개최",
+          "link": "http://www.globalepic.co.kr/view.php?ud=2026092814143779235f69d33b22_29",
+          "source": "www.globalepic.co.kr",
+          "published": "2026-09-28T07:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "bf8f1c4360193009fb39f8067d0bb654",
           "title": "중3·학부모 대상 '고교학점제·2028 고교선택 설명회' 10월 10일 개최",
