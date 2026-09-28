@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:58:59.449721+00:00",
+  "updated_at": "2026-09-28T03:11:43.160099+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-27T22:44:07.803532+00:00",
+          "published": "2026-09-28T02:56:49.994130+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -57,7 +57,7 @@
           "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
           "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "3",
@@ -85,9 +85,9 @@
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - veritas-a.com",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
@@ -665,10 +665,20 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-27T22:46:37.191591+00:00",
+          "published": "2026-09-28T02:59:22.272073+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "36f2395af018adb7010d65822c81d699",
+          "title": "[김형일의 입시컨설팅] (247) 현 고2 2028학년도 입시전략",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=154894",
+          "source": "www.smartbizn.com",
+          "published": "2026-09-28T00:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4734be3e1330ffde8e1117e7de66d3ab",
@@ -772,19 +782,9 @@
         },
         {
           "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - veritas-",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
-          "source": "veritas-a.com",
-          "published": "2026-09-23T06:47:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - veritas-a.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1082,9 +1082,9 @@
         },
         {
           "id": "d83d3d9c3a0e430f15730ee3fbab205e",
-          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - v",
+          "title": "[단독] [2027수시경쟁률] 상위15개대 경쟁률 '급등' 모집단위..서강대 시스템반도체 '최고' 경희대 한의예(인문) 한양대 철학 톱3 - 베",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGLWtHaUtYT1NYY1J4blpEaUpIYlNOTFBDWDFQcklsX1Z1SnFfUV9BZkFZOFl2OHROejl2d2tjLUkyMGpwUXJxUjI5NlgySDNPQTJGdkwxbGNmbTRad3J6UE11UlkxSVFhdGh2bQ?oc=5",
-          "source": "veritas-a.com",
+          "source": "베리타스알파",
           "published": "2026-09-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1882,9 +1882,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2038,6 +2038,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "dcf965a4e96d1f4800cbd7591963c639",
+          "title": "수능 D-50 &quot;반복적으로 틀리는 내용과 문제 유형 집중 공부가 효과적&quot;",
+          "link": "https://n.news.naver.com/mnews/article/014/0005581433?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-09-28T00:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "1ce03fbca5858b8596efe908971bb32a",
           "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
@@ -2089,9 +2099,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2482,6 +2492,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "445d13813d5bfd5dcc7c51291134dd20",
+          "title": "[이종환의 입시큐] 수시 원서 낸 고3, 수능 전 50일 ‘시간 배분’이 합...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/28/2026092880027.html",
+          "source": "edu.chosun.com",
+          "published": "2026-09-28T00:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "684a553f8bca1f203cede915d45cb96c",
           "title": "[추민규의 입시 돋보기] 2027학년도 약술형 논술, 맞춤형 학습법",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/22/2026092280141.html",
@@ -2633,9 +2653,9 @@
         },
         {
           "id": "bfae41882d89e3010b4818be19881825",
-          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - 한입신문",
+          "title": "[2027수시] 수능최저 없는 논술전형 어디?.. 충청권 1개 대학 1개 전형 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVGk0TTh3SjhFczBvS01CMUE1YlFDQ0JsNU9VMzI5V01ZS1JBZzN6QmRCeWZwUlV2WWoxMzEwZlJMR2pRZEtpaWtGdnVrNE1aMHJXYVdLVHotU3E2U2c5UmcxUmt2dTJL?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-05T10:55:17+00:00",
           "type": "news",
           "grade": "all",
