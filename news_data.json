@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T10:37:10.774442+00:00",
+  "updated_at": "2026-09-28T19:18:16.245782+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,6 +14,16 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "634725a007c494b20323b11845b0168e",
+          "title": "&quot;역대 세번째로 쉬운 영어&quot; 수능 난도 상승 전망",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068409",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-09-28T15:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "be823cf9b49418debed3e9ecc1ebea7c",
           "title": "2027 수능 9월 모평, ‘불국어·물수학·물영어’에 변별력 비상…11월 ...",
           "link": "https://www.kbmaeil.com/article/20260928500328",
@@ -21,7 +31,7 @@
           "published": "2026-09-28T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8738f44d464ed0835f20d230ff465601",
@@ -31,7 +41,7 @@
           "published": "2026-09-28T06:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "faadc2c8d1303f47d46c014c6ad2ae9e",
@@ -41,7 +51,7 @@
           "published": "2026-09-28T06:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b82a2011dcd4b02a0c86d7c648ea2c5c",
@@ -51,7 +61,7 @@
           "published": "2026-09-28T05:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ee4fc9faf62c77d681e6cad57527934",
@@ -61,7 +71,7 @@
           "published": "2026-09-28T03:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2b15e37c68095fd906722c8765e1dcc4",
@@ -71,7 +81,7 @@
           "published": "2026-09-28T03:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fe34485c2289f0103b3e221e3ebdafb1",
@@ -715,7 +725,7 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-28T10:24:50.590066+00:00",
+          "published": "2026-09-28T19:06:17.134406+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -725,10 +735,10 @@
           "title": "[2027전문대수시특집] '창학 75주년' 정화예대 수시 1961명(91.0%).. 명동/대학로 잇는 ‘현장형 예술교육’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629701",
           "source": "베리타스알파",
-          "published": "2026-09-28T10:24:39.919051+00:00",
+          "published": "2026-09-28T19:06:09.362623+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2b48c9a46ae30f0b99bd68c2212ee764",
@@ -738,7 +748,7 @@
           "published": "2026-09-28T04:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e999de75d33af1b0b8add5d91a3380c4",
@@ -748,7 +758,7 @@
           "published": "2026-09-28T03:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "36f2395af018adb7010d65822c81d699",
@@ -861,9 +871,9 @@
           "is_new": false
         },
         {
-          "id": "a18c397302439ced8323eaf28b462b22",
-          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
+          "id": "247661f1815119c4c8f1120e042ece22",
+          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-23T06:47:00+00:00",
           "type": "news",
@@ -1962,9 +1972,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2125,7 +2135,7 @@
           "published": "2026-09-28T04:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dcf965a4e96d1f4800cbd7591963c639",
@@ -2189,9 +2199,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2363,7 +2373,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "214e4e2387371dfaf6d29e4d07301cae",
@@ -2600,7 +2610,7 @@
           "published": "2026-09-28T08:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "445d13813d5bfd5dcc7c51291134dd20",
@@ -2704,9 +2714,9 @@
         },
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "한겨레",
+          "source": "hani.co.kr",
           "published": "2026-09-14T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2977,7 +2987,7 @@
           "published": "2026-09-28T06:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b18efff2b06fbb3d91497a3a7baa4aec",
@@ -4444,7 +4454,7 @@
           "published": "2026-09-28T07:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bf8f1c4360193009fb39f8067d0bb654",
