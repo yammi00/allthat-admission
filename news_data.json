@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:18:16.245782+00:00",
+  "updated_at": "2026-09-29T00:21:00.298083+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -14,6 +14,16 @@
       "emoji": "📝",
       "items": [
         {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-09-29T00:06:05.027997+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "634725a007c494b20323b11845b0168e",
           "title": "&quot;역대 세번째로 쉬운 영어&quot; 수능 난도 상승 전망",
           "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068409",
@@ -21,7 +31,7 @@
           "published": "2026-09-28T15:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "be823cf9b49418debed3e9ecc1ebea7c",
@@ -725,7 +735,7 @@
           "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
           "source": "에듀진",
-          "published": "2026-09-28T19:06:17.134406+00:00",
+          "published": "2026-09-29T00:08:40.192330+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -735,7 +745,7 @@
           "title": "[2027전문대수시특집] '창학 75주년' 정화예대 수시 1961명(91.0%).. 명동/대학로 잇는 ‘현장형 예술교육’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629701",
           "source": "베리타스알파",
-          "published": "2026-09-28T19:06:09.362623+00:00",
+          "published": "2026-09-29T00:08:29.422823+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1972,9 +1982,9 @@
         },
         {
           "id": "a342d1e47492dad9f027824f0af04122",
-          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - hanibnews.com",
+          "title": "[2027모집요강] 11개교 논술전형 3441명 모집 ‘서울대 제외 10개교’ - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRUxGdHZyREZWUDJVdUpRblJuVU1PMG9CbmoxWHVRNWtVZEJNMTJNc2djbG9iU0pfbG5yRTJwdmcyb3F2bTFpQ1huNDFCblJDNkRuR2FBMG1VM1JMdjVXdjdvdUllQzJq?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2199,9 +2209,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -2714,9 +2724,9 @@
         },
         {
           "id": "e27d375bdf86a500e41a5c9e80beccc0",
-          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - hani.co.kr",
+          "title": "경기대, 논술우수자전형, 자유전공학부(수원·서울)에서만 239명 선발 - 한겨레",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVE9zSklfeDNtN2dYWjVHZUhHMTF5UlpmQVJnaE1lSUNpVTExbG8wbGFuaGh2RVBBb1FQaXhRRV9iVktoVTNYMnVvRi10NWxNeC1KcS1KTG8wemRPTWRKaF96YUJlSXVEUnc?oc=5",
-          "source": "hani.co.kr",
+          "source": "한겨레",
           "published": "2026-09-14T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4447,14 +4457,14 @@
       "emoji": "🏫",
       "items": [
         {
-          "id": "01305c344b7a101d309639c023535da4",
-          "title": "경기도교육청, 2027학년도 평준화지역 고교 배정 설명회 개최",
-          "link": "http://www.globalepic.co.kr/view.php?ud=2026092814143779235f69d33b22_29",
-          "source": "www.globalepic.co.kr",
-          "published": "2026-09-28T07:04:00+00:00",
+          "id": "5bbaf460ec113eee21f7b3a10b1feba0",
+          "title": "경기도교육청, 2027학년도 고교 평준화 배정 설명회…“지망 순위 신중히” - beyondpost.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94TEhHdnI2Y0JubDc3QlJqTmczNFdWaWdJWEZQNEpMUVF1MjBaeTVfVXlXaXUzNzRoUS1aWkNnLV95cTVnOEpVWFBvRGo2bE8xQldkLVhSYnRmOEo5cXI1MGZ6QXAzeXQxU21kaXV6Z29ZcE5lX3BnTHVQX3o?oc=5",
+          "source": "beyondpost.co.kr",
+          "published": "2026-09-28T04:27:09+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "bf8f1c4360193009fb39f8067d0bb654",
