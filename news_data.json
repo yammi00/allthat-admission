@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T14:44:58.421084+00:00",
+  "updated_at": "2026-09-29T20:36:51.639891+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -21,7 +21,7 @@
           "published": "2026-09-29T08:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b031945dcc4654a1f7bb7ea8e304f9d",
@@ -801,6 +801,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "411c8848b5d6066f042af70e853584b5",
+          "title": "'수시 먹통'·문항 거래 국감 간다…증인 명단으로 본 교육위 국감",
+          "link": "https://n.news.naver.com/mnews/article/421/0009199234?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-09-29T20:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "f565de5d58c0887c297e5c9c4dc9565d",
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 1966명(54.9%) '14명 확대'....",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629811",
@@ -932,9 +942,9 @@
         },
         {
           "id": "2e517b94485c6fd0319e632c3c4b090f",
-          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - kyobit.com",
+          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bnhGdUctQkl5ZE1ycWRNZmJuUWVLY1ZwWUFjTnk5NGN2X0JEUUU4c2hTNDR5cVgyT3RVaS14ZWtuNXJXMUZocC1HVEktLTFZU3UzblhsVEtjUzVZenlzVGhNb3hIZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-24T13:04:01+00:00",
           "type": "news",
           "grade": "3",
@@ -1912,9 +1922,9 @@
         },
         {
           "id": "db0614966d040f1d9ac5e4417e5e94f6",
-          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - newsis.com",
+          "title": "입시업체가 본 올해 관전 포인트…N수생·지역의사[2027 수시③] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TelVSOFRDV2V2ODVIT1BqQ0hJTHRGcnpfOTBCY1pHYXpyWkZwVU1CTktKVldYMlJBX3pXZk0zX3p4Z2dINjN1NjQ1MUNPdUNVMEJkYTE0YjVxUXRzU25vSNIBeEFVX3lxTE93OFdKN2tYRFctU2JQcXg2UG9qam5FeDZULWhJaEtZOVVYV0c4VFJmSmVSdExOcmkyaGJ4UjQ4aXNoTk9wRkx5dUpTYVlSWk9IcDZMV05QWjNqMkM2R1N5T0E0T202VzJpSW9yazFiS1hVSnc1cjNvRQ?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1952,9 +1962,9 @@
         },
         {
           "id": "49dadc2444b875ce647cfbc0447da0c6",
-          "title": "[2027 수시, 지난해를 읽다①] 의대 줄고 전공자율선택 늘었던 지난해 수시 - kyobit.com",
+          "title": "[2027 수시, 지난해를 읽다①] 의대 줄고 전공자율선택 늘었던 지난해 수시 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFbEs1aW5SWjJuZFF5X1ROY2RJbHYzYXQ5UGtKdVppTkFiQmlkZURNMjllZG9oVkJhWFU5UE1HZlYxMFVRZzJmUWlQRktYN1czVzlyZE14Q2NDMm4yT3hNWURrLTFkZw?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-04T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2252,7 +2262,7 @@
           "title": "[단독] [2027정시] 12개 한의대 187명(25.8%) ‘축소’.. '인문 최상위권 집중되나'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629814",
           "source": "베리타스알파",
-          "published": "2026-09-29T14:35:07.029887+00:00",
+          "published": "2026-09-29T20:27:15.671749+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3104,9 +3114,9 @@
         },
         {
           "id": "5f32f319361a52c7520dddaac19e8762",
-          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - gg.newdaily.co.kr",
+          "title": "경기대학교, 2027년도 수시 모집… 2114명 선발 - 뉴데일리 경기",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNWV5Zy1uOGFRQURKbFEyZnRaMUd0Vk5yeWpjd3JOMHBKNkh5b3BJRFJBUmpIdm93S2N6S3hfRnFPVnRGa2RQN0VjUkZtcGR3ckFjdlg4VGpmUzU5c0YzMzVuanFzNUJRMGRDNEhNaVZ6R19TNHYzYlNB0gF_QVVfeXFMUEMxdHhjT0dtN29rRlViUFU1LVRKMmJBZ3hsY1NEa0tLWFp4S08zNklCb1ZXekNoSHVlYjQyM2drUUUzZGFJTFpqT3FzN1ROTi1mYlViTlhObGFXTUVZeWM2bmxDdG55YWlPLVgxNkNCOG5yLXp2T2lUNzFnaHZFdw?oc=5",
-          "source": "gg.newdaily.co.kr",
+          "source": "뉴데일리 경기",
           "published": "2026-09-01T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4061,9 +4071,9 @@
         },
         {
           "id": "3443e2c4c8f19d92f7bf1548be5ea40b",
-          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - kyobit.com",
+          "title": "수시 원서는 냈는데, '학교장 추천'도 완료됐을까 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaNnBwZDY5UGx2djlOaVJ1bFJhTWhuRzFDbVYyOTdDUEZBZ1BhQ0JuUUctNk5XSUxjdDR1dzE5cTNCWm9jeU9wQWk1VGwtdVBtd0t2dWJMOGlUclgzSEY0UjdMOEFpQQ?oc=5",
-          "source": "kyobit.com",
+          "source": "교육을 비추다",
           "published": "2026-09-08T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4251,9 +4261,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
