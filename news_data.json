@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:36:51.639891+00:00",
+  "updated_at": "2026-09-30T01:11:03.910387+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -13,6 +13,16 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-09-30T00:56:11.446798+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "18e3b8772080ac59b48653049ff26904",
           "title": "과탐 1등급 42% 줄어… 수시·정시 전략 재점검 필요 [9월 모의평가 채점...",
@@ -229,6 +239,16 @@
           "link": "https://www.newspim.com/news/view/20260831000296",
           "source": "www.newspim.com",
           "published": "2026-09-22T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9e55657073ada1fba761f53c76a2548f",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -644,6 +664,16 @@
           "is_new": false
         },
         {
+          "id": "28c16c1e9e57b5ab6095b992283728be",
+          "title": "2026 9월 모의고사 등급컷·전 과목 답지 떴다 - wikitree.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Od0wzdG12U1B3clgydXpQZFg4bVFiQWN5S0VUVDZEN1N0QVBYNV9fNy0xdmstVlBDQXZycjVQZHdZbzA1SERLUmQ1bzNxQWdJSzBHU01R?oc=5",
+          "source": "wikitree.co.kr",
+          "published": "2026-09-02T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
           "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
@@ -658,16 +688,6 @@
           "title": "[2027 9월모평] 지난 2년간 등급컷 어떻게 나왔나.. ‘마지막 통합수능 최종 시험대’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOZ2JXV3oxUl85dnpXbG9hMWJBTWNfbUVHdUxkODRIMTAwRVhXZTZaMndpYVFYRHhFZ2pkbjluZExwVnBoR2RzbmxJTHpXQzd2b2taNGxNRzlvN0V1Slg5X3c4WlBMaGRWek52cw?oc=5",
           "source": "베리타스알파",
-          "published": "2026-09-02T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9f5488ff7425cef1b618959eab637380",
-          "title": "2026년 9월 모의고사 정답지·답안지 공개…등급컷 언제? - 위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84V2xlQXJLUDNQSXRjVHc3UWdvU2JWMVdGYldoV2xXa1NPeXo5dThBdE5mMFRIWmJxeWc1d3pVU1QzVlF3M3dDbTBsRndHOE1nOGs2d0lB?oc=5",
-          "source": "위키트리",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -801,6 +821,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "26d358979522b0d1640e565f1b60163b",
+          "title": "내신 부담에 ‘논술’로 몰렸다…일반전형 지원자 절반 넘게 선택",
+          "link": "https://www.etoday.co.kr/news/view/2630664",
+          "source": "www.etoday.co.kr",
+          "published": "2026-09-29T23:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "411c8848b5d6066f042af70e853584b5",
           "title": "'수시 먹통'·문항 거래 국감 간다…증인 명단으로 본 교육위 국감",
           "link": "https://n.news.naver.com/mnews/article/421/0009199234?sid=102",
@@ -808,7 +838,7 @@
           "published": "2026-09-29T20:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f565de5d58c0887c297e5c9c4dc9565d",
@@ -2258,6 +2288,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "686dde8f9950e9125c8f97c1a8addc48",
+          "title": "[단독] [2027정시] 10개 수의대 145명(29.2%) ‘축소’.. '사탐런 봉쇄' 8개교 과탐지정 '경쟁률 하락하나'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629870",
+          "source": "베리타스알파",
+          "published": "2026-09-30T01:01:11.081478+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b6c3772063b5171080f6675446afae19",
           "title": "[단독] [2027정시] 12개 한의대 187명(25.8%) ‘축소’.. '인문 최상위권 집중되나'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629814",
@@ -2753,6 +2793,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "d2e4862dab76c5173e35fd82189c364f",
+          "title": "[거인의어깨 입시컨설팅] 수능 이후 대학별고사 논술⋅면접 준비 전략",
+          "link": "https://www.newspim.com/news/view/20260831000316",
+          "source": "www.newspim.com",
+          "published": "2026-09-29T22:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "77276e41cf04903707b0e59178eff860",
           "title": "[2027논술면접 최종체크] 이번 주말 성신여대 논술 어떻게 나올까.. 인문...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629887",
@@ -3149,6 +3199,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "632f03f16b2fc02473625d2021458b6b",
+          "title": "&quot;수능 D-50, 끝까지 무던하라&quot;… 이투스247학원 선배들의 파이널 역전 전...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112351",
+          "source": "edu.donga.com",
+          "published": "2026-09-30T00:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e38ab108b9762270decc8e815709f5c5",
+          "title": "교육부 표준 공통원서 시스템 예산 34% 삭감… 사전 검증도 '0건'[2026 국...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=598054",
+          "source": "news.unn.net",
+          "published": "2026-09-30T00:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "9ee46e64205c340feb7a3f6517b9e9ff",
           "title": "'수시 먹통' 특별조사 연장한다…교육부 &quot;종료일 미정&quot;",
@@ -4261,9 +4331,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "뉴시스",
+          "source": "newsis.com",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
