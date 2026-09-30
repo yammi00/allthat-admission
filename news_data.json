@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:11:03.910387+00:00",
+  "updated_at": "2026-09-30T08:02:25.746187+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,47 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-30T00:56:11.446798+00:00",
+          "published": "2026-09-30T07:47:35.554712+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6b1758ab0e85586490fbb7f71eaab5ad",
+          "title": "&quot;수능 D-50, 이렇게만 준비하세요&quot;… 수험생 막바지 '선택과 집중' 전략",
+          "link": "https://news.unn.net/news/articleView.html?idxno=598101",
+          "source": "news.unn.net",
+          "published": "2026-09-30T06:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b5bdf3110c26d716e45a6f50a7bbac48",
+          "title": "[수능 D-50] 새 문제보다 '오답' 집중, 생활리듬도 실전처럼",
+          "link": "https://www.newsjeju.net/news/articleView.html?idxno=426473",
+          "source": "www.newsjeju.net",
+          "published": "2026-09-30T05:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "cde9a648f75fd7cf1ce7295e914b37c7",
+          "title": "수능 D-50, 지금부터 뭘 공부해야 할까…EBSi ‘약점공략·파이널 특강’...",
+          "link": "https://www.gosiweek.com/article/1065575416956095",
+          "source": "www.gosiweek.com",
+          "published": "2026-09-30T01:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "eca119eeb765a6c36588412a689d6b72",
+          "title": "EBSi, 2027학년도 수능 D-50 맞아 약점 보완 학습 및 수험생 응원 캠페인...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112353",
+          "source": "edu.donga.com",
+          "published": "2026-09-30T01:02:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -239,16 +279,6 @@
           "link": "https://www.newspim.com/news/view/20260831000296",
           "source": "www.newspim.com",
           "published": "2026-09-22T22:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T08:31:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -665,9 +695,9 @@
         },
         {
           "id": "28c16c1e9e57b5ab6095b992283728be",
-          "title": "2026 9월 모의고사 등급컷·전 과목 답지 떴다 - wikitree.co.kr",
+          "title": "2026 9월 모의고사 등급컷·전 과목 답지 떴다 - 위키트리",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Od0wzdG12U1B3clgydXpQZFg4bVFiQWN5S0VUVDZEN1N0QVBYNV9fNy0xdmstVlBDQXZycjVQZHdZbzA1SERLUmQ1bzNxQWdJSzBHU01R?oc=5",
-          "source": "wikitree.co.kr",
+          "source": "위키트리",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -821,6 +851,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "1aa2fedad8988d0d9e8c2e8fb6904d5c",
+          "title": "대입 논술전형 대비 '파이널 강의' 캘린더 공개… 대학별 맞춤 집중 공...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112387",
+          "source": "edu.donga.com",
+          "published": "2026-09-30T07:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d4c1f734dabfbadf31dd6a82b4dbd30d",
+          "title": "2027 수시 하향 안정 지원 뚜렷…국립대·지역 대학 약진",
+          "link": "https://www.naeil.com/news/read/603781?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-09-30T04:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c09828ea27cc8afb814dcefc29af92e9",
+          "title": "폭망 내신, 한방 역전 노린다…5명 뽑는데 3111명 지원, 논술로 몰린 수...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002703745?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-09-30T03:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "26d358979522b0d1640e565f1b60163b",
           "title": "내신 부담에 ‘논술’로 몰렸다…일반전형 지원자 절반 넘게 선택",
           "link": "https://www.etoday.co.kr/news/view/2630664",
@@ -828,7 +888,7 @@
           "published": "2026-09-29T23:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "411c8848b5d6066f042af70e853584b5",
@@ -2288,6 +2348,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "2a6f76bfb9b9cf52a0252453499703e6",
+          "title": "&quot;수능 대비, 반복해 틀리는 내용 집중&quot;",
+          "link": "https://n.news.naver.com/mnews/article/009/0005742080?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-09-30T07:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "21c2164fc3b315b7940f25d0e2a6cdf0",
+          "title": "수능 D-50...체제 변경에 졸업생 수험생 대거 몰려",
+          "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400754",
+          "source": "www.jejudomin.co.kr",
+          "published": "2026-09-30T06:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "686dde8f9950e9125c8f97c1a8addc48",
           "title": "[단독] [2027정시] 10개 수의대 145명(29.2%) ‘축소’.. '사탐런 봉쇄' 8개교 과탐지정 '경쟁률 하락하나'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629870",
@@ -2295,7 +2375,7 @@
           "published": "2026-09-30T01:01:11.081478+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b6c3772063b5171080f6675446afae19",
@@ -2403,6 +2483,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=628508",
           "source": "베리타스알파",
           "published": "2026-09-17T22:39:24.343353+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "077075ec41566c53635690b075942236",
+          "title": "[단독] [2027정시] '정시 학생부 반영' 7개대 6684명 경쟁률 하락할까.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628153",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-16T07:02:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2800,7 +2890,7 @@
           "published": "2026-09-29T22:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "77276e41cf04903707b0e59178eff860",
@@ -3200,6 +3290,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "73efc2a9fa21e9b1aec447cd22e2afb0",
+          "title": "2027학년도 수능 D-50…새 문제보다 ‘기출·오답’ 집중해야 - kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtX1IzM21PRU4xWTNEU3BrVFpvRWd2NXhvR0ZlQWlvSGc5YkgtTy1WdkNxaW5MLUxVbzZrV0l2NXQ3cWE5QmdFd0M5ZkR6ZDJjVmVlbHFYLVJwTnYtb2IzbWlVYndlWW1vWGRUeWFtZw?oc=5",
+          "source": "kyongbuk.co.kr",
+          "published": "2026-09-30T07:46:05+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f66efc85f79c416008190af787196547",
+          "title": "수시 '먹통'에 마감 1시간 연장 80개 대학서 3184건 추가 접수",
+          "link": "https://n.news.naver.com/mnews/article/654/0000203181?sid=102",
+          "source": "www.kado.net",
+          "published": "2026-09-30T05:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5c79af7c7599a7928e556aa9ec15b708",
+          "title": "수시 일반전형 지원자 절반이 '논술'로…&quot;수능 최저 충족이 관건&quot;",
+          "link": "https://www.ajunews.com/view/20260930105619973",
+          "source": "www.ajunews.com",
+          "published": "2026-09-30T02:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "632f03f16b2fc02473625d2021458b6b",
           "title": "&quot;수능 D-50, 끝까지 무던하라&quot;… 이투스247학원 선배들의 파이널 역전 전...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=112351",
@@ -3207,7 +3327,7 @@
           "published": "2026-09-30T00:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e38ab108b9762270decc8e815709f5c5",
@@ -3217,7 +3337,7 @@
           "published": "2026-09-30T00:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9ee46e64205c340feb7a3f6517b9e9ff",
@@ -4320,10 +4440,10 @@
           "is_new": false
         },
         {
-          "id": "ce4b2a4febbf73b88b4f2888a1704b0e",
-          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ueVI5bkdXdWdJZVVYRGc3TWo0RldXa0pBU0czY0RoOUJ4VU9uOWNPMjFKVTFxMU00RG1abUllMUd2WmlfWkplZnZnMk9pTVJ5OVlIWEJMVkU3UdIBX0FVX3lxTE81dXFwSVZ0aXBzR3d5Q3dvdENOdWZ3YXJ0bUZpbmVWUXRNWTZ5dWlDS0s1V2NNMU9lTl9RX0ZKYjZEQlRBcUlhZEpkMTRTUTZ6ZDctMVhCREROYlgtYWcw?oc=5",
-          "source": "뉴스1",
+          "id": "0344d065efea8505917f79ad407c8312",
+          "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTXUtcFdVX1dUX3RtcEJhY1VSektPMFFYcm8yZE51bVplWXhOUjl6bVRPMmRCeXpqcnBXUG9uVGhPT3Bzbi1NNldvTGp3dEE?oc=5",
+          "source": "v.daum.net",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4331,9 +4451,9 @@
         },
         {
           "id": "842dd5c4c1c897d8779ba209cc6011a3",
-          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - newsis.com",
+          "title": "수시 코앞인데 아직 헷갈린다면?…입시용어 총정리[2027 수시①] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaGFULTRITHN2ZzB4U2tKdW5SbG9wNWRqdFVST0hxWkhHR1dlbzZtdVVKYlp2U254d1YtV3RBSU14VkdpUXNLN2VXV0k1aE1tNVVMQkFBTjRoamU2OVozZ9IBeEFVX3lxTE50a2dVLUdHZTB6WmNlWHZFNDY2U1dNdmtRamJSbnZUTEJKV0JzeDhLMUNLS2xQQl9wSkdTSmZBTW1RRDYwRkxrM0J4emFTSDRYWUhPR0oycjdVenB5SXo0UW02WDc5ZXRuUDIwQW9QT3lyaFUyeVY5ag?oc=5",
-          "source": "newsis.com",
+          "source": "뉴시스",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
           "grade": "all",
