@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T08:02:25.746187+00:00",
+  "updated_at": "2026-09-30T14:44:04.769809+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-30T07:47:35.554712+00:00",
+          "published": "2026-09-30T14:29:01.788820+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-09-30T06:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5bdf3110c26d716e45a6f50a7bbac48",
@@ -41,7 +41,7 @@
           "published": "2026-09-30T05:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cde9a648f75fd7cf1ce7295e914b37c7",
@@ -51,7 +51,7 @@
           "published": "2026-09-30T01:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "eca119eeb765a6c36588412a689d6b72",
@@ -61,7 +61,7 @@
           "published": "2026-09-30T01:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "18e3b8772080ac59b48653049ff26904",
@@ -705,9 +705,9 @@
         },
         {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "헤럴드경제",
+          "source": "biz.heraldcorp.com",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -858,7 +858,7 @@
           "published": "2026-09-30T07:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d4c1f734dabfbadf31dd6a82b4dbd30d",
@@ -868,7 +868,7 @@
           "published": "2026-09-30T04:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c09828ea27cc8afb814dcefc29af92e9",
@@ -878,7 +878,7 @@
           "published": "2026-09-30T03:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "26d358979522b0d1640e565f1b60163b",
@@ -2348,6 +2348,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "9a7e5c06562b2b59343cd56bfbacf7fa",
+          "title": "수능 D-50 … `사탐런' 막판 입시 변수",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=930140",
+          "source": "www.cctimes.kr",
+          "published": "2026-09-30T11:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4bd684ad1b9082325d299d6074a74569",
+          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PcmFxbVdZb0ZIRy1vMWNjMThtRENvSmZnbEhHV3h0dzR5OTdRNUVwdjAyai1vQnJVSExfcjk2VnhYVTNJUjdmb0R6WFdfbmxuUGM5N2lINVk2LTdlLUNEemJQUGFSeC1j?oc=5",
+          "source": "한입신문",
+          "published": "2026-09-30T10:04:27+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "2a6f76bfb9b9cf52a0252453499703e6",
           "title": "&quot;수능 대비, 반복해 틀리는 내용 집중&quot;",
           "link": "https://n.news.naver.com/mnews/article/009/0005742080?sid=102",
@@ -2355,7 +2375,7 @@
           "published": "2026-09-30T07:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21c2164fc3b315b7940f25d0e2a6cdf0",
@@ -2365,7 +2385,7 @@
           "published": "2026-09-30T06:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "686dde8f9950e9125c8f97c1a8addc48",
@@ -3297,7 +3317,7 @@
           "published": "2026-09-30T07:46:05+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f66efc85f79c416008190af787196547",
@@ -3307,7 +3327,7 @@
           "published": "2026-09-30T05:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5c79af7c7599a7928e556aa9ec15b708",
@@ -3317,7 +3337,7 @@
           "published": "2026-09-30T02:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "632f03f16b2fc02473625d2021458b6b",
@@ -4440,9 +4460,9 @@
           "is_new": false
         },
         {
-          "id": "0344d065efea8505917f79ad407c8312",
+          "id": "b34ef9574c74d8480306e2c568bbc4df",
           "title": "[2027 수시] 원서접수 D-2…'막판 눈치작전'보다 더 중요한 '이것' - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aTXUtcFdVX1dUX3RtcEJhY1VSektPMFFYcm8yZE51bVplWXhOUjl6bVRPMmRCeXpqcnBXUG9uVGhPT3Bzbi1NNldvTGp3dEE?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93MVdyZEYwX3NZSWMxYW9zakVVYVVUM2RTMUN2blVWX3pEQ1hfbFQ5TW5tazNaUnJMeFVEckFJaXJqQmxWYkN5SEFjblR5RDI0OUQwOA?oc=5",
           "source": "v.daum.net",
           "published": "2026-09-05T07:00:00+00:00",
           "type": "news",
@@ -4581,9 +4601,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
+          "source": "edujin.co.kr",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4806,6 +4826,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "a8631efca0a0204199fe761bf4c73ad5",
+          "title": "싸이먼닷컴, 특목고·자사고 경쟁률 비교법 소개 - 대학저널",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83T2xJN3REM2wyLVlWN2IwcFdiSGcyQlpOOGhTVHVZQ2FDOFVTMGFGSFI1c2hxcEp3SkItRUIwdEozRGNxejZxWFpodnRRWlBtRlNuS3lvazM3LVHSAWpBVV95cUxPNmhHdDlhSnRvY2JqY2xWTVcyNU9pbGlxVk1KbnpKZG9KMjNCZ0lGdUZOZmJIclZGRmRnbzBaSkc4M2t1d2Q1cmY2VkhwUFRJdWlMMmZyNTRodmpCYUxOOENDb3FOMTBQZGpR?oc=5",
+          "source": "대학저널",
+          "published": "2026-09-30T00:00:07+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3845a4ba226d567e130def4a0dc1996b",
           "title": "강동구, '대입 로드맵부터 고교 선택까지, 2028~2029 대입개편안 설명회...",
