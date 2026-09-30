@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T14:44:04.769809+00:00",
+  "updated_at": "2026-09-30T20:41:28.742228+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-09-30T14:29:01.788820+00:00",
+          "published": "2026-09-30T20:26:25.527925+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -705,9 +705,9 @@
         },
         {
           "id": "cff0a2d7a25d989c7d5c538bf71bf432",
-          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - biz.heraldcorp.com",
+          "title": "수학, 지난해 수능과 비슷…“14·22번 변별력 문항”[9월 모평] - 헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOT0g3aDQxUURSdUxuaEJDTXpYa1pfT05PZTFCTFdPQzEzMW5mVFFOdEUtcXZUOG5sR2V2aHVhZnY1S0RRT3U1NnpOeEZmODFJNGt3V2FR?oc=5",
-          "source": "biz.heraldcorp.com",
+          "source": "헤럴드경제",
           "published": "2026-09-02T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -2355,7 +2355,7 @@
           "published": "2026-09-30T11:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4bd684ad1b9082325d299d6074a74569",
@@ -2365,7 +2365,7 @@
           "published": "2026-09-30T10:04:27+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2a6f76bfb9b9cf52a0252453499703e6",
@@ -3017,7 +3017,7 @@
           "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-09-20T05:00:00+00:00",
+          "published": "2026-09-20T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -4601,9 +4601,9 @@
         },
         {
           "id": "35d5cadf431803cecc9f9343022ee87a",
-          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - edujin.co.kr",
+          "title": "\"9월 모평 이후 논술 준비, 가장 먼저 해야 할 공부는?\" - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10TEFwYmRVblBCQjZtS2ZZUi1JTGRnVlBEWnBpdTBuUlFia0gzaUxKaFRENnVjZDNtV1pzQ1UxTXBSQ00xU2NPOThXb1E3RnlwcWFoRndURW1PSW1lbmowdWprVGE1MTZSSFE?oc=5",
-          "source": "edujin.co.kr",
+          "source": "에듀진 인터넷 교육신문",
           "published": "2026-09-03T07:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -4834,7 +4834,7 @@
           "published": "2026-09-30T00:00:07+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3845a4ba226d567e130def4a0dc1996b",
