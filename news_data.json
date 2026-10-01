@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T08:24:06.294384+00:00",
+  "updated_at": "2026-10-01T17:05:21.470960+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -326,20 +326,20 @@
           "title": "한림성심대 2027수시1차경쟁률 4.8대1 '상승'.. 방사선과 11.7대1 '최고'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630291",
           "source": "베리타스알파",
-          "published": "2026-10-01T08:09:32.224944+00:00",
+          "published": "2026-10-01T16:52:38.106910+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "132595267967894d371d72a9af206afb",
           "title": "[단독] ‘수시 먹통’ 민간어플라이, 2027정시 '파국'까지 우려.. '130억 짜리 정시 합격예측이 진짜 뇌관’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630066",
           "source": "베리타스알파",
-          "published": "2026-10-01T08:09:32.224912+00:00",
+          "published": "2026-10-01T16:52:38.106883+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "70c4b734da5fbe85407a22f9d815a42f",
@@ -349,7 +349,7 @@
           "published": "2026-10-01T05:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0d3654cd653d2b14ffc20bcbce225fc7",
@@ -359,7 +359,7 @@
           "published": "2026-10-01T01:07:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1aa2fedad8988d0d9e8c2e8fb6904d5c",
@@ -863,17 +863,27 @@
           "title": "[알고보자] 서울대 신입생 68.2% 수도권, '지균' 탓?..'공정성강화방안이 만든 정시확대/블라인드 직격탄'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630214",
           "source": "베리타스알파",
-          "published": "2026-10-01T08:12:11.110557+00:00",
+          "published": "2026-10-01T16:55:25.614152+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "82deaa82f174c4ac0ab2b349b3ad4da9",
           "title": "[2027정시] 중앙대 1960명(43.8%) ‘비슷’.. ‘신설’ 계약정원 산업보안학과(자연) 나군 7명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630123",
           "source": "베리타스알파",
-          "published": "2026-10-01T08:12:11.110500+00:00",
+          "published": "2026-10-01T16:55:25.614104+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9a77e83ec4e7557e88f59f38e931c64e",
+          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTF9JME84QU1lanZhYTZybGNkQ3ZScDFRb0hKVU5RZ3kydkNUSUtEaFJTbTljU2d5N1A1d1F6aDhrenZVMXZYV3o0dXlRYVBPd0ViMi1QR3dCMlkxWHl5TkpQYkxXVzNy?oc=5",
+          "source": "한입신문",
+          "published": "2026-10-01T07:01:13+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1273,6 +1283,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "0524b40f78ea0028be9d3a1ded1962fb",
+          "title": "이지수능교육, 약술형 논술 대비 신규 교재 출시",
+          "link": "https://n.news.naver.com/mnews/article/008/0005421268?sid=101",
+          "source": "www.mt.co.kr",
+          "published": "2026-10-01T08:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d2e4862dab76c5173e35fd82189c364f",
           "title": "[거인의어깨 입시컨설팅] 수능 이후 대학별고사 논술⋅면접 준비 전략",
           "link": "https://www.newspim.com/news/view/20260831000316",
@@ -1399,6 +1419,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "b2bff0a59f5bb1242f3984d71429a209",
+          "title": "계명문화대 2027학년도 수시 1차 3.85대 1...전년보다 경쟁률 상승",
+          "link": "https://n.news.naver.com/mnews/article/002/0002459222?sid=102",
+          "source": "www.pressian.com",
+          "published": "2026-10-01T09:33:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "bcbabc38037927d719ac40cddaf433ff",
+          "title": "[단독] ‘수시 먹통’ 민간어플라이, 2027정시 '파국'까지 우려.. '130억 짜리 정시 합격예측이 진짜 뇌관’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KOE45aDV4TUpNVVVYRHROQ1Yyc3V3Q2YzZ2dYZE94Z3dKazU5YUF6djNNTHRLSlhMTUNWM0tuaVo4cE1OYjh6ZGZJVkNfRzRKd3ZkQWw0QzZLenhUQkZpUF9KeC1xRnk3WmU2ag?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-01T07:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "696170ac9865c1ab2cc57329baf663ec",
           "title": "수시 먹통 사태 마감 연장 때 눈치작전 없었나",
@@ -1775,16 +1815,6 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014198461?sid=102",
           "source": "www.newsis.com",
           "published": "2026-09-17T21:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "447343b2d3288c13ade83f9a71a03b5e",
-          "title": "[일문일답] 교육부 &quot;대입 원서접수 직접 하는 방안도 열어놓고 검토&quot;",
-          "link": "https://n.news.naver.com/mnews/article/001/0016319141?sid=102",
-          "source": "www.yna.co.kr",
-          "published": "2026-09-17T09:20:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
