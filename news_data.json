@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:13:03.176610+00:00",
+  "updated_at": "2026-10-01T08:24:06.294384+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -22,7 +22,7 @@
           "published": "2026-10-01T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b1758ab0e85586490fbb7f71eaab5ad",
@@ -321,6 +321,46 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "5cf262c7af32b6634494e6f62293050b",
+          "title": "한림성심대 2027수시1차경쟁률 4.8대1 '상승'.. 방사선과 11.7대1 '최고'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630291",
+          "source": "베리타스알파",
+          "published": "2026-10-01T08:09:32.224944+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "132595267967894d371d72a9af206afb",
+          "title": "[단독] ‘수시 먹통’ 민간어플라이, 2027정시 '파국'까지 우려.. '130억 짜리 정시 합격예측이 진짜 뇌관’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630066",
+          "source": "베리타스알파",
+          "published": "2026-10-01T08:09:32.224912+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "70c4b734da5fbe85407a22f9d815a42f",
+          "title": "내일부터 논술고사 시작…평균 경쟁률 48대 1",
+          "link": "http://www.metroseoul.co.kr/article/20261001500335",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-10-01T05:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0d3654cd653d2b14ffc20bcbce225fc7",
+          "title": "입시 경쟁 속 농어촌특별전형 관심 ↑…‘쌍용 더 플래티넘 한강’원스...",
+          "link": "https://n.news.naver.com/mnews/article/277/0005823316?sid=101",
+          "source": "view.asiae.co.kr",
+          "published": "2026-10-01T01:07:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "1aa2fedad8988d0d9e8c2e8fb6904d5c",
           "title": "대입 논술전형 대비 '파이널 강의' 캘린더 공개… 대학별 맞춤 집중 공...",
@@ -810,46 +850,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "795ba6a52aaf8280dd4c9292d808951f",
-          "title": "대기업 계약학과 수시 지원자 8994명 ‘역대 최고’…전년보다 18.2% 증가",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/17/2026091780121.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-17T05:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a540d485e1781c51901142fd1010a428",
-          "title": "[단독] [2027수시경쟁률] 서울교대 등 7개 '인서울' 대학 ‘사실상 미달’..'약대 간호학과 보유' 차의과대 등 17개  수도권 대학 '눈",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628279",
-          "source": "베리타스알파",
-          "published": "2026-09-17T02:50:54.956109+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f638030781aeaa556566dbc5133aede3",
-          "title": "[김형일의 입시컨설팅] (245) 대학별 서류·면접 대비 실전 전략",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=154112",
-          "source": "www.smartbizn.com",
-          "published": "2026-09-17T01:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "dc32586c77f5e5e64bf28b0d85489c5f",
-          "title": "[지상범 입시 토크] 대학 입학처가 직접 밝히는 면접 평가의 본질과 합...",
-          "link": "http://www.metroseoul.co.kr/article/20260917500084",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-09-17T01:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -859,11 +859,21 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "db683c99da33e31e8157ad03a1e28269",
-          "title": "[단독] [2027정시] '사탐런 역풍 맞은 과탐' 가산점 부여 대학 '주목'.. 이대 과목당 6% '최대' 국민대 중대 과목당 5% 톱3",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630061",
+          "id": "0a562deaf45afec52644e5a5f0edd430",
+          "title": "[알고보자] 서울대 신입생 68.2% 수도권, '지균' 탓?..'공정성강화방안이 만든 정시확대/블라인드 직격탄'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630214",
           "source": "베리타스알파",
-          "published": "2026-10-01T01:03:22.196665+00:00",
+          "published": "2026-10-01T08:12:11.110557+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "82deaa82f174c4ac0ab2b349b3ad4da9",
+          "title": "[2027정시] 중앙대 1960명(43.8%) ‘비슷’.. ‘신설’ 계약정원 산업보안학과(자연) 나군 7명",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630123",
+          "source": "베리타스알파",
+          "published": "2026-10-01T08:12:11.110500+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1381,16 +1391,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "6c0322517276c604fcf962dcfd224ea0",
-          "title": "[2027수시] 서울시립대 수리논술 기출 어떻게 활용할까.. 2027모의 2026본고사 ‘예시답안’ 공개 - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CRzJaaWxqbEpkVVUyRmYyMFFlaFdwX2NFSDI3TTkyTXlFQVc5X3JPTmZzU3ZpdmZrc2dvY3RvTV9tVTQ1VVA2bGRMMHdLNlp5VXR3eXpfUWp2VklpbHBJLURZYlhGYlBJ?oc=5",
-          "source": "한입신문",
-          "published": "2026-09-17T06:58:16+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1407,7 +1407,7 @@
           "published": "2026-10-01T00:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "73efc2a9fa21e9b1aec447cd22e2afb0",
@@ -1788,46 +1788,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "d516e6a8eaea2828f2beb320a1a22bab",
-          "title": "웅지세무대, 수시 1차 9월 30일까지… 최초합격자 등록금 50% 지원",
-          "link": "https://www.gosiweek.com/article/1065599268652579",
-          "source": "www.gosiweek.com",
-          "published": "2026-09-17T07:50:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "612dd1f8936ce92ea5f271a739d4797b",
-          "title": "[2027정시] 연세대 일반 1515명.. 상경 수능 반영 변경, 컴퓨팅 분리 모집 ‘3개년 입결 분석’ - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUzBxbVhhTHh1NEFDcEljODZNc3V6ZHZUOWUweWdna1dRM0JUeUF5dkgxVGdIRWk1QW1UbDhKYTFyQW9vQXZidE5JaHNid0JzNXA4cGJNUzJOZmJza09xbXpDeTBNc1F5?oc=5",
-          "source": "한입신문",
-          "published": "2026-09-17T07:47:40+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "49bb31878e0ad9769208ce7a6626f1d7",
-          "title": "'부정선거' 비유까지... 수시 접수 먹통, 고3이 분노한 진짜 이유",
-          "link": "https://n.news.naver.com/mnews/article/047/0002529319?sid=102",
-          "source": "www.ohmynews.com",
-          "published": "2026-09-17T05:11:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "71de84b9d9ab03f7a123adb6ad22f5d7",
-          "title": "국교위 숙의 참여 56% &quot;수능 서·논술형 필요&quot;…세대 인식차는 '뚜렷'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014196523?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-09-17T02:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1892,16 +1852,6 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3703371",
           "source": "www.gukjenews.com",
           "published": "2026-09-22T07:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "41cb673d3a5de5013044e2839891f1ed",
-          "title": "[주장] 무분별한 영재학교 증설 이대로는 안 된다",
-          "link": "https://n.news.naver.com/mnews/article/047/0002529317?sid=102",
-          "source": "www.ohmynews.com",
-          "published": "2026-09-17T05:01:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
