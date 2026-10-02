@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:44:07.473799+00:00",
+  "updated_at": "2026-10-02T10:27:43.164823+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,10 +19,10 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-02T03:29:22.869164+00:00",
+          "published": "2026-10-02T10:12:56.751713+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5fbb47e9b2090a99a1eb07821f21f5d9",
@@ -32,7 +32,7 @@
           "published": "2026-10-02T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c25ce7cc2448f5559fece9bee92cad91",
@@ -300,16 +300,6 @@
           "link": "https://www.newspim.com/news/view/20260831000296",
           "source": "www.newspim.com",
           "published": "2026-09-22T22:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e1e1a21a16ad94e3e9715b25620a15df",
-          "title": "수시 끝나도 수능은 계속된다… 9월 이후 공부 전략",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/18/2026091880151.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-18T06:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -800,36 +790,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "4bed24acfa9cc5ccbfd5474fa7888328",
-          "title": "2028 대입 개편 '편입학' 부각..2027수시 '학생부전형 하락'vs '논술 폭등' 양극화 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42eUFIc1JSb2tHdDdXVElJcVpQV1QwMk93MGtnR2g4NW5jY0RZTm1wby1DS3VjNUxRdXFHYzlUbDM2cWlQS01qNVV0aWg4N1lQVElNdjVsZGs5RUxkTVlDa1RTd0pRVWxENUh5Tg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-18T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a80685b3a631535b2920caa265173cb4",
-          "title": "'수시 먹통' 354건 구제에 수험생들 '유감'…&quot;소송도 검토&quot;",
-          "link": "https://n.news.naver.com/mnews/article/629/0000535144?sid=102",
-          "source": "news.tf.co.kr",
-          "published": "2026-09-18T05:39:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f68090df7d4450a746a8275400cc4c03",
-          "title": "스카이입시교육학원, 연세대·중앙대(창의형) 인문·수리·과학 온오프...",
-          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228234",
-          "source": "www.job-post.co.kr",
-          "published": "2026-09-18T05:30:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -838,6 +798,26 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "bdb544421f063f56008d6f074bffb5f6",
+          "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
+          "source": "베리타스알파",
+          "published": "2026-10-02T10:17:55.811826+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9ed10d808ce2d83ac9128854cb73f3ae",
+          "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
+          "source": "베리타스알파",
+          "published": "2026-10-02T10:17:55.811794+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "0a562deaf45afec52644e5a5f0edd430",
           "title": "[알고보자] 서울대 신입생 68.2% 수도권, '지균' 탓?..'공정성강화방안이 만든 정시확대/블라인드 직격탄'",
@@ -860,9 +840,9 @@
         },
         {
           "id": "9a77e83ec4e7557e88f59f38e931c64e",
-          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - hanibnews.com",
+          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTF9JME84QU1lanZhYTZybGNkQ3ZScDFRb0hKVU5RZ3kydkNUSUtEaFJTbTljU2d5N1A1d1F6aDhrenZVMXZYV3o0dXlRYVBPd0ViMi1QR3dCMlkxWHl5TkpQYkxXVzNy?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-10-01T07:01:13+00:00",
           "type": "news",
           "grade": "3",
@@ -880,9 +860,9 @@
         },
         {
           "id": "4bd684ad1b9082325d299d6074a74569",
-          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - hanibnews.com",
+          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PcmFxbVdZb0ZIRy1vMWNjMThtRENvSmZnbEhHV3h0dzR5OTdRNUVwdjAyai1vQnJVSExfcjk2VnhYVTNJUjdmb0R6WFdfbmxuUGM5N2lINVk2LTdlLUNEemJQUGFSeC1j?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-30T10:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -1010,9 +990,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -1034,7 +1014,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c61eda0d369fd9d88630642001b4303",
@@ -1271,7 +1251,7 @@
           "published": "2026-10-02T02:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0524b40f78ea0028be9d3a1ded1962fb",
@@ -1392,16 +1372,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "34d6c069abb6be393568e74e2b836943",
-          "title": "스카이입시교육학원 대치동점, 을지대·가천대 약술형논술 현강·화상강...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=210823",
-          "source": "www.lecturernews.com",
-          "published": "2026-09-18T06:12:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1411,6 +1381,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "7bf6d88018b468b660eb88e2ef1bf862",
+          "title": "2027 전문대 수시 1차, 보건·첨단산업 학과 강세…‘취업 연계성’ 주목",
+          "link": "http://www.breaknews.com/1240768",
+          "source": "www.breaknews.com",
+          "published": "2026-10-02T05:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "69ff021d4b5a9abd7dcadc65dc3cb96b",
           "title": "일반전형 과반 '논술'로… 내신 부담에 지원자 몰렸다",
           "link": "https://www.newscj.com/news/articleView.html?idxno=3437357",
@@ -1418,7 +1398,7 @@
           "published": "2026-10-02T02:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b2bff0a59f5bb1242f3984d71429a209",
@@ -1496,6 +1476,16 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=598054",
           "source": "news.unn.net",
           "published": "2026-09-30T00:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "b4e2d7663ee45caaedf74a3bf0058b36",
+          "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까.. 3일 자연, 4일 인문 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WmNoZnJNUVRnc3ZseTFyeTIzQlBEcnQ5cWVvdnpFSTc2X3p3UFB1Y1hDbnQ0QjN0Tm51dWtPUDcySFBBT0tISmZUYlNYSnJ6OVY5Q0NNRzJQVWU5c1F6ci1HLWNUVGxGa05rYQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-29T06:17:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1615,7 +1605,7 @@
           "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
           "source": "아주경제",
-          "published": "2026-09-23T00:01:40+00:00",
+          "published": "2026-09-23T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1756,26 +1746,6 @@
           "link": "https://www.newspim.com/news/view/20260918000464",
           "source": "www.newspim.com",
           "published": "2026-09-18T21:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3e212d91a561b775c61829bfe14ebec8",
-          "title": "초유의 ‘수시 먹통’ 사태, 수습 의지 있나?… 커지는 ‘최교진 사퇴론...",
-          "link": "https://n.news.naver.com/mnews/article/022/0004160192?sid=102",
-          "source": "www.segye.com",
-          "published": "2026-09-18T08:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3392cc104c688a8c3a5c05f0d1a0cd18",
-          "title": "“수시 원서 냈어도 수능 ‘손절’ 안 돼…정시까지 대비”",
-          "link": "https://n.news.naver.com/mnews/article/018/0006372042?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-09-18T06:30:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
