@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-02T17:26:44.422838+00:00",
+  "updated_at": "2026-10-02T21:54:52.175447+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-02T17:11:54.141416+00:00",
+          "published": "2026-10-02T21:40:20.653475+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -310,6 +311,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "dade5f3646c7862f04555aea218b7746",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
+          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-10-02T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "5cf262c7af32b6634494e6f62293050b",
           "title": "한림성심대 2027수시1차경쟁률 4.8대1 '상승'.. 방사선과 11.7대1 '최고'",
@@ -802,7 +813,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-02T17:16:52.411668+00:00",
+          "published": "2026-10-02T21:45:15.159246+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -812,7 +823,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-02T17:16:52.411639+00:00",
+          "published": "2026-10-02T21:45:15.159220+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1242,6 +1253,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "0eb7cb0878335a09743d1e8c545ddb4d",
+          "title": "[AI입시 A to Z] 논술·면접 앞둔 수험생 체크포인트",
+          "link": "https://www.newspim.com/news/view/20261002000432",
+          "source": "www.newspim.com",
+          "published": "2026-10-02T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "0e049153a7d43b1f24d462cdc3f17819",
           "title": "김미연독학기숙학원, 수능 D-50 맞춤관리 강화…독학재수학원·관리형독...",
@@ -1735,16 +1756,6 @@
           "link": "https://www.joongdo.co.kr/web/view.php?key=20260920010006478",
           "source": "www.joongdo.co.kr",
           "published": "2026-09-20T04:50:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "01912d34f12af70afd88575f1e4c26bb",
-          "title": "[AI입시 A to Z] 4년제 수시 마감 후 전문대 노린다면",
-          "link": "https://www.newspim.com/news/view/20260918000464",
-          "source": "www.newspim.com",
-          "published": "2026-09-18T21:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
