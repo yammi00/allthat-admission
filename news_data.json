@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:32:29.268171+00:00",
+  "updated_at": "2026-10-04T07:52:50.542772+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -15,14 +15,14 @@
       "emoji": "📝",
       "items": [
         {
-          "id": "16cca964d10cb3a614326127bcd52a1f",
-          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
-          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
-          "source": "조선에듀",
-          "published": "2026-10-04T00:17:50.564833+00:00",
+          "id": "da45ac056b9e8081ff6814237bec5898",
+          "title": "[심층] 9월 모의평가 자세히 분석했더니 '사탐런' 심화로 과탐 직격탄·...",
+          "link": "https://n.news.naver.com/mnews/article/657/0000055951?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-10-04T05:53:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "1c39be390a7fd66de1bda5b3dfa877ea",
@@ -329,7 +329,7 @@
           "published": "2026-10-03T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dade5f3646c7862f04555aea218b7746",
@@ -790,26 +790,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "11b8ddcb37f56106414636c47bbfc6d3",
-          "title": "&quot;한 해만 더 늦게 낳아주지&quot;…내년 대입 '재수 불리' 고민 커지는 고3들",
-          "link": "https://n.news.naver.com/mnews/article/088/0001029516?sid=102",
-          "source": "www.imaeil.com",
-          "published": "2026-09-20T04:38:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "5901903cb27c741fa73e8703d9eeb226",
-          "title": "서울 의대 수시 지원 10년 새 최저…지역의사제·반도체호황 '영향'",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260920010007385",
-          "source": "www.asiatoday.co.kr",
-          "published": "2026-09-20T01:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -823,7 +803,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-04T00:22:48.708098+00:00",
+          "published": "2026-10-04T07:43:14.401771+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -833,7 +813,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-04T00:22:48.708070+00:00",
+          "published": "2026-10-04T07:43:14.401737+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1402,16 +1382,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "f5658259222220db1e497a3fce320f56",
-          "title": "논술은 언제부터 해야 하나…수능 후 ‘2일’과 ‘16일’, 시작 시점부터 달라진다 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fa0RlS1RFOGtvcjA2M2UzUTZNY01LNnVYZWI0dWlkVVdkZHBuNnFNbFY1SndycVFndHZ5bWJ2ejNkcjJPendOeEtQTEt5ZE1pNTZFTGU3MWJtOWhoUnFOSk1aVWJIQQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-09-20T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1525,7 +1495,7 @@
           "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까.. 3일 자연, 4일 인문 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WmNoZnJNUVRnc3ZseTFyeTIzQlBEcnQ5cWVvdnpFSTc2X3p3UFB1Y1hDbnQ0QjN0Tm51dWtPUDcySFBBT0tISmZUYlNYSnJ6OVY5Q0NNRzJQVWU5c1F6ci1HLWNUVGxGa05rYQ?oc=5",
           "source": "베리타스알파",
-          "published": "2026-09-29T06:17:00+00:00",
+          "published": "2026-09-30T00:16:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1769,16 +1739,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "b8f71bbcb018f81ead412a0a36b42f3f",
-          "title": "[2027 수시로 간다-대학의 색, 미래의 선택] 첫 학기 등록금 ‘0원’…대...",
-          "link": "https://www.joongdo.co.kr/web/view.php?key=20260920010006478",
-          "source": "www.joongdo.co.kr",
-          "published": "2026-09-20T04:50:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1795,7 +1755,7 @@
           "published": "2026-10-04T00:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a8631efca0a0204199fe761bf4c73ad5",
