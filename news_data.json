@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T07:52:50.542772+00:00",
+  "updated_at": "2026-10-04T13:50:53.677214+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -22,7 +22,7 @@
           "published": "2026-10-04T05:53:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1c39be390a7fd66de1bda5b3dfa877ea",
@@ -566,7 +566,7 @@
           "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bnhGdUctQkl5ZE1ycWRNZmJuUWVLY1ZwWUFjTnk5NGN2X0JEUUU4c2hTNDR5cVgyT3RVaS14ZWtuNXJXMUZocC1HVEktLTFZU3UzblhsVEtjUzVZenlzVGhNb3hIZw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-09-24T13:04:01+00:00",
+          "published": "2026-09-24T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -780,16 +780,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "c1cbc653b3951dfc74542b0d5d2e8d32",
-          "title": "SKY는 ‘제시문’ 중앙대는 ‘학생부’…대학별 면접 맞춤대비 필수",
-          "link": "https://n.news.naver.com/mnews/article/011/0004663787?sid=102",
-          "source": "www.sedaily.com",
-          "published": "2026-09-20T09:09:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -803,7 +793,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-04T07:43:14.401771+00:00",
+          "published": "2026-10-04T13:40:58.207957+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -813,7 +803,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-04T07:43:14.401737+00:00",
+          "published": "2026-10-04T13:40:58.207928+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1391,6 +1381,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8e99e5298989ce0b5583c7dd9a5a782b",
+          "title": "성신여대 등 전국 3개 대학, '2027 첫 논술고사' 실시",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=20261004173009496992e75d13a3_30",
+          "source": "www.beyondpost.co.kr",
+          "published": "2026-10-04T08:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7bf6d88018b468b660eb88e2ef1bf862",
           "title": "2027 전문대 수시 1차, 보건·첨단산업 학과 강세…‘취업 연계성’ 주목",
           "link": "http://www.breaknews.com/1240768",
@@ -1726,16 +1726,6 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=112143",
           "source": "edu.donga.com",
           "published": "2026-09-21T00:58:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "39388df91ddf433225fbe3012d7733da",
-          "title": "수능 D-60, 추석 연휴에도 학습 리듬 지켜라",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084907",
-          "source": "www.kyongbuk.co.kr",
-          "published": "2026-09-20T08:44:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
