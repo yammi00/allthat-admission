@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-03T20:42:13.502093+00:00",
+  "updated_at": "2026-10-04T00:32:29.268171+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-03T20:27:35.000239+00:00",
+          "published": "2026-10-04T00:17:50.564833+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -320,6 +321,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "931964f3421c80bfc81b7ee262a4714e",
+          "title": "[미리보는 국감] 교육위, 수시 '먹통'·문항 거래·교부금 쟁점",
+          "link": "https://www.newspim.com/news/view/20261002000818",
+          "source": "www.newspim.com",
+          "published": "2026-10-03T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "dade5f3646c7862f04555aea218b7746",
           "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
@@ -799,16 +810,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "4f1734ebb4e04c822607fceee5822f4a",
-          "title": "서울지역 의대 수시지원 10년래 최저…이유 봤더니",
-          "link": "https://n.news.naver.com/mnews/article/018/0006372763?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-09-19T23:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -822,7 +823,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-03T20:32:33.006414+00:00",
+          "published": "2026-10-04T00:22:48.708098+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -832,7 +833,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-03T20:32:33.006387+00:00",
+          "published": "2026-10-04T00:22:48.708070+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -983,6 +984,16 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002701725?sid=102",
           "source": "biz.heraldcorp.com",
           "published": "2026-09-24T10:43:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "5d5f7a8035c4e5271b06f6f571774dc9",
+          "title": "수험생 83% &quot;2028 대입 개편 부담에 수시 전략 바꿨다&quot;",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705411",
+          "source": "www.gukjenews.com",
+          "published": "2026-09-24T02:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1776,6 +1787,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "0b37d22b86e43dbee8397d173f061451",
+          "title": "&quot;강남 3구 학업중단 급증, 내신 5등급제가 몰고 온 변화&quot;",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=880396",
+          "source": "www.gokorea.kr",
+          "published": "2026-10-04T00:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a8631efca0a0204199fe761bf4c73ad5",
           "title": "싸이먼닷컴, 특목고·자사고 경쟁률 비교법 소개 - 대학저널",
