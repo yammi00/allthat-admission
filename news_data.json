@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T08:18:02.560734+00:00",
+  "updated_at": "2026-10-05T19:14:07.488639+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-05T08:03:07.554599+00:00",
+          "published": "2026-10-05T18:59:20.852716+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -332,6 +332,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "1cd3ccab5a39deade40c3156c8630cd6",
+          "title": "[칼럼] &quot;2028 대입 이 손안에 있소이다&quot;",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=930605",
+          "source": "www.cctimes.kr",
+          "published": "2026-10-05T08:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "f7af94385c0e3e7d340b3917360ea6a2",
           "title": "[카드뉴스] 통합형 수능에 내신 5등급제까지... 2028 대입 개편의 핵심과...",
           "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=247142",
@@ -339,7 +349,7 @@
           "published": "2026-10-05T04:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2167e18f3e90c77b705d3af60bca4452",
@@ -1686,16 +1696,6 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=112174",
           "source": "edu.donga.com",
           "published": "2026-09-22T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "e44630cc31e434cf9d4ba2bf7034c2a1",
-          "title": "장동혁 &quot;수시 먹통 책임은 李대통령&quot;…국힘, 대여 공세 고삐",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854496",
-          "source": "www.newsworks.co.kr",
-          "published": "2026-09-21T08:52:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
