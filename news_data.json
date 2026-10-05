@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-04T21:02:34.748150+00:00",
+  "updated_at": "2026-10-05T00:36:20.888427+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -13,6 +14,16 @@
       "name": "평가원·모의고사",
       "emoji": "📝",
       "items": [
+        {
+          "id": "16cca964d10cb3a614326127bcd52a1f",
+          "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
+          "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
+          "source": "조선에듀",
+          "published": "2026-10-05T00:21:39.195525+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "da45ac056b9e8081ff6814237bec5898",
           "title": "[심층] 9월 모의평가 자세히 분석했더니 '사탐런' 심화로 과탐 직격탄·...",
@@ -320,6 +331,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "2167e18f3e90c77b705d3af60bca4452",
+          "title": "대입캘린더 (26/10/09~)",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630539",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-05T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d78f32982d68f8e128ebd024ee9243e4",
+          "title": "'수시 먹통' 책임 어디까지…교육부, 국감서 대입 관리체계 검증대",
+          "link": "https://www.etoday.co.kr/news/view/2632373",
+          "source": "www.etoday.co.kr",
+          "published": "2026-10-04T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "931964f3421c80bfc81b7ee262a4714e",
           "title": "[미리보는 국감] 교육위, 수시 '먹통'·문항 거래·교부금 쟁점",
@@ -749,36 +780,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "875f14f07741ced15f049c52c8e8c359",
-          "title": "대입캘린더 (26/09/25~)",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628797",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-21T00:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ee2f4ba21eae39febb10a13e8aee53c4",
-          "title": "[재수 반수 대신 편입 100] 개편앞둔 2027수시 마감에 '편입학의 역설'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628683",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-20T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "602f6a5c3dea092a98c6846caab3d568",
-          "title": "‘수시 먹통 어플라이’ 왜 공공체제가 필수일까.. ‘공정성 상징 국가고시’ 민간이 주무른 20년의 폐해",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=628734",
-          "source": "베리타스알파",
-          "published": "2026-09-20T22:07:38.022606+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -792,7 +793,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-04T20:52:34.818037+00:00",
+          "published": "2026-10-05T00:26:38.092714+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -802,7 +803,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-04T20:52:34.818010+00:00",
+          "published": "2026-10-05T00:26:38.092682+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1361,16 +1362,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "ddcd056cf8a8947b44f113bf9f48bfb6",
-          "title": "[김형일의 입시컨설팅] (246) 논술 대비 실전 유형 총정리",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=154116",
-          "source": "www.smartbizn.com",
-          "published": "2026-09-21T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1379,6 +1370,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "d4c661bb77d0c8fdd1318dd07efe4399",
+          "title": "웅지세무대학교, 2027학년도 수시 2차 모집… 최초합격자 첫 학기 등록금...",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068796",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-10-05T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "8e99e5298989ce0b5583c7dd9a5a782b",
           "title": "성신여대 등 전국 3개 대학, '2027 첫 논술고사' 실시",
