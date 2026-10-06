@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T16:40:17.923062+00:00",
+  "updated_at": "2026-10-06T22:21:09.641501+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-06T16:25:45.051321+00:00",
+          "published": "2026-10-06T22:06:28.278130+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ead904f3912a0fd72d84825c48bafb24",
+          "title": "[거인의어깨 입시컨설팅] 수능 D-day, 최종 정리 및 공부법",
+          "link": "https://www.newspim.com/news/view/20261001001259",
+          "source": "www.newspim.com",
+          "published": "2026-10-06T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "cb08eefdb57676f568bfe846ad792119",
@@ -32,7 +42,7 @@
           "published": "2026-10-06T08:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5c02a62cd7d9421822c5f591b4525a6a",
@@ -42,7 +52,7 @@
           "published": "2026-10-06T08:37:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "585e443b8cd1ee6d2857eb5dda1a2e2a",
@@ -52,7 +62,7 @@
           "published": "2026-10-06T08:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5984cf46e9c554efa34b91c22d0f60ba",
@@ -353,16 +363,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "ee115da3e607ab8311137b5810773dbe",
-          "title": "[거인의어깨 입시컨설팅] 수능 대비 마무리·최종 점검 전략",
-          "link": "https://www.newspim.com/news/view/20260831000296",
-          "source": "www.newspim.com",
-          "published": "2026-09-22T22:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -376,7 +376,7 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-06T16:28:10.942961+00:00",
+          "published": "2026-10-06T22:08:53.662576+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -386,7 +386,7 @@
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-06T16:28:05.692242+00:00",
+          "published": "2026-10-06T22:08:49.722765+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -396,7 +396,7 @@
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-06T16:28:05.692236+00:00",
+          "published": "2026-10-06T22:08:49.722760+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -406,10 +406,10 @@
           "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
           "source": "베리타스알파",
-          "published": "2026-10-06T16:28:05.692188+00:00",
+          "published": "2026-10-06T22:08:49.722705+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "00e3da2b42729f580854ab68423f4e8b",
@@ -1428,7 +1428,7 @@
           "published": "2026-10-06T10:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fd02039cc49d3ce4e53fb4abde8a036c",
