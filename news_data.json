@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:18:27.371237+00:00",
+  "updated_at": "2026-10-06T08:39:15.636329+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-06T01:03:44.828730+00:00",
+          "published": "2026-10-06T08:24:28.673122+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5984cf46e9c554efa34b91c22d0f60ba",
+          "title": "[임성호의 입시 레이다] 널뛰는 영어 난이도, 수능 어렵게 출제 가능성...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112516",
+          "source": "edu.donga.com",
+          "published": "2026-10-06T02:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "da45ac056b9e8081ff6814237bec5898",
@@ -331,6 +341,46 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "02552974d2d4415a35054e09b94dd35a",
+          "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
+          "source": "에듀진",
+          "published": "2026-10-06T08:26:57.345690+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6867b0c112a0f7834ec78aacb40e2ae8",
+          "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
+          "source": "베리타스알파",
+          "published": "2026-10-06T08:26:52.965907+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "95b1ece29e8b6d1a2ab447b1a3ffe2a3",
+          "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
+          "source": "베리타스알파",
+          "published": "2026-10-06T08:26:52.965897+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "00e3da2b42729f580854ab68423f4e8b",
+          "title": "[2026 국정감사] 내일 닻 올리는 교육위 국감…'수시 먹통·문항 거래·교...",
+          "link": "https://www.ajunews.com/view/20261006115053425",
+          "source": "www.ajunews.com",
+          "published": "2026-10-06T02:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "1cd3ccab5a39deade40c3156c8630cd6",
           "title": "[칼럼] &quot;2028 대입 이 손안에 있소이다&quot;",
@@ -760,16 +810,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "c785afe4723a48c1faa5beedbcdb1d94",
-          "title": "[단독][2027정시] 39개 의대 984명 모집 '7명 감소'.. 역대 최대 N수생, 개...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629284",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-22T07:38:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -820,9 +860,9 @@
         },
         {
           "id": "9a77e83ec4e7557e88f59f38e931c64e",
-          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - hanibnews.com",
+          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTF9JME84QU1lanZhYTZybGNkQ3ZScDFRb0hKVU5RZ3kydkNUSUtEaFJTbTljU2d5N1A1d1F6aDhrenZVMXZYV3o0dXlRYVBPd0ViMi1QR3dCMlkxWHl5TkpQYkxXVzNy?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-10-01T07:01:13+00:00",
           "type": "news",
           "grade": "3",
@@ -840,9 +880,9 @@
         },
         {
           "id": "4bd684ad1b9082325d299d6074a74569",
-          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - hanibnews.com",
+          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PcmFxbVdZb0ZIRy1vMWNjMThtRENvSmZnbEhHV3h0dzR5OTdRNUVwdjAyai1vQnJVSExfcjk2VnhYVTNJUjdmb0R6WFdfbmxuUGM5N2lINVk2LTdlLUNEemJQUGFSeC1j?oc=5",
-          "source": "hanibnews.com",
+          "source": "한입신문",
           "published": "2026-09-30T10:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -974,16 +1014,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629046",
           "source": "베리타스알파",
           "published": "2026-09-23T00:01:23.026884+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "hanibnews.com",
-          "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1234,6 +1264,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "0bd4c6d46e78ca7b07b21bb4968bfa01",
+          "title": "[수학 논구술] 2027 수시 논술전형 수리논술 대비방안-서울과기대 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZcnhoWEoyNFh4UkdnVU9nd0h4Mm9lNHpQcF84dHlPTjRxTklfMlc0V29RUDFNelA3X3VWR2htem5BSGFGb2N4TklmNXVjNjViNGV2WW8yRXU3MER6el9oQkdoZUFHY0FBempVeQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-05T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "0eb7cb0878335a09743d1e8c545ddb4d",
           "title": "[AI입시 A to Z] 논술·면접 앞둔 수험생 체크포인트",
           "link": "https://www.newspim.com/news/view/20261002000432",
@@ -1351,6 +1391,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "fd02039cc49d3ce4e53fb4abde8a036c",
+          "title": "교부금 개편부터 대입 원서 장애까지…교육위 국감 핵심 쟁점은",
+          "link": "https://ilyo.co.kr/?ac=article_view&entry_id=513031",
+          "source": "ilyo.co.kr",
+          "published": "2026-10-06T08:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c6086032d24248e218e4a80f55d11fd3",
+          "title": "고1은 학습법 정립·고2는 우선순위·고3은 수능 병행…2학기 중간고사...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/06/2026100680142.html",
+          "source": "edu.chosun.com",
+          "published": "2026-10-06T05:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c6c06d77e3eb23bd195996050aee2d39",
+          "title": "[미리보는 국감] 수시 먹통·서울대 10개·교부금…교육국감 쟁점 산적",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001397",
+          "source": "www.asiatoday.co.kr",
+          "published": "2026-10-06T03:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4613984cfb798e0b7c40382061317772",
           "title": "10월 대학별고사 본격화… 수시·수능 병행 전략 중요",
           "link": "https://edu.donga.com/news/articleView.html?idxno=112497",
@@ -1358,7 +1428,7 @@
           "published": "2026-10-06T00:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edbaa0af43f13bf23e6c2fac40a6c241",
@@ -1368,7 +1438,7 @@
           "published": "2026-10-05T23:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d4c661bb77d0c8fdd1318dd07efe4399",
@@ -1639,56 +1709,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "0951f7a89c82054b891a7426ce0b7df1",
-          "title": "올해 모의평가 오답 분석·EBS 연계 교재 복습 ‘주안점’ [추석 연휴 수...",
-          "link": "https://n.news.naver.com/mnews/article/082/0001399560?sid=102",
-          "source": "www.busan.com",
-          "published": "2026-09-22T08:33:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "23149f35d552a8837b2769fc2e3d90cc",
-          "title": "수능 두 달도 채 남지 않아",
-          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1101548",
-          "source": "www.ccdn.co.kr",
-          "published": "2026-09-22T07:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fc4c3a9c6253996fa612711f63fdca52",
-          "title": "[단독][2027정시] 39개 의대 984명 모집 '7명 감소'.. 역대 최대 N수생, 개편전 마지막수능 ‘안정지원 촉각’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfekg3V0Z3M1E2QmVvT0lMdVdacHN3Mld0SHJOS3pWUU9DelJpRTNWVTVCQ3loWHhnaG1XZ2ZQcFlpZGNHTVc1eUVwaHlwRjRTY1NLNVBaQ0h2N2MxRVlOdm9BRERnZFFHZEtiTA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-22T07:34:36+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "e93c869d37af95ed904a233cc0ad731b",
-          "title": "“무엇을 할지보다 안 할 것부터”…수능 앞둔 추석 연휴 활용법",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/22/2026092280129.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-22T05:42:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "925b0b7c4411c54a9094f52fafcfc128",
-          "title": "㈜잇올, 수능 D-50 맞아 하반기 입시 컨설팅 본격화",
-          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54667",
-          "source": "www.enetnews.co.kr",
-          "published": "2026-09-22T01:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1758,11 +1778,11 @@
           "is_new": false
         },
         {
-          "id": "08c966c4155923660b5ded8a07f0703a",
-          "title": "영천시장학회, '대입 내신 5등급제' 학부모교실 성료…입시전략 강연",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3703371",
-          "source": "www.gukjenews.com",
-          "published": "2026-09-22T07:06:00+00:00",
+          "id": "c7953fbaad3884224840d9fabc5e8211",
+          "title": "서울대·고려대 정시도 학생부 본다…\"내신 5등급제 자퇴 신중해야\" - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSnF0MWlWb2Fja3FLY0RxYWdXRi15SThEWVFfTGYtNkcwR1J4RGtGUFQ1eEN5bTFkTThxVWV2QWQyeDFBbDlSempxUDBTeVp1SFc1MnFDa0xwYnBO?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-09-22T23:59:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
