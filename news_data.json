@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T08:39:15.636329+00:00",
+  "updated_at": "2026-10-06T16:40:17.923062+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,10 +19,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-06T08:24:28.673122+00:00",
+          "published": "2026-10-06T16:25:45.051321+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "cb08eefdb57676f568bfe846ad792119",
+          "title": "[단독] [2027정시] 상위15개대 2026정시 계열별 입결 톱5.. '의약/첨단학...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630604",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-06T08:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5c02a62cd7d9421822c5f591b4525a6a",
+          "title": "고3, 수능 학습 흐름 유지하면서 내신 관리 병행해야",
+          "link": "https://n.news.naver.com/mnews/article/082/0001401357?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-10-06T08:37:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "585e443b8cd1ee6d2857eb5dda1a2e2a",
+          "title": "김영일교육컨설팅 '메디컬/계약학과 185개 모집단위 정시 지원가능점수...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630637",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-06T08:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5984cf46e9c554efa34b91c22d0f60ba",
@@ -32,7 +62,7 @@
           "published": "2026-10-06T02:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "da45ac056b9e8081ff6814237bec5898",
@@ -316,9 +346,9 @@
         },
         {
           "id": "d20cb5614eeb9345c979835eda040f08",
-          "title": "[대입 데이터 분석]③국어ㆍ수학 수능 수준 대체로 9모와 유사해 - eduplusnews.com",
+          "title": "[대입 데이터 분석]③국어ㆍ수학 수능 수준 대체로 9모와 유사해 - 에듀플러스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PUjZmVXpvOEpwQlZndzhuaVB0WFFXTDFsM2Z4S3ZKM0RiSVZNSUQxOE1xU3ByNnM4MC0weWlrdW5SQUgtcW15S0hRMVNxT0Q3Q09oNFRqbVZ2RG8tRHdKYVNvQmlGNzY3ckhhSGtn0gFyQVVfeXFMTTBRRW9QSWZOdk5vOXhtSEY3TUlvWmduNTZPckt5U3lLbVNjTEZwSjNreFkwN2dTNlRtYTI5a05MM3JselgyckNTX2JReC0tNzVUdHFNZTE4d1J4VTNSV0Q3OS1VTXV0VGNuWlBjNUVfNDh3?oc=5",
-          "source": "eduplusnews.com",
+          "source": "에듀플러스",
           "published": "2026-09-23T06:14:30+00:00",
           "type": "news",
           "grade": "3",
@@ -346,27 +376,37 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-06T08:26:57.345690+00:00",
+          "published": "2026-10-06T16:28:10.942961+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6867b0c112a0f7834ec78aacb40e2ae8",
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-06T08:26:52.965907+00:00",
+          "published": "2026-10-06T16:28:05.692242+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "95b1ece29e8b6d1a2ab447b1a3ffe2a3",
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-06T08:26:52.965897+00:00",
+          "published": "2026-10-06T16:28:05.692236+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "cc34931be266195a9e0eeb1674daceba",
+          "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
+          "source": "베리타스알파",
+          "published": "2026-10-06T16:28:05.692188+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -379,7 +419,7 @@
           "published": "2026-10-06T02:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1cd3ccab5a39deade40c3156c8630cd6",
@@ -797,16 +837,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009187883?sid=102",
           "source": "www.news1.kr",
           "published": "2026-09-22T23:36:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a8d5df59bdc67476e89eb454984d2e0f",
-          "title": "[입시의 정석] 합격 가르는 수시 면접…준비 전략은?",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60771788/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-09-22T09:54:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1391,6 +1421,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "301b3909a5e8dc8a8bfdfb8d7e11a068",
+          "title": "[입시의 정석] 마이스터고 19일부터 원서접수…합격 전략은?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60776164/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-10-06T10:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "fd02039cc49d3ce4e53fb4abde8a036c",
           "title": "교부금 개편부터 대입 원서 장애까지…교육위 국감 핵심 쟁점은",
           "link": "https://ilyo.co.kr/?ac=article_view&entry_id=513031",
@@ -1398,7 +1438,7 @@
           "published": "2026-10-06T08:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6086032d24248e218e4a80f55d11fd3",
@@ -1408,7 +1448,7 @@
           "published": "2026-10-06T05:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6c06d77e3eb23bd195996050aee2d39",
@@ -1418,7 +1458,7 @@
           "published": "2026-10-06T03:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4613984cfb798e0b7c40382061317772",
