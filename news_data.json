@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T19:14:07.488639+00:00",
+  "updated_at": "2026-10-06T01:18:27.371237+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-05T18:59:20.852716+00:00",
+          "published": "2026-10-06T01:03:44.828730+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -339,7 +339,7 @@
           "published": "2026-10-05T08:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f7af94385c0e3e7d340b3917360ea6a2",
@@ -770,16 +770,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e4b69e2bae2c17cd235dc1fff858b38e",
-          "title": "학생부 한 줄에서 시작된 면접…숭실대 사례로 보는 꼬리질문 대비법",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54181",
-          "source": "에듀진",
-          "published": "2026-09-22T00:30:23.106432+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -793,7 +783,7 @@
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630388",
           "source": "베리타스알파",
-          "published": "2026-10-05T08:08:06.040260+00:00",
+          "published": "2026-10-06T01:08:37.912054+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -803,7 +793,7 @@
           "title": "[2027정시] 고려대 1625명(37.5%) ‘비슷’.. 의대 39명, 대기업 계약 42명 ‘반도체공 12명’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630515",
           "source": "베리타스알파",
-          "published": "2026-10-05T08:08:06.040222+00:00",
+          "published": "2026-10-06T01:08:37.912035+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -830,9 +820,9 @@
         },
         {
           "id": "9a77e83ec4e7557e88f59f38e931c64e",
-          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - 한입신문",
+          "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTF9JME84QU1lanZhYTZybGNkQ3ZScDFRb0hKVU5RZ3kydkNUSUtEaFJTbTljU2d5N1A1d1F6aDhrenZVMXZYV3o0dXlRYVBPd0ViMi1QR3dCMlkxWHl5TkpQYkxXVzNy?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-10-01T07:01:13+00:00",
           "type": "news",
           "grade": "3",
@@ -850,9 +840,9 @@
         },
         {
           "id": "4bd684ad1b9082325d299d6074a74569",
-          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - 한입신문",
+          "title": "[2027정시] 11개교와 4개원, 채용조건형 계약학과 152명 내외 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PcmFxbVdZb0ZIRy1vMWNjMThtRENvSmZnbEhHV3h0dzR5OTdRNUVwdjAyai1vQnJVSExfcjk2VnhYVTNJUjdmb0R6WFdfbmxuUGM5N2lINVk2LTdlLUNEemJQUGFSeC1j?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-30T10:04:27+00:00",
           "type": "news",
           "grade": "3",
@@ -990,9 +980,9 @@
         },
         {
           "id": "92f65cbc48751173d549ab4222aa94c5",
-          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - 한입신문",
+          "title": "[2027정시] 11개교 라운드업.. 학생부 반영 확대, 모집군 이동, 수시 이월까지 확인해야 - hanibnews.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ejdtZHNtS2pLVmJodVNXRW44M2xsMlBfMll2OUFkbHBMTHlzT1VSUUd1Vzd1aHB5VXZHcU9XNzFPY09QX0VoSzF3LWxmNnBRVkVHb0d0emZEOWRvMWZuZk9LOUo1VkJJ?oc=5",
-          "source": "한입신문",
+          "source": "hanibnews.com",
           "published": "2026-09-22T08:25:07+00:00",
           "type": "news",
           "grade": "3",
@@ -1352,16 +1342,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "fcaf4691b895714adfa50f3f57c0d02a",
-          "title": "[김종두 칼럼] 수능 전 인문논술, 한 편의 답안을 완성하는 힘",
-          "link": "https://www.cfnews.kr/news/article.html?no=112250",
-          "source": "www.cfnews.kr",
-          "published": "2026-09-22T00:32:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1370,6 +1350,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "4613984cfb798e0b7c40382061317772",
+          "title": "10월 대학별고사 본격화… 수시·수능 병행 전략 중요",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112497",
+          "source": "edu.donga.com",
+          "published": "2026-10-06T00:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "edbaa0af43f13bf23e6c2fac40a6c241",
+          "title": "성신여대 2027학년도 전국 대학 첫 논술고사 실시.. '논술우수자전형 31...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630554",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-05T23:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "d4c661bb77d0c8fdd1318dd07efe4399",
           "title": "웅지세무대학교, 2027학년도 수시 2차 모집… 최초합격자 첫 학기 등록금...",
@@ -1686,16 +1686,6 @@
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54667",
           "source": "www.enetnews.co.kr",
           "published": "2026-09-22T01:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d31a6ae231760cdacb525527871398fb",
-          "title": "수능 두 달 앞으로…불안감에 흔들리는 수험생 위한 3가지 조언",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112174",
-          "source": "edu.donga.com",
-          "published": "2026-09-22T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
