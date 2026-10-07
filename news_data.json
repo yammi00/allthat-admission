@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T03:54:47.079221+00:00",
+  "updated_at": "2026-10-07T10:59:46.977572+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-07T03:39:55.255384+00:00",
+          "published": "2026-10-07T10:45:13.492520+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -343,26 +343,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "6dbcc39a0cf1f3f82a418c145e2bdd0e",
-          "title": "[단독] [2027 3월학평] ‘높았던 체감난도’ 입시기관 원점수 1등급컷.. 화77~79 언75~77 확82~85 미81~82 기83~84 -",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44a1p6ODJ1OW5fLTJSelprUGh0MDE2RXdKY2FOYjNVZ2lXcUJoMWY3YzlGOW95OE9LYnlBUkZCZHVja20zSGNVZUxWUERfb0xOajJWUWJiaGg5NDdNdUZwYzNVNVVBTUhXYWhIVA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-23T06:47:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d20cb5614eeb9345c979835eda040f08",
-          "title": "[대입 데이터 분석]③국어ㆍ수학 수능 수준 대체로 9모와 유사해 - 에듀플러스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PUjZmVXpvOEpwQlZndzhuaVB0WFFXTDFsM2Z4S3ZKM0RiSVZNSUQxOE1xU3ByNnM4MC0weWlrdW5SQUgtcW15S0hRMVNxT0Q3Q09oNFRqbVZ2RG8tRHdKYVNvQmlGNzY3ckhhSGtn0gFyQVVfeXFMTTBRRW9QSWZOdk5vOXhtSEY3TUlvWmduNTZPckt5U3lLbVNjTEZwSjNreFkwN2dTNlRtYTI5a05MM3JselgyckNTX2JReC0tNzVUdHFNZTE4d1J4VTNSV0Q3OS1VTXV0VGNuWlBjNUVfNDh3?oc=5",
-          "source": "에듀플러스",
-          "published": "2026-09-23T06:14:30+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -376,7 +356,7 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-07T03:42:23.088630+00:00",
+          "published": "2026-10-07T10:47:43.054323+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -386,7 +366,7 @@
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-07T03:42:18.005125+00:00",
+          "published": "2026-10-07T10:47:35.382627+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -396,7 +376,7 @@
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-07T03:42:18.005121+00:00",
+          "published": "2026-10-07T10:47:35.382619+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -406,10 +386,20 @@
           "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
           "source": "베리타스알파",
-          "published": "2026-10-07T03:42:18.005083+00:00",
+          "published": "2026-10-07T10:47:35.382566+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d4699efbf1b921c1254baaa98f304514",
+          "title": "[단독] 방치된 마이스터고 '깜깜이 입시'.. 14개 교육청 중 9곳 경쟁률 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630974",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-07T08:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "85a71da43020baf3846850161e06128e",
@@ -419,7 +409,7 @@
           "published": "2026-10-07T00:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "00e3da2b42729f580854ab68423f4e8b",
@@ -770,26 +760,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "247661f1815119c4c8f1120e042ece22",
-          "title": "홍익대 2027교사간담회 ‘수시 전형안내와 입결분석’.. 내달11일부터 '매주 수/금' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUk9xOGY2dnV3aXNFQjVZdDA3R0k3VHE1YXI3S181R3lzV3BMbVNSdUZnWDhTZF8zTTRvU0dST2RjYVVEaGhJTmJJWDNabVBocFAtajFFcUg0SGZnejRfZk8xQVZWVHFJZlJIQw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-23T06:47:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7f6b9ae08d8da3211b1c14392d3d8e28",
-          "title": "수험생 10명 중 8명 &quot;2028학년도 대입 개편, 수시 지원에 영향&quot;",
-          "link": "https://n.news.naver.com/mnews/article/088/0001030356?sid=102",
-          "source": "www.imaeil.com",
-          "published": "2026-09-23T06:34:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -798,6 +768,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "b893ff74881f31219676d7c5a18f0565",
+          "title": "약술의신, 중위권 수험생 대상 약술형 논술 대비 과정 운영",
+          "link": "https://www.gosiweek.com/article/1065590258666472",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-07T05:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "bdb544421f063f56008d6f074bffb5f6",
           "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 지난해 입결.. 서울대 고대 경희대 인하대 등 4개교 '평균 이상'",
@@ -1224,6 +1204,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "9761aa7dcd8649439f20ba7f86a0961a",
+          "title": "을지대 약술형 논술 준비생 93명 한자리에… 약술의신, 오프라인 실전 ...",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=880713",
+          "source": "www.gokorea.kr",
+          "published": "2026-10-07T05:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f3d484850847da9af380343c748c8bd5",
           "title": "대치동 멘토스학원, 2027 윈터스쿨·수능 후 논술 사전예약 진행",
           "link": "https://www.gosiweek.com/article/1065577948510574",
@@ -1231,7 +1221,7 @@
           "published": "2026-10-07T01:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0bd4c6d46e78ca7b07b21bb4968bfa01",
@@ -1322,16 +1312,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "0cbbfee2172427d79acce5b4ee74b39f",
-          "title": "[2027수시특집] 경기대 1975명(67.5%) ‘확대’.. ‘무전공 577명’ 자유전공학부 수원/서울캠 270명, 5개 단과대통합학부 307",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQ2lBRlJKSmRpU1lnVmRXUW4zd2RvZEViWmxiNEdNRGxwQi1nTG5GUC1xYjA3VVlJMnpJWENLZDRRNVhSNUt6a1R5dC1DeFhyOWd2TlIxS2p2eUE1VnRkZnByM3FWZGhZVTRMaw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-23T06:47:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1340,6 +1320,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "6da9ba63e5e69b841016e44cf7f93c1d",
+          "title": "“서울대 10개 만들기 사업, 내년 2곳 이상 추가 지원”",
+          "link": "https://n.news.naver.com/mnews/article/011/0004669146?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-10-07T08:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5f6c2134951afc4c7f84ba2ff9433765",
+          "title": "수시 원서접수 ‘먹통’ 교육위 국감 도마...최교진 “정시 재발 막겠다...",
+          "link": "https://www.m-economynews.com/news/article.html?no=71431",
+          "source": "www.m-economynews.com",
+          "published": "2026-10-07T05:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "301b3909a5e8dc8a8bfdfb8d7e11a068",
           "title": "[입시의 정석] 마이스터고 19일부터 원서접수…합격 전략은?",
@@ -1401,9 +1401,9 @@
           "is_new": false
         },
         {
-          "id": "5085cee971d64ef87590c5ec9320d971",
+          "id": "fd4bfe21425fc4126476f7236f9fdc40",
           "title": "‘사탐런’부터 ‘확통런’까지…확 바뀐 2027 수능이 가져올 변화는? [대치동 의대맘 르네의 교육 톡] - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNmNMU0p6VExpTDJtU3ptMmppUlVfM3RxU0xGTFJiMkR0WHk1ajJ1WHg5b294aUkyUmx5T1VOdnF0b3V0SmlmQUQtUHViYlMzZC1INg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03UFBsWVJzLWE5NGFmQ3FTckRFRjBWWlJkd1pCZlJPYTNkMG1lVzFjckRVR3FrR3R1dlN6cUZ4b1pvYjZJT1E?oc=5",
           "source": "Daum",
           "published": "2026-10-05T08:15:00+00:00",
           "type": "news",
@@ -1646,16 +1646,6 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002701611?sid=102",
           "source": "biz.heraldcorp.com",
           "published": "2026-09-24T00:46:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2bce3d04d93c9e784b4220b5d2bf7587",
-          "title": "[단독] 대교협 2027 정시 박람회 일정 하루 연기…수능 성적 통지일에 맞춘다 - 아주경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDY3SHNaUVlLUmlLR0hkWDZzSU1iMExyM2hmZEhmWjE5QmwyODY3Njc2QlpMZi1oMC11LW9tZ3I3YTNYNnlzUjU1SUdpODE0MWp5UVRadGZvZ9IBWEFVX3lxTFAwSHQwTEF5VWc1R05QWmpHbVE0YnAxY3BrNVk4RWtBZ3JuMXRDMDh1YnpGekYwNmEtRG8tYVFqQlRwekJQcy1fV3htb3VKN2hMcDR2LWp2WG4?oc=5",
-          "source": "아주경제",
-          "published": "2026-09-23T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
