@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-10-07T10:59:46.977572+00:00",
+  "updated_at": "2026-10-07T18:28:54.620341+00:00",
   "available_archives": [
-    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-07T10:45:13.492520+00:00",
+          "published": "2026-10-07T18:14:20.911650+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -356,7 +355,7 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-07T10:47:43.054323+00:00",
+          "published": "2026-10-07T18:16:50.228797+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -366,7 +365,7 @@
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-07T10:47:35.382627+00:00",
+          "published": "2026-10-07T18:16:42.833015+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -376,7 +375,7 @@
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-07T10:47:35.382619+00:00",
+          "published": "2026-10-07T18:16:42.833007+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -386,7 +385,7 @@
           "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
           "source": "베리타스알파",
-          "published": "2026-10-07T10:47:35.382566+00:00",
+          "published": "2026-10-07T18:16:42.832951+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -399,7 +398,7 @@
           "published": "2026-10-07T08:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "85a71da43020baf3846850161e06128e",
@@ -776,7 +775,7 @@
           "published": "2026-10-07T05:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdb544421f063f56008d6f074bffb5f6",
@@ -1211,7 +1210,7 @@
           "published": "2026-10-07T05:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f3d484850847da9af380343c748c8bd5",
@@ -1321,6 +1320,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "4b9200ef235abfd81108a3fb4d9f552e",
+          "title": "국교위 ‘중장기 교육계획’ 발표 또 미뤄지나?... 차정인 “대입 개편...",
+          "link": "https://n.news.naver.com/mnews/article/023/0004002637?sid=102",
+          "source": "www.chosun.com",
+          "published": "2026-10-07T11:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6da9ba63e5e69b841016e44cf7f93c1d",
           "title": "“서울대 10개 만들기 사업, 내년 2곳 이상 추가 지원”",
           "link": "https://n.news.naver.com/mnews/article/011/0004669146?sid=102",
@@ -1328,7 +1337,7 @@
           "published": "2026-10-07T08:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5f6c2134951afc4c7f84ba2ff9433765",
@@ -1338,7 +1347,7 @@
           "published": "2026-10-07T05:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "301b3909a5e8dc8a8bfdfb8d7e11a068",
