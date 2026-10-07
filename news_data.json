@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T22:21:09.641501+00:00",
+  "updated_at": "2026-10-07T03:54:47.079221+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-06T22:06:28.278130+00:00",
+          "published": "2026-10-07T03:39:55.255384+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-10-06T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cb08eefdb57676f568bfe846ad792119",
@@ -376,7 +376,7 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-06T22:08:53.662576+00:00",
+          "published": "2026-10-07T03:42:23.088630+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -386,7 +386,7 @@
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-06T22:08:49.722765+00:00",
+          "published": "2026-10-07T03:42:18.005125+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -396,7 +396,7 @@
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-06T22:08:49.722760+00:00",
+          "published": "2026-10-07T03:42:18.005121+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -406,10 +406,20 @@
           "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
           "source": "베리타스알파",
-          "published": "2026-10-06T22:08:49.722705+00:00",
+          "published": "2026-10-07T03:42:18.005083+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "85a71da43020baf3846850161e06128e",
+          "title": "수시 6장 중 2.7장은 '상향'…내신 1등급대는 안정지원 늘어",
+          "link": "https://n.news.naver.com/mnews/article/001/0016361448?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-10-07T00:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "00e3da2b42729f580854ab68423f4e8b",
@@ -780,66 +790,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "24891e0b8ef3af07cfa39f21559965c0",
-          "title": "수학 문제는 많이 푸는데 성적은 그대로…합격생은 무엇이 달랐을까 - 에듀진 인터넷 교육신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Wkx6UWpHN1F4Wmx2V0phM25FSVBXNHZXcWxMX3VfakhNOUdRVjBObzBWdkpJVFJpR19DOUk4NGh3NFpINXFfR3FOQW1JNVMxYWpsRnNldmpwNWtheEZVQkNFbU5MQTl1ekE?oc=5",
-          "source": "에듀진 인터넷 교육신문",
-          "published": "2026-09-23T03:00:28+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f08d1430e595841131842c20dfe25cdc",
-          "title": "자퇴로 ‘내신 리셋’ 실효 다하나…상위권 대학, 정시에도 학생부 반영",
-          "link": "https://n.news.naver.com/mnews/article/018/0006374806?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-09-23T00:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b2469e538dba50e813e67d449e80db06",
-          "title": "2027 대입 수능 영역별 고득점 전략 및 의대·의학계열 합격 입시 컨설팅",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112228",
-          "source": "edu.donga.com",
-          "published": "2026-09-23T00:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "17420548161637660c4dd515b8b930d7",
-          "title": "'재수하면 입시 바뀐다'…수시 지원자 83% &quot;지원 전략 영향&quot;",
-          "link": "https://n.news.naver.com/mnews/article/079/0004192345?sid=102",
-          "source": "www.nocutnews.co.kr",
-          "published": "2026-09-23T00:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9cf5319200a73f8f5c42dadbf7158f87",
-          "title": "서울대·고려대 정시도 학생부 본다…&quot;내신 5등급제 자퇴 신중해야&quot;",
-          "link": "https://www.newspim.com/news/view/20260923000178",
-          "source": "www.newspim.com",
-          "published": "2026-09-22T23:59:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6e88c11709a2a64f2eed88234e2aa735",
-          "title": "수험생 83% &quot;2028 대입개편, 올해 수시 지원에 영향&quot;",
-          "link": "https://n.news.naver.com/mnews/article/421/0009187883?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-09-22T23:36:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1024,26 +974,6 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705411",
           "source": "www.gukjenews.com",
           "published": "2026-09-24T02:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2edf831a770cd9049e14c43e32ce3378",
-          "title": "2028 대입개편 부담에…수시 지원자 10명 중 8명 &quot;올해 수시 지원 전략에...",
-          "link": "https://www.newspim.com/news/view/20260923000186",
-          "source": "www.newspim.com",
-          "published": "2026-09-23T00:04:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "3af9ab1ebfe84b6f98cd6a5b9e84f7a9",
-          "title": "[단독] [2027정시] 37개 약대 663명(37.6%) ‘2022학부체제 이후 최저’.. '정시에서도 경쟁률 하락 이어질까'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629046",
-          "source": "베리타스알파",
-          "published": "2026-09-23T00:01:23.026884+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1294,6 +1224,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f3d484850847da9af380343c748c8bd5",
+          "title": "대치동 멘토스학원, 2027 윈터스쿨·수능 후 논술 사전예약 진행",
+          "link": "https://www.gosiweek.com/article/1065577948510574",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-07T01:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0bd4c6d46e78ca7b07b21bb4968bfa01",
           "title": "[수학 논구술] 2027 수시 논술전형 수리논술 대비방안-서울과기대 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZcnhoWEoyNFh4UkdnVU9nd0h4Mm9lNHpQcF84dHlPTjRxTklfMlc0V29RUDFNelA3X3VWR2htem5BSGFGb2N4TklmNXVjNjViNGV2WW8yRXU3MER6el9oQkdoZUFHY0FBempVeQ?oc=5",
@@ -1392,26 +1332,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "dbca7df7291479013ec999095a541af4",
-          "title": "스카이입시교육학원, 을지대·가천대 약술형논술 추석·개천절 현강·화...",
-          "link": "https://www.itbiznews.com/news/articleView.html?idxno=225814",
-          "source": "www.itbiznews.com",
-          "published": "2026-09-23T00:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "095ea762eb44b8b9f54cc35e44a1aa54",
-          "title": "스카이입시교육학원, 중앙대(창의형)·연세대 추석·개천절 인문·수리...",
-          "link": "http://www.e2news.com/news/articleView.html?idxno=334535",
-          "source": "www.e2news.com",
-          "published": "2026-09-22T23:40:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1476,6 +1396,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630554",
           "source": "www.veritas-a.com",
           "published": "2026-10-05T23:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "5085cee971d64ef87590c5ec9320d971",
+          "title": "‘사탐런’부터 ‘확통런’까지…확 바뀐 2027 수능이 가져올 변화는? [대치동 의대맘 르네의 교육 톡] - Daum",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNmNMU0p6VExpTDJtU3ptMmppUlVfM3RxU0xGTFJiMkR0WHk1ajJ1WHg5b294aUkyUmx5T1VOdnF0b3V0SmlmQUQtUHViYlMzZC1INg?oc=5",
+          "source": "Daum",
+          "published": "2026-10-05T08:15:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1729,26 +1659,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "d52db3e34eaffc5404a27a96ee9a84dd",
-          "title": "강인함입시컨설팅, 2027학년도 수시 면접 컨설팅 문의 증가",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112157",
-          "source": "edu.donga.com",
-          "published": "2026-09-23T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d6f45ebeb49bae20a694f957a779b482",
-          "title": "현 체제 마지막이라…수시 지원자 83% \"'대입 개편' 고려했다\" - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2TVdmRnZtT2hXWlYxalAzeVhBd2tuUkNuLU53N0JubGJwZkUyMmN5NzA0a2FJaVAzdnF4bVlsbGZPN2c1TnZjMlpyREZ5MGJtUjRvVWRINXJQenRPbmNOa9IBeEFVX3lxTE9HcjBDVTdVUEpWSFNrb2FqRnhaWGkwS1lWUWdzMTJkbElDSlBLUjlXYW5Xb0hCOGNnSWg5TXdCQUJqSlV5QU90QU9EcnNza0lWdHk3UFBNYUR5RS1YNWszZy0wX2V0VnBNTjgwNGllZU9VUG1lempWRQ?oc=5",
-          "source": "뉴시스",
-          "published": "2026-09-22T23:50:27+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1803,26 +1713,6 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=112123",
           "source": "edu.donga.com",
           "published": "2026-09-27T03:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f5ccb0fda6f57df509ff4a0ea71e4787",
-          "title": "[단독] '자사고부터 외고 국제고 일반고까지' 2027하반기 고입 설명회 총정리..'막판 고입 점검'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629283",
-          "source": "베리타스알파",
-          "published": "2026-09-23T00:08:56.087386+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c7953fbaad3884224840d9fabc5e8211",
-          "title": "서울대·고려대 정시도 학생부 본다…\"내신 5등급제 자퇴 신중해야\" - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSnF0MWlWb2Fja3FLY0RxYWdXRi15SThEWVFfTGYtNkcwR1J4RGtGUFQ1eEN5bTFkTThxVWV2QWQyeDFBbDlSempxUDBTeVp1SFc1MnFDa0xwYnBO?oc=5",
-          "source": "뉴스핌",
-          "published": "2026-09-22T23:59:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
