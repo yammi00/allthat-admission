@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T04:59:22.933074+00:00",
+  "updated_at": "2026-10-08T12:50:15.998359+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-08T04:44:53.786858+00:00",
+          "published": "2026-10-08T12:35:22.863839+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "54494cf0ac68c083720a19eab8a9d6d7",
+          "title": "[똑똑한교육] 웅진씽크빅, EBS, 미래엔, 빙그레-메가스터디교육, 에누마...",
+          "link": "https://www.ekn.kr/web/view.php?key=20261008023243889",
+          "source": "www.ekn.kr",
+          "published": "2026-10-08T06:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "932aaeb3e09f99d0eca0d37cdacb2320",
+          "title": "[2027논술면접 최종체크] 이번 주말 가톨릭대 논술 어떻게 나올까.. 11일...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631093",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-08T04:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ead904f3912a0fd72d84825c48bafb24",
@@ -352,6 +372,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "740da9c753845a8ed4609779614f2780",
+          "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
+          "source": "베리타스알파",
+          "published": "2026-10-08T12:37:48.880146+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b50dcb887d2dec8bca6ca1c06b6951c7",
+          "title": "“고교학점제 혼란 여전한데”…교원 3단체, 서·논술형 대입 개편에 반...",
+          "link": "https://www.kukinews.com/article/view/kuk202610080038",
+          "source": "www.kukinews.com",
+          "published": "2026-10-08T07:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "161354118cfa97709d9d209ad65ee4bb",
+          "title": "2027보인고 최근 6년간 면접 공통문항 기출 공개.. '수요자 친화적 입시...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631038",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-08T07:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "83d2b27bbfdec61d90d94acd0679f403",
           "title": "수시 6장 중 ‘상향’ 2.7장은 그대로… ‘적정’ 줄이고 ‘안정’ 늘렸다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54329",
@@ -399,7 +449,7 @@
           "published": "2026-10-08T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d4699efbf1b921c1254baaa98f304514",
@@ -720,16 +770,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "2e517b94485c6fd0319e632c3c4b090f",
-          "title": "수시생 83%가 의식한 2028 대입…서울대 정시 교과 40%, 중앙대는 ‘수능67+서류33’ - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bnhGdUctQkl5ZE1ycWRNZmJuUWVLY1ZwWUFjTnk5NGN2X0JEUUU4c2hTNDR5cVgyT3RVaS14ZWtuNXJXMUZocC1HVEktLTFZU3UzblhsVEtjUzVZenlzVGhNb3hIZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-09-24T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -738,6 +778,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "278ebb40f08e189469136822a0f783af",
+          "title": "대치스마일아카데미 입시연구센터 &quot;고등학교 선택, 고교학점제·내신 5...",
+          "link": "https://www.gosiweek.com/article/1065597804466440",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-08T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "b893ff74881f31219676d7c5a18f0565",
           "title": "약술의신, 중위권 수험생 대상 약술형 논술 대비 과정 운영",
@@ -904,16 +954,6 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQ0FWMzZWNENPbUpuSllQd0Y2cE5PWGlWeUl1NnhoTjBXRzFHOTdpeEp2ZFVkZWhXb1RiQ0VEUllRekZaRFJvcldDdW55SjRFakxMWkhJenJTR0hwdC0zNDRweFNJa25tcG5fXw?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-26T03:04:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ad7ce2ae161e79795feababb4f6744bf",
-          "title": "‘아버지, 자퇴하고 정시올인 할래요’…학교 떠난 1만명 신중론 나왔다...",
-          "link": "https://n.news.naver.com/mnews/article/016/0002701725?sid=102",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-09-24T10:43:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1171,7 +1211,7 @@
           "published": "2026-10-08T04:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9761aa7dcd8649439f20ba7f86a0961a",
@@ -1184,11 +1224,11 @@
           "is_new": false
         },
         {
-          "id": "f3d484850847da9af380343c748c8bd5",
-          "title": "대치동 멘토스학원, 2027 윈터스쿨·수능 후 논술 사전예약 진행",
-          "link": "https://www.gosiweek.com/article/1065577948510574",
-          "source": "www.gosiweek.com",
-          "published": "2026-10-07T01:54:00+00:00",
+          "id": "1008e9917a6cb8b431b62ab58d9205cc",
+          "title": "대치동 멘토스학원, 2027 윈터스쿨·수능 후 논술 사전예약 진행 - 피앤피뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jLTY5Zk81VnRLY3VaeWtqdlloUmtCS0ZSakR6MXhmdE5JQVlGbS1ZaFFuMlRCVnFTUG5hYlJkeURUcVVwbHFOV1lmY2dkQUdDekZMODNqUjRxVmY1SUE?oc=5",
+          "source": "피앤피뉴스",
+          "published": "2026-10-07T01:53:40+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1599,16 +1639,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "ac0aea2ae5816b766cbd68240825ca6a",
-          "title": "2027 성균관대 정시 모집요강 분석... 사범계열 40명, 학생부 100%에 수능 3개 영역 합 6 적용 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13bFJtZENndllnQlJnOUdGbDNQQlJ2cTNyRWVGRU9ac3c0eHNsQTNNMHduM0ZhdlphM09NVHlSY1FPVFZ1akFlYWhmcUFySFRzUGhWZ0ZvdUNHY1lWcjdDNkhyakx1QQ?oc=5",
-          "source": "kyobit.com",
-          "published": "2026-09-24T09:07:09+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1625,7 +1655,7 @@
           "published": "2026-10-08T00:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0b37d22b86e43dbee8397d173f061451",
