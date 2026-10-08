@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-07T18:28:54.620341+00:00",
+  "updated_at": "2026-10-08T00:12:59.021589+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-07T18:14:20.911650+00:00",
+          "published": "2026-10-07T23:57:44.535348+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,17 +356,27 @@
           "title": "고3을 앞둔 고2, 성적·학생부·전형의 방향을 지금 결정하라",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54198",
           "source": "에듀진",
-          "published": "2026-10-07T18:16:50.228797+00:00",
+          "published": "2026-10-08T00:00:19.347648+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "83d2b27bbfdec61d90d94acd0679f403",
+          "title": "수시 6장 중 ‘상향’ 2.7장은 그대로… ‘적정’ 줄이고 ‘안정’ 늘렸다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54329",
+          "source": "에듀진",
+          "published": "2026-10-08T00:00:15.297749+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6867b0c112a0f7834ec78aacb40e2ae8",
           "title": "[단독] [2027수시면접] 의대 면접 36개교.. 첫 지역의사제 23개교 면접, '정주 의지' 확인한다",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630425",
           "source": "베리타스알파",
-          "published": "2026-10-07T18:16:42.833015+00:00",
+          "published": "2026-10-08T00:00:09.811071+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +386,7 @@
           "title": "[단독][2028대입] 주요22개대 계열별 권장과목 ‘총정리’.. 수시 서류평가 넘어 정시까지 활용",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630736",
           "source": "베리타스알파",
-          "published": "2026-10-07T18:16:42.833007+00:00",
+          "published": "2026-10-08T00:00:09.811066+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +396,7 @@
           "title": "[2027정시] 동국대 1166명(39.9%) ‘동일’.. 다군 학생부10% 도입",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630731",
           "source": "베리타스알파",
-          "published": "2026-10-07T18:16:42.832951+00:00",
+          "published": "2026-10-08T00:00:09.811025+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -726,36 +737,6 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=239198",
           "source": "www.ngonews.kr",
           "published": "2026-09-24T01:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "593058411662d61d671d7e98f6298ccf",
-          "title": "수능만 잘 보면 된다?…2028 정시, 학생부가 변수로",
-          "link": "http://www.metroseoul.co.kr/article/20260923500081",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-09-24T00:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "5a4fe983e9856a74ede8af48d0af4ac1",
-          "title": "대입 전략 히든카드 ‘농어촌특별전형’ 이점 품은 ‘쌍용 더 플래티넘...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003049728?sid=101",
-          "source": "www.dt.co.kr",
-          "published": "2026-09-24T00:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7bd866020848f0cd690ad4336566d25f",
-          "title": "&quot;수시접수 일반대학 73％, 수험번호로 실제 경쟁률 유추 가능&quot;",
-          "link": "https://n.news.naver.com/mnews/article/001/0016334307?sid=102",
-          "source": "www.yna.co.kr",
-          "published": "2026-09-23T23:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1327,7 +1308,7 @@
           "published": "2026-10-07T11:15:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6da9ba63e5e69b841016e44cf7f93c1d",
@@ -1410,9 +1391,9 @@
           "is_new": false
         },
         {
-          "id": "fd4bfe21425fc4126476f7236f9fdc40",
+          "id": "5085cee971d64ef87590c5ec9320d971",
           "title": "‘사탐런’부터 ‘확통런’까지…확 바뀐 2027 수능이 가져올 변화는? [대치동 의대맘 르네의 교육 톡] - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03UFBsWVJzLWE5NGFmQ3FTckRFRjBWWlJkd1pCZlJPYTNkMG1lVzFjckRVR3FrR3R1dlN6cUZ4b1pvYjZJT1E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNmNMU0p6VExpTDJtU3ptMmppUlVfM3RxU0xGTFJiMkR0WHk1ajJ1WHg5b294aUkyUmx5T1VOdnF0b3V0SmlmQUQtUHViYlMzZC1INg?oc=5",
           "source": "Daum",
           "published": "2026-10-05T08:15:00+00:00",
           "type": "news",
