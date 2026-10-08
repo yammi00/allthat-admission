@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-10-08T12:50:15.998359+00:00",
+  "updated_at": "2026-10-08T19:50:19.370184+00:00",
   "available_archives": [
-    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-08T12:35:22.863839+00:00",
+          "published": "2026-10-08T19:35:49.273156+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-10-08T06:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "932aaeb3e09f99d0eca0d37cdacb2320",
@@ -42,7 +41,7 @@
           "published": "2026-10-08T04:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ead904f3912a0fd72d84825c48bafb24",
@@ -376,10 +375,10 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-08T12:37:48.880146+00:00",
+          "published": "2026-10-08T19:38:12.458306+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b50dcb887d2dec8bca6ca1c06b6951c7",
@@ -389,7 +388,7 @@
           "published": "2026-10-08T07:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "161354118cfa97709d9d209ad65ee4bb",
@@ -399,7 +398,7 @@
           "published": "2026-10-08T07:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "83d2b27bbfdec61d90d94acd0679f403",
@@ -542,10 +541,10 @@
           "is_new": false
         },
         {
-          "id": "dade5f3646c7862f04555aea218b7746",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
-          "source": "www.sedaily.com",
+          "id": "8011719b1d52916f76351c9479b6c835",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
+          "source": "서울경제",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -786,7 +785,7 @@
           "published": "2026-10-08T07:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b893ff74881f31219676d7c5a18f0565",
