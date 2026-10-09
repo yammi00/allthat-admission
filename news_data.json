@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-08T19:50:19.370184+00:00",
+  "updated_at": "2026-10-09T00:19:30.830614+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-08T19:35:49.273156+00:00",
+          "published": "2026-10-09T00:04:39.120571+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -375,7 +376,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-08T19:38:12.458306+00:00",
+          "published": "2026-10-09T00:07:01.517226+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1308,16 +1309,6 @@
           "link": "https://edu.chosun.com/site/data/html_dir/2026/09/28/2026092880027.html",
           "source": "edu.chosun.com",
           "published": "2026-09-28T00:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "684a553f8bca1f203cede915d45cb96c",
-          "title": "[추민규의 입시 돋보기] 2027학년도 약술형 논술, 맞춤형 학습법",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/22/2026092280141.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-25T00:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
