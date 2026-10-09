@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T08:31:32.713334+00:00",
+  "updated_at": "2026-10-09T16:59:25.614998+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-09T08:16:51.657447+00:00",
+          "published": "2026-10-09T16:44:33.926245+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9e55657073ada1fba761f53c76a2548f",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-08T08:28:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -60,16 +70,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630604",
           "source": "www.veritas-a.com",
           "published": "2026-10-06T08:56:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-06T08:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -353,16 +353,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a94797194454c601174e578ed6836eec",
-          "title": "수능 50여 일 앞으로…남은 기간 어떻게 준비할까?",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60772726/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-09-25T09:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -376,7 +366,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-09T08:19:20.333538+00:00",
+          "published": "2026-10-09T16:46:57.499946+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
