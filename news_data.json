@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T16:59:25.614998+00:00",
+  "updated_at": "2026-10-09T22:20:19.669087+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-09T16:44:33.926245+00:00",
+          "published": "2026-10-09T22:05:29.839678+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -366,10 +366,20 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-09T16:46:57.499946+00:00",
+          "published": "2026-10-09T22:07:52.726098+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4886f9e794960c9be37dddd1bb14ac7f",
+          "title": "”9월 ‘물영어’에 방심했다간 낭패…수능 난도 상승 대비해야”[교육...",
+          "link": "https://n.news.naver.com/mnews/article/018/0006384992?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-10-09T21:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b50dcb887d2dec8bca6ca1c06b6951c7",
@@ -1391,9 +1401,9 @@
           "is_new": false
         },
         {
-          "id": "fd4bfe21425fc4126476f7236f9fdc40",
+          "id": "5085cee971d64ef87590c5ec9320d971",
           "title": "‘사탐런’부터 ‘확통런’까지…확 바뀐 2027 수능이 가져올 변화는? [대치동 의대맘 르네의 교육 톡] - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03UFBsWVJzLWE5NGFmQ3FTckRFRjBWWlJkd1pCZlJPYTNkMG1lVzFjckRVR3FrR3R1dlN6cUZ4b1pvYjZJT1E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNmNMU0p6VExpTDJtU3ptMmppUlVfM3RxU0xGTFJiMkR0WHk1ajJ1WHg5b294aUkyUmx5T1VOdnF0b3V0SmlmQUQtUHViYlMzZC1INg?oc=5",
           "source": "Daum",
           "published": "2026-10-05T08:15:00+00:00",
           "type": "news",
@@ -1596,16 +1606,6 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVWt6eHpCc1kzOFBrd2pYZDVXZHZVRWZCN3Y4c1ZTVFZHeXQ5UW9uaVRzd2dieE5OUmhQVzJVMzFTRXRWZ1VzemJwYnhTeFZ0dmtOR0dSQWxXT21pVzg3dlJPNXZOSDViY2FLVg?oc=5",
           "source": "베리타스알파",
           "published": "2026-09-26T01:21:55+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d781f017c1aa09435be82939a1991151",
-          "title": "[AI입시 A to Z] 수능 코앞인데 공부법 그대로?…막판 50일 전략은",
-          "link": "https://www.newspim.com/news/view/20260923001028",
-          "source": "www.newspim.com",
-          "published": "2026-09-25T21:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
