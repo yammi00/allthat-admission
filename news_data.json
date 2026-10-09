@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:19:30.830614+00:00",
+  "updated_at": "2026-10-09T08:31:32.713334+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-09T00:04:39.120571+00:00",
+          "published": "2026-10-09T08:16:51.657447+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -376,7 +376,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-09T00:07:01.517226+00:00",
+          "published": "2026-10-09T08:19:20.333538+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -757,16 +757,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
           "source": "베리타스알파",
           "published": "2026-09-26T02:57:25.361685+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ba9aa1637245c106590d554d7515cf15",
-          "title": "2028 대입 수시 'N수생 제한' 늘어…&quot;성취도·교과세특이 합격 가른다&quot;",
-          "link": "https://www.ajunews.com/view/20260925104537789",
-          "source": "www.ajunews.com",
-          "published": "2026-09-25T03:02:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1501,6 +1491,16 @@
           "is_new": false
         },
         {
+          "id": "b4e2d7663ee45caaedf74a3bf0058b36",
+          "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까.. 3일 자연, 4일 인문 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WmNoZnJNUVRnc3ZseTFyeTIzQlBEcnQ5cWVvdnpFSTc2X3p3UFB1Y1hDbnQ0QjN0Tm51dWtPUDcySFBBT0tISmZUYlNYSnJ6OVY5Q0NNRzJQVWU5c1F6ci1HLWNUVGxGa05rYQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-09-30T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "f66efc85f79c416008190af787196547",
           "title": "수시 '먹통'에 마감 1시간 연장 80개 대학서 3184건 추가 접수",
           "link": "https://n.news.naver.com/mnews/article/654/0000203181?sid=102",
@@ -1536,16 +1536,6 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=598054",
           "source": "news.unn.net",
           "published": "2026-09-30T00:24:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b4e2d7663ee45caaedf74a3bf0058b36",
-          "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까.. 3일 자연, 4일 인문 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WmNoZnJNUVRnc3ZseTFyeTIzQlBEcnQ5cWVvdnpFSTc2X3p3UFB1Y1hDbnQ0QjN0Tm51dWtPUDcySFBBT0tISmZUYlNYSnJ6OVY5Q0NNRzJQVWU5c1F6ci1HLWNUVGxGa05rYQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-30T00:16:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
