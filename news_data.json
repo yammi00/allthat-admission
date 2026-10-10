@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T10:35:10.539869+00:00",
+  "updated_at": "2026-10-10T16:58:43.860132+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-10T10:20:39.467839+00:00",
+          "published": "2026-10-10T16:44:03.868028+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -356,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-10T10:23:02.270075+00:00",
+          "published": "2026-10-10T16:46:27.830188+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,10 +532,10 @@
           "is_new": false
         },
         {
-          "id": "dade5f3646c7862f04555aea218b7746",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
-          "source": "www.sedaily.com",
+          "id": "8011719b1d52916f76351c9479b6c835",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
+          "source": "서울경제",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1278,7 +1278,7 @@
           "published": "2026-10-10T05:22:12+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4b9200ef235abfd81108a3fb4d9f552e",
@@ -1536,16 +1536,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009192923?sid=102",
           "source": "www.news1.kr",
           "published": "2026-09-26T22:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "25004ff30ee84b6538f9f5ff449579bd",
-          "title": "입시 개혁, '한 번의 선택'이 인생 좌우하는 구조 바꿔야",
-          "link": "https://www.newsverse.kr/news/articleView.html?idxno=11520",
-          "source": "www.newsverse.kr",
-          "published": "2026-09-26T16:38:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
