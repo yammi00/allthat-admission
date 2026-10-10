@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:20:19.669087+00:00",
+  "updated_at": "2026-10-10T03:59:12.265884+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-09T22:05:29.839678+00:00",
+          "published": "2026-10-10T03:44:21.379088+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -343,16 +343,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "fe34485c2289f0103b3e221e3ebdafb1",
-          "title": "[단독] [2027수능] 추석 직전 수험생 많이 산 참고서? '영어 대신 수학'...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629535",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-26T01:22:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -366,20 +356,20 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-09T22:07:52.726098+00:00",
+          "published": "2026-10-10T03:46:45.713735+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
           "id": "4886f9e794960c9be37dddd1bb14ac7f",
-          "title": "”9월 ‘물영어’에 방심했다간 낭패…수능 난도 상승 대비해야”[교육...",
+          "title": "“영어는 됐고, 수학이나?”…9월 1등급도 방심 금물[교육in]",
           "link": "https://n.news.naver.com/mnews/article/018/0006384992?sid=102",
           "source": "www.edaily.co.kr",
           "published": "2026-10-09T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b50dcb887d2dec8bca6ca1c06b6951c7",
@@ -750,16 +740,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "50e9155bdc0167d22a8f9c7635d3da6a",
-          "title": "[단독] [2027정시] 채용형 계약학과 11개교 16개 학과 170명(23.6%) '확대'.. 수시 이어 정시도 경쟁률 상승 전망",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629481",
-          "source": "베리타스알파",
-          "published": "2026-09-26T02:57:25.361685+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -934,16 +914,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
           "source": "베리타스알파",
           "published": "2026-09-27T22:49:08.521413+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "78b4c6d726850dc522fa0ed8c4ce26d6",
-          "title": "[단독] [2027대입] 대기업 계약학과 2026정시 입결.. 고대 스마트모빌리티(현대차)/한대 반도체(닉스)/성대 지능형SW(삼전DX) 98",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQ0FWMzZWNENPbUpuSllQd0Y2cE5PWGlWeUl1NnhoTjBXRzFHOTdpeEp2ZFVkZWhXb1RiQ0VEUllRekZaRFJvcldDdW55SjRFakxMWkhJenJTR0hwdC0zNDRweFNJa25tcG5fXw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-26T03:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1586,26 +1556,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MVEJXb1dVVkY5WEl6WkFmM25MQzVockQ3OGEyenl0LXBKVVpoOTU4YzVfa3NJdGlpcGFtdnotWlNaSm5WYUEwM0VtdVVFNlUxNTh0ZTNfelVtUy03ekVBTVlPYTFrUQ?oc=5",
           "source": "kyobit.com",
           "published": "2026-09-26T04:47:04+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f436b206ede667b68519d5141f413cb6",
-          "title": "2027로스쿨 원서접수 28일 개시.. 경쟁률, 변시합격률, 출신대학까지 '잣대 총정리'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629387",
-          "source": "베리타스알파",
-          "published": "2026-09-26T03:04:58.410966+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c1e82cfe1b32b6f8d0b77f9c38f15cc7",
-          "title": "[단독] [2027수능] 추석 직전 수험생 많이 산 참고서? ‘영어 대신 수학’ 뚜렷.. 수학/사탐런 ‘급증’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVWt6eHpCc1kzOFBrd2pYZDVXZHZVRWZCN3Y4c1ZTVFZHeXQ5UW9uaVRzd2dieE5OUmhQVzJVMzFTRXRWZ1VzemJwYnhTeFZ0dmtOR0dSQWxXT21pVzg3dlJPNXZOSDViY2FLVg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-26T01:21:55+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
