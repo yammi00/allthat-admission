@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:59:12.265884+00:00",
+  "updated_at": "2026-10-10T10:35:10.539869+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-10T03:44:21.379088+00:00",
+          "published": "2026-10-10T10:20:39.467839+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -356,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-10T03:46:45.713735+00:00",
+          "published": "2026-10-10T10:23:02.270075+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,10 +532,10 @@
           "is_new": false
         },
         {
-          "id": "8011719b1d52916f76351c9479b6c835",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
-          "source": "서울경제",
+          "id": "dade5f3646c7862f04555aea218b7746",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
+          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
+          "source": "www.sedaily.com",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -727,16 +727,6 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183743",
           "source": "www.ggilbo.com",
           "published": "2026-09-27T07:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2f12ea1d4b217f11c07e27388eced411",
-          "title": "“재수는 꿈도 꾸지말자” 확 바뀌는 내년 수능…수험생 10명 중 8명 수...",
-          "link": "https://n.news.naver.com/mnews/article/016/0002702027?sid=102",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-09-26T07:46:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1281,6 +1271,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a6c5a67f446598152b659b528922ec87",
+          "title": "[교육칼럼] 2027학년도 수시 교과전형, 이제는 ‘수능 최저’의 구조를 읽어야 한다 - 연합투데이",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaUg4NjByMlhSNzI3VDZXRjRLUW5wV0VFS3RDbUJ4aWtoeTA4bjY0cnYta1VINHV2bWtMWnZ3VkstbG9RQ0FNazE5R3BHbXFlVHFFMlJQVnd1elZWWTloZEMtYTE5TXV6U3J6Qjh1Y9IBb0FVX3lxTFAtaUg4NjByMlhSNzI3VDZXRjRLUW5wV0VFS3RDbUJ4aWtoeTA4bjY0cnYta1VINHV2bWtMWnZ3VkstbG9RQ0FNazE5R3BHbXFlVHFFMlJQVnd1elZWWTloZEMtYTE5TXV6U3J6Qjh1Yw?oc=5",
+          "source": "연합투데이",
+          "published": "2026-10-10T05:22:12+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "4b9200ef235abfd81108a3fb4d9f552e",
           "title": "국교위 ‘중장기 교육계획’ 발표 또 미뤄지나?... 차정인 “대입 개편...",
           "link": "https://n.news.naver.com/mnews/article/023/0004002637?sid=102",
@@ -1371,9 +1371,9 @@
           "is_new": false
         },
         {
-          "id": "5085cee971d64ef87590c5ec9320d971",
+          "id": "fd4bfe21425fc4126476f7236f9fdc40",
           "title": "‘사탐런’부터 ‘확통런’까지…확 바뀐 2027 수능이 가져올 변화는? [대치동 의대맘 르네의 교육 톡] - Daum",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YNmNMU0p6VExpTDJtU3ptMmppUlVfM3RxU0xGTFJiMkR0WHk1ajJ1WHg5b294aUkyUmx5T1VOdnF0b3V0SmlmQUQtUHViYlMzZC1INg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03UFBsWVJzLWE5NGFmQ3FTckRFRjBWWlJkd1pCZlJPYTNkMG1lVzFjckRVR3FrR3R1dlN6cUZ4b1pvYjZJT1E?oc=5",
           "source": "Daum",
           "published": "2026-10-05T08:15:00+00:00",
           "type": "news",
@@ -1546,16 +1546,6 @@
           "link": "https://www.newsverse.kr/news/articleView.html?idxno=11520",
           "source": "www.newsverse.kr",
           "published": "2026-09-26T16:38:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "57964d1f3f5a3b156dea27a62f1a47c0",
-          "title": "경희대 2027 정시 2,427명…국제학과 가군 이동, 자유전공은 과탐 가산 제외 - kyobit.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MVEJXb1dVVkY5WEl6WkFmM25MQzVockQ3OGEyenl0LXBKVVpoOTU4YzVfa3NJdGlpcGFtdnotWlNaSm5WYUEwM0VtdVVFNlUxNTh0ZTNfelVtUy03ekVBTVlPYTFrUQ?oc=5",
-          "source": "kyobit.com",
-          "published": "2026-09-26T04:47:04+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
