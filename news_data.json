@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T08:20:52.058648+00:00",
+  "updated_at": "2026-10-11T16:20:18.512672+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-11T08:06:03.836683+00:00",
+          "published": "2026-10-11T16:05:15.055768+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -356,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-11T08:08:29.268381+00:00",
+          "published": "2026-10-11T16:07:39.615835+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,10 +532,10 @@
           "is_new": false
         },
         {
-          "id": "dade5f3646c7862f04555aea218b7746",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
-          "source": "www.sedaily.com",
+          "id": "8011719b1d52916f76351c9479b6c835",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
+          "source": "서울경제",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1268,7 +1268,7 @@
           "published": "2026-10-10T22:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a6c5a67f446598152b659b528922ec87",
@@ -1519,16 +1519,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "b18efff2b06fbb3d91497a3a7baa4aec",
-          "title": "수능 코앞 ‘수시 올인’은 금물 ‘수능 성적’이 당락 좌우",
-          "link": "https://n.news.naver.com/mnews/article/087/0001220543?sid=102",
-          "source": "www.kwnews.co.kr",
-          "published": "2026-09-27T15:07:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1545,7 +1535,7 @@
           "published": "2026-10-11T04:43:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "77becb512ca4acabaf1ad8a1cc848ffe",
