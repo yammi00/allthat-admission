@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-10-11T16:20:18.512672+00:00",
+  "updated_at": "2026-10-11T21:34:36.686735+00:00",
   "available_archives": [
-    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-11T16:05:15.055768+00:00",
+          "published": "2026-10-11T21:19:52.156886+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e04fd7d2873d735eabd9638609057dc1",
+          "title": "세계의 대입은 어디로 가나④·&lt;끝&gt;[수능 30년, 우리는 무엇을 평가해왔...",
+          "link": "https://news.unn.net/news/articleView.html?idxno=598451",
+          "source": "news.unn.net",
+          "published": "2026-10-11T20:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
@@ -356,7 +365,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-11T16:07:39.615835+00:00",
+          "published": "2026-10-11T21:22:24.470404+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,10 +541,10 @@
           "is_new": false
         },
         {
-          "id": "8011719b1d52916f76351c9479b6c835",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
-          "source": "서울경제",
+          "id": "dade5f3646c7862f04555aea218b7746",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
+          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
+          "source": "www.sedaily.com",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1260,6 +1269,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "411d4d15be9603e7702d4e9511d971e9",
+          "title": "“수시 먹통 경고에도 뚫렸다”…교육부 산하기관, 관리 부실·기관장 ...",
+          "link": "https://www.etoday.co.kr/news/view/2634357",
+          "source": "www.etoday.co.kr",
+          "published": "2026-10-11T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "85e492afa9d27b45bfc1aadb9cb1042d",
           "title": "꼽사리 해외연수·부실 원서접수…교육부 산하기관 국감 쟁점들",
