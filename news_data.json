@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:51:51.805978+00:00",
+  "updated_at": "2026-10-11T08:20:52.058648+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-11T00:36:57.156145+00:00",
+          "published": "2026-10-11T08:06:03.836683+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -356,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-11T00:39:21.057792+00:00",
+          "published": "2026-10-11T08:08:29.268381+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -532,10 +532,10 @@
           "is_new": false
         },
         {
-          "id": "8011719b1d52916f76351c9479b6c835",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
-          "source": "서울경제",
+          "id": "dade5f3646c7862f04555aea218b7746",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
+          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
+          "source": "www.sedaily.com",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -717,16 +717,6 @@
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=154894",
           "source": "www.smartbizn.com",
           "published": "2026-09-28T00:38:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "4734be3e1330ffde8e1117e7de66d3ab",
-          "title": "수시접수 '경쟁률 비공개' 무색…143개 대학 접수번호로 지원자 수 짐작...",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183743",
-          "source": "www.ggilbo.com",
-          "published": "2026-09-27T07:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1271,6 +1261,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "85e492afa9d27b45bfc1aadb9cb1042d",
+          "title": "꼽사리 해외연수·부실 원서접수…교육부 산하기관 국감 쟁점들",
+          "link": "https://n.news.naver.com/mnews/article/003/0014244639?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-10T22:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "a6c5a67f446598152b659b528922ec87",
           "title": "[교육칼럼] 2027학년도 수시 교과전형, 이제는 ‘수능 최저’의 구조를 읽어야 한다 - 연합투데이",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaUg4NjByMlhSNzI3VDZXRjRLUW5wV0VFS3RDbUJ4aWtoeTA4bjY0cnYta1VINHV2bWtMWnZ3VkstbG9RQ0FNazE5R3BHbXFlVHFFMlJQVnd1elZWWTloZEMtYTE5TXV6U3J6Qjh1Y9IBb0FVX3lxTFAtaUg4NjByMlhSNzI3VDZXRjRLUW5wV0VFS3RDbUJ4aWtoeTA4bjY0cnYta1VINHV2bWtMWnZ3VkstbG9RQ0FNazE5R3BHbXFlVHFFMlJQVnd1elZWWTloZEMtYTE5TXV6U3J6Qjh1Yw?oc=5",
@@ -1538,6 +1538,16 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "dfcc9243766ae5a12ceb1f3a1a23bb14",
+          "title": "당진 자사고 추진 동력 잃나…학령인구 급감·내신 5등급제 개편에 '냉...",
+          "link": "https://n.news.naver.com/mnews/article/656/0000189084?sid=102",
+          "source": "www.daejonilbo.com",
+          "published": "2026-10-11T04:43:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "77becb512ca4acabaf1ad8a1cc848ffe",
           "title": "고교학점제·내신 5등급제 대비…오산 지역 학생·학부모 대상 입시설명...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=112597",
@@ -1583,16 +1593,6 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94TEhHdnI2Y0JubDc3QlJqTmczNFdWaWdJWEZQNEpMUVF1MjBaeTVfVXlXaXUzNzRoUS1aWkNnLV95cTVnOEpVWFBvRGo2bE8xQldkLVhSYnRmOEo5cXI1MGZ6QXAzeXQxU21kaXV6Z29ZcE5lX3BnTHVQX3o?oc=5",
           "source": "비욘드포스트",
           "published": "2026-09-28T04:27:09+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "bf8f1c4360193009fb39f8067d0bb654",
-          "title": "중3·학부모 대상 '고교학점제·2028 고교선택 설명회' 10월 10일 개최",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112123",
-          "source": "edu.donga.com",
-          "published": "2026-09-27T03:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
