@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-10T21:13:14.433557+00:00",
+  "updated_at": "2026-10-11T00:51:51.805978+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-10T20:58:42.679652+00:00",
+          "published": "2026-10-11T00:36:57.156145+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -355,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-10T21:01:06.852252+00:00",
+          "published": "2026-10-11T00:39:21.057792+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1525,16 +1526,6 @@
           "link": "https://n.news.naver.com/mnews/article/087/0001220543?sid=102",
           "source": "www.kwnews.co.kr",
           "published": "2026-09-27T15:07:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "4d3f00a73d130fc8a1ad0cb9829563c6",
-          "title": "수시 먹통·서울대 10개·서논술형·교부금…교육위 국감 쟁점 쏟아진다",
-          "link": "https://n.news.naver.com/mnews/article/421/0009192923?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-09-26T22:10:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
