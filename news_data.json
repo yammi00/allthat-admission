@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T08:38:28.839536+00:00",
+  "updated_at": "2026-10-12T19:47:23.035279+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-12T08:23:18.704890+00:00",
+          "published": "2026-10-12T19:32:44.141154+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -273,16 +273,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "634725a007c494b20323b11845b0168e",
-          "title": "&quot;역대 세번째로 쉬운 영어&quot; 수능 난도 상승 전망",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068409",
-          "source": "www.ksilbo.co.kr",
-          "published": "2026-09-28T15:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -292,6 +282,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "81b2c3e01de02e1c0efaf7ec779fad9e",
+          "title": "서논술형 수능·절대평가, 장기 과제로 미루나… 개편 최소화 무게",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878271?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-10-12T17:07:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "91a58a161b104be7e8c9b0ba7f2abaa9",
           "title": "'등록금 0원 효과' 2027정시까지 상승하나 ..수시 수도권 출신 지거국 지원 12% '증가'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631443",
@@ -299,7 +299,7 @@
           "published": "2026-10-12T08:25:51.176529+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f324b9d2a988f63ab65bfe06847840cf",
@@ -309,7 +309,7 @@
           "published": "2026-10-12T03:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "740da9c753845a8ed4609779614f2780",
@@ -658,6 +658,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "85f28366fa6868c1552c90ef4cfc7a6f",
+          "title": "[2027정시] ‘마지막 5개교 체제’ 이공특 63명 ‘동일’.. 반도체 계약학과 13명 ‘정시 막차’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631361",
+          "source": "베리타스알파",
+          "published": "2026-10-12T19:37:37.574786+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "278ebb40f08e189469136822a0f783af",
           "title": "대치스마일아카데미 입시연구센터 &quot;고등학교 선택, 고교학점제·내신 5...",
@@ -1147,7 +1157,7 @@
           "published": "2026-10-12T07:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7aadefa97e45b41ecd44530555ac9b91",
@@ -1157,7 +1167,7 @@
           "published": "2026-10-12T06:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2a594d59439966768749cf30f5213592",
@@ -1167,7 +1177,7 @@
           "published": "2026-10-12T05:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0d923edca72f306c35b37f67a0b2a088",
@@ -1177,7 +1187,7 @@
           "published": "2026-10-12T04:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "411d4d15be9603e7702d4e9511d971e9",
@@ -1497,11 +1507,11 @@
           "is_new": false
         },
         {
-          "id": "6a625aeec3555eb62c0bbd0f4ccabe20",
-          "title": "경기도교육청, 2027학년도 평준화고 학생 배정 온라인 설명회 개최",
-          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3147330",
-          "source": "www.ttlnews.com",
-          "published": "2026-09-28T09:02:00+00:00",
+          "id": "19770ebd84f0183de7db73a55bbc05f0",
+          "title": "유튜브 '경기고입TV'로 본다…경기도교육청, 9개 평준화 학군 비대면 설...",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=722155",
+          "source": "www.cstimes.com",
+          "published": "2026-09-28T20:40:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
