@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-11T21:34:36.686735+00:00",
+  "updated_at": "2026-10-12T01:08:12.304739+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-11T21:19:52.156886+00:00",
+          "published": "2026-10-12T00:53:16.914704+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +32,7 @@
           "published": "2026-10-11T20:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
@@ -355,7 +356,7 @@
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631115",
           "source": "베리타스알파",
-          "published": "2026-10-11T21:22:24.470404+00:00",
+          "published": "2026-10-12T00:55:41.017563+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -531,10 +532,10 @@
           "is_new": false
         },
         {
-          "id": "dade5f3646c7862f04555aea218b7746",
-          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’",
-          "link": "https://n.news.naver.com/mnews/article/011/0004667902?sid=102",
-          "source": "www.sedaily.com",
+          "id": "8011719b1d52916f76351c9479b6c835",
+          "title": "“48대1의 바늘구멍 통과 가능할까”…수시 논술 오늘부터 ‘스타트’ - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbWcxckZTNnpERXUxcEl2a09ic1dEeXdETzFZOHY2bk1HYmZrb0xPTzUycVd6RllHTVhheU14OU1zTnJ1d0pjUFJUb05pVDhSQlHSAVNBVV95cUxNT3VJMS1RVkwtd05ZRkV0WkRsN3d1MzJVaW9yUVdGSEo5NlNZNFpVTTRHemF0UEdpOEY5dGpSUV9jaHQ0S2VZUjM1T015emZkWjEzSQ?oc=5",
+          "source": "서울경제",
           "published": "2026-10-02T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -709,16 +710,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "36f2395af018adb7010d65822c81d699",
-          "title": "[김형일의 입시컨설팅] (247) 현 고2 2028학년도 입시전략",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=154894",
-          "source": "www.smartbizn.com",
-          "published": "2026-09-28T00:38:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -873,26 +864,6 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003683952?sid=101",
           "source": "www.seoul.co.kr",
           "published": "2026-09-28T04:34:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "dcf965a4e96d1f4800cbd7591963c639",
-          "title": "수능 D-50 &quot;반복적으로 틀리는 내용과 문제 유형 집중 공부가 효과적&quot;",
-          "link": "https://n.news.naver.com/mnews/article/014/0005581433?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-09-28T00:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "1ce03fbca5858b8596efe908971bb32a",
-          "title": "[단독][2027정시] ‘지방학생 의대문호’ 18개교 258명 ‘14명 확대’.. 지역의사제 합격선 ‘촉각’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629343",
-          "source": "베리타스알파",
-          "published": "2026-09-27T22:49:08.521413+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1132,6 +1103,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f20b339d188664c2dc039ecac6e9bfb5",
+          "title": "[추민규의 입시 돋보기] 2027 수시 논술, 마무리 학습 전략",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/12/2026101280032.html",
+          "source": "edu.chosun.com",
+          "published": "2026-10-12T00:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3e3508ffa4738f2de155c46375243cc1",
           "title": "[2027논술면접 최종체크] 이번 주말 연세대 논술 어떻게 나올까.. '신설...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631075",
@@ -1147,6 +1128,16 @@
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=880713",
           "source": "www.gokorea.kr",
           "published": "2026-10-07T05:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "f3d484850847da9af380343c748c8bd5",
+          "title": "대치동 멘토스학원, 2027 윈터스쿨·수능 후 논술 사전예약 진행",
+          "link": "https://www.gosiweek.com/article/1065577948510574",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-07T01:54:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1220,16 +1211,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "445d13813d5bfd5dcc7c51291134dd20",
-          "title": "[이종환의 입시큐] 수시 원서 낸 고3, 수능 전 50일 ‘시간 배분’이 합...",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/09/28/2026092880027.html",
-          "source": "edu.chosun.com",
-          "published": "2026-09-28T00:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1246,7 +1227,7 @@
           "published": "2026-10-11T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a6c5a67f446598152b659b528922ec87",
