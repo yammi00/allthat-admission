@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T01:08:12.304739+00:00",
+  "updated_at": "2026-10-12T08:38:28.839536+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-12T00:53:16.914704+00:00",
+          "published": "2026-10-12T08:23:18.704890+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -39,7 +39,7 @@
           "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
           "source": "베리타스알파",
-          "published": "2026-10-08T08:28:00+00:00",
+          "published": "2026-10-10T04:17:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -283,66 +283,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "be823cf9b49418debed3e9ecc1ebea7c",
-          "title": "2027 수능 9월 모평, ‘불국어·물수학·물영어’에 변별력 비상…11월 ...",
-          "link": "https://www.kbmaeil.com/article/20260928500328",
-          "source": "www.kbmaeil.com",
-          "published": "2026-09-28T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8738f44d464ed0835f20d230ff465601",
-          "title": "수능 모평 영어 3개월만 불에서 물로⋯ 난이도 조절 또 실패",
-          "link": "https://www.asiatime.co.kr/article/20260928500347",
-          "source": "www.asiatime.co.kr",
-          "published": "2026-09-28T06:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "faadc2c8d1303f47d46c014c6ad2ae9e",
-          "title": "수능 D-50…메가스터디교육, 수험생·학부모가 해야 할 5가지 소개",
-          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45115",
-          "source": "www.financialreview.co.kr",
-          "published": "2026-09-28T06:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b82a2011dcd4b02a0c86d7c648ea2c5c",
-          "title": "[학교에서는 다 하지 못한 말] 대입 제도의 변화가 학교 교육의 변화로...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112292",
-          "source": "edu.donga.com",
-          "published": "2026-09-28T05:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2ee4fc9faf62c77d681e6cad57527934",
-          "title": "2027학년도 9월 모의평가 성적표 29일 배부…등급컷도 공개",
-          "link": "https://www.kizmom.com/news/articleView.html?idxno=112980",
-          "source": "www.kizmom.com",
-          "published": "2026-09-28T03:32:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2b15e37c68095fd906722c8765e1dcc4",
-          "title": "9월 모평 영어 1등급 비율 15.5%…지난해 수능보다 4배 많아",
-          "link": "https://n.news.naver.com/mnews/article/025/0003554157?sid=102",
-          "source": "www.joongang.co.kr",
-          "published": "2026-09-28T03:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -351,6 +291,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "91a58a161b104be7e8c9b0ba7f2abaa9",
+          "title": "'등록금 0원 효과' 2027정시까지 상승하나 ..수시 수도권 출신 지거국 지원 12% '증가'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631443",
+          "source": "베리타스알파",
+          "published": "2026-10-12T08:25:51.176529+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f324b9d2a988f63ab65bfe06847840cf",
+          "title": "2027 수시 당락 가르는 ‘면접’ 대치동 메이드학원, 생기부기반 및 SKY...",
+          "link": "https://www.koreadaily.com/article/20261011204659265",
+          "source": "www.koreadaily.com",
+          "published": "2026-10-12T03:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "740da9c753845a8ed4609779614f2780",
           "title": "‘수시 먹통’ 대책이 경쟁률 익일 공개?.. ‘민간보다 후퇴한 행정편의주의' 비판",
@@ -690,26 +650,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "2b48c9a46ae30f0b99bd68c2212ee764",
-          "title": "2027 수시 면접, 학생부에서 어떤 질문이 나올까 서류 기반 면접 대비 3...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112272",
-          "source": "edu.donga.com",
-          "published": "2026-09-28T04:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e999de75d33af1b0b8add5d91a3380c4",
-          "title": "영어 1등급 6만명이 쏟아졌다…N수생·사탐런 예측불가 2027 수능[세상&amp;]",
-          "link": "https://n.news.naver.com/mnews/article/016/0002702607?sid=102",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-09-28T03:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -854,16 +794,6 @@
           "link": "https://n.news.naver.com/mnews/article/656/0000188071?sid=102",
           "source": "www.daejonilbo.com",
           "published": "2026-09-29T07:25:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "f4437f8e66471412b34fa6fca2e25cb5",
-          "title": "안성이투스247기숙학원이 제시하는 검정고시생을 위한 2028학년도 입시 ...",
-          "link": "https://n.news.naver.com/mnews/article/081/0003683952?sid=101",
-          "source": "www.seoul.co.kr",
-          "published": "2026-09-28T04:34:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1110,7 +1040,7 @@
           "published": "2026-10-12T00:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3e3508ffa4738f2de155c46375243cc1",
@@ -1201,16 +1131,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "415d298c6d3d00d76a84002d5ad978d2",
-          "title": "스카이입시교육학원 대치동점, 을지대·가천대 등 약술형논술 10월 특강...",
-          "link": "http://www.e2news.com/news/articleView.html?idxno=334628",
-          "source": "www.e2news.com",
-          "published": "2026-09-28T08:30:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1219,6 +1139,46 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "8ceb7e782dc2db0bbc45938fa59b6680",
+          "title": "대교협, 수시 원서접수 장애 대응 미흡…마감연장 공지 요청까지 20분",
+          "link": "https://n.news.naver.com/mnews/article/021/0002824523?sid=102",
+          "source": "www.munhwa.com",
+          "published": "2026-10-12T07:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7aadefa97e45b41ecd44530555ac9b91",
+          "title": "광운대 정보과학교육원, 준비요소 30점·기본면접 40점 면접전형 선발",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231740",
+          "source": "www.job-post.co.kr",
+          "published": "2026-10-12T06:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2a594d59439966768749cf30f5213592",
+          "title": "&quot;신설 창의형 논술 첫발 대성황&quot;… 중앙대, 2027학년도 수시모집 논술(창...",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130924",
+          "source": "www.dailysmart.co.kr",
+          "published": "2026-10-12T05:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "0d923edca72f306c35b37f67a0b2a088",
+          "title": "안성이투스247기숙학원 ‘메디컬 입시센터’ 개설",
+          "link": "https://n.news.naver.com/mnews/article/081/0003688010?sid=101",
+          "source": "www.seoul.co.kr",
+          "published": "2026-10-12T04:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "411d4d15be9603e7702d4e9511d971e9",
           "title": "“수시 먹통 경고에도 뚫렸다”…교육부 산하기관, 관리 부실·기관장 ...",
@@ -1360,6 +1320,16 @@
           "is_new": false
         },
         {
+          "id": "14e95b5bfb03865edd9b316194dd1f6c",
+          "title": "[2027정시 ①] 중앙대 2027 정시, 출결 10% 도입…환산표 점수 차는 최대 1점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwQmVhR0F0UlA5bUxzc096QXN6YUszZmc5Slk4bUtEbUdYeUF3Vy02TG5tTDFVdlY0WWNlNnc3MmJyZXBqZjlFVE16LUJtcHdQS3BhMTR5dUpyUk52R0R1aEpBbXkxUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-10-03T07:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "7bf6d88018b468b660eb88e2ef1bf862",
           "title": "2027 전문대 수시 1차, 보건·첨단산업 학과 강세…‘취업 연계성’ 주목",
           "link": "http://www.breaknews.com/1240768",
@@ -1468,16 +1438,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "9ee46e64205c340feb7a3f6517b9e9ff",
-          "title": "'수시 먹통' 특별조사 연장한다…교육부 &quot;종료일 미정&quot;",
-          "link": "https://n.news.naver.com/mnews/article/008/0005419124?sid=102",
-          "source": "www.mt.co.kr",
-          "published": "2026-09-28T06:22:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1537,11 +1497,11 @@
           "is_new": false
         },
         {
-          "id": "5bbaf460ec113eee21f7b3a10b1feba0",
-          "title": "경기도교육청, 2027학년도 고교 평준화 배정 설명회…“지망 순위 신중히” - 비욘드포스트",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94TEhHdnI2Y0JubDc3QlJqTmczNFdWaWdJWEZQNEpMUVF1MjBaeTVfVXlXaXUzNzRoUS1aWkNnLV95cTVnOEpVWFBvRGo2bE8xQldkLVhSYnRmOEo5cXI1MGZ6QXAzeXQxU21kaXV6Z29ZcE5lX3BnTHVQX3o?oc=5",
-          "source": "비욘드포스트",
-          "published": "2026-09-28T04:27:09+00:00",
+          "id": "6a625aeec3555eb62c0bbd0f4ccabe20",
+          "title": "경기도교육청, 2027학년도 평준화고 학생 배정 온라인 설명회 개최",
+          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3147330",
+          "source": "www.ttlnews.com",
+          "published": "2026-09-28T09:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
