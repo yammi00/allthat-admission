@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T19:47:23.035279+00:00",
+  "updated_at": "2026-10-13T01:59:47.321826+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-12T19:32:44.141154+00:00",
+          "published": "2026-10-13T01:44:58.179279+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -253,26 +253,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "301ac7fe067cbd95fed0d69530014a8b",
-          "title": "&quot;9모 '물영어' 수능선 어려워질 듯&quot;…거세진 '사탐런'에 대학별 유불리...",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=301553",
-          "source": "www.widedaily.com",
-          "published": "2026-09-29T01:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "be206115d5fc90db78959405d77a90c1",
-          "title": "9월 모평 가채점 발표…국·수 변별력 유지, 본수능 가늠자 역할",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112303",
-          "source": "edu.donga.com",
-          "published": "2026-09-29T00:32:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -289,7 +269,7 @@
           "published": "2026-10-12T17:07:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "91a58a161b104be7e8c9b0ba7f2abaa9",
@@ -630,26 +610,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5c1bb317af8fd62fbff6b97e82e54277",
-          "title": "수험생 83% “2028 대입개편, 올해 수시 지원 전략에 영향”",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54232",
-          "source": "에듀진",
-          "published": "2026-09-29T00:08:40.192330+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "cc4c72b4d63437438dda0d16f6467f7f",
-          "title": "[2027전문대수시특집] '창학 75주년' 정화예대 수시 1961명(91.0%).. 명동/대학로 잇는 ‘현장형 예술교육’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629701",
-          "source": "베리타스알파",
-          "published": "2026-09-29T00:08:29.422823+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -663,10 +623,10 @@
           "title": "[2027정시] ‘마지막 5개교 체제’ 이공특 63명 ‘동일’.. 반도체 계약학과 13명 ‘정시 막차’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631361",
           "source": "베리타스알파",
-          "published": "2026-10-12T19:37:37.574786+00:00",
+          "published": "2026-10-13T01:49:59.394370+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "278ebb40f08e189469136822a0f783af",
@@ -1502,16 +1462,6 @@
           "link": "https://www.cnbizm.com/news/articleView.html?idxno=316526",
           "source": "www.cnbizm.com",
           "published": "2026-09-29T06:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "19770ebd84f0183de7db73a55bbc05f0",
-          "title": "유튜브 '경기고입TV'로 본다…경기도교육청, 9개 평준화 학군 비대면 설...",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=722155",
-          "source": "www.cstimes.com",
-          "published": "2026-09-28T20:40:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
