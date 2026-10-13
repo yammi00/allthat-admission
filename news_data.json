@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:59:47.321826+00:00",
+  "updated_at": "2026-10-13T09:07:13.097604+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-13T01:44:58.179279+00:00",
+          "published": "2026-10-13T08:48:50.156664+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -183,76 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "18e3b8772080ac59b48653049ff26904",
-          "title": "과탐 1등급 42% 줄어… 수시·정시 전략 재점검 필요 [9월 모의평가 채점...",
-          "link": "https://n.news.naver.com/mnews/article/082/0001400372?sid=102",
-          "source": "www.busan.com",
-          "published": "2026-09-29T08:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6b031945dcc4654a1f7bb7ea8e304f9d",
-          "title": "수능 D-50, 버려야 할 3가지 vs 끝까지 쥐어야 할 3가지",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112345",
-          "source": "edu.donga.com",
-          "published": "2026-09-29T06:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "586d62103deb6f505eeb3f7b92258330",
-          "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629845",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-29T06:18:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7a538903ae137dcdcb2dfcd395f738c4",
-          "title": "수능 D-50, 새 문제집은 내려놔라…&quot;실수·기출 중심으로 고정점수 확보...",
-          "link": "https://www.newspim.com/news/view/20260929000854",
-          "source": "www.newspim.com",
-          "published": "2026-09-29T06:07:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "0da7fd363a57ad8860a92ea8a992d348",
-          "title": "오락가락 수능 모평 난이도…영어 1등급 15%",
-          "link": "https://www.naeil.com/news/read/603611?ref=naver",
-          "source": "www.naeil.com",
-          "published": "2026-09-29T04:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "607484298af74e87b2fa5f48ff3f2f97",
-          "title": "2026년 9월 모의고사 등급컷, 고3 성적표 배부일은?",
-          "link": "https://www.wikitree.co.kr/articles/1162682",
-          "source": "www.wikitree.co.kr",
-          "published": "2026-09-29T02:50:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9cd1c2ca16686e4281459fe05e1f4331",
-          "title": "[단독] [2027 9월모평 실채점 배치표] 대성학원, 서울대 의예 표점 414점...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629820",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-29T02:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -261,6 +191,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "45225bb06d4f5780fa5b9e745f8f7319",
+          "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역대급 사탐런 ‘확대 시그널’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
+          "source": "베리타스알파",
+          "published": "2026-10-13T08:51:50.459811+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0218006727ed7fd200a3d2b8895157b0",
+          "title": "2027수능 ''AI안경 커닝 비상'.. 연대/시립대 논술 적발",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631541",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-13T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "81b2c3e01de02e1c0efaf7ec779fad9e",
           "title": "서논술형 수능·절대평가, 장기 과제로 미루나… 개편 최소화 무게",
@@ -570,46 +520,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "f565de5d58c0887c297e5c9c4dc9565d",
-          "title": "[단독] [2027정시] 상위15개대 무전공(유형1) 1966명(54.9%) '14명 확대'....",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629811",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-29T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ff593a4ff7e085cf8f91590b8f66de08",
-          "title": "[윤한울의 입시 큐레이팅] '신종 대학별고사'의 등장, 다면심층평가 시...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112333",
-          "source": "edu.donga.com",
-          "published": "2026-09-29T05:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7f9e2ad96c6ed2a11e411c07238fd058",
-          "title": "2028 대입 개편의 해법, 고등인강 밀크티 22개정 맞춤 사회탐구 라인업...",
-          "link": "https://www.gosiweek.com/article/1065574914930893",
-          "source": "www.gosiweek.com",
-          "published": "2026-09-29T05:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2248df71d7f7d17628808db46d74c91c",
-          "title": "대입 수시 접수번호로 경쟁률 유추 가능… 서울 소재 30곳·국립대 25곳...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=598008",
-          "source": "news.unn.net",
-          "published": "2026-09-29T04:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -754,16 +664,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629814",
           "source": "베리타스알파",
           "published": "2026-09-29T20:27:15.671749+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e507ad2059ea12f0759709c00e37fbb2",
-          "title": "수능 D-50…수시 끝낸 수험생, 대입 변수 남았다",
-          "link": "https://n.news.naver.com/mnews/article/656/0000188071?sid=102",
-          "source": "www.daejonilbo.com",
-          "published": "2026-09-29T07:25:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1091,16 +991,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "77276e41cf04903707b0e59178eff860",
-          "title": "[2027논술면접 최종체크] 이번 주말 성신여대 논술 어떻게 나올까.. 인문...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629887",
-          "source": "www.veritas-a.com",
-          "published": "2026-09-29T07:34:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1417,6 +1307,16 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "a2f2abb15b0d2843a69c56f80d621744",
+          "title": "[뉴스핌-교총 특별기획⑤](상) &quot;2등급 뜨면 자퇴?&quot;…내신 5등급제의 역설",
+          "link": "https://www.newspim.com/news/view/20261013000196",
+          "source": "www.newspim.com",
+          "published": "2026-10-13T04:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "dfcc9243766ae5a12ceb1f3a1a23bb14",
           "title": "당진 자사고 추진 동력 잃나…학령인구 급감·내신 5등급제 개편에 '냉...",
           "link": "https://n.news.naver.com/mnews/article/656/0000189084?sid=102",
@@ -1452,16 +1352,6 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83T2xJN3REM2wyLVlWN2IwcFdiSGcyQlpOOGhTVHVZQ2FDOFVTMGFGSFI1c2hxcEp3SkItRUIwdEozRGNxejZxWFpodnRRWlBtRlNuS3lvazM3LVHSAWpBVV95cUxPNmhHdDlhSnRvY2JqY2xWTVcyNU9pbGlxVk1KbnpKZG9KMjNCZ0lGdUZOZmJIclZGRmRnbzBaSkc4M2t1d2Q1cmY2VkhwUFRJdWlMMmZyNTRodmpCYUxOOENDb3FOMTBQZGpR?oc=5",
           "source": "대학저널",
           "published": "2026-09-30T00:00:07+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "3845a4ba226d567e130def4a0dc1996b",
-          "title": "강동구, '대입 로드맵부터 고교 선택까지, 2028~2029 대입개편안 설명회...",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=316526",
-          "source": "www.cnbizm.com",
-          "published": "2026-09-29T06:52:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
