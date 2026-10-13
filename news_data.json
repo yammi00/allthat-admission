@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-10-13T09:07:13.097604+00:00",
+  "updated_at": "2026-10-13T17:31:41.326030+00:00",
   "available_archives": [
-    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-13T08:48:50.156664+00:00",
+          "published": "2026-10-13T17:16:50.634886+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -196,10 +195,10 @@
           "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역대급 사탐런 ‘확대 시그널’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
           "source": "베리타스알파",
-          "published": "2026-10-13T08:51:50.459811+00:00",
+          "published": "2026-10-13T17:19:13.530319+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0218006727ed7fd200a3d2b8895157b0",
@@ -209,7 +208,7 @@
           "published": "2026-10-13T08:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81b2c3e01de02e1c0efaf7ec779fad9e",
@@ -903,6 +902,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "57b448c27406fbd133a8253490bc5618",
+          "title": "[입시의 정석] 2027 논술전형, 어떻게 준비할까?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60778720/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-10-13T10:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f20b339d188664c2dc039ecac6e9bfb5",
           "title": "[추민규의 입시 돋보기] 2027 수시 논술, 마무리 학습 전략",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/10/12/2026101280032.html",
@@ -1314,7 +1323,7 @@
           "published": "2026-10-13T04:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dfcc9243766ae5a12ceb1f3a1a23bb14",
