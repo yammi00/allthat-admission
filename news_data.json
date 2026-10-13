@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-13T17:31:41.326030+00:00",
+  "updated_at": "2026-10-13T22:23:30.788271+00:00",
   "available_archives": [
+    "2026-09",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-13T17:16:50.634886+00:00",
+          "published": "2026-10-13T22:08:54.290777+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "26f6afc599708ecd746b1f966706ff15",
+          "title": "지금은 오답노트 펼칠 때… 수능 점수 새는 ‘구멍’ 막아라",
+          "link": "https://n.news.naver.com/mnews/article/081/0003688667?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-10-13T20:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e04fd7d2873d735eabd9638609057dc1",
@@ -195,7 +206,7 @@
           "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역대급 사탐런 ‘확대 시그널’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
           "source": "베리타스알파",
-          "published": "2026-10-13T17:19:13.530319+00:00",
+          "published": "2026-10-13T22:11:19.061238+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -509,16 +520,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "411c8848b5d6066f042af70e853584b5",
-          "title": "'수시 먹통'·문항 거래 국감 간다…증인 명단으로 본 교육위 국감",
-          "link": "https://n.news.naver.com/mnews/article/421/0009199234?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-09-29T20:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -653,16 +654,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=629870",
           "source": "베리타스알파",
           "published": "2026-09-30T01:01:11.081478+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b6c3772063b5171080f6675446afae19",
-          "title": "[단독] [2027정시] 12개 한의대 187명(25.8%) ‘축소’.. '인문 최상위권 집중되나'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629814",
-          "source": "베리타스알파",
-          "published": "2026-09-29T20:27:15.671749+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -909,7 +900,7 @@
           "published": "2026-10-13T10:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f20b339d188664c2dc039ecac6e9bfb5",
@@ -987,16 +978,6 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005421268?sid=101",
           "source": "www.mt.co.kr",
           "published": "2026-10-01T08:46:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d2e4862dab76c5173e35fd82189c364f",
-          "title": "[거인의어깨 입시컨설팅] 수능 이후 대학별고사 논술⋅면접 준비 전략",
-          "link": "https://www.newspim.com/news/view/20260831000316",
-          "source": "www.newspim.com",
-          "published": "2026-09-29T22:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
