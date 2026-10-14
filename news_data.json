@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T03:15:53.565574+00:00",
+  "updated_at": "2026-10-14T09:26:12.023873+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-14T03:00:15.687348+00:00",
+          "published": "2026-10-14T09:11:16.059902+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -155,31 +155,11 @@
           "is_new": false
         },
         {
-          "id": "6b1758ab0e85586490fbb7f71eaab5ad",
-          "title": "&quot;수능 D-50, 이렇게만 준비하세요&quot;… 수험생 막바지 '선택과 집중' 전략",
-          "link": "https://news.unn.net/news/articleView.html?idxno=598101",
-          "source": "news.unn.net",
-          "published": "2026-09-30T06:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "10780c7df7d46e878fddb9c97d647f4f",
-          "title": "EBSi, 수능 D-50 맞아 '약점 해방 프로젝트'…수험생 막판 학습 지원",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=91304",
-          "source": "www.mediafine.co.kr",
-          "published": "2026-09-30T05:52:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b5bdf3110c26d716e45a6f50a7bbac48",
-          "title": "[수능 D-50] 새 문제보다 '오답' 집중, 생활리듬도 실전처럼",
-          "link": "https://www.newsjeju.net/news/articleView.html?idxno=426473",
-          "source": "www.newsjeju.net",
-          "published": "2026-09-30T05:06:00+00:00",
+          "id": "c51a4cd936b957f5f21b41df3be472f7",
+          "title": "EBSi, 2027학년도 수능 D-50 맞아 약점 보완 학습·수험생 응원",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=211380",
+          "source": "www.lecturernews.com",
+          "published": "2026-09-30T13:48:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -192,14 +172,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "45225bb06d4f5780fa5b9e745f8f7319",
-          "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역대급 사탐런 ‘확대 시그널’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
+          "id": "61f08072058dd0f39c8d668a36098e72",
+          "title": "[2027수시면접] 가천대 면접 3년 기출분석.. ‘활동보다 개념’ 교과개념 질문 5개서 21개로",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631842",
           "source": "베리타스알파",
-          "published": "2026-10-14T03:02:39.728942+00:00",
+          "published": "2026-10-14T09:13:40.860132+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "cac018debd16e740eff9fb95e084ffee",
@@ -209,11 +189,21 @@
           "published": "2026-10-14T01:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "45225bb06d4f5780fa5b9e745f8f7319",
+          "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-13T08:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "0218006727ed7fd200a3d2b8895157b0",
-          "title": "2027수능 ''AI안경 커닝 비상'.. 연대/시립대 논술 적발",
+          "title": "2027수능 'AI안경 커닝 비상'.. 연대/시립대 논술 적발",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631541",
           "source": "www.veritas-a.com",
           "published": "2026-10-13T08:02:00+00:00",
@@ -480,36 +470,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "1aa2fedad8988d0d9e8c2e8fb6904d5c",
-          "title": "대입 논술전형 대비 '파이널 강의' 캘린더 공개… 대학별 맞춤 집중 공...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112387",
-          "source": "edu.donga.com",
-          "published": "2026-09-30T07:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d4c1f734dabfbadf31dd6a82b4dbd30d",
-          "title": "2027 수시 하향 안정 지원 뚜렷…국립대·지역 대학 약진",
-          "link": "https://www.naeil.com/news/read/603781?ref=naver",
-          "source": "www.naeil.com",
-          "published": "2026-09-30T04:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c09828ea27cc8afb814dcefc29af92e9",
-          "title": "폭망 내신, 한방 역전 노린다…5명 뽑는데 3111명 지원, 논술로 몰린 수...",
-          "link": "https://n.news.naver.com/mnews/article/016/0002703745?sid=102",
-          "source": "biz.heraldcorp.com",
-          "published": "2026-09-30T03:46:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -518,6 +478,26 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "b819d4e4ade15bf5a3080ce1cc46abe2",
+          "title": "[단독][2027정시] '추합 전화만 기다리면 낭패'.. 주요22개대 홈페이지 발표/전화 통보 '확인 필수'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631328",
+          "source": "베리타스알파",
+          "published": "2026-10-14T09:16:13.030405+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9e9e8fc167955fb52f59b207a906ee19",
+          "title": "[2027정시] 지난해 입결, 어떻게 활용할까.. 백분위/환산점수/70%컷 ‘해석 유의’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631559",
+          "source": "베리타스알파",
+          "published": "2026-10-14T09:16:13.030372+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "85f28366fa6868c1552c90ef4cfc7a6f",
           "title": "[2027정시] ‘마지막 5개교 체제’ 이공특 63명 ‘동일’.. 반도체 계약학과 13명 ‘정시 막차’",
@@ -624,26 +604,6 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PcmFxbVdZb0ZIRy1vMWNjMThtRENvSmZnbEhHV3h0dzR5OTdRNUVwdjAyai1vQnJVSExfcjk2VnhYVTNJUjdmb0R6WFdfbmxuUGM5N2lINVk2LTdlLUNEemJQUGFSeC1j?oc=5",
           "source": "한입신문",
           "published": "2026-09-30T10:04:27+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2a6f76bfb9b9cf52a0252453499703e6",
-          "title": "&quot;수능 대비, 반복해 틀리는 내용 집중&quot;",
-          "link": "https://n.news.naver.com/mnews/article/009/0005742080?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-09-30T07:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "21c2164fc3b315b7940f25d0e2a6cdf0",
-          "title": "수능 D-50...체제 변경에 졸업생 수험생 대거 몰려",
-          "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400754",
-          "source": "www.jejudomin.co.kr",
-          "published": "2026-09-30T06:24:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -882,6 +842,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "76db99e53dc2d00a9f92bd9bc1488ac7",
+          "title": "멘토스학원, 수능 후 파이널 논술, 통합과학 사전 예약",
+          "link": "https://www.gosiweek.com/article/1065597690245106",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-14T07:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "57b448c27406fbd133a8253490bc5618",
           "title": "[입시의 정석] 2027 논술전형, 어떻게 준비할까?",
@@ -1215,36 +1185,6 @@
           "link": "https://www.hangyo.com/news/article.html?no=109477",
           "source": "www.hangyo.com",
           "published": "2026-10-01T00:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "73efc2a9fa21e9b1aec447cd22e2afb0",
-          "title": "2027학년도 수능 D-50…새 문제보다 ‘기출·오답’ 집중해야 - kyongbuk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtX1IzM21PRU4xWTNEU3BrVFpvRWd2NXhvR0ZlQWlvSGc5YkgtTy1WdkNxaW5MLUxVbzZrV0l2NXQ3cWE5QmdFd0M5ZkR6ZDJjVmVlbHFYLVJwTnYtb2IzbWlVYndlWW1vWGRUeWFtZw?oc=5",
-          "source": "kyongbuk.co.kr",
-          "published": "2026-09-30T07:46:05+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b4e2d7663ee45caaedf74a3bf0058b36",
-          "title": "[2027논술면접 최종체크] 이번 주말 홍익대 서울캠 논술 어떻게 나올까.. 3일 자연, 4일 인문 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16WmNoZnJNUVRnc3ZseTFyeTIzQlBEcnQ5cWVvdnpFSTc2X3p3UFB1Y1hDbnQ0QjN0Tm51dWtPUDcySFBBT0tISmZUYlNYSnJ6OVY5Q0NNRzJQVWU5c1F6ci1HLWNUVGxGa05rYQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-09-30T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f66efc85f79c416008190af787196547",
-          "title": "수시 '먹통'에 마감 1시간 연장 80개 대학서 3184건 추가 접수",
-          "link": "https://n.news.naver.com/mnews/article/654/0000203181?sid=102",
-          "source": "www.kado.net",
-          "published": "2026-09-30T05:56:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
