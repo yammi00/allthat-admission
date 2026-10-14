@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:23:30.788271+00:00",
+  "updated_at": "2026-10-14T03:15:53.565574+00:00",
   "available_archives": [
     "2026-09",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-13T22:08:54.290777+00:00",
+          "published": "2026-10-14T03:00:15.687348+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-10-13T20:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e04fd7d2873d735eabd9638609057dc1",
@@ -165,31 +165,21 @@
           "is_new": false
         },
         {
+          "id": "10780c7df7d46e878fddb9c97d647f4f",
+          "title": "EBSi, 수능 D-50 맞아 '약점 해방 프로젝트'…수험생 막판 학습 지원",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=91304",
+          "source": "www.mediafine.co.kr",
+          "published": "2026-09-30T05:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "b5bdf3110c26d716e45a6f50a7bbac48",
           "title": "[수능 D-50] 새 문제보다 '오답' 집중, 생활리듬도 실전처럼",
           "link": "https://www.newsjeju.net/news/articleView.html?idxno=426473",
           "source": "www.newsjeju.net",
           "published": "2026-09-30T05:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "cde9a648f75fd7cf1ce7295e914b37c7",
-          "title": "수능 D-50, 지금부터 뭘 공부해야 할까…EBSi ‘약점공략·파이널 특강’...",
-          "link": "https://www.gosiweek.com/article/1065575416956095",
-          "source": "www.gosiweek.com",
-          "published": "2026-09-30T01:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "eca119eeb765a6c36588412a689d6b72",
-          "title": "EBSi, 2027학년도 수능 D-50 맞아 약점 보완 학습 및 수험생 응원 캠페인...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112353",
-          "source": "edu.donga.com",
-          "published": "2026-09-30T01:02:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -206,10 +196,20 @@
           "title": "[2027정시] 의약계열+상위15개대 수시이월 확대되나.. 지역의사제에 역대급 사탐런 ‘확대 시그널’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631626",
           "source": "베리타스알파",
-          "published": "2026-10-13T22:11:19.061238+00:00",
+          "published": "2026-10-14T03:02:39.728942+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "cac018debd16e740eff9fb95e084ffee",
+          "title": "김영일교육컨설팅 2027학년 논술/면접 자료집 발간.. '전국 30개 대학 전...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631746",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-14T01:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "0218006727ed7fd200a3d2b8895157b0",
@@ -510,16 +510,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "26d358979522b0d1640e565f1b60163b",
-          "title": "내신 부담에 ‘논술’로 몰렸다…일반전형 지원자 절반 넘게 선택",
-          "link": "https://www.etoday.co.kr/news/view/2630664",
-          "source": "www.etoday.co.kr",
-          "published": "2026-09-29T23:30:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -609,6 +599,16 @@
           "is_new": false
         },
         {
+          "id": "db683c99da33e31e8157ad03a1e28269",
+          "title": "[단독] [2027정시] '사탐런 역풍 맞은 과탐' 가산점 부여 대학 '주목'.. ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=630061",
+          "source": "www.veritas-a.com",
+          "published": "2026-09-30T22:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "9a7e5c06562b2b59343cd56bfbacf7fa",
           "title": "수능 D-50 … `사탐런' 막판 입시 변수",
           "link": "http://www.cctimes.kr/news/articleView.html?idxno=930140",
@@ -644,16 +644,6 @@
           "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400754",
           "source": "www.jejudomin.co.kr",
           "published": "2026-09-30T06:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "686dde8f9950e9125c8f97c1a8addc48",
-          "title": "[단독] [2027정시] 10개 수의대 145명(29.2%) ‘축소’.. '사탐런 봉쇄' 8개교 과탐지정 '경쟁률 하락하나'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=629870",
-          "source": "베리타스알파",
-          "published": "2026-09-30T01:01:11.081478+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1258,36 +1248,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "5c79af7c7599a7928e556aa9ec15b708",
-          "title": "수시 일반전형 지원자 절반이 '논술'로…&quot;수능 최저 충족이 관건&quot;",
-          "link": "https://www.ajunews.com/view/20260930105619973",
-          "source": "www.ajunews.com",
-          "published": "2026-09-30T02:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "632f03f16b2fc02473625d2021458b6b",
-          "title": "&quot;수능 D-50, 끝까지 무던하라&quot;… 이투스247학원 선배들의 파이널 역전 전...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112351",
-          "source": "edu.donga.com",
-          "published": "2026-09-30T00:40:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "e38ab108b9762270decc8e815709f5c5",
-          "title": "교육부 표준 공통원서 시스템 예산 34% 삭감… 사전 검증도 '0건'[2026 국...",
-          "link": "https://news.unn.net/news/articleView.html?idxno=598054",
-          "source": "news.unn.net",
-          "published": "2026-09-30T00:24:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1332,16 +1292,6 @@
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=880396",
           "source": "www.gokorea.kr",
           "published": "2026-10-04T00:20:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "a8631efca0a0204199fe761bf4c73ad5",
-          "title": "싸이먼닷컴, 특목고·자사고 경쟁률 비교법 소개 - 대학저널",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83T2xJN3REM2wyLVlWN2IwcFdiSGcyQlpOOGhTVHVZQ2FDOFVTMGFGSFI1c2hxcEp3SkItRUIwdEozRGNxejZxWFpodnRRWlBtRlNuS3lvazM3LVHSAWpBVV95cUxPNmhHdDlhSnRvY2JqY2xWTVcyNU9pbGlxVk1KbnpKZG9KMjNCZ0lGdUZOZmJIclZGRmRnbzBaSkc4M2t1d2Q1cmY2VkhwUFRJdWlMMmZyNTRodmpCYUxOOENDb3FOMTBQZGpR?oc=5",
-          "source": "대학저널",
-          "published": "2026-09-30T00:00:07+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
