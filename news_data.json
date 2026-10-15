@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T08:59:05.843958+00:00",
+  "updated_at": "2026-10-15T14:50:34.152370+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-15T08:44:09.472256+00:00",
+          "published": "2026-10-15T14:35:41.809503+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -171,6 +171,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "bdfb0c6e5d88d1db0b343587b495eaea",
+          "title": "[단독]'정시축소 지역의사제 이공계 반등 3대변수' 2027고입판도.. '불확...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631841",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-15T12:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "0cd152b8e46522831ab357724a6aca29",
           "title": "[단독] ‘학폭 기록’ 대입 의무반영 첫해, ‘가해자’ 93% 불합격",
           "link": "https://n.news.naver.com/mnews/article/028/0002827634?sid=102",
@@ -178,7 +188,7 @@
           "published": "2026-10-15T08:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "65a7fab2a3dda184d1e68fcb5fb46261",
@@ -188,7 +198,7 @@
           "published": "2026-10-15T08:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b0aa234bf8f1d16628577b504215fdff",
@@ -198,7 +208,7 @@
           "published": "2026-10-15T08:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "61f08072058dd0f39c8d668a36098e72",
@@ -518,6 +528,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "9add496be95fcaaf88f71850ffd7caea",
+          "title": "[2027정시] ‘AI중심대학’ 서강대, 컴퓨터공학과 32명 인공지능학과 10명.. AI기반자유전공학부 36명 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01WW1WSWgtZ1RuLWxoWnpfVTd0RjA5X3RLeEV1Ym00UzdRNkxTOVVLcng0U1RwQzhfZkZCWVQxRVY2eDl6VlNWNGZ3NjdsNXlqY3dKeE43cDgwVmViQm1VZ0duUDhQcVVJ?oc=5",
+          "source": "한입신문",
+          "published": "2026-10-15T03:59:10+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b819d4e4ade15bf5a3080ce1cc46abe2",
           "title": "[단독][2027정시] '추합 전화만 기다리면 낭패'.. 주요22개대 홈페이지 발표/전화 통보 '확인 필수'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631328",
@@ -643,7 +663,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6df28a0d12ab788318db9530b9b731f3",
@@ -654,7 +674,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c61eda0d369fd9d88630642001b4303",
