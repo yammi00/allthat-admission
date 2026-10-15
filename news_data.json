@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T19:50:56.742172+00:00",
+  "updated_at": "2026-10-15T23:03:35.455157+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-15T19:36:09.028308+00:00",
+          "published": "2026-10-15T22:48:49.233957+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5a72ad8d163a8559463ff9b49892e2f3",
+          "title": "“중하위권 수험생은 ‘맞힐 수 있는 수학 문제’에 집중하세요”",
+          "link": "https://woman.donga.com/3/all/12/6418861/1",
+          "source": "woman.donga.com",
+          "published": "2026-10-15T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1e4394ad7a8ae5117b8fc301fa12abcf",
