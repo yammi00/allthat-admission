@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T02:54:48.960303+00:00",
+  "updated_at": "2026-10-15T08:59:05.843958+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-15T02:40:20.873970+00:00",
+          "published": "2026-10-15T08:44:09.472256+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-15T01:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "26f6afc599708ecd746b1f966706ff15",
@@ -171,6 +171,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "0cd152b8e46522831ab357724a6aca29",
+          "title": "[단독] ‘학폭 기록’ 대입 의무반영 첫해, ‘가해자’ 93% 불합격",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827634?sid=102",
+          "source": "www.hani.co.kr",
+          "published": "2026-10-15T08:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "65a7fab2a3dda184d1e68fcb5fb46261",
+          "title": "'내신 5등급제 수혜' 전국자사고 특목고 고1 학업중단 '5년래 최저'.. 광...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=631958",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-15T08:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b0aa234bf8f1d16628577b504215fdff",
+          "title": "[2027대입] 상위 15개대 '4%부터 15%까지 널뛰기 절대평가' 영어 반영방...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632046",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-15T08:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "61f08072058dd0f39c8d668a36098e72",
           "title": "[2027수시면접] 가천대 면접 3년 기출분석.. ‘활동보다 개념’ 교과개념 질문 5개서 21개로",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631842",
@@ -188,7 +218,7 @@
           "published": "2026-10-15T00:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cac018debd16e740eff9fb95e084ffee",
@@ -604,6 +634,28 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "7aa7974726412512bbf139b70ddb3d85",
+          "title": "2027학년도 대학수학능력시험 수험생 유의사항 동영상 안내",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096830&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-10-15T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "6df28a0d12ab788318db9530b9b731f3",
+          "title": "공영방송 이사 임명제청&middot;임명 및 EBS 감사 임명 의결",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785340",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-10-15T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "8c61eda0d369fd9d88630642001b4303",
           "title": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과 보도자료",
@@ -1193,7 +1245,7 @@
           "published": "2026-10-15T00:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "773094659e6c4db15678f1bac230c9a3",
