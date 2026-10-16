@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T02:51:02.956823+00:00",
+  "updated_at": "2026-10-16T08:54:18.847105+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-16T02:35:44.185189+00:00",
+          "published": "2026-10-16T08:39:41.651192+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a85058820d54ec3ca9c8929c9e343d50",
+          "title": "[수능D-30] 2027수능 &quot;N수생 유입/사탐 응시 증가.. 새 공부보다 기출 재...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632134",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-16T08:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1b20e3bfd5785f7bcf9a38afc0eb1abb",
+          "title": "9월 모평 영어 쉽고 사탐 쏠림… 본수능 과목별 유불리 커진다",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3440825",
+          "source": "www.newscj.com",
+          "published": "2026-10-16T06:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "21c261a38aff81a11a9f6de216f58bf1",
@@ -31,7 +51,7 @@
           "published": "2026-10-16T02:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a72ad8d163a8559463ff9b49892e2f3",
@@ -191,6 +211,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "ed75ce38c61e8f4befcc35064a22b7e8",
+          "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
+          "source": "베리타스알파",
+          "published": "2026-10-16T08:42:02.876148+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "fa8fe9204b5530abb63de5f3e91c373f",
           "title": "유한대 2027수시1차경쟁률 10.6대1 '상승'.. 간호학과 82.3대1 '최고'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632057",
@@ -198,7 +228,7 @@
           "published": "2026-10-16T02:38:23.833317+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdfb0c6e5d88d1db0b343587b495eaea",
@@ -557,6 +587,26 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "551fd2133f3a5583db6e63f0580b1599",
+          "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
+          "source": "에듀진",
+          "published": "2026-10-16T08:44:31.715611+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1a6457852576ed1ad8be9dfd63db663a",
+          "title": "[2027정시] AI중심대학 18개교 ‘지역까지 넓혀 보는 AI 진학’.. 모집단위·수능 반영식부터 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hNXQwdlJ4bE1aOUdxOTVETEVVZm5sUFd3X3oxdGNiZ1NjeEdtb2tzMGZ3RkE2V2stOVFqR2hOeVdwT0VpdDNxbFRKRzlnWnRYalk1dk42ZnRic01lSUYyQXZZdWNIbnM1?oc=5",
+          "source": "한입신문",
+          "published": "2026-10-16T04:34:36+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "9add496be95fcaaf88f71850ffd7caea",
           "title": "[2027정시] ‘AI중심대학’ 서강대, 컴퓨터공학과 32명 인공지능학과 10명.. AI기반자유전공학부 36명 - 한입신문",
@@ -934,6 +984,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "7227eebd7901ff47104a4099e3912241",
+          "title": "MY UNI, 관악구와 고3 대상 대입 약술형 논술 모의고사 무료 시행",
+          "link": "https://dhnews.co.kr/news/view/1065581157580959",
+          "source": "dhnews.co.kr",
+          "published": "2026-10-16T02:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "76db99e53dc2d00a9f92bd9bc1488ac7",
           "title": "멘토스학원, 수능 후 파이널 논술, 통합과학 사전 예약",
           "link": "https://www.gosiweek.com/article/1065597690245106",
@@ -1287,6 +1347,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "7241a432da99f071339848e53a585a52",
+          "title": "입시전문가 오대교, '대구지역 고교 선택 로드맵' 설명회 진행…예비고...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112881",
+          "source": "edu.donga.com",
+          "published": "2026-10-16T04:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "44e5434a563646a0d8c9846ca5b816e9",
           "title": "영재학교·특목고·전국자사고 고1 학업중단 189명…5년 새 최저",
