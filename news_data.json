@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:03:35.455157+00:00",
+  "updated_at": "2026-10-16T02:51:02.956823+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-15T22:48:49.233957+00:00",
+          "published": "2026-10-16T02:35:44.185189+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "21c261a38aff81a11a9f6de216f58bf1",
+          "title": "수능 어느덧 한달여 앞…&quot;기출 점검하고 실전 감각 유지하라&quot;",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112873",
+          "source": "edu.donga.com",
+          "published": "2026-10-16T02:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5a72ad8d163a8559463ff9b49892e2f3",
@@ -31,7 +41,7 @@
           "published": "2026-10-15T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1e4394ad7a8ae5117b8fc301fa12abcf",
@@ -180,6 +190,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "fa8fe9204b5530abb63de5f3e91c373f",
+          "title": "유한대 2027수시1차경쟁률 10.6대1 '상승'.. 간호학과 82.3대1 '최고'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632057",
+          "source": "베리타스알파",
+          "published": "2026-10-16T02:38:23.833317+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "bdfb0c6e5d88d1db0b343587b495eaea",
           "title": "[단독]'정시축소 지역의사제 이공계 반등 3대변수' 2027고입판도.. '불확...",
