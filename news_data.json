@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:41:22.799261+00:00",
+  "updated_at": "2026-10-16T19:25:13.792050+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-16T14:26:33.434211+00:00",
+          "published": "2026-10-16T19:10:23.413516+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +215,7 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-16T14:28:59.845417+00:00",
+          "published": "2026-10-16T19:12:47.245216+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -592,7 +592,7 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-16T14:31:33.860933+00:00",
+          "published": "2026-10-16T19:15:22.854264+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -653,6 +653,16 @@
           "link": "https://www.gosiweek.com/article/1065597804466440",
           "source": "www.gosiweek.com",
           "published": "2026-10-08T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "090e55a4228831b41a652c1eddabcc87",
+          "title": "올해 수시 지원전략 변화…'상향' 유지, '안정'은 늘어나",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=914310",
+          "source": "www.kgnews.co.kr",
+          "published": "2026-10-07T07:44:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -743,7 +753,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7aa7974726412512bbf139b70ddb3d85",
