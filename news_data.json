@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:54:18.847105+00:00",
+  "updated_at": "2026-10-16T14:41:22.799261+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-16T08:39:41.651192+00:00",
+          "published": "2026-10-16T14:26:33.434211+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-16T08:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1b20e3bfd5785f7bcf9a38afc0eb1abb",
@@ -41,7 +41,7 @@
           "published": "2026-10-16T06:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "21c261a38aff81a11a9f6de216f58bf1",
@@ -215,10 +215,10 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-16T08:42:02.876148+00:00",
+          "published": "2026-10-16T14:28:59.845417+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fa8fe9204b5530abb63de5f3e91c373f",
@@ -592,10 +592,10 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-16T08:44:31.715611+00:00",
+          "published": "2026-10-16T14:31:33.860933+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1a6457852576ed1ad8be9dfd63db663a",
@@ -605,7 +605,7 @@
           "published": "2026-10-16T04:34:36+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9add496be95fcaaf88f71850ffd7caea",
@@ -734,6 +734,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "07abd6b085daf767f27b0dffb099e114",
+          "title": "2027학년도 대학수학능력시험 답안지 견본",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096842&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-10-16T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "7aa7974726412512bbf139b70ddb3d85",
           "title": "2027학년도 대학수학능력시험 수험생 유의사항 동영상 안내",
@@ -991,7 +1002,7 @@
           "published": "2026-10-16T02:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "76db99e53dc2d00a9f92bd9bc1488ac7",
@@ -1355,7 +1366,7 @@
           "published": "2026-10-16T04:54:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "44e5434a563646a0d8c9846ca5b816e9",
