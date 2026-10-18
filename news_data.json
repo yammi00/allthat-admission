@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:42:18.225975+00:00",
+  "updated_at": "2026-10-18T13:56:58.147739+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-18T08:27:40.540295+00:00",
+          "published": "2026-10-18T13:42:27.280601+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-18T04:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a85058820d54ec3ca9c8929c9e343d50",
@@ -215,7 +215,7 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-18T08:30:03.475867+00:00",
+          "published": "2026-10-18T13:44:51.003159+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -228,7 +228,7 @@
           "published": "2026-10-18T05:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fa8fe9204b5530abb63de5f3e91c373f",
@@ -602,7 +602,7 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-18T08:32:36.845290+00:00",
+          "published": "2026-10-18T13:47:20.815951+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1120,6 +1120,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "c4c59422ba8ef1872e27f462aed346c3",
+          "title": "[스트레이트] '수시 먹통'의 그림자‥대학들의 '2백억 리베이트'",
+          "link": "https://n.news.naver.com/mnews/article/214/0001529797?sid=102",
+          "source": "",
+          "published": "2026-10-18T12:09:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "8ceb7e782dc2db0bbc45938fa59b6680",
           "title": "대교협, 수시 원서접수 장애 대응 미흡…마감연장 공지 요청까지 20분",
