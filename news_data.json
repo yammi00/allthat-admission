@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:56:57.711586+00:00",
+  "updated_at": "2026-10-18T02:43:09.742763+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-17T23:44:04.874744+00:00",
+          "published": "2026-10-18T02:28:39.023190+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -89,16 +89,6 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=598451",
           "source": "news.unn.net",
           "published": "2026-10-11T20:56:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9e55657073ada1fba761f53c76a2548f",
-          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-10T04:17:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +205,7 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-17T23:46:27.482924+00:00",
+          "published": "2026-10-18T02:31:01.989194+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -592,7 +582,7 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-17T23:49:08.134516+00:00",
+          "published": "2026-10-18T02:33:31.399531+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
