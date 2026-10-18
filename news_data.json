@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:16:24.473904+00:00",
+  "updated_at": "2026-10-18T20:10:44.735124+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-18T17:01:25.069113+00:00",
+          "published": "2026-10-18T19:56:13.632449+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -215,7 +215,7 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-18T17:03:51.827758+00:00",
+          "published": "2026-10-18T19:58:37.311215+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -602,7 +602,7 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-18T17:06:26.906673+00:00",
+          "published": "2026-10-18T20:01:06.109121+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1126,6 +1126,16 @@
           "link": "https://n.news.naver.com/mnews/article/214/0001529797?sid=102",
           "source": "",
           "published": "2026-10-18T12:09:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "92144465737662bd6e4956278c6c8847",
+          "title": "2027학년도 대학수학능력시험 원서접수 핵심 가이드! - 영상 | 멀티미디어 - 정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0dFanpyZU11cnl3TmhuZTVWRGxHZ2ZFaC1GeS1aSFN0N21nUW11Qjl0cDEtbUtqdWhKczdPbDRNVUM0U3BMb3oyU0UxZGhvamU5V1RCRTlDc3pUV2haQXoxRmVxeVlUMHZVSklkbXVlSGRJQ3pCblp0QTdsSXVZQ0dVMENlUlVzZmc?oc=5",
+          "source": "정책브리핑",
+          "published": "2026-10-17T02:23:44+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
