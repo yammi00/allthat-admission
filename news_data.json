@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:43:22.380985+00:00",
+  "updated_at": "2026-10-19T16:58:24.022270+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,50 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-19T09:28:53.043948+00:00",
+          "published": "2026-10-19T16:43:41.836224+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "36ed85b26bb20fa6d087879b81061ea1",
+          "title": "10월 모의고사 &quot;지난해 등급컷&quot; 시험시간표",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3726285",
+          "source": "www.gukjenews.com",
+          "published": "2026-10-19T15:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5754f7963d87c32a9c064c5e5818f59f",
+          "title": "수능 시간표 맞춰 ‘실전 감각’ 유지 초점 맞춰야",
+          "link": "http://www.kjdaily.com/article.php?aid=1792405285689637033",
+          "source": "www.kjdaily.com",
+          "published": "2026-10-19T10:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "fcd367428e8be4b39b491544260554a2",
+          "title": "[수능 D-30] 수능 한달 앞, 취약점 보완이 막판 성적 좌우",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20261019010005039",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-10-19T10:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4bc0b468701adf471a25456e57c60b27",
+          "title": "‘수능 D-30일’ 2027학년도 수능 전 마지막 학력평가 20일 실시…고3 37...",
+          "link": "https://n.news.naver.com/mnews/article/666/0000128168?sid=102",
+          "source": "www.kyeonggi.com",
+          "published": "2026-10-19T09:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "7fd8e613ecdc010b55826ad05ac71b65",
@@ -31,16 +71,6 @@
           "published": "2026-10-19T08:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
-          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
-          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-10-18T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
           "is_new": false
         },
         {
@@ -48,6 +78,16 @@
           "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
           "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
           "source": "www.newsis.com",
+          "published": "2026-10-18T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
+          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
+          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -245,7 +285,17 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-19T09:31:17.695102+00:00",
+          "published": "2026-10-19T16:46:08.167566+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "8a4ae20262a0143c00c680a04f694fa3",
+          "title": "과기원 중도탈락 '최저'…이공계 이탈 주춤?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60780848/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-10-19T10:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1505,7 +1555,7 @@
           "published": "2026-10-19T05:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7241a432da99f071339848e53a585a52",
