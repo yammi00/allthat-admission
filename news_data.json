@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:58:24.022270+00:00",
+  "updated_at": "2026-10-19T22:09:25.588574+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-19T16:43:41.836224+00:00",
+          "published": "2026-10-19T21:54:33.239680+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "55ef8295181d97b9b6afa71f99d50c68",
+          "title": "[수능 D-30] 현 체제 마지막 N수생 최다…&quot;다져온 실력 점검하고 점수로...",
+          "link": "https://n.news.naver.com/mnews/article/088/0001035343?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-10-19T21:31:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "36ed85b26bb20fa6d087879b81061ea1",
@@ -31,7 +41,7 @@
           "published": "2026-10-19T15:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5754f7963d87c32a9c064c5e5818f59f",
@@ -41,7 +51,7 @@
           "published": "2026-10-19T10:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fcd367428e8be4b39b491544260554a2",
@@ -51,7 +61,7 @@
           "published": "2026-10-19T10:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4bc0b468701adf471a25456e57c60b27",
@@ -61,7 +71,7 @@
           "published": "2026-10-19T09:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7fd8e613ecdc010b55826ad05ac71b65",
@@ -74,20 +84,20 @@
           "is_new": false
         },
         {
-          "id": "749b7749d024802bb6b3de8a28806168",
-          "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
-          "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
-          "source": "www.newsis.com",
+          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
+          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
+          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
-          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
-          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
-          "source": "www.news1.kr",
+          "id": "749b7749d024802bb6b3de8a28806168",
+          "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
+          "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
+          "source": "www.newsis.com",
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -285,7 +295,7 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-19T16:46:08.167566+00:00",
+          "published": "2026-10-19T21:57:01.418955+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -298,7 +308,7 @@
           "published": "2026-10-19T10:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8af9863ca73ae7e84ac7b61790874a41",
