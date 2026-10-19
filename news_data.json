@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T22:25:27.021865+00:00",
+  "updated_at": "2026-10-19T02:57:17.441484+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-18T22:10:57.985622+00:00",
+          "published": "2026-10-19T02:42:27.046239+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "749b7749d024802bb6b3de8a28806168",
@@ -41,7 +41,7 @@
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2047fff8eaf43ca4a340b630a7773915",
@@ -235,7 +235,7 @@
           "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "베리타스알파",
-          "published": "2026-10-18T22:13:19.321683+00:00",
+          "published": "2026-10-19T02:44:50.709440+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -248,7 +248,7 @@
           "published": "2026-10-18T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a37b89120333e8d5f8cbb66eb3d69410",
@@ -632,10 +632,50 @@
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
           "source": "에듀진",
-          "published": "2026-10-18T22:15:48.268784+00:00",
+          "published": "2026-10-19T02:47:24.839197+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e5fd271e8b9bca4336093ec7deb3b2a3",
+          "title": "수능 한 달 앞으로⋯성적 끌어올릴 마지막 학습 전략은",
+          "link": "https://www.etoday.co.kr/news/view/2637316",
+          "source": "www.etoday.co.kr",
+          "published": "2026-10-19T02:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3483429d6dbbb6e7a43fa5a36e8ca191",
+          "title": "[교육정보] 수능 D-30, 상위권은 실수·중위권은 취약유형·하위권은 기...",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915337",
+          "source": "www.chungnamilbo.co.kr",
+          "published": "2026-10-19T00:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b6532f7a6816690b6650e6b73abd064c",
+          "title": "수능 D-30, 새로운 문제보다 취약점 보완… 맞춤 전략기반 점수 확보 필...",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=2007206",
+          "source": "www.m-i.kr",
+          "published": "2026-10-18T23:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "08fb355daa87134d34e7ebb828beee86",
+          "title": "수능 한 달 앞으로…&quot;상위권 실수 줄이고 중위권은 취약유형 집중해야&quot;",
+          "link": "https://www.newspim.com/news/view/20261019000127",
+          "source": "www.newspim.com",
+          "published": "2026-10-18T23:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9bdb8d66add3bdedb42fc9d77323d11e",
@@ -1150,6 +1190,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "53bdb1c1171e4ae858ecb7cf78694696",
+          "title": "[김형일의 입시컨설팅] (249) 수능 30일, 남은 기간의 학습 로드맵",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=156767",
+          "source": "www.smartbizn.com",
+          "published": "2026-10-19T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "c4c59422ba8ef1872e27f462aed346c3",
           "title": "[스트레이트] '수시 먹통'의 그림자‥대학들의 '2백억 리베이트'",
