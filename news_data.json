@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T02:57:17.441484+00:00",
+  "updated_at": "2026-10-19T09:43:22.380985+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-19T02:42:27.046239+00:00",
+          "published": "2026-10-19T09:28:53.043948+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "7fd8e613ecdc010b55826ad05ac71b65",
+          "title": "수능 D-30…'사탐런' 심화에 입시 전략 재점검 필요",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113226",
+          "source": "news.bbsi.co.kr",
+          "published": "2026-10-19T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
@@ -231,14 +241,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "ed75ce38c61e8f4befcc35064a22b7e8",
-          "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대 고대 건대 톱5",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
-          "source": "베리타스알파",
-          "published": "2026-10-19T02:44:50.709440+00:00",
+          "id": "41598214f12f6c678b17d83736d58742",
+          "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
+          "source": "에듀진",
+          "published": "2026-10-19T09:31:17.695102+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "8af9863ca73ae7e84ac7b61790874a41",
@@ -256,6 +266,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632286",
           "source": "www.veritas-a.com",
           "published": "2026-10-18T05:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "ed75ce38c61e8f4befcc35064a22b7e8",
+          "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-16T08:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -645,7 +665,7 @@
           "published": "2026-10-19T02:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3483429d6dbbb6e7a43fa5a36e8ca191",
@@ -655,7 +675,7 @@
           "published": "2026-10-19T00:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b6532f7a6816690b6650e6b73abd064c",
@@ -665,7 +685,7 @@
           "published": "2026-10-18T23:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "08fb355daa87134d34e7ebb828beee86",
@@ -675,7 +695,7 @@
           "published": "2026-10-18T23:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9bdb8d66add3bdedb42fc9d77323d11e",
@@ -1198,7 +1218,7 @@
           "published": "2026-10-19T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c4c59422ba8ef1872e27f462aed346c3",
@@ -1477,6 +1497,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "2ea5aef98640a30251fd28befc1ce7bf",
+          "title": "대전시교육청, 21일 '2028 대입 개편 설명회'…내신 5등급제·통합형 수...",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=723674",
+          "source": "www.newstnt.com",
+          "published": "2026-10-19T05:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "7241a432da99f071339848e53a585a52",
           "title": "입시전문가 오대교, '대구지역 고교 선택 로드맵' 설명회 진행…예비고...",
