@@ -321,26 +321,6 @@
           "is_new": false
         },
         {
-          "id": "8a4ae20262a0143c00c680a04f694fa3",
-          "title": "과기원 중도탈락 '최저'…이공계 이탈 주춤?",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60780848/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-10-19T10:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8af9863ca73ae7e84ac7b61790874a41",
-          "title": "[Who Is ?] 김지용 국민대학교 법인 이사장",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449304",
-          "source": "www.businesspost.co.kr",
-          "published": "2026-10-18T22:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "a37b89120333e8d5f8cbb66eb3d69410",
           "title": "대입캘린더 (26/10/23~)",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632286",
@@ -361,31 +341,11 @@
           "is_new": false
         },
         {
-          "id": "fa8fe9204b5530abb63de5f3e91c373f",
-          "title": "유한대 2027수시1차경쟁률 10.6대1 '상승'.. 간호학과 82.3대1 '최고'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632057",
-          "source": "베리타스알파",
-          "published": "2026-10-16T02:38:23.833317+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "bdfb0c6e5d88d1db0b343587b495eaea",
           "title": "[단독]'정시축소 지역의사제 이공계 반등 3대변수' 2027고입판도.. '불확...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=631841",
           "source": "www.veritas-a.com",
           "published": "2026-10-15T12:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "0cd152b8e46522831ab357724a6aca29",
-          "title": "[단독] ‘학폭 기록’ 대입 의무반영 첫해, ‘가해자’ 93% 불합격",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827634?sid=102",
-          "source": "www.hani.co.kr",
-          "published": "2026-10-15T08:22:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
