@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:06:21.564252+00:00",
+  "updated_at": "2026-10-20T07:12:44.798112+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-20T00:51:30.297573+00:00",
+          "published": "2026-10-20T06:57:55.443468+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,11 +31,11 @@
           "published": "2026-10-20T00:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "55ef8295181d97b9b6afa71f99d50c68",
-          "title": "[수능 D-30] 현 체제 마지막 N수생 최다…&quot;다져온 실력 점검하고 점수로...",
+          "title": "[수능 D-30] 현 체제 마지막 N수생 최다…학습 전략은?",
           "link": "https://n.news.naver.com/mnews/article/088/0001035343?sid=102",
           "source": "www.imaeil.com",
           "published": "2026-10-19T21:31:00+00:00",
@@ -305,7 +305,7 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-20T00:53:57.426860+00:00",
+          "published": "2026-10-20T07:00:19.898799+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -718,11 +718,21 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "88f28d92d1984680e6b53554d6d88c60",
-          "title": "[정시분석] 서강대 다군 자유전공, 충원율 900% 넘었다…하지만 합격선은 따로 봐야",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54386",
+          "id": "8f26f8d6fb7b51764c94007bc502cb9c",
+          "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-20T00:56:27.632075+00:00",
+          "published": "2026-10-20T07:02:47.036672+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9b47a35e3e1b65c39f53ea08daefd565",
+          "title": "숙명여고 '2027 신입생 입학설명회' 30일.. 달라진 메디컬/이공계 진학 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632708",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -943,7 +953,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
@@ -1195,6 +1205,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "94d8ac28dbdf8540073f32e80d3809f4",
+          "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
+          "source": "에듀진",
+          "published": "2026-10-20T07:05:29.108565+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7227eebd7901ff47104a4099e3912241",
           "title": "MY UNI, 관악구와 고3 대상 대입 약술형 논술 모의고사 무료 시행",
           "link": "https://dhnews.co.kr/news/view/1065581157580959",
@@ -1301,6 +1321,36 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "87ed541f49981699ac816feed5d23154",
+          "title": "가톨릭관동대, 2027 수시모집 실기고사 돌입",
+          "link": "https://dhnews.co.kr/news/view/1065588238216266",
+          "source": "dhnews.co.kr",
+          "published": "2026-10-20T04:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "25893a3392461397b348623e6eac5056",
+          "title": "李대통령, 수시 원서접수 장애에 &quot;공정성 의구심 없게 챙겨야&quot;",
+          "link": "https://www.ajunews.com/view/20261020114427130",
+          "source": "www.ajunews.com",
+          "published": "2026-10-20T03:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8f7527f2b856d00b2e30e6a4d4431677",
+          "title": "아세아항공직업전문학교, 전문대 수시 2차 접수 기간 전 신입생 선발",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233304",
+          "source": "www.job-post.co.kr",
+          "published": "2026-10-20T02:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "53bdb1c1171e4ae858ecb7cf78694696",
           "title": "[김형일의 입시컨설팅] (249) 수능 30일, 남은 기간의 학습 로드맵",
@@ -1596,7 +1646,7 @@
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ea5aef98640a30251fd28befc1ce7bf",
