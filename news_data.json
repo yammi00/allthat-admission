@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:28:47.564411+00:00",
+  "updated_at": "2026-10-20T23:07:01.460219+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-20T18:13:44.147383+00:00",
+          "published": "2026-10-20T22:52:04.210510+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -335,7 +335,7 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-20T18:16:11.444930+00:00",
+          "published": "2026-10-20T22:54:33.144310+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -366,6 +366,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632286",
           "source": "www.veritas-a.com",
           "published": "2026-10-18T05:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "055251cf91d81f9d90889d3598785b86",
+          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-10-16T09:37:38+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -742,7 +752,7 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-20T18:18:43.070959+00:00",
+          "published": "2026-10-20T22:57:06.240834+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -755,7 +765,7 @@
           "published": "2026-10-20T15:07:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8abba728a9eb556fc7782d36c57fd697",
@@ -1228,7 +1238,7 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-20T18:21:22.501976+00:00",
+          "published": "2026-10-20T22:59:40.205202+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1340,6 +1350,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "c5a9a40d68c7e8ec5abbe75bf0d3cc6a",
+          "title": "[여의로] '먹통'된 대입접수, 공공 시스템 구축 실행력이 '관건",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006521",
+          "source": "www.asiatoday.co.kr",
+          "published": "2026-10-20T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "106ba99990b5fff470f0c43a444734a2",
           "title": "내신 5등급·통합형 수능 시대…대학 가는 또 다른 길 '학사편입'",
