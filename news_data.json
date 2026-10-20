@@ -301,6 +301,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "090e55a4228831b41a652c1eddabcc87",
+          "title": "올해 수시 지원전략 변화…'상향' 유지, '안정'은 늘어나",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=914310",
+          "source": "www.kgnews.co.kr",
+          "published": "2026-10-07T07:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "41598214f12f6c678b17d83736d58742",
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
@@ -853,16 +863,6 @@
           "link": "https://www.gosiweek.com/article/1065597804466440",
           "source": "www.gosiweek.com",
           "published": "2026-10-08T07:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "090e55a4228831b41a652c1eddabcc87",
-          "title": "올해 수시 지원전략 변화…'상향' 유지, '안정'은 늘어나",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=914310",
-          "source": "www.kgnews.co.kr",
-          "published": "2026-10-07T07:44:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
