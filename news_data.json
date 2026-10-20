@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:09:25.588574+00:00",
+  "updated_at": "2026-10-20T01:06:21.564252+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-19T21:54:33.239680+00:00",
+          "published": "2026-10-20T00:51:30.297573+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "b5f17b883a833d0f3e63edf5b2a8484a",
+          "title": "[2027 10월학평] 지난 2년간 등급컷 어떻게 나왔나.. 지난해 표점 1등급...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632494",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-20T00:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "55ef8295181d97b9b6afa71f99d50c68",
@@ -31,7 +41,7 @@
           "published": "2026-10-19T21:31:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "36ed85b26bb20fa6d087879b81061ea1",
@@ -295,7 +305,7 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-19T21:57:01.418955+00:00",
+          "published": "2026-10-20T00:53:57.426860+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -708,6 +718,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "88f28d92d1984680e6b53554d6d88c60",
+          "title": "[정시분석] 서강대 다군 자유전공, 충원율 900% 넘었다…하지만 합격선은 따로 봐야",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54386",
+          "source": "에듀진",
+          "published": "2026-10-20T00:56:27.632075+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "551fd2133f3a5583db6e63f0580b1599",
           "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
@@ -914,6 +934,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "2a609e50e71d82eecf1caf7e6ea15c27",
+          "title": "수능 앞둔 수험생 여러분, 카페인 함유 식품 섭취 시 주의하세요!",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785735",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-10-20T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
           "title": "2027학년도 대학수학능력시험 답안지 견본",
@@ -1557,6 +1588,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "9e5d3176628a260f2258668d1fca71b5",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "source": "www.dt.co.kr",
+          "published": "2026-10-20T01:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "2ea5aef98640a30251fd28befc1ce7bf",
           "title": "대전시교육청, 21일 '2028 대입 개편 설명회'…내신 5등급제·통합형 수...",
