@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T07:12:44.798112+00:00",
+  "updated_at": "2026-10-20T13:26:04.046893+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-20T06:57:55.443468+00:00",
+          "published": "2026-10-20T13:11:16.503646+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e02fb18e7933ca40efdf1b62f6bebc5f",
+          "title": "[이슈대담] 수능 D-30, 학습 전략은?",
+          "link": "https://n.news.naver.com/mnews/article/056/0012277316?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-10-20T10:13:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7f76d5a09883e4acfd31485bc15dbc19",
+          "title": "[시사플랫폼] “수능 D-30…생활리듬을 시험 당일로 맞춰야…아는 것 복...",
+          "link": "https://n.news.naver.com/mnews/article/056/0012277249?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-10-20T09:35:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9fe13bde15e047a64d7d359c513aa21e",
+          "title": "2026년 10월 모의고사 등급컷 언제?…정답·답지 공개",
+          "link": "https://www.wikitree.co.kr/articles/1167555",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-10-20T09:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b5f17b883a833d0f3e63edf5b2a8484a",
@@ -301,24 +331,34 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "090e55a4228831b41a652c1eddabcc87",
-          "title": "올해 수시 지원전략 변화…'상향' 유지, '안정'은 늘어나",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=914310",
-          "source": "www.kgnews.co.kr",
-          "published": "2026-10-07T07:44:00+00:00",
+          "id": "41598214f12f6c678b17d83736d58742",
+          "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
+          "source": "에듀진",
+          "published": "2026-10-20T13:13:42.005066+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "41598214f12f6c678b17d83736d58742",
-          "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
-          "source": "에듀진",
-          "published": "2026-10-20T07:00:19.898799+00:00",
+          "id": "5303111e3c959cba3b3074d3b191fca0",
+          "title": "수능 D-30…새것 덤비기보다 ‘익힌 내용’ 소화가 훨씬 중요",
+          "link": "https://n.news.naver.com/mnews/article/082/0001403304?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-10-20T08:33:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
+        },
+        {
+          "id": "9b47a35e3e1b65c39f53ea08daefd565",
+          "title": "숙명여고 '2027 신입생 입학설명회' 30일.. 달라진 메디컬/이공계 진학 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632708",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-20T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a37b89120333e8d5f8cbb66eb3d69410",
@@ -336,6 +376,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
           "source": "www.veritas-a.com",
           "published": "2026-10-16T08:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "401f4876404214ea64d7e5455e95e35f",
+          "title": "&quot;학폭 기록 있으면 대학 못 가나&quot;…지원서류 93% 불합격",
+          "link": "https://n.news.naver.com/mnews/article/053/0000062291?sid=102",
+          "source": "weekly.chosun.com",
+          "published": "2026-10-15T15:36:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -692,17 +742,17 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-20T07:02:47.036672+00:00",
+          "published": "2026-10-20T13:16:12.155922+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "9b47a35e3e1b65c39f53ea08daefd565",
-          "title": "숙명여고 '2027 신입생 입학설명회' 30일.. 달라진 메디컬/이공계 진학 ...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632708",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-20T07:00:00+00:00",
+          "id": "8abba728a9eb556fc7782d36c57fd697",
+          "title": "수능 한 달 전, 새 문제보다 오답 점검·실전 감각 유지 중요…성적대별...",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=557802",
+          "source": "www.dkilbo.com",
+          "published": "2026-10-20T08:12:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1158,10 +1208,10 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-20T07:05:29.108565+00:00",
+          "published": "2026-10-20T13:18:47.857812+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7227eebd7901ff47104a4099e3912241",
@@ -1271,11 +1321,31 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "106ba99990b5fff470f0c43a444734a2",
+          "title": "내신 5등급·통합형 수능 시대…대학 가는 또 다른 길 '학사편입'",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=322913",
+          "source": "www.thepublic.kr",
+          "published": "2026-10-20T07:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "87ed541f49981699ac816feed5d23154",
           "title": "가톨릭관동대, 2027 수시모집 실기고사 돌입",
           "link": "https://dhnews.co.kr/news/view/1065588238216266",
           "source": "dhnews.co.kr",
           "published": "2026-10-20T04:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "2cc93ac3ab4a32fb625ec72322a1b3eb",
+          "title": "[2027정시] 동국대 특별전형, 약학·AI·반도체 선발.. 재직자도 별도 모집 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvQ3ZXRjVHYTRHaFRXY2FkT2FhVjVFd1lFc1NpYk9QbnFhcy1VVWwwbElHcVVROHBRWF81aEJ4cUdzTW5WcmdqSEYtOFZ0ZWhhTjZUempzRkNQSmhwQl92NTFLdUNveGxB?oc=5",
+          "source": "한입신문",
+          "published": "2026-10-20T03:38:29+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -1593,6 +1663,16 @@
           "link": "https://edu.donga.com/news/articleView.html?idxno=112881",
           "source": "edu.donga.com",
           "published": "2026-10-16T04:54:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "38ebdb00bd82f5e8484207dbb8cfc864",
+          "title": "내신 5등급제 시행되자… 특목고 자퇴생 줄었는데, 일반고는 급증 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTJ1UEsyVjgtYWEyZG1iZjM1NVVSTEw2b3Nwd290ZVFQTlB1VFNaOGpCT1FkU0xBdnRZekVRM09VUHBjTlR2eURIM202VE8xUC00MkdlaU5hZmh1VWVCcTlhNUtkckxGb1RadDdFRmE3Wm85WHZkX0pPakljbHRnUnpIQW12YmRWTVpQVGFLQVA?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-15T15:45:22+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
