@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:26:04.046893+00:00",
+  "updated_at": "2026-10-20T18:28:47.564411+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-20T13:11:16.503646+00:00",
+          "published": "2026-10-20T18:13:44.147383+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-20T10:13:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7f76d5a09883e4acfd31485bc15dbc19",
@@ -41,7 +41,7 @@
           "published": "2026-10-20T09:35:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9fe13bde15e047a64d7d359c513aa21e",
@@ -51,7 +51,7 @@
           "published": "2026-10-20T09:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5f17b883a833d0f3e63edf5b2a8484a",
@@ -124,20 +124,20 @@
           "is_new": false
         },
         {
-          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
-          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
-          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
-          "source": "www.news1.kr",
+          "id": "749b7749d024802bb6b3de8a28806168",
+          "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
+          "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
+          "source": "www.newsis.com",
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "749b7749d024802bb6b3de8a28806168",
-          "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
-          "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
-          "source": "www.newsis.com",
+          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
+          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
+          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
+          "source": "www.news1.kr",
           "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -335,7 +335,7 @@
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
           "source": "에듀진",
-          "published": "2026-10-20T13:13:42.005066+00:00",
+          "published": "2026-10-20T18:16:11.444930+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -348,7 +348,7 @@
           "published": "2026-10-20T08:33:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9b47a35e3e1b65c39f53ea08daefd565",
@@ -358,7 +358,7 @@
           "published": "2026-10-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a37b89120333e8d5f8cbb66eb3d69410",
@@ -742,10 +742,20 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-20T13:16:12.155922+00:00",
+          "published": "2026-10-20T18:18:43.070959+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f1e821618d7fa8f8692659799c53564d",
+          "title": "文·尹정부 이후 입시 난맥상…손대지 않는 것도 방법[이도경의 에듀 서...",
+          "link": "https://n.news.naver.com/mnews/article/005/0001879873?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-10-20T15:07:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8abba728a9eb556fc7782d36c57fd697",
@@ -755,7 +765,7 @@
           "published": "2026-10-20T08:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "551fd2133f3a5583db6e63f0580b1599",
@@ -873,6 +883,16 @@
           "link": "https://www.gosiweek.com/article/1065597804466440",
           "source": "www.gosiweek.com",
           "published": "2026-10-08T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "1de49cdbfdb3e5e5acb350f515bce4a1",
+          "title": "[2027정시] 서강대 첨단학과, 반도체공 인공지능 나군 24명.. 수능 A·B형 유리한 점수 반영 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtU3BMSDVocjNMZWlHdFBzOTItalZwLWY2RXpEYjNyY1pYNW5hc3R5a2FlSGp2YkJtN3lyLWVXSmtDQmp6NV9hS1pTWEppa2I0alkxUkhvUDJzMk9samRaYm8zYjNkc1lt?oc=5",
+          "source": "한입신문",
+          "published": "2026-10-07T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1208,7 +1228,7 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-20T13:18:47.857812+00:00",
+          "published": "2026-10-20T18:21:22.501976+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1328,7 +1348,7 @@
           "published": "2026-10-20T07:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "87ed541f49981699ac816feed5d23154",
@@ -1348,7 +1368,7 @@
           "published": "2026-10-20T03:38:29+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53bdb1c1171e4ae858ecb7cf78694696",
