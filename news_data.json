@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:16:34.437084+00:00",
+  "updated_at": "2026-10-21T15:02:37.346772+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-21T09:01:43.578653+00:00",
+          "published": "2026-10-21T14:47:30.461208+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-21T03:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "71b5625215a0968944a6acdb80e1c923",
@@ -119,6 +119,16 @@
           "link": "http://www.kjdaily.com/article.php?aid=1792405285689637033",
           "source": "www.kjdaily.com",
           "published": "2026-10-19T10:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "30b6b8d228282c1eb44b6e43d61a7a21",
+          "title": "[이슈K] 한 달 앞으로 다가온 수능…수험생 마지막 전략은?",
+          "link": "https://n.news.naver.com/mnews/article/056/0012276469?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-10-19T10:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -361,11 +371,11 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "5b640233b0da3473a6b19da55db0840b",
-          "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
-          "source": "에듀진",
-          "published": "2026-10-21T09:04:06.869042+00:00",
+          "id": "e2f8e7d584308aaff521f534ab92a8c2",
+          "title": "[단독] [2027정시] '숨은 로또' 의약계열 농어촌전형 '10개교 40명'.. '빅...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632919",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-21T10:24:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -378,7 +388,7 @@
           "published": "2026-10-21T04:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "41598214f12f6c678b17d83736d58742",
@@ -802,20 +812,10 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-21T09:06:39.460294+00:00",
+          "published": "2026-10-21T14:52:36.188712+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e2f8e7d584308aaff521f534ab92a8c2",
-          "title": "[단독] [2027정시] ‘숨은 로또’ 의약계열 농어촌전형 '10개교 40명'.. '빅5' 서울대 연대 등 의대 '6개교 10명'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632919",
-          "source": "베리타스알파",
-          "published": "2026-10-21T09:06:32.652569+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
         },
         {
           "id": "f1e821618d7fa8f8692659799c53564d",
@@ -1298,7 +1298,7 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-21T09:09:09.336323+00:00",
+          "published": "2026-10-21T14:55:11.452524+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1742,10 +1742,10 @@
           "title": "[단독] '상승예고' 특목자사고 최근 5년간 경쟁률은.. 외고 ‘4년 연속 상승’, 전국자사 ‘2년 연속 하락’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632846",
           "source": "베리타스알파",
-          "published": "2026-10-21T09:14:11.735673+00:00",
+          "published": "2026-10-21T15:00:13.459582+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e5d3176628a260f2258668d1fca71b5",
