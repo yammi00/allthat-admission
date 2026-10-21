@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:01:34.618672+00:00",
+  "updated_at": "2026-10-21T09:16:34.437084+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,17 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-21T02:48:28.145148+00:00",
+          "published": "2026-10-21T09:01:43.578653+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "2d2a84e875d79816b3930296c6bd94d7",
-          "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632766",
-          "source": "베리타스알파",
-          "published": "2026-10-21T02:48:25.741257+00:00",
+          "id": "42a5980462901b8576fb4be08affd67d",
+          "title": "코앞으로 다가온 2027학년도 수능… 당락 가를 '5대 변수'는?",
+          "link": "https://www.ajunews.com/view/20261021125411026",
+          "source": "www.ajunews.com",
+          "published": "2026-10-21T03:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -41,7 +41,7 @@
           "published": "2026-10-21T01:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d2969b15b19da8e348118869b6f64f68",
@@ -51,7 +51,7 @@
           "published": "2026-10-21T01:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e02fb18e7933ca40efdf1b62f6bebc5f",
@@ -360,6 +360,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "5b640233b0da3473a6b19da55db0840b",
+          "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
+          "source": "에듀진",
+          "published": "2026-10-21T09:04:06.869042+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "37e18fea4ca36e6d09f9f72446d0e8e4",
+          "title": "[내신 5등급제 대입 영향력] “모든 학기 전체 과목 1등급 감소는 당연...",
+          "link": "https://www.naeil.com/news/read/605847?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-10-21T04:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "41598214f12f6c678b17d83736d58742",
           "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
@@ -782,10 +802,20 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-21T02:53:37.669020+00:00",
+          "published": "2026-10-21T09:06:39.460294+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e2f8e7d584308aaff521f534ab92a8c2",
+          "title": "[단독] [2027정시] ‘숨은 로또’ 의약계열 농어촌전형 '10개교 40명'.. '빅5' 서울대 연대 등 의대 '6개교 10명'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632919",
+          "source": "베리타스알파",
+          "published": "2026-10-21T09:06:32.652569+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f1e821618d7fa8f8692659799c53564d",
@@ -1268,7 +1298,7 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-21T02:56:16.591866+00:00",
+          "published": "2026-10-21T09:09:09.336323+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1707,6 +1737,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "5e7041426d739305188b979a56fe20e1",
+          "title": "[단독] '상승예고' 특목자사고 최근 5년간 경쟁률은.. 외고 ‘4년 연속 상승’, 전국자사 ‘2년 연속 하락’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632846",
+          "source": "베리타스알파",
+          "published": "2026-10-21T09:14:11.735673+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "9e5d3176628a260f2258668d1fca71b5",
           "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
