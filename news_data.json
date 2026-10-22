@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T23:11:39.235806+00:00",
+  "updated_at": "2026-10-22T03:01:56.216663+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-21T22:56:55.436346+00:00",
+          "published": "2026-10-22T02:47:05.951041+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "72a3662e4e723937335377eea927f511",
+          "title": "약술형 논술 전문 목동씨사이트학원, ‘2027학년도 가천대 논술 파이널...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003691388?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-10-22T00:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "42a5980462901b8576fb4be08affd67d",
@@ -370,6 +380,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "5b640233b0da3473a6b19da55db0840b",
+          "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
+          "source": "에듀진",
+          "published": "2026-10-22T02:49:30.293018+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "77c9fffe0fd47c7932ce55e4962ce4c4",
+          "title": "2028 교과전형 N수생 지원 막힌다…'졸업생 제한' 주요대 4배↑",
+          "link": "https://n.news.naver.com/mnews/article/003/0014270425?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-22T00:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "e2f8e7d584308aaff521f534ab92a8c2",
           "title": "[단독] [2027정시] '숨은 로또' 의약계열 농어촌전형 '10개교 40명'.. '빅...",
@@ -812,7 +842,7 @@
           "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
-          "published": "2026-10-21T23:01:54.659660+00:00",
+          "published": "2026-10-22T02:52:06.865618+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1298,7 +1328,7 @@
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
           "source": "에듀진",
-          "published": "2026-10-21T23:04:28.038380+00:00",
+          "published": "2026-10-22T02:54:36.766290+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
