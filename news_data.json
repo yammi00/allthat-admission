@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:02:17.506060+00:00",
+  "updated_at": "2026-10-22T19:55:03.509781+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-22T14:47:40.401174+00:00",
+          "published": "2026-10-22T19:40:03.706777+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -415,7 +415,7 @@
           "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
           "source": "에듀진",
-          "published": "2026-10-22T14:50:08.526612+00:00",
+          "published": "2026-10-22T19:42:39.423847+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -425,7 +425,7 @@
           "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. “화려한 언변보다 흔들리지 않는 사고 구조”",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
           "source": "베리타스알파",
-          "published": "2026-10-22T14:50:01.046791+00:00",
+          "published": "2026-10-22T19:42:32.369609+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -438,7 +438,7 @@
           "published": "2026-10-22T10:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0ac7cfc95869b9f123939a442bbda7aa",
@@ -902,7 +902,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-22T14:52:35.085022+00:00",
+          "published": "2026-10-22T19:45:11.342804+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -912,7 +912,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-22T14:52:34.183216+00:00",
+          "published": "2026-10-22T19:45:09.810699+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1163,7 +1163,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
