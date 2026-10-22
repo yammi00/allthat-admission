@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:18:44.159367+00:00",
+  "updated_at": "2026-10-22T15:02:17.506060+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-22T09:03:56.142227+00:00",
+          "published": "2026-10-22T14:47:40.401174+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "d807949654112be20234ed6eca8b84ae",
+          "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87 - 베",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaEdwZGVhY0dKYTNmdmNJbF90djNtbGdnbzVDVVZqaGZqOVFiTjZYbVJoYWx6bWp4MUlObk5JeHNSMGJ4RVNOc05WYWt3TlZ2NTI0cFZGN2VwdUQwdWZVbXhmYUlBSmpVMldoXw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-22T08:52:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +41,7 @@
           "published": "2026-10-22T07:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "72d34225f0aa6d5130a5411f916308ae",
@@ -41,17 +51,7 @@
           "published": "2026-10-22T06:35:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "d807949654112be20234ed6eca8b84ae",
-          "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87 - 베",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaEdwZGVhY0dKYTNmdmNJbF90djNtbGdnbzVDVVZqaGZqOVFiTjZYbVJoYWx6bWp4MUlObk5JeHNSMGJ4RVNOc05WYWt3TlZ2NTI0cFZGN2VwdUQwdWZVbXhmYUlBSmpVMldoXw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-22T06:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "72a3662e4e723937335377eea927f511",
@@ -415,7 +415,7 @@
           "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
           "source": "에듀진",
-          "published": "2026-10-22T09:06:29.182417+00:00",
+          "published": "2026-10-22T14:50:08.526612+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -425,7 +425,17 @@
           "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. “화려한 언변보다 흔들리지 않는 사고 구조”",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
           "source": "베리타스알파",
-          "published": "2026-10-22T09:06:23.931123+00:00",
+          "published": "2026-10-22T14:50:01.046791+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b5b89e1b1b8b902cd80d2f4f68e3f60f",
+          "title": "대입 개편안 꼬인 국교위, ‘옥상옥’ 국교협 추진 논란",
+          "link": "https://n.news.naver.com/mnews/article/005/0001880343?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-10-22T10:18:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -438,7 +448,7 @@
           "published": "2026-10-22T03:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "77c9fffe0fd47c7932ce55e4962ce4c4",
@@ -892,20 +902,20 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-22T09:09:01.805830+00:00",
+          "published": "2026-10-22T14:52:35.085022+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fd2a9fa456a529440419d7945b93624f",
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-22T09:09:00.452895+00:00",
+          "published": "2026-10-22T14:52:34.183216+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8f26f8d6fb7b51764c94007bc502cb9c",
@@ -1144,6 +1154,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "ed3f25971dd295fba75f7d319cbc12f4",
+          "title": "[보도자료] 한성숙 국무총리, 제7차 주택공급 현장점검(舊 공항고등학교 부지)",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786212",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-10-22T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
           "title": "2027학년도 대학수학능력시험 답안지 견본",
@@ -1518,7 +1539,7 @@
           "published": "2026-10-22T08:43:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5d2dd44d8917ab8ae262657576e01298",
@@ -1528,7 +1549,7 @@
           "published": "2026-10-22T04:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c5a9a40d68c7e8ec5abbe75bf0d3cc6a",
@@ -1865,7 +1886,7 @@
           "published": "2026-10-22T03:10:29+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5e7041426d739305188b979a56fe20e1",
