@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:05:48.477859+00:00",
+  "updated_at": "2026-10-23T09:13:44.503271+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-23T02:50:32.310295+00:00",
+          "published": "2026-10-23T08:58:46.695051+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -421,16 +421,6 @@
           "is_new": false
         },
         {
-          "id": "43a2bb703aed6cf7e47ecc0a2cc0ba65",
-          "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. “화려한 언변보다 흔들리지 않는 사고 구조”",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
-          "source": "베리타스알파",
-          "published": "2026-10-23T02:52:56.953517+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "0e0976ee9e4c4f00a226b4e649fea662",
           "title": "경기도 학생·학부모 대입 상담, 내년부터 25개 교육지원청에서 받는다",
           "link": "https://www.gosiweek.com/article/1065579702967545",
@@ -438,7 +428,7 @@
           "published": "2026-10-23T02:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ca01cb8b55cefbd665a9d87e8fa23431",
@@ -448,7 +438,7 @@
           "published": "2026-10-23T01:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3bf59f93a19814e8e93680bd3144a87f",
@@ -466,6 +456,16 @@
           "link": "https://n.news.naver.com/mnews/article/005/0001880343?sid=102",
           "source": "www.kmib.co.kr",
           "published": "2026-10-22T10:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "43a2bb703aed6cf7e47ecc0a2cc0ba65",
+          "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. &quot;화려한 언변...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-22T08:48:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -932,7 +932,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-23T02:55:37.280309+00:00",
+          "published": "2026-10-23T09:03:51.453257+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -942,10 +942,20 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-23T02:55:35.855180+00:00",
+          "published": "2026-10-23T09:03:50.157811+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6924c1ca1c379e755b8f2f849554a2ac",
+          "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
+          "source": "베리타스알파",
+          "published": "2026-10-23T09:03:44.250358+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8f26f8d6fb7b51764c94007bc502cb9c",
@@ -1184,6 +1194,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "1babddb3bc9f7a05dc1270c221a9f288",
+          "title": "국방부차관, 육군 15사단 급수시설 현장점검",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786296",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-10-23T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "ed3f25971dd295fba75f7d319cbc12f4",
           "title": "[보도자료] 한성숙 국무총리, 제7차 주택공급 현장점검(舊 공항고등학교 부지)",
@@ -1562,6 +1583,56 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "290d123553d597067ab76a55ebc37384",
+          "title": "이기정 대교협 회장, ‘수시 먹통’ 책임에 “사퇴도 고려”",
+          "link": "https://n.news.naver.com/mnews/article/018/0006394914?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-10-23T07:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "620c9ee4b67695e57da5acfcc115e66f",
+          "title": "[아유경제_교육] 네이버, 대학ㆍ입시ㆍ수능 등 교육 검색 확대",
+          "link": "http://www.areyou.co.kr/news/articleView.html?idxno=95947",
+          "source": "www.areyou.co.kr",
+          "published": "2026-10-23T06:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fd0a0ddcf657cd727f23a76c6715b466",
+          "title": "네이버, 공식 데이터로 교육 정보 신뢰도↑…대학 입시로 확대",
+          "link": "https://n.news.naver.com/mnews/article/079/0004202177?sid=105",
+          "source": "www.nocutnews.co.kr",
+          "published": "2026-10-23T06:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "70b8e4cc950fd5c7dee1c91a4872c330",
+          "title": "네이버, 대학·입시 교육 검색 강화...수능 정보도 곧 개편",
+          "link": "https://www.thebigdata.co.kr/view.php?ud=2026102314555236440a47484cf8_23",
+          "source": "www.thebigdata.co.kr",
+          "published": "2026-10-23T06:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "b5e7f9c9d876e36455b963853c396d31",
+          "title": "네이버, 대학 입시 정보 한곳에...수능 검색에 AI 브리핑 도입",
+          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107281",
+          "source": "www.womentimes.co.kr",
+          "published": "2026-10-23T03:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "fb782df5ed6c4784190c259bbf92fc5f",
           "title": "[Digital &amp; Now] &quot;200개 대학·입시·수능 정보 한눈에&quot;…네이버, '교육' ...",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728914",
@@ -1569,7 +1640,7 @@
           "published": "2026-10-23T02:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d5973372eabf9f34028a0afff968829e",
@@ -1579,7 +1650,7 @@
           "published": "2026-10-23T02:09:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4386875bc9826c3c10bc7a4bfd713cb1",
@@ -1589,7 +1660,7 @@
           "published": "2026-10-23T02:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "457a263b8fc49a2740ef06da7ed6f6e8",
@@ -1599,7 +1670,7 @@
           "published": "2026-10-23T02:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "97e7d9b6148427c3f78001015d547e38",
@@ -1609,7 +1680,7 @@
           "published": "2026-10-23T01:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "03ce3de4c4be27d8f6feff3d44d8f388",
