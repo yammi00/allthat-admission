@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:09:06.434377+00:00",
+  "updated_at": "2026-10-23T03:05:48.477859+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-22T22:54:06.227950+00:00",
+          "published": "2026-10-23T02:50:32.310295+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -415,7 +415,7 @@
           "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
           "source": "에듀진",
-          "published": "2026-10-22T22:56:36.554479+00:00",
+          "published": "2026-10-23T02:53:02.440330+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -425,10 +425,30 @@
           "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. “화려한 언변보다 흔들리지 않는 사고 구조”",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
           "source": "베리타스알파",
-          "published": "2026-10-22T22:56:30.825275+00:00",
+          "published": "2026-10-23T02:52:56.953517+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0e0976ee9e4c4f00a226b4e649fea662",
+          "title": "경기도 학생·학부모 대입 상담, 내년부터 25개 교육지원청에서 받는다",
+          "link": "https://www.gosiweek.com/article/1065579702967545",
+          "source": "www.gosiweek.com",
+          "published": "2026-10-23T02:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ca01cb8b55cefbd665a9d87e8fa23431",
+          "title": "이투스에듀, 수시 면접 본격화…감점 유발 실수 5가지 주의 당부",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574805622115",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-10-23T01:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3bf59f93a19814e8e93680bd3144a87f",
@@ -438,7 +458,7 @@
           "published": "2026-10-22T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5b89e1b1b8b902cd80d2f4f68e3f60f",
@@ -912,7 +932,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-22T22:59:07.051971+00:00",
+          "published": "2026-10-23T02:55:37.280309+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -922,7 +942,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-22T22:59:05.804203+00:00",
+          "published": "2026-10-23T02:55:35.855180+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1542,6 +1562,56 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "fb782df5ed6c4784190c259bbf92fc5f",
+          "title": "[Digital &amp; Now] &quot;200개 대학·입시·수능 정보 한눈에&quot;…네이버, '교육' ...",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728914",
+          "source": "www.ebn.co.kr",
+          "published": "2026-10-23T02:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d5973372eabf9f34028a0afff968829e",
+          "title": "“내 점수로 갈 수 있는 대학·학과를 한 눈에”…네이버, 수능·입시 검...",
+          "link": "https://n.news.naver.com/mnews/article/021/0002827315?sid=101",
+          "source": "www.munhwa.com",
+          "published": "2026-10-23T02:09:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "4386875bc9826c3c10bc7a4bfd713cb1",
+          "title": "최교진 &quot;'수시 먹통', 유웨이 부실한 사전검증이 원인&quot;",
+          "link": "https://n.news.naver.com/mnews/article/018/0006394542?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-10-23T02:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "457a263b8fc49a2740ef06da7ed6f6e8",
+          "title": "최교진 &quot;정시 전까지 원서접수 대책 마련…공적 관리 전환 검토&quot;",
+          "link": "https://n.news.naver.com/mnews/article/003/0014273756?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-23T02:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "97e7d9b6148427c3f78001015d547e38",
+          "title": "네이버, AI로 수능 분석부터 대학 지원까지…입시 정보 검색 판 바꾼다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42407",
+          "source": "www.aitimes.kr",
+          "published": "2026-10-23T01:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "03ce3de4c4be27d8f6feff3d44d8f388",
           "title": "與고민정 &quot;'수시 먹통' 때 대교협 사무총장은 해외 출장中&quot;",
           "link": "https://n.news.naver.com/mnews/article/001/0016395289?sid=100",
@@ -1909,9 +1979,9 @@
           "is_new": false
         },
         {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "id": "3660b5396425925370e1bddec512b5bd",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
