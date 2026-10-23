@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:13:44.503271+00:00",
+  "updated_at": "2026-10-23T14:49:03.844187+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-23T08:58:46.695051+00:00",
+          "published": "2026-10-23T14:34:06.249558+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87 - 베",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaEdwZGVhY0dKYTNmdmNJbF90djNtbGdnbzVDVVZqaGZqOVFiTjZYbVJoYWx6bWp4MUlObk5JeHNSMGJ4RVNOc05WYWt3TlZ2NTI0cFZGN2VwdUQwdWZVbXhmYUlBSmpVMldoXw?oc=5",
           "source": "베리타스알파",
-          "published": "2026-10-22T08:52:00+00:00",
+          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -932,7 +932,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-23T09:03:51.453257+00:00",
+          "published": "2026-10-23T14:39:13.116248+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -942,7 +942,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-23T09:03:50.157811+00:00",
+          "published": "2026-10-23T14:39:11.436219+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -952,10 +952,10 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-23T09:03:44.250358+00:00",
+          "published": "2026-10-23T14:39:05.102062+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8f26f8d6fb7b51764c94007bc502cb9c",
@@ -1203,7 +1203,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed3f25971dd295fba75f7d319cbc12f4",
@@ -1590,7 +1590,7 @@
           "published": "2026-10-23T07:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "620c9ee4b67695e57da5acfcc115e66f",
@@ -1600,7 +1600,7 @@
           "published": "2026-10-23T06:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fd0a0ddcf657cd727f23a76c6715b466",
@@ -1610,7 +1610,7 @@
           "published": "2026-10-23T06:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "70b8e4cc950fd5c7dee1c91a4872c330",
@@ -1620,7 +1620,7 @@
           "published": "2026-10-23T06:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5e7f9c9d876e36455b963853c396d31",
@@ -1630,7 +1630,7 @@
           "published": "2026-10-23T03:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fb782df5ed6c4784190c259bbf92fc5f",
@@ -2050,9 +2050,9 @@
           "is_new": false
         },
         {
-          "id": "3660b5396425925370e1bddec512b5bd",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
+          "id": "9e5d3176628a260f2258668d1fca71b5",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
@@ -2100,11 +2100,11 @@
           "is_new": false
         },
         {
-          "id": "773094659e6c4db15678f1bac230c9a3",
-          "title": "‘내신 5등급-학점제’에 더 커진 사교육",
-          "link": "https://n.news.naver.com/mnews/article/020/0003755055?sid=102",
-          "source": "www.donga.com",
-          "published": "2026-10-14T19:32:00+00:00",
+          "id": "874df503b1b21b1c43b6e658f918d92e",
+          "title": "내신 5등급제에 부담 줄어든 특목·자사고…고교 선택 전략은 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVDlmeFdoU1NlRzdSVGxhaUFfanVzV2ZqWGpzZ21ZWlZpVzlHa2h4QU1ZRFlxUGY2SGk5aFRXSnE1WFBpUTFGR015MGNSZjhOZXBxOGtpR2QyZw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-10-14T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
