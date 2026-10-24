@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T08:47:18.356957+00:00",
+  "updated_at": "2026-10-24T14:01:10.696614+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-24T08:32:39.946281+00:00",
+          "published": "2026-10-24T13:46:14.917273+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -561,11 +561,11 @@
           "is_new": false
         },
         {
-          "id": "ed75ce38c61e8f4befcc35064a22b7e8",
-          "title": "[단독] 상위15개대 수시 전형료 중대 51억5679만원 '최다'.. 성대 경희대...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632186",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-16T08:20:00+00:00",
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -932,7 +932,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-24T08:37:40.383333+00:00",
+          "published": "2026-10-24T13:51:17.544500+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -942,7 +942,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-24T08:37:38.706069+00:00",
+          "published": "2026-10-24T13:51:16.185590+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -952,7 +952,7 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-24T08:37:34.360693+00:00",
+          "published": "2026-10-24T13:51:10.523430+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1600,7 +1600,7 @@
           "published": "2026-10-24T05:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "290d123553d597067ab76a55ebc37384",
@@ -2090,21 +2090,21 @@
           "is_new": false
         },
         {
-          "id": "7241a432da99f071339848e53a585a52",
-          "title": "입시전문가 오대교, '대구지역 고교 선택 로드맵' 설명회 진행…예비고...",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=112881",
-          "source": "edu.donga.com",
-          "published": "2026-10-16T04:54:00+00:00",
+          "id": "38ebdb00bd82f5e8484207dbb8cfc864",
+          "title": "내신 5등급제 시행되자… 특목고 자퇴생 줄었는데, 일반고는 급증 - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTJ1UEsyVjgtYWEyZG1iZjM1NVVSTEw2b3Nwd290ZVFQTlB1VFNaOGpCT1FkU0xBdnRZekVRM09VUHBjTlR2eURIM202VE8xUC00MkdlaU5hZmh1VWVCcTlhNUtkckxGb1RadDdFRmE3Wm85WHZkX0pPakljbHRnUnpIQW12YmRWTVpQVGFLQVA?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
         },
         {
-          "id": "38ebdb00bd82f5e8484207dbb8cfc864",
-          "title": "내신 5등급제 시행되자… 특목고 자퇴생 줄었는데, 일반고는 급증 - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTJ1UEsyVjgtYWEyZG1iZjM1NVVSTEw2b3Nwd290ZVFQTlB1VFNaOGpCT1FkU0xBdnRZekVRM09VUHBjTlR2eURIM202VE8xUC00MkdlaU5hZmh1VWVCcTlhNUtkckxGb1RadDdFRmE3Wm85WHZkX0pPakljbHRnUnpIQW12YmRWTVpQVGFLQVA?oc=5",
-          "source": "조선일보",
-          "published": "2026-10-15T15:45:22+00:00",
+          "id": "7241a432da99f071339848e53a585a52",
+          "title": "입시전문가 오대교, '대구지역 고교 선택 로드맵' 설명회 진행…예비고...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=112881",
+          "source": "edu.donga.com",
+          "published": "2026-10-16T04:54:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
