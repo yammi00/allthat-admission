@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:03:17.254192+00:00",
+  "updated_at": "2026-10-24T03:02:34.328986+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-23T22:48:14.319089+00:00",
+          "published": "2026-10-24T02:47:41.050751+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -932,7 +932,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-23T22:53:25.012793+00:00",
+          "published": "2026-10-24T02:52:48.374971+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -942,7 +942,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-23T22:53:23.686443+00:00",
+          "published": "2026-10-24T02:52:46.962129+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -952,7 +952,7 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-23T22:53:17.746701+00:00",
+          "published": "2026-10-24T02:52:41.680630+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1465,6 +1465,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "f6523ed994f28613bd34dec143cb5aaa",
+          "title": "약술형 논술 리드윈, '될 때까지 밀착관리' 5주 완성 파이널반 27일 개강",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=212463",
+          "source": "www.lecturernews.com",
+          "published": "2026-10-24T01:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "94d8ac28dbdf8540073f32e80d3809f4",
           "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
@@ -2051,9 +2061,9 @@
         },
         {
           "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - dt.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
-          "source": "www.dt.co.kr",
+          "source": "dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
           "grade": "all",
