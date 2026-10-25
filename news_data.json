@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T02:53:46.102414+00:00",
+  "updated_at": "2026-10-25T09:06:40.079142+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-25T02:38:54.604830+00:00",
+          "published": "2026-10-25T08:51:44.824051+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6f5a7177a28ed9ebfbf1b1b9e8145848",
+          "title": "국어·영어 난도 ‘널뛰기’에 사탐런까지…올해 수능 ‘3대 변수’",
+          "link": "https://n.news.naver.com/mnews/article/018/0006395743?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-10-25T04:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d6a48afab8458821fd4f3a62d4e91d20",
@@ -421,6 +431,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "22713589d1c96760a78b0a6508270105",
+          "title": "서울 주요 15개 대학 수시 경쟁률 하락…대입 개편 앞두고 안정 지원 늘...",
+          "link": "https://n.news.naver.com/mnews/article/020/0003757406?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-10-25T07:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "a36d65bbdfd57a86886d2e1dddcd07a7",
           "title": "의대 수시 붙었는데 1700명이 “안 가요”…추가 합격 무려 세 바퀴 돌았...",
           "link": "https://n.news.naver.com/mnews/article/009/0005753501?sid=102",
@@ -428,7 +448,7 @@
           "published": "2026-10-25T01:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b9dd6bc1e4fd735fa02f056801800787",
@@ -438,17 +458,17 @@
           "published": "2026-10-25T00:07:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "9df0573b3eace815dd99c45b0d7d80c6",
-          "title": "'중복합격'에 작년 의대 수시 1728명 등록포기…50명 정시 이월",
-          "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
-          "source": "www.newsis.com",
+          "id": "36e7692b64745c0b16c2681c535da7f7",
+          "title": "의대 붙고도 1728명 등록 포기…수시 모집인원 맞먹는 ‘연쇄 이동’",
+          "link": "https://www.etoday.co.kr/news/view/2639678",
+          "source": "www.etoday.co.kr",
           "published": "2026-10-24T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "5b640233b0da3473a6b19da55db0840b",
@@ -591,20 +611,20 @@
           "is_new": false
         },
         {
-          "id": "055251cf91d81f9d90889d3598785b86",
-          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
-          "source": "교육을 비추다",
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
+          "id": "055251cf91d81f9d90889d3598785b86",
+          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -972,7 +992,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-25T02:43:56.636712+00:00",
+          "published": "2026-10-25T08:56:47.101559+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -982,7 +1002,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-25T02:43:55.001420+00:00",
+          "published": "2026-10-25T08:56:45.861182+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -992,7 +1012,7 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-25T02:43:49.282535+00:00",
+          "published": "2026-10-25T08:56:39.669299+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1633,6 +1653,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "97035b02935d3f9fc5ba401ce41d4890",
+          "title": "“학교생활부터 입시까지”…네이버, 교육 검색 고도화",
+          "link": "https://n.news.naver.com/mnews/article/382/0001300914?sid=105",
+          "source": "sports.donga.com",
+          "published": "2026-10-25T06:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "458a688a5c277710459ceca31f9ff9e2",
           "title": "모집인원·경쟁률 정보 한 번에 본다…네이버, 대학·입시 검색 강화",
           "link": "https://www.itbiznews.com/news/articleView.html?idxno=229072",
@@ -2089,6 +2119,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "b9c35e224a239ac6f0a6c7a2adb5200a",
+          "title": "달라지는 대입, 고교 선택부터 준비한다…한국교원대부설고 입학설명회",
+          "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=360816",
+          "source": "www.ccreview.co.kr",
+          "published": "2026-10-25T05:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "617e5eaa23f1244504812795fc355e91",
           "title": "고입 컨설턴트 싸이먼 “특목고·자사고 합격, 화려한 스펙보다 중요한 것은 학생만의 이야기” - 피앤피뉴스",
