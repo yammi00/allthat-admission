@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T09:06:40.079142+00:00",
+  "updated_at": "2026-10-25T14:17:32.634804+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-25T08:51:44.824051+00:00",
+          "published": "2026-10-25T14:02:39.796959+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-25T04:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d6a48afab8458821fd4f3a62d4e91d20",
@@ -438,7 +438,7 @@
           "published": "2026-10-25T07:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a36d65bbdfd57a86886d2e1dddcd07a7",
@@ -461,10 +461,10 @@
           "is_new": false
         },
         {
-          "id": "36e7692b64745c0b16c2681c535da7f7",
-          "title": "의대 붙고도 1728명 등록 포기…수시 모집인원 맞먹는 ‘연쇄 이동’",
-          "link": "https://www.etoday.co.kr/news/view/2639678",
-          "source": "www.etoday.co.kr",
+          "id": "9df0573b3eace815dd99c45b0d7d80c6",
+          "title": "'중복합격'에 작년 의대 수시 1728명 등록포기…50명 정시 이월",
+          "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
+          "source": "www.newsis.com",
           "published": "2026-10-24T23:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -992,7 +992,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-25T08:56:47.101559+00:00",
+          "published": "2026-10-25T14:07:43.976132+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1002,7 +1002,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-25T08:56:45.861182+00:00",
+          "published": "2026-10-25T14:07:42.594082+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1012,7 +1012,17 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-25T08:56:39.669299+00:00",
+          "published": "2026-10-25T14:07:35.472262+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "78b4c6d726850dc522fa0ed8c4ce26d6",
+          "title": "[단독] [2027대입] 대기업 계약학과 2026정시 입결.. 고대 스마트모빌리티(현대차)/한대 반도체(닉스)/성대 지능형SW(삼전DX) 98",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQ0FWMzZWNENPbUpuSllQd0Y2cE5PWGlWeUl1NnhoTjBXRzFHOTdpeEp2ZFVkZWhXb1RiQ0VEUllRekZaRFJvcldDdW55SjRFakxMWkhJenJTR0hwdC0zNDRweFNJa25tcG5fXw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1660,7 +1670,7 @@
           "published": "2026-10-25T06:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "458a688a5c277710459ceca31f9ff9e2",
@@ -2120,6 +2130,16 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "bce440ca49a2c68929aa14dfa0be1f91",
+          "title": "高1 학업중단 `내신 리셋' 때문?",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=933712",
+          "source": "www.cctimes.kr",
+          "published": "2026-10-25T09:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b9c35e224a239ac6f0a6c7a2adb5200a",
           "title": "달라지는 대입, 고교 선택부터 준비한다…한국교원대부설고 입학설명회",
           "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=360816",
@@ -2127,7 +2147,7 @@
           "published": "2026-10-25T05:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "617e5eaa23f1244504812795fc355e91",
