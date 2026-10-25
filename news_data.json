@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:09:20.454248+00:00",
+  "updated_at": "2026-10-25T02:53:46.102414+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-24T23:54:32.876225+00:00",
+          "published": "2026-10-25T02:38:54.604830+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-24T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d807949654112be20234ed6eca8b84ae",
@@ -421,6 +421,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "a36d65bbdfd57a86886d2e1dddcd07a7",
+          "title": "의대 수시 붙었는데 1700명이 “안 가요”…추가 합격 무려 세 바퀴 돌았...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005753501?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-10-25T01:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b9dd6bc1e4fd735fa02f056801800787",
+          "title": "작년 의대 수시 1728명 등록 포기… 모집인원 95% 달해",
+          "link": "https://n.news.naver.com/mnews/article/014/0005593887?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-10-25T00:07:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "9df0573b3eace815dd99c45b0d7d80c6",
           "title": "'중복합격'에 작년 의대 수시 1728명 등록포기…50명 정시 이월",
           "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
@@ -428,7 +448,7 @@
           "published": "2026-10-24T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5b640233b0da3473a6b19da55db0840b",
@@ -575,7 +595,7 @@
           "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-10-16T09:37:38+00:00",
+          "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -952,7 +972,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-24T23:59:35.016494+00:00",
+          "published": "2026-10-25T02:43:56.636712+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -962,7 +982,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-24T23:59:33.439760+00:00",
+          "published": "2026-10-25T02:43:55.001420+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -972,7 +992,7 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-24T23:59:27.653299+00:00",
+          "published": "2026-10-25T02:43:49.282535+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
