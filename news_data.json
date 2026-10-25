@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:17:13.196984+00:00",
+  "updated_at": "2026-10-25T00:09:20.454248+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-24T20:02:26.021264+00:00",
+          "published": "2026-10-24T23:54:32.876225+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d6a48afab8458821fd4f3a62d4e91d20",
+          "title": "10월 학평 끝, 수능까지 한 달…&quot;등급보다 취약점 점검해야&quot;",
+          "link": "https://n.news.naver.com/mnews/article/421/0009247924?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-10-24T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "d807949654112be20234ed6eca8b84ae",
@@ -410,6 +420,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "9df0573b3eace815dd99c45b0d7d80c6",
+          "title": "'중복합격'에 작년 의대 수시 1728명 등록포기…50명 정시 이월",
+          "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-24T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "5b640233b0da3473a6b19da55db0840b",
           "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
@@ -932,7 +952,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-24T20:07:27.326159+00:00",
+          "published": "2026-10-24T23:59:35.016494+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -942,7 +962,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-24T20:07:26.081445+00:00",
+          "published": "2026-10-24T23:59:33.439760+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -952,7 +972,7 @@
           "title": "[단독][2027정시] '입결 없는 첫 선발' 신설학과 '주목'.. 연대 첨단약과학, 성대 인공지능, 단대 AI건축융합 등 7개교 9개학과",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633339",
           "source": "베리타스알파",
-          "published": "2026-10-24T20:07:20.164127+00:00",
+          "published": "2026-10-24T23:59:27.653299+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
