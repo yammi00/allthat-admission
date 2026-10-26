@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T09:47:37.482509+00:00",
+  "updated_at": "2026-10-26T16:39:01.440659+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-26T09:32:53.305044+00:00",
+          "published": "2026-10-26T16:23:58.723779+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -428,7 +428,7 @@
           "published": "2026-10-26T08:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "63d415558bfb045a282c49b8af5bae65",
@@ -438,7 +438,7 @@
           "published": "2026-10-26T02:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "eddabdc2e8685fa35f0ff3a189b353fa",
@@ -1720,12 +1720,12 @@
           "published": "2026-10-26T08:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "011db20c64aa7f4557c7e7204696dfb3",
+          "id": "1e85fa64a4639b624b55880bd40f27e9",
           "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aajJpUjk0TzdUNlFuVmJNQnVZVmdubnp1aVZXR2dCUW9QX2tiN0hGY3FINkxPV2ZaZFQ4NGRpdDhGUWFWNXVtamZVOWdqVzRhOVk3M0hYSnRKeDQ?oc=5",
           "source": "에너지경제신문",
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
@@ -2211,13 +2211,13 @@
       "items": [
         {
           "id": "0a37b057335a49bc9612ff3396ddec87",
-          "title": "영종구, 자사고·특목고·일반고 진학전략 설명회 개최 - m.thepowernews.co.kr",
+          "title": "영종구, 자사고·특목고·일반고 진학전략 설명회 개최 - 더파워",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3T2RiUWZiZlRZdW1DWUFINzl6SW1WMUNNSFczOXExMS0tNjJvcER3aEd0UFgyU25BVlNaSHFlRi1NT0pTYTNmVFZSV1ZCbXZVY2did0llQ0I2dlh5X0xGUkRjQjNtbHliSVRNdVhTUl9lV3lmZmpJWksyTno?oc=5",
-          "source": "m.thepowernews.co.kr",
+          "source": "더파워",
           "published": "2026-10-26T07:15:33+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bce440ca49a2c68929aa14dfa0be1f91",
