@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T16:39:01.440659+00:00",
+  "updated_at": "2026-10-26T22:24:07.127523+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-26T16:23:58.723779+00:00",
+          "published": "2026-10-26T22:09:10.674057+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -496,6 +496,16 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
           "source": "www.newsis.com",
           "published": "2026-10-24T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a18c397302439ced8323eaf28b462b22",
+          "title": "[단독][2027대입] '사탐런 유리할까?' 주요22개대 가운데 수시 '사탐런 불가' 서울대 등 6개교 '수능최저 과탐지정' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRGVrd3FLQ1dHXzVBTk1lYVVMT3BXMFRWamhRT2FiYV82ZkdFOWVhTXlHQWJCVW42bWtjMUpnWURWSHZiRG1udVg2bG9YN0ZEcngxVmgwaGdTNW9pbEFJTFFCS181UjFFdlRCWQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1723,9 +1733,9 @@
           "is_new": false
         },
         {
-          "id": "1e85fa64a4639b624b55880bd40f27e9",
+          "id": "011db20c64aa7f4557c7e7204696dfb3",
           "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aajJpUjk0TzdUNlFuVmJNQnVZVmdubnp1aVZXR2dCUW9QX2tiN0hGY3FINkxPV2ZaZFQ4NGRpdDhGUWFWNXVtamZVOWdqVzRhOVk3M0hYSnRKeDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
           "source": "에너지경제신문",
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
@@ -2261,9 +2271,9 @@
         },
         {
           "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - dt.co.kr",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
-          "source": "dt.co.kr",
+          "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
           "grade": "all",
@@ -2275,6 +2285,16 @@
           "link": "https://www.newstnt.com/news/articleView.html?idxno=723674",
           "source": "www.newstnt.com",
           "published": "2026-10-19T05:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "6d4138c935907811f28d181437734a4c",
+          "title": "경기도교육청, 2026학년도 고교 평준화 지역 학생 배정 방안 발표...‘선 복수지원-후 추첨’ 적용 - 중앙신문",
+          "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQX1dyU1dmZmxZZlhyeUxvZjNfZHRvZkNrbDVCSHZXb1U0UFlja01HWG5PdS1rdG1vMHlhT1Vib3Bzd0c5R2FLYUROY29icENKM0xhc2RwTW9YcE9wbW9fbkxyRjY1a002VVhBYUhrbFlKRWpMV28talpBTnd1RzJBVl9CbUI1ZjY0cG0wdDFVeFNfVWY0c2FqNWVwbjFFVkN0T1JaVmpCd09GU2NUWGtPLWlfYWRMUENfSlJXWDczTkwwQVFuVTcwZkVuRDd6Q1o1QWFNNUR3RzZKTVBZdkYyYnFVVnRKRVlmTnp6MVlsaUlHSW1WRGYyckM3bUJXbExTYlg2dDBjajRSZjREdFdFSHFKX0Q2RDdycElUU0RLaDViX1dDbzZzR1JWOHJCMDJhM3RqOXdkeGtFMHlsR2RXTmRDYThxdW1lWHlCZVNMWVd6QXFnOTNBcGtvQkc3MC1jSS04MWdNVnNmVnh1RHZabUl2WC0yalJwVHpCR3gzemMta3dEcWQ1aER2X2RTX2x6TVc3WXYycXNhTnBFUDg5YmRZeENENFF3UTc5RUFCdk5PSWt5aDdkNUx2cW4xRGVGMFUxNWI3b3BCVlFIUWJNSVBUVDFvMnN0UGNGMTR1dmVmZ3g5ZEZMNUNpdnd5dw?oc=5",
+          "source": "중앙신문",
+          "published": "2026-10-18T13:01:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
