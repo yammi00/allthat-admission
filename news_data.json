@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:51:42.458210+00:00",
+  "updated_at": "2026-10-26T09:47:37.482509+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-26T02:37:08.096318+00:00",
+          "published": "2026-10-26T09:32:53.305044+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -39,16 +39,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009247924?sid=102",
           "source": "www.news1.kr",
           "published": "2026-10-24T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d807949654112be20234ed6eca8b84ae",
-          "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87 - 베",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaEdwZGVhY0dKYTNmdmNJbF90djNtbGdnbzVDVVZqaGZqOVFiTjZYbVJoYWx6bWp4MUlObk5JeHNSMGJ4RVNOc05WYWt3TlZ2NTI0cFZGN2VwdUQwdWZVbXhmYUlBSmpVMldoXw?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -431,6 +421,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "408a7780b8cda46af899125311b3e286",
+          "title": "[단독] 상위8개대 2026논술 '경쟁률 착시'.. 실질경쟁률 하락률 중대 76....",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633473",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-26T08:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "63d415558bfb045a282c49b8af5bae65",
+          "title": "의대 수시 등록 포기 1728명…교과전형 충원율 112.9%",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=323667",
+          "source": "www.thepublic.kr",
+          "published": "2026-10-26T02:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "eddabdc2e8685fa35f0ff3a189b353fa",
           "title": "[이종환의 입시큐] 수능 서·논술형 논쟁, 초6 학부모가 알아야 할 세 가...",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/10/26/2026102680057.html",
@@ -438,7 +448,7 @@
           "published": "2026-10-26T01:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7519caa9e96f390d54e8e5b7be530d75",
@@ -448,7 +458,7 @@
           "published": "2026-10-26T00:23:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "22713589d1c96760a78b0a6508270105",
@@ -486,16 +496,6 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
           "source": "www.newsis.com",
           "published": "2026-10-24T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -636,6 +636,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632286",
           "source": "www.veritas-a.com",
           "published": "2026-10-18T05:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1053,6 +1063,16 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
           "published": "2026-10-22T02:52:06.865618+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "a3c59b268d06feb08e9b46b56b60b9a8",
+          "title": "2028 학생부교과전형, 졸업생 지원 제한 3곳→12곳…예비 고3엔 ‘기회’",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/22/2026102280037.html",
+          "source": "edu.chosun.com",
+          "published": "2026-10-22T01:06:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1563,7 +1583,7 @@
           "published": "2026-10-26T00:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f6523ed994f28613bd34dec143cb5aaa",
@@ -1693,6 +1713,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "527e25b18c5e14377796f52517b48fb0",
+          "title": "수능 대신 서류로 선발하고 등록금 전액 지원…서강대 난민전형 '형평성...",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241485",
+          "source": "www.ngonews.kr",
+          "published": "2026-10-26T08:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "011db20c64aa7f4557c7e7204696dfb3",
+          "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
+          "source": "에너지경제신문",
+          "published": "2026-10-26T05:55:16+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "97035b02935d3f9fc5ba401ce41d4890",
           "title": "“학교생활부터 입시까지”…네이버, 교육 검색 고도화",
           "link": "https://n.news.naver.com/mnews/article/382/0001300914?sid=105",
@@ -1808,6 +1848,16 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42407",
           "source": "www.aitimes.kr",
           "published": "2026-10-23T01:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "8c0cdfa24764b5eb55c04d4fb4c21fd5",
+          "title": "&quot;대본 읊고 말끝 흐리면 낭패&quot;…대입 수시 면접 점수 깎는 5가지 실수",
+          "link": "https://www.ajunews.com/view/20261023101635478",
+          "source": "www.ajunews.com",
+          "published": "2026-10-23T01:22:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2159,6 +2209,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "0a37b057335a49bc9612ff3396ddec87",
+          "title": "영종구, 자사고·특목고·일반고 진학전략 설명회 개최 - m.thepowernews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3T2RiUWZiZlRZdW1DWUFINzl6SW1WMUNNSFczOXExMS0tNjJvcER3aEd0UFgyU25BVlNaSHFlRi1NT0pTYTNmVFZSV1ZCbXZVY2did0llQ0I2dlh5X0xGUkRjQjNtbHliSVRNdVhTUl9lV3lmZmpJWksyTno?oc=5",
+          "source": "m.thepowernews.co.kr",
+          "published": "2026-10-26T07:15:33+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "bce440ca49a2c68929aa14dfa0be1f91",
           "title": "高1 학업중단 `내신 리셋' 때문?",
