@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:27:44.172154+00:00",
+  "updated_at": "2026-10-26T02:51:42.458210+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-25T22:12:46.273242+00:00",
+          "published": "2026-10-26T02:37:08.096318+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -431,6 +431,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "eddabdc2e8685fa35f0ff3a189b353fa",
+          "title": "[이종환의 입시큐] 수능 서·논술형 논쟁, 초6 학부모가 알아야 할 세 가...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/26/2026102680057.html",
+          "source": "edu.chosun.com",
+          "published": "2026-10-26T01:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7519caa9e96f390d54e8e5b7be530d75",
+          "title": "서울 상위권 대학 수시 학생부 전형 경쟁률 하락…내년 대입 개편 영향 분석 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZHhNS19NcnNoYk5zZmo0aTV5R3pEWk9XNHN1azgtaFdiNkcwWU95MUw0R3Fienl5RlVGUmVsYUV0VGxGU25tdlkyanJxMmtaWU1WNGhFVE5RZnR4UjE1a0loZFQyczN3RUxRc2RoMlhXNzBmVkpEWHBjeXhxRHFjeWM0NzZWQnBsX3M0RG5iTUs0ZC0zSGdmeE1vN0wwUi16dmtPa0JtS2FWd2U0ZDJldU1OUHBMaEdIUWFnN2QwZ3VrSnZtSEFuTUFYSk40QXdzSVRnOGZwYVM0WHBCeEZobTY1UGl6eG9wbmowcmhwWVpuV0dSaEtUaG9pZFk0eC1fczVTNjBOcGJ1MXd6?oc=5",
+          "source": "데일리안",
+          "published": "2026-10-26T00:23:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "22713589d1c96760a78b0a6508270105",
           "title": "서울 주요 15개 대학 수시 경쟁률 하락…대입 개편 앞두고 안정 지원 늘...",
           "link": "https://n.news.naver.com/mnews/article/020/0003757406?sid=102",
@@ -468,7 +488,7 @@
           "published": "2026-10-24T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c4413c4eff71fc115e72594c74bc8789",
@@ -992,7 +1012,7 @@
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
           "source": "에듀진",
-          "published": "2026-10-25T22:17:52.288434+00:00",
+          "published": "2026-10-26T02:42:03.780006+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1002,7 +1022,7 @@
           "title": "[정시분석] 건국대 정시, 다군 충원 219명…상향 지원해도 될까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54410",
           "source": "에듀진",
-          "published": "2026-10-25T22:17:51.010242+00:00",
+          "published": "2026-10-26T02:42:02.228856+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1535,6 +1555,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "573735491079f1008b483f0fd5428515",
+          "title": "2027 대입 수능 이후 논술 전략…인문·자연·의약학계열 대학별 기준 확...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113132",
+          "source": "edu.donga.com",
+          "published": "2026-10-26T00:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "f6523ed994f28613bd34dec143cb5aaa",
           "title": "약술형 논술 리드윈, '될 때까지 밀착관리' 5주 완성 파이널반 27일 개강",
