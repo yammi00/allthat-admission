@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:26:34.442411+00:00",
+  "updated_at": "2026-10-27T09:44:35.753502+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-27T03:12:00.618911+00:00",
+          "published": "2026-10-27T09:29:48.327730+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3a29c49d97184c479ac42fe7e8231363",
+          "title": "미래엔, 고등 수학 훈련서 출간",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876742",
+          "source": "www.hansbiz.co.kr",
+          "published": "2026-10-27T06:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6f5a7177a28ed9ebfbf1b1b9e8145848",
@@ -39,6 +49,16 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009247924?sid=102",
           "source": "www.news1.kr",
           "published": "2026-10-24T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "9e55657073ada1fba761f53c76a2548f",
+          "title": "[단독][2027 9월모평] \"6모보다 국수 어렵고 영어 쉬워\".. 작년 수능 대비 ‘국어 쉽고 수학 비슷’ - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZYlBzcE9yZ2JFaC1pQkpOZmpaTGFxbUJNOExBeTVaTzJpWVpwZXpRRFRjTzgtb1FPUkNIbi1GMl9IdWlRZjdjWjZ3V1RmdzVZYWhNamZycHYxN1FNR00yeHM2azh4QlBhUVBpNg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-23T08:10:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -420,6 +440,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "b09ab9051c14751f8a6bcc3fcffcd397",
+          "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
+          "source": "에듀진",
+          "published": "2026-10-27T09:32:13.562825+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e2f1950ca0ed2a50c8b0d79b23af0961",
+          "title": "[단독][2027정시] '폭풍추합' 다군 지각변동.. 시립대 '폐지' 다군 없는...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633708",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-27T07:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "408a7780b8cda46af899125311b3e286",
           "title": "[단독] 상위8개대 2026논술 '경쟁률 착시'.. 실질경쟁률 하락률 중대 76....",
@@ -1028,11 +1068,11 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "605d580e749637c64340127413883c2f",
-          "title": "[정시분석] 숭실대, 경쟁률보다 충원 흐름 주목… 가·나·다군 지원전략 달라야",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54423",
+          "id": "738552aa019f80eaf8601b3c73fc965c",
+          "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-27T03:16:54.506693+00:00",
+          "published": "2026-10-27T09:34:43.977547+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1045,7 +1085,7 @@
           "published": "2026-10-27T00:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "71dcd7b757e4e8a1b0489c62faafa8e2",
@@ -1322,7 +1362,7 @@
           "title": "[2027정시] 11개교 영어 2등급·3등급, 대학별 점수 차이 비교 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFTF9JME84QU1lanZhYTZybGNkQ3ZScDFRb0hKVU5RZ3kydkNUSUtEaFJTbTljU2d5N1A1d1F6aDhrenZVMXZYV3o0dXlRYVBPd0ViMi1QR3dCMlkxWHl5TkpQYkxXVzNy?oc=5",
           "source": "한입신문",
-          "published": "2026-10-01T07:01:13+00:00",
+          "published": "2026-10-01T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1743,6 +1783,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "3c897f0e65b6e9da67bb55cf6c9708a3",
+          "title": "YMK글로브, 수능 이후 재수 대신 'A레벨' 해외대 진학 전략 제시",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=55737",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-10-27T06:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "527e25b18c5e14377796f52517b48fb0",
           "title": "수능 대신 서류로 선발하고 등록금 전액 지원…서강대 난민전형 '형평성...",
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=241485",
@@ -1760,7 +1810,7 @@
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "97035b02935d3f9fc5ba401ce41d4890",
@@ -2290,9 +2340,9 @@
           "is_new": false
         },
         {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "id": "3660b5396425925370e1bddec512b5bd",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
