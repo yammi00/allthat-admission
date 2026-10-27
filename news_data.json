@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:53:53.560736+00:00",
+  "updated_at": "2026-10-27T20:36:11.673731+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-27T15:38:56.277003+00:00",
+          "published": "2026-10-27T20:21:05.597986+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-10-27T12:27:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3a29c49d97184c479ac42fe7e8231363",
@@ -455,7 +455,7 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-27T15:41:24.040314+00:00",
+          "published": "2026-10-27T20:23:32.090904+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1082,7 +1082,7 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-27T15:43:58.902419+00:00",
+          "published": "2026-10-27T20:26:05.693220+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
