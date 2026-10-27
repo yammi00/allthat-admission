@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:24:07.127523+00:00",
+  "updated_at": "2026-10-27T03:26:34.442411+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-26T22:09:10.674057+00:00",
+          "published": "2026-10-27T03:12:00.618911+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1028,6 +1028,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "605d580e749637c64340127413883c2f",
+          "title": "[정시분석] 숭실대, 경쟁률보다 충원 흐름 주목… 가·나·다군 지원전략 달라야",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54423",
+          "source": "에듀진",
+          "published": "2026-10-27T03:16:54.506693+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "810903f2fe225814ac411dd438409825",
+          "title": "2028 개정 수능 첫해, 자퇴·검정고시·군 전역자 등 조기 재수생의 대입...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113180",
+          "source": "edu.donga.com",
+          "published": "2026-10-27T00:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "71dcd7b757e4e8a1b0489c62faafa8e2",
           "title": "서울시립대 정시, 합격선은 어떻게 만들어질까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54409",
@@ -1733,9 +1753,9 @@
           "is_new": false
         },
         {
-          "id": "011db20c64aa7f4557c7e7204696dfb3",
+          "id": "1e85fa64a4639b624b55880bd40f27e9",
           "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aajJpUjk0TzdUNlFuVmJNQnVZVmdubnp1aVZXR2dCUW9QX2tiN0hGY3FINkxPV2ZaZFQ4NGRpdDhGUWFWNXVtamZVOWdqVzRhOVk3M0hYSnRKeDQ?oc=5",
           "source": "에너지경제신문",
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
