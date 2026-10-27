@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T09:44:35.753502+00:00",
+  "updated_at": "2026-10-27T15:53:53.560736+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-27T09:29:48.327730+00:00",
+          "published": "2026-10-27T15:38:56.277003+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0bd24134d3c20187c4c0cdc6697f82f6",
+          "title": "미래엔, 기출 중심 고등학교 수학 내신 대비 '실전FIT' 출시",
+          "link": "https://n.news.naver.com/mnews/article/030/0003479314?sid=105",
+          "source": "www.etnews.com",
+          "published": "2026-10-27T12:27:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3a29c49d97184c479ac42fe7e8231363",
@@ -31,7 +41,7 @@
           "published": "2026-10-27T06:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6f5a7177a28ed9ebfbf1b1b9e8145848",
@@ -445,10 +455,10 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-27T09:32:13.562825+00:00",
+          "published": "2026-10-27T15:41:24.040314+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e2f1950ca0ed2a50c8b0d79b23af0961",
@@ -458,7 +468,7 @@
           "published": "2026-10-27T07:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "408a7780b8cda46af899125311b3e286",
@@ -1072,10 +1082,10 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-27T09:34:43.977547+00:00",
+          "published": "2026-10-27T15:43:58.902419+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "810903f2fe225814ac411dd438409825",
@@ -1790,7 +1800,7 @@
           "published": "2026-10-27T06:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "527e25b18c5e14377796f52517b48fb0",
@@ -2340,9 +2350,9 @@
           "is_new": false
         },
         {
-          "id": "3660b5396425925370e1bddec512b5bd",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
+          "id": "9e5d3176628a260f2258668d1fca71b5",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
