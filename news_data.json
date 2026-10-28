@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:02:24.257314+00:00",
+  "updated_at": "2026-10-28T14:59:44.333730+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-28T07:47:45.691377+00:00",
+          "published": "2026-10-28T14:44:52.222442+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,10 +455,20 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-28T07:50:10.180251+00:00",
+          "published": "2026-10-28T14:47:18.109624+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f01184d62e75f3fb50e2922ab99b94e4",
+          "title": "[단독] 2028 주요22개대 '재학생 전용' 20개 전형 8024명 ..'재학생/N수생...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633924",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-28T08:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "9b2331305bc697c3be195be34db7969e",
@@ -1102,7 +1112,7 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-28T07:52:43.785765+00:00",
+          "published": "2026-10-28T14:49:52.227457+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1112,10 +1122,10 @@
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-28T07:52:36.946277+00:00",
+          "published": "2026-10-28T14:49:45.128820+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ad81c47117b02d54ee1d6e02813a657e",
@@ -1125,7 +1135,7 @@
           "published": "2026-10-28T04:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "810903f2fe225814ac411dd438409825",
@@ -1282,7 +1292,7 @@
           "title": "[2027정시] AI중심대학 18개교 ‘지역까지 넓혀 보는 AI 진학’.. 모집단위·수능 반영식부터 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hNXQwdlJ4bE1aOUdxOTVETEVVZm5sUFd3X3oxdGNiZ1NjeEdtb2tzMGZ3RkE2V2stOVFqR2hOeVdwT0VpdDNxbFRKRzlnWnRYalk1dk42ZnRic01lSUYyQXZZdWNIbnM1?oc=5",
           "source": "한입신문",
-          "published": "2026-10-16T04:34:36+00:00",
+          "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1811,6 +1821,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "aec5e8e10053bac7c0876d753a316a31",
+          "title": "[2027 정시] 정시 최종 경쟁률, 다음 날 오전 9시 공개 추진…고3이 챙길 변화 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4YnBZamZGVE83WjRvWGE5d2FVQTRBUC1jcmtXUnNwMzBFTDBKaUpzTUZ6S1UxVGhxcnVvODFvRzJfaFlOd2dwd0F3U19FVURTLTYzZUdGRE01dHhwU2YyeC0xYmF6UQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-10-28T08:01:05+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6badb6e3dc638ec4dc3b7b3470e4efc4",
           "title": "양천구, 2027 대입 정시 대비 ‘족집게 상담’ 나선다… 1:1 집중상담 확대 - 아시아뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42Vk03T3JLYWJyWWh4YS15dm5PbmdMNnA3U2dMWHlzeUdWbnhfTjJyTHdOX2ptbVRWdjdRalI4T3JQRDJMbmJaNTQxcU9qMTRaZTkxSmdlMHhhbUp2VllMOTB0Sk5qNC1PYmZ5eWFPYS1jQ2lp?oc=5",
@@ -1818,7 +1838,7 @@
           "published": "2026-10-28T00:32:06+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2b3f9cb15d4f1712d81ba341c6f09977",
@@ -1841,9 +1861,9 @@
           "is_new": false
         },
         {
-          "id": "011db20c64aa7f4557c7e7204696dfb3",
+          "id": "1e85fa64a4639b624b55880bd40f27e9",
           "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aajJpUjk0TzdUNlFuVmJNQnVZVmdubnp1aVZXR2dCUW9QX2tiN0hGY3FINkxPV2ZaZFQ4NGRpdDhGUWFWNXVtamZVOWdqVzRhOVk3M0hYSnRKeDQ?oc=5",
           "source": "에너지경제신문",
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
