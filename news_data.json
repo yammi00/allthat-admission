@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T01:06:13.210019+00:00",
+  "updated_at": "2026-10-28T08:02:24.257314+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-28T00:51:18.525405+00:00",
+          "published": "2026-10-28T07:47:45.691377+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,7 +455,7 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-28T00:53:53.498489+00:00",
+          "published": "2026-10-28T07:50:10.180251+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -468,7 +468,7 @@
           "published": "2026-10-28T00:23:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "01c19bda14f05bda82877485d8235895",
@@ -478,7 +478,7 @@
           "published": "2026-10-27T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e2f1950ca0ed2a50c8b0d79b23af0961",
@@ -1102,10 +1102,30 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-28T00:56:26.528724+00:00",
+          "published": "2026-10-28T07:52:43.785765+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a72d51c9329190fd45dd4d9ee853be15",
+          "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
+          "source": "에듀진",
+          "published": "2026-10-28T07:52:36.946277+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ad81c47117b02d54ee1d6e02813a657e",
+          "title": "최주영 강사 &quot;고려대 정시 내신 20%의 함정, 3등급 이내면 사실상 수능&quot;...",
+          "link": "https://www.nongup.net/news/articleView.html?idxno=33925",
+          "source": "www.nongup.net",
+          "published": "2026-10-28T04:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "810903f2fe225814ac411dd438409825",
@@ -1168,11 +1188,11 @@
           "is_new": false
         },
         {
-          "id": "a3c59b268d06feb08e9b46b56b60b9a8",
-          "title": "2028 학생부교과전형, 졸업생 지원 제한 3곳→12곳…예비 고3엔 ‘기회’",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/22/2026102280037.html",
-          "source": "edu.chosun.com",
-          "published": "2026-10-22T01:06:00+00:00",
+          "id": "93b6ca29d5d67114bd981b6ba2d046db",
+          "title": "2028 학생부교과전형, 졸업생 지원 제한 주요대 4배 늘어",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113045",
+          "source": "edu.donga.com",
+          "published": "2026-10-22T01:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1791,6 +1811,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "6badb6e3dc638ec4dc3b7b3470e4efc4",
+          "title": "양천구, 2027 대입 정시 대비 ‘족집게 상담’ 나선다… 1:1 집중상담 확대 - 아시아뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42Vk03T3JLYWJyWWh4YS15dm5PbmdMNnA3U2dMWHlzeUdWbnhfTjJyTHdOX2ptbVRWdjdRalI4T3JQRDJMbmJaNTQxcU9qMTRaZTkxSmdlMHhhbUp2VllMOTB0Sk5qNC1PYmZ5eWFPYS1jQ2lp?oc=5",
+          "source": "아시아뉴스통신",
+          "published": "2026-10-28T00:32:06+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "2b3f9cb15d4f1712d81ba341c6f09977",
           "title": "양천구, ‘2027 대입 정시 대비 집중상담’ 운영…“맞춤형 지원 전략 제시” - 문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMnZFN3ppcUtFOUhneVo1SzdnTkg5Yk05QnZFVWpOR0NfM2VIQlZJamhndXhHcnJCcmx3VWZtaEhac2lBR3VJRHhhMXFBekdu?oc=5",
@@ -1798,7 +1828,7 @@
           "published": "2026-10-27T21:37:16+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "527e25b18c5e14377796f52517b48fb0",
