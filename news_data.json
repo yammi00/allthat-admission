@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:36:11.673731+00:00",
+  "updated_at": "2026-10-28T01:06:13.210019+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-27T20:21:05.597986+00:00",
+          "published": "2026-10-28T00:51:18.525405+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,10 +455,30 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-27T20:23:32.090904+00:00",
+          "published": "2026-10-28T00:53:53.498489+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "9b2331305bc697c3be195be34db7969e",
+          "title": "'등록금 0원' 효과?…지거국 수시지원자 26%는 '내신 1·2등급'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014283302?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-28T00:23:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "01c19bda14f05bda82877485d8235895",
+          "title": "“남은 기간 탐구 집중, EBS 틀린 문제 점검하세요”",
+          "link": "https://woman.donga.com/3/all/12/6433579/1",
+          "source": "woman.donga.com",
+          "published": "2026-10-27T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e2f1950ca0ed2a50c8b0d79b23af0961",
@@ -1082,7 +1102,7 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-27T20:26:05.693220+00:00",
+          "published": "2026-10-28T00:56:26.528724+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1793,6 +1813,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "839323bb1138af7433da9056c40e22c1",
+          "title": "양천구, 2027 대입 정시 대비 ‘족집게 상담’ 나선다… 1:1 집중상담 확대 - 아시아뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UU0paNkV5NE5LN2xkVHRkaTYyUnEyOGNRa1Z6V0ZvU3luMkU4Si1iYzZDZnZEemVrRVdPU05DYnNkdFByY1NicGVDMmI0TVd0LWtFMTB0N3NwbHJ0?oc=5",
+          "source": "아시아뉴스통신",
+          "published": "2026-10-28T00:32:06+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2b3f9cb15d4f1712d81ba341c6f09977",
+          "title": "양천구, ‘2027 대입 정시 대비 집중상담’ 운영…“맞춤형 지원 전략 제시” - 문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMnZFN3ppcUtFOUhneVo1SzdnTkg5Yk05QnZFVWpOR0NfM2VIQlZJamhndXhHcnJCcmx3VWZtaEhac2lBR3VJRHhhMXFBekdu?oc=5",
+          "source": "문화일보",
+          "published": "2026-10-27T21:37:16+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3c897f0e65b6e9da67bb55cf6c9708a3",
           "title": "YMK글로브, 수능 이후 재수 대신 'A레벨' 해외대 진학 전략 제시",
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=55737",
@@ -1813,9 +1853,9 @@
           "is_new": false
         },
         {
-          "id": "1e85fa64a4639b624b55880bd40f27e9",
+          "id": "011db20c64aa7f4557c7e7204696dfb3",
           "title": "광운대 정보과학교육원, 2027학년도 신입생 모집…내신·수능 없이 면접 선발 - 에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aajJpUjk0TzdUNlFuVmJNQnVZVmdubnp1aVZXR2dCUW9QX2tiN0hGY3FINkxPV2ZaZFQ4NGRpdDhGUWFWNXVtamZVOWdqVzRhOVk3M0hYSnRKeDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycHk1aXNOenI3OUIteGNpOGd5R19YOWx2dUF1aThXd3RfaVJranlzcFh6M3hQcV9ENzlNNDNodXJoLWJBdU1lR1NFSEROcU9VQVduOWNrZHdUeWxaV3d2dXl3?oc=5",
           "source": "에너지경제신문",
           "published": "2026-10-26T05:55:16+00:00",
           "type": "news",
