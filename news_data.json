@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T01:42:56.534361+00:00",
+  "updated_at": "2026-10-29T08:08:36.021722+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-29T01:27:52.570019+00:00",
+          "published": "2026-10-29T07:53:45.718304+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -451,6 +451,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "9b3943062b690ed6796754b46cfd19ab",
+          "title": "[단독] 숭실대 2027정시 합격예측 프로그램 공개 '주요22개대 최초'.. 3개...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634155",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-29T07:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b09ab9051c14751f8a6bcc3fcffcd397",
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
@@ -468,7 +478,7 @@
           "published": "2026-10-29T00:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b75771e93e491ecbfcf0e458eff67881",
@@ -478,7 +488,7 @@
           "published": "2026-10-28T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f01184d62e75f3fb50e2922ab99b94e4",
@@ -1128,21 +1138,31 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "738552aa019f80eaf8601b3c73fc965c",
-          "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
+          "id": "a72d51c9329190fd45dd4d9ee853be15",
+          "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-29T01:32:53.774856+00:00",
+          "published": "2026-10-29T07:58:42.867492+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "a72d51c9329190fd45dd4d9ee853be15",
-          "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
+          "id": "6c6d8b31f01ab5ea658fc72622a19c30",
+          "title": "[2027 정시] 수학 40% 경영학과부터 수학 미반영까지…2027 정시 계산법 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Z081ak5iMEN2cGxjVHhISVF6Nlhxa294ajdNWUVFMUx3TjF6MUxtbjVYRFRidVZWQnpNem9RSEh0cDJvM2kwZFZ5OFJCZ0J1NXY5WlFXSFlRRnJQMllYaGZWQVZIZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-10-29T07:43:24+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "738552aa019f80eaf8601b3c73fc965c",
+          "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-29T01:32:45.034509+00:00",
+          "published": "2026-10-29T01:32:53.774856+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
