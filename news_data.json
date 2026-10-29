@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:08:36.021722+00:00",
+  "updated_at": "2026-10-29T15:06:30.291196+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-29T07:53:45.718304+00:00",
+          "published": "2026-10-29T14:51:47.548140+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -458,7 +458,7 @@
           "published": "2026-10-29T07:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b09ab9051c14751f8a6bcc3fcffcd397",
@@ -1142,7 +1142,7 @@
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-29T07:58:42.867492+00:00",
+          "published": "2026-10-29T14:56:42.457400+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1155,7 +1155,7 @@
           "published": "2026-10-29T07:43:24+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "738552aa019f80eaf8601b3c73fc965c",
@@ -1861,6 +1861,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "56c0416b61407bb4a438937efe06ed22",
+          "title": "2027학년도 수능 D-30, 반드시 점검해야 할 5가지 주의사항",
+          "link": "https://n.news.naver.com/mnews/article/008/0005433930?sid=101",
+          "source": "www.mt.co.kr",
+          "published": "2026-10-29T08:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "aec5e8e10053bac7c0876d753a316a31",
           "title": "[2027 정시] 정시 최종 경쟁률, 다음 날 오전 9시 공개 추진…고3이 챙길 변화 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4YnBZamZGVE83WjRvWGE5d2FVQTRBUC1jcmtXUnNwMzBFTDBKaUpzTUZ6S1UxVGhxcnVvODFvRzJfaFlOd2dwd0F3U19FVURTLTYzZUdGRE01dHhwU2YyeC0xYmF6UQ?oc=5",
@@ -1896,6 +1906,16 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=241485",
           "source": "www.ngonews.kr",
           "published": "2026-10-26T08:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "2bc96a237e3216a325576a09c07690ed",
+          "title": "양천구, 2027 대입 정시 대비 맞춤형 집중상담 운영…\"야간 상담에 2주 릴레이까지\" - 열린뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1makRmVHFtWEI3aEpFR1ZDMzZDNGJDaFU2TUF3Q3N3SFJRNzlSNTdTWjRVQjRGU2NiNS0tZDdxUzU3MUsxSnJod2VRRGNNTTlNNEtjSFRsRG9rMUZxd2JsZ09jMFA5UQ?oc=5",
+          "source": "열린뉴스통신",
+          "published": "2026-10-26T07:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
