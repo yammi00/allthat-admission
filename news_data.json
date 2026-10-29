@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T20:57:18.045331+00:00",
+  "updated_at": "2026-10-29T01:42:56.534361+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-28T20:42:36.336182+00:00",
+          "published": "2026-10-29T01:27:52.570019+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -455,10 +455,30 @@
           "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
           "source": "에듀진",
-          "published": "2026-10-28T20:45:00.831846+00:00",
+          "published": "2026-10-29T01:30:18.259203+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "151bc279d32aaf0a6c5e5dc59042c042",
+          "title": "[지상범 입시 토크] 2028 대입 승패를 가르는 변수: '교과세특' 스토리텔...",
+          "link": "http://www.metroseoul.co.kr/article/20261029500105",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-10-29T00:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b75771e93e491ecbfcf0e458eff67881",
+          "title": "입시 파고든 'AI 안경'…시험 앞둔 대학들 단속·지침 마련 분주",
+          "link": "https://n.news.naver.com/mnews/article/003/0014285926?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-10-28T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f01184d62e75f3fb50e2922ab99b94e4",
@@ -1112,7 +1132,7 @@
           "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
-          "published": "2026-10-28T20:47:33.640343+00:00",
+          "published": "2026-10-29T01:32:53.774856+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1122,7 +1142,7 @@
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-28T20:47:26.713952+00:00",
+          "published": "2026-10-29T01:32:45.034509+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
