@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:06:30.291196+00:00",
+  "updated_at": "2026-10-29T21:01:12.920796+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-29T14:51:47.548140+00:00",
+          "published": "2026-10-29T20:46:16.458849+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -761,20 +761,20 @@
           "is_new": false
         },
         {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
+          "id": "055251cf91d81f9d90889d3598785b86",
+          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "055251cf91d81f9d90889d3598785b86",
-          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
-          "source": "교육을 비추다",
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1142,7 +1142,7 @@
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-29T14:56:42.457400+00:00",
+          "published": "2026-10-29T20:51:15.979554+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1868,7 +1868,7 @@
           "published": "2026-10-29T08:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aec5e8e10053bac7c0876d753a316a31",
@@ -2076,6 +2076,16 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009244075?sid=102",
           "source": "www.news1.kr",
           "published": "2026-10-22T04:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "93f87504506b66f1ff94813ea356344b",
+          "title": "내신·수능 성적 낮아도 ‘인서울’ 가능할까…주목받는 또 다른 입시 전략 - 더퍼블릭",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MEFhYUZZNEkxR2NPMV93Y29DNGNCTkRGMHVIU1BsX2R5VGZrUnEyWFZ5QTNLeWpFZzFOY0V2WkN0WkpRMGhDUkFiUDc0VFZhZ2wtaTU2S05SU2ZBZVlxdzJCR1ZOeDJkeENn0gFvQVVfeXFMTXRlanE3bE1fOWZxRWNCVzFNcU10UGd1RGlwbGxkOUhjQTNGaElsSXh1YjI3NzhMTWR6RjItUkl1YUlJVXJyZWdNVEQ4cFhLTU03R0dVenduNTNUVDU2UExSaWxXZXdjNDVwQ0RPd2dV?oc=5",
+          "source": "더퍼블릭",
+          "published": "2026-10-22T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2458,9 +2468,9 @@
           "is_new": false
         },
         {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "id": "3660b5396425925370e1bddec512b5bd",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
