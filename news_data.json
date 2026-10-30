@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T21:01:12.920796+00:00",
+  "updated_at": "2026-10-30T01:43:55.422372+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-29T20:46:16.458849+00:00",
+          "published": "2026-10-30T01:29:13.616316+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -761,20 +761,20 @@
           "is_new": false
         },
         {
-          "id": "055251cf91d81f9d90889d3598785b86",
-          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
-          "source": "교육을 비추다",
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
+          "id": "055251cf91d81f9d90889d3598785b86",
+          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1142,7 +1142,7 @@
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
-          "published": "2026-10-29T20:51:15.979554+00:00",
+          "published": "2026-10-30T01:34:11.501479+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1475,6 +1475,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "6d86fff043fa2205246f066a742e0a30",
+          "title": "권오을 장관， 교육부 및 소방청과 보훈역사 현장체험교육 확대 논의",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787225",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-10-30T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "07abd6b085daf767f27b0dffb099e114",
           "title": "2027학년도 대학수학능력시험 답안지 견본",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5096842&lev=0&m=0301&s=suneung",
@@ -1723,6 +1734,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "b4c89aa6f35c42a868cf6e343d744fbb",
+          "title": "진학사, 2027 수시 대비 '온라인 모의논술' 서비스 오픈",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113336",
+          "source": "edu.donga.com",
+          "published": "2026-10-30T01:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "573735491079f1008b483f0fd5428515",
           "title": "2027 대입 수능 이후 논술 전략…인문·자연·의약학계열 대학별 기준 확...",
@@ -2468,9 +2489,9 @@
           "is_new": false
         },
         {
-          "id": "3660b5396425925370e1bddec512b5bd",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
+          "id": "9e5d3176628a260f2258668d1fca71b5",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
