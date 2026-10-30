@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:11:23.358456+00:00",
+  "updated_at": "2026-10-30T15:02:11.742475+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-30T07:56:33.716512+00:00",
+          "published": "2026-10-30T14:47:27.940472+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -458,7 +458,7 @@
           "published": "2026-10-30T07:58:59.777032+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c736b273331cd0d3a354d59ecb2a15ec",
@@ -468,7 +468,7 @@
           "published": "2026-10-30T07:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9b3943062b690ed6796754b46cfd19ab",
@@ -1162,10 +1162,10 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-10-30T08:01:33.265705+00:00",
+          "published": "2026-10-30T14:52:25.961024+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a72d51c9329190fd45dd4d9ee853be15",
@@ -1772,7 +1772,7 @@
           "published": "2026-10-30T07:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b4c89aa6f35c42a868cf6e343d744fbb",
@@ -1957,6 +1957,16 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMnZFN3ppcUtFOUhneVo1SzdnTkg5Yk05QnZFVWpOR0NfM2VIQlZJamhndXhHcnJCcmx3VWZtaEhac2lBR3VJRHhhMXFBekdu?oc=5",
           "source": "문화일보",
           "published": "2026-10-27T21:37:16+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "381eb9697fbe6c7785ddf2a61c49b3c4",
+          "title": "2027 수능 11월 19일, 오전 8시 10분 넘으면 어떻게 될까? 준비물·반입금지·수험표 분실·시험시간표 총정리 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX01hNlF0Q0VTY0E0R0pBbm93S3Z6WkpDYmJYM0hnekxtWTRpVjNReFliMUV6Y0JyZVZkWlpHMnFEamVqWkhhV3NXY1VMRTdUQjgyOHRxRHk1dTU4WE5IbkVOTTBfNldFMzJaNVFMYWdwaTRBM1VjLWN1bmhPdEd6RndhRGpyVDNrTzNv?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "published": "2026-10-26T21:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -2483,10 +2493,10 @@
           "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
           "source": "에듀진",
-          "published": "2026-10-30T08:09:04.174657+00:00",
+          "published": "2026-10-30T14:59:52.852978+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "873d6635ac3176a39df1280fbabe4341",
@@ -2496,7 +2506,7 @@
           "published": "2026-10-30T02:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0a37b057335a49bc9612ff3396ddec87",
