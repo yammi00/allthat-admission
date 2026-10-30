@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:43:55.422372+00:00",
+  "updated_at": "2026-10-30T08:11:23.358456+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-30T01:29:13.616316+00:00",
+          "published": "2026-10-30T07:56:33.716512+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -450,6 +450,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "622dfbd669039b655fa19acf8851a5fa",
+          "title": "[2027수시면접] 성균관대 면접 3년 기출분석.. 지난해 사범대 '스마트폰', 자유전공 '유전자 조작' 찬반",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634269",
+          "source": "베리타스알파",
+          "published": "2026-10-30T07:58:59.777032+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c736b273331cd0d3a354d59ecb2a15ec",
+          "title": "[단독] '속도전/N수 유리' 수능 전면개편해야.. '2028개편도 객관식 유지...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634401",
+          "source": "www.veritas-a.com",
+          "published": "2026-10-30T07:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "9b3943062b690ed6796754b46cfd19ab",
           "title": "[단독] 숭실대 2027정시 합격예측 프로그램 공개 '주요22개대 최초'.. 3개...",
@@ -1138,6 +1158,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "208183d6bae801942e3ba459be066760",
+          "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
+          "source": "에듀진",
+          "published": "2026-10-30T08:01:33.265705+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "a72d51c9329190fd45dd4d9ee853be15",
           "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
@@ -1483,7 +1513,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
@@ -1735,6 +1765,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "b59dc17fe5b3c669a60aa87aa9204e3a",
+          "title": "수능 이후 대입 전략, 대학별 논술고사 대비 중요…",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113376",
+          "source": "edu.donga.com",
+          "published": "2026-10-30T07:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b4c89aa6f35c42a868cf6e343d744fbb",
           "title": "진학사, 2027 수시 대비 '온라인 모의논술' 서비스 오픈",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113336",
@@ -1742,7 +1782,7 @@
           "published": "2026-10-30T01:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "573735491079f1008b483f0fd5428515",
@@ -1883,7 +1923,7 @@
       "items": [
         {
           "id": "56c0416b61407bb4a438937efe06ed22",
-          "title": "2027학년도 수능 D-30, 반드시 점검해야 할 5가지 주의사항",
+          "title": "2027학년도 수능 앞두고 반드시 점검해야 할 5가지 주의사항",
           "link": "https://n.news.naver.com/mnews/article/008/0005433930?sid=101",
           "source": "www.mt.co.kr",
           "published": "2026-10-29T08:52:00+00:00",
@@ -2438,6 +2478,26 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "f8e339c99e4e39a79d67626cdf058223",
+          "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
+          "source": "에듀진",
+          "published": "2026-10-30T08:09:04.174657+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "873d6635ac3176a39df1280fbabe4341",
+          "title": "중등인강 밀크티, 2027학년도 외고·국제고·자사고 입시 대비 맞춤형 콘...",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396581",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-10-30T02:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "0a37b057335a49bc9612ff3396ddec87",
           "title": "영종구, 자사고·특목고·일반고 진학전략 설명회 개최 - 더파워",
