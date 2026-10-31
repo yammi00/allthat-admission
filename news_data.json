@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:33:53.982687+00:00",
+  "updated_at": "2026-10-31T08:05:26.696845+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-31T01:18:53.800236+00:00",
+          "published": "2026-10-31T07:50:39.198434+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -458,7 +458,7 @@
           "published": "2026-10-30T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "622dfbd669039b655fa19acf8851a5fa",
@@ -791,20 +791,20 @@
           "is_new": false
         },
         {
-          "id": "055251cf91d81f9d90889d3598785b86",
-          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
-          "source": "교육을 비추다",
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
+          "id": "055251cf91d81f9d90889d3598785b86",
+          "title": "한국사 4등급이면 충분? 2027 수시는 합격 조건, 정시는 대학별 감점 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VekVCbHNUbFd1ZEVTY1NGUWtXUmpBdkRjMFpFVWlVWnA4NGRmcHMza01SQmM2WDM0OGUtV3dPbzVwMFUwRElja1N5QVNYeUZDckxWcndDT3V0R1dtU1hQbkdwcFNwUQ?oc=5",
+          "source": "교육을 비추다",
           "published": "2026-10-16T07:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1172,7 +1172,7 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-10-31T01:23:51.575986+00:00",
+          "published": "2026-10-31T07:55:35.842434+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1932,6 +1932,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "fcad934bb05909c2a555717b7ac9f32c",
+          "title": "[2027 대입] \"가채점 뒤 주말 논술 갈까 말까\"…수시 붙으면 등록 포기해도 정시 못 쓴다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2UU1TS09LZFhrcUhQTmk4QnNub3dvaUhIZ25JV1lOb1VnRVVIZXRIVWJoZkxocDVNRnlBelBrNnBUVjNnNEE5NFFSX09uUWd6d0Nua1hTU0VJMlFTc0FVTmR6WkZIUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-10-31T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "56c0416b61407bb4a438937efe06ed22",
           "title": "2027학년도 수능 앞두고 반드시 점검해야 할 5가지 주의사항",
           "link": "https://n.news.naver.com/mnews/article/008/0005433930?sid=101",
@@ -2503,7 +2513,7 @@
           "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
           "source": "에듀진",
-          "published": "2026-10-31T01:31:31.150658+00:00",
+          "published": "2026-10-31T08:03:06.840139+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
