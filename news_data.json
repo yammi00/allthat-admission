@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:32:09.368462+00:00",
+  "updated_at": "2026-10-31T01:33:53.982687+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-10-30T20:17:37.457438+00:00",
+          "published": "2026-10-31T01:18:53.800236+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -450,6 +450,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "40b6cb9f36a9c071ef187fbe878122d2",
+          "title": "[AI입시 A to Z] 삼전닉스 초호황…삼성·SK 계약학과 정시 전략",
+          "link": "https://www.newspim.com/news/view/20261030000379",
+          "source": "www.newspim.com",
+          "published": "2026-10-30T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "622dfbd669039b655fa19acf8851a5fa",
           "title": "[2027수시면접] 성균관대 면접 3년 기출분석.. 지난해 사범대 '스마트폰', 자유전공 '유전자 조작' 찬반",
@@ -1162,7 +1172,7 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-10-30T20:22:27.237016+00:00",
+          "published": "2026-10-31T01:23:51.575986+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2493,7 +2503,7 @@
           "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
           "source": "에듀진",
-          "published": "2026-10-30T20:29:48.821143+00:00",
+          "published": "2026-10-31T01:31:31.150658+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
