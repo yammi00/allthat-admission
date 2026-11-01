@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T03:56:06.073952+00:00",
+  "updated_at": "2026-11-01T11:06:44.620453+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-01T03:41:19.390420+00:00",
+          "published": "2026-11-01T10:56:35.549451+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bd1c9310bd3cdd22a768e2e95781ca60",
+          "title": "“내신 5등급제 바꿔도 수학·과학 벽 높아”… 고1 1학기 수학 점수 3년...",
+          "link": "https://www.kbmaeil.com/article/20261101500525",
+          "source": "www.kbmaeil.com",
+          "published": "2026-11-01T07:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e305f1547b49a64954afa8b87dadef75",
@@ -32,7 +42,7 @@
           "published": "2026-11-01T03:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9e55657073ada1fba761f53c76a2548f",
@@ -270,16 +280,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
           "source": "www.news1.kr",
           "published": "2026-10-18T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "2047fff8eaf43ca4a340b630a7773915",
-          "title": "수능 한달 앞 &quot;마지막 한달이 성적을 바꾼다&quot;",
-          "link": "https://www.inews365.com/news/article.html?no=939636",
-          "source": "www.inews365.com",
-          "published": "2026-10-18T04:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -620,16 +620,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a37b89120333e8d5f8cbb66eb3d69410",
-          "title": "대입캘린더 (26/10/23~)",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632286",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-18T05:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -643,7 +633,7 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-11-01T03:46:15.176176+00:00",
+          "published": "2026-11-01T10:59:15.158533+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -656,7 +646,17 @@
           "published": "2026-11-01T01:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "c4413c4eff71fc115e72594c74bc8789",
+          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-30T08:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "a72d51c9329190fd45dd4d9ee853be15",
@@ -1170,7 +1170,7 @@
           "published": "2026-11-01T01:05:02+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c712eb5535ccbcdd9fd692d852d174a",
@@ -1504,7 +1504,7 @@
           "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
           "source": "에듀진",
-          "published": "2026-11-01T03:53:46.712195+00:00",
+          "published": "2026-11-01T11:04:25.248613+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1570,9 +1570,9 @@
           "is_new": false
         },
         {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "id": "3660b5396425925370e1bddec512b5bd",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
