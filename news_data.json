@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T17:43:09.142787+00:00",
+  "updated_at": "2026-11-01T21:52:39.702487+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-01T17:28:39.433679+00:00",
+          "published": "2026-11-01T21:34:16.065016+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -260,26 +260,6 @@
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113226",
           "source": "news.bbsi.co.kr",
           "published": "2026-10-19T08:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "749b7749d024802bb6b3de8a28806168",
-          "title": "한 달 뒤 수능…'널뛰기' 영어·사탐런·확통런 등 변수 산적",
-          "link": "https://n.news.naver.com/mnews/article/003/0014261379?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-18T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "4fe156e2f863f7b3ad9f2ad3100686d6",
-          "title": "수능 D-30, 9월 모평 다시 풀고 '실전 감각' 끌어올려야",
-          "link": "https://n.news.naver.com/mnews/article/421/0009234905?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-10-18T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -643,7 +623,7 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-11-01T17:33:28.746615+00:00",
+          "published": "2026-11-01T21:40:23.620517+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1494,7 +1474,7 @@
           "title": "내신 5등급제 첫 세대, 같은 2등급인데 대학의 평가는 왜 달라질까",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54500",
           "source": "에듀진",
-          "published": "2026-11-01T17:40:51.568213+00:00",
+          "published": "2026-11-01T21:50:19.388994+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1560,9 +1540,9 @@
           "is_new": false
         },
         {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
+          "id": "3660b5396425925370e1bddec512b5bd",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
