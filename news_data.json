@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T01:24:34.440757+00:00",
+  "updated_at": "2026-11-02T08:57:19.631653+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-02T01:09:44.541805+00:00",
+          "published": "2026-11-02T08:42:43.355774+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "8d4447c6098cb5632ceb5f73b80838f6",
+          "title": "'6년차 마무리 통합수능' 결산.. 2022 '문과침공', 2025 '사탐런', 2027 'N...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634720",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-02T08:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "15ac11144b729563b66361cec9dacc4d",
+          "title": "고1 내신 수학 성취도 3년 연속 최저…5등급제에 '원점수 관리 중요'",
+          "link": "http://www.metroseoul.co.kr/article/20261102500609",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-02T07:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bd1c9310bd3cdd22a768e2e95781ca60",
@@ -253,16 +273,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "7fd8e613ecdc010b55826ad05ac71b65",
-          "title": "수능 D-30…'사탐런' 심화에 입시 전략 재점검 필요",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113226",
-          "source": "news.bbsi.co.kr",
-          "published": "2026-10-19T08:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -272,6 +282,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "df69eaacd001df8f18d2ddba96eab450",
+          "title": "안산대 유아교육과 수시 지원 예비 신입생 대상 '미리 만나는 유아교육과' 전공체험 운영",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634785",
+          "source": "베리타스알파",
+          "published": "2026-11-02T08:45:08.294642+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "edf21911da19dcb2be1c26f94d70a52c",
+          "title": "SKY 교과전형 1위 학과는?…인문은 '교육'·자연은 '의대'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014294668?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-02T02:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b4fabaa9448e33c4b1f6efd686a78967",
           "title": "대입캘린더 (26/11/06~)",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=634498",
@@ -279,7 +309,7 @@
           "published": "2026-11-02T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "40b6cb9f36a9c071ef187fbe878122d2",
@@ -633,10 +663,20 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-11-02T01:14:39.094376+00:00",
+          "published": "2026-11-02T08:47:36.838109+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ea400eced2ec4239daba384544786714",
+          "title": "송파구, 고1·2 학부모 대상 달라진 입시설명회",
+          "link": "https://n.news.naver.com/mnews/article/081/0003694835?sid=100",
+          "source": "www.seoul.co.kr",
+          "published": "2026-11-02T05:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2ccecca0b04bec9e895e81e70843c5d2",
@@ -774,36 +814,6 @@
           "link": "https://www.dkilbo.com/news/articleView.html?idxno=557802",
           "source": "www.dkilbo.com",
           "published": "2026-10-20T08:12:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7526007c2fc77d38b7f83a81bb8d2937",
-          "title": "수능 D-30, 취약 유형 보완·시간 배분이 막판 전략",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087673",
-          "source": "www.kyongbuk.co.kr",
-          "published": "2026-10-19T06:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "551fd2133f3a5583db6e63f0580b1599",
-          "title": "[정시분석] 서울대, 백분위 97도 안심 못 한다…합격선보다 먼저 따져야 할 것",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54377",
-          "source": "에듀진",
-          "published": "2026-10-19T02:47:24.839197+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e5fd271e8b9bca4336093ec7deb3b2a3",
-          "title": "수능 한 달 앞으로⋯성적 끌어올릴 마지막 학습 전략은",
-          "link": "https://www.etoday.co.kr/news/view/2637316",
-          "source": "www.etoday.co.kr",
-          "published": "2026-10-19T02:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1076,6 +1086,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "8e6a02ffb485c97f0a487e943c50cd0d",
+          "title": "[합격사례] 수리논술 합격생은 이렇게 준비했다…풀이 과정과 답안 구성법",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54557",
+          "source": "에듀진",
+          "published": "2026-11-02T08:50:08.536332+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3d61f0bff6dea98ae0e56f0ca1c459bf",
           "title": "2027학년도 대학별 기출 분석 기반 실전 모의고사… 시간 관리부터 답안...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113378",
@@ -1083,7 +1103,7 @@
           "published": "2026-11-02T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b59dc17fe5b3c669a60aa87aa9204e3a",
@@ -1477,7 +1497,7 @@
           "published": "2026-11-02T00:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0c5def64a64b0c2e7c17a928588022e1",
@@ -1487,7 +1507,7 @@
           "published": "2026-11-02T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d4d2f1b80b7265227325da6142506184",
@@ -1497,7 +1517,7 @@
           "published": "2026-11-01T07:23:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "873d6635ac3176a39df1280fbabe4341",
@@ -1560,21 +1580,11 @@
           "is_new": false
         },
         {
-          "id": "3660b5396425925370e1bddec512b5bd",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 ...",
-          "link": "https://n.news.naver.com/mnews/article/029/0003054021?sid=102",
+          "id": "9e5d3176628a260f2258668d1fca71b5",
+          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - www.dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
           "source": "www.dt.co.kr",
           "published": "2026-10-20T01:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2ea5aef98640a30251fd28befc1ce7bf",
-          "title": "대전시교육청, 21일 '2028 대입 개편 설명회'…내신 5등급제·통합형 수...",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=723674",
-          "source": "www.newstnt.com",
-          "published": "2026-10-19T05:22:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
