@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:42:25.211687+00:00",
+  "updated_at": "2026-11-03T22:59:33.594763+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-03T17:27:29.577667+00:00",
+          "published": "2026-11-03T22:45:00.220894+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -979,7 +979,7 @@
           "title": "[합격사례] 수리논술 합격생은 이렇게 준비했다…풀이 과정과 답안 구성법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54557",
           "source": "에듀진",
-          "published": "2026-11-03T17:35:03.165672+00:00",
+          "published": "2026-11-03T22:52:21.199255+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1059,7 +1059,7 @@
           "published": "2026-11-03T10:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
@@ -1347,16 +1347,6 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MEFhYUZZNEkxR2NPMV93Y29DNGNCTkRGMHVIU1BsX2R5VGZrUnEyWFZ5QTNLeWpFZzFOY0V2WkN0WkpRMGhDUkFiUDc0VFZhZ2wtaTU2S05SU2ZBZVlxdzJCR1ZOeDJkeENn0gFvQVVfeXFMTXRlanE3bE1fOWZxRWNCVzFNcU10UGd1RGlwbGxkOUhjQTNGaElsSXh1YjI3NzhMTWR6RjItUkl1YUlJVXJyZWdNVEQ4cFhLTU03R0dVenduNTNUVDU2UExSaWxXZXdjNDVwQ0RPd2dV?oc=5",
           "source": "더퍼블릭",
           "published": "2026-10-22T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "c5a9a40d68c7e8ec5abbe75bf0d3cc6a",
-          "title": "[여의로] '먹통'된 대입접수, 공공 시스템 구축 실행력이 '관건'",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006521",
-          "source": "www.asiatoday.co.kr",
-          "published": "2026-10-20T21:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
