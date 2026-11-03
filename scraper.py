@@ -762,7 +762,8 @@ def main():
         # 정책 카테고리: no_expire 기사는 수집 성공 여부와 무관하게 항상 보존
         if cat.get("official"):
             no_expire_backup = {iid: item for iid, item in prev.items()
-                                if item.get("no_expire") and not _BAD_TITLE.search(item.get("title",""))
+                                if item.get("no_expire") and iid not in BLOCKED_IDS
+                                and not _BAD_TITLE.search(item.get("title",""))
                                 and len(item.get("title","").strip()) >= 5
                                 and not re.search(r'^문서뷰어|^-\s*\w', item.get("title",""))}
             kept_old.update(no_expire_backup)
