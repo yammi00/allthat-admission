@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:10:12.914615+00:00",
+  "updated_at": "2026-11-03T02:11:28.421226+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-02T19:55:14.328748+00:00",
+          "published": "2026-11-03T01:56:47.041196+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ab770992b2209c946ee4f3764d2d097c",
+          "title": "수능 D-16, 막바지 점검·실전 대비 必",
+          "link": "https://www.seongjuro.co.kr/news/view.php?idx=61286",
+          "source": "www.seongjuro.co.kr",
+          "published": "2026-11-03T00:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8d4447c6098cb5632ceb5f73b80838f6",
@@ -205,21 +215,11 @@
           "is_new": false
         },
         {
-          "id": "b5f17b883a833d0f3e63edf5b2a8484a",
-          "title": "[2027 10월학평] 지난 2년간 등급컷 어떻게 나왔나.. 지난해 표점 1등급...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632494",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-20T00:16:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "55ef8295181d97b9b6afa71f99d50c68",
-          "title": "[수능 D-30] 현 체제 마지막 N수생 최다…학습 전략은?",
-          "link": "https://n.news.naver.com/mnews/article/088/0001035343?sid=102",
-          "source": "www.imaeil.com",
-          "published": "2026-10-19T21:31:00+00:00",
+          "id": "d807949654112be20234ed6eca8b84ae",
+          "title": "[단독][2027 10월학평] ‘적정 난이도 확보’ 입시기관 원점수 1등급컷.. 화93~94 언90~91 확89 미83~85 기85~87 - 베",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaEdwZGVhY0dKYTNmdmNJbF90djNtbGdnbzVDVVZqaGZqOVFiTjZYbVJoYWx6bWp4MUlObk5JeHNSMGJ4RVNOc05WYWt3TlZ2NTI0cFZGN2VwdUQwdWZVbXhmYUlBSmpVMldoXw?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-10-20T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -249,7 +249,7 @@
           "published": "2026-11-02T11:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edf21911da19dcb2be1c26f94d70a52c",
@@ -623,10 +623,20 @@
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54486",
           "source": "에듀진",
-          "published": "2026-11-02T20:00:09.716010+00:00",
+          "published": "2026-11-03T02:01:38.134212+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bdb0183593fb54db31595ecbd041009b",
+          "title": "수능 이후 면접·정시, 어떻게 준비해야 할까… 강북청솔학원, 대입 설...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113417",
+          "source": "edu.donga.com",
+          "published": "2026-11-03T00:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ea400eced2ec4239daba384544786714",
@@ -1050,7 +1060,7 @@
           "title": "[합격사례] 수리논술 합격생은 이렇게 준비했다…풀이 과정과 답안 구성법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54557",
           "source": "에듀진",
-          "published": "2026-11-02T20:02:48.332294+00:00",
+          "published": "2026-11-03T02:04:10.211599+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1123,6 +1133,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "7a2cf7d038466b9a109eae3847539cd1",
+          "title": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기...",
+          "link": "https://www.lawleader.co.kr/news/articleView.html?idxno=20288",
+          "source": "www.lawleader.co.kr",
+          "published": "2026-11-03T00:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
           "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
@@ -1130,7 +1150,7 @@
           "published": "2026-11-02T08:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "94ce904714aa166b22d0b6a740417218",
@@ -1545,16 +1565,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632846",
           "source": "베리타스알파",
           "published": "2026-10-21T23:09:20.882814+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "9e5d3176628a260f2258668d1fca71b5",
-          "title": "중등 인강 엠베스트, 특목고·자사고 진학 위한 맞춤형 입시 프로그램 운영 - dt.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkNKTDkwd0JQMTZHQkJ0U3FLWGw4MFZlZHlQX0tYUEJrMHM3UE5sQlExY240RGhEWHdENEQ4SndMUTBteGc1UGdpTlEzQQ?oc=5",
-          "source": "dt.co.kr",
-          "published": "2026-10-20T01:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
