@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:13:04.647106+00:00",
+  "updated_at": "2026-11-03T17:42:25.211687+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-03T08:58:26.962203+00:00",
+          "published": "2026-11-03T17:27:29.577667+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -183,46 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "2d2a84e875d79816b3930296c6bd94d7",
-          "title": "[단독][2027 10월학평] '적정 난이도 확보' 입시기관 원점수 1등급컷.. 화...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632766",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-20T13:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e02fb18e7933ca40efdf1b62f6bebc5f",
-          "title": "[이슈대담] 수능 D-30, 학습 전략은?",
-          "link": "https://n.news.naver.com/mnews/article/056/0012277316?sid=102",
-          "source": "news.kbs.co.kr",
-          "published": "2026-10-20T10:13:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "7f76d5a09883e4acfd31485bc15dbc19",
-          "title": "[시사플랫폼] “수능 D-30…생활리듬을 시험 당일로 맞춰야…아는 것 복...",
-          "link": "https://n.news.naver.com/mnews/article/056/0012277249?sid=102",
-          "source": "news.kbs.co.kr",
-          "published": "2026-10-20T09:35:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9fe13bde15e047a64d7d359c513aa21e",
-          "title": "2026년 10월 모의고사 등급컷 언제?…정답·답지 공개",
-          "link": "https://www.wikitree.co.kr/articles/1167555",
-          "source": "www.wikitree.co.kr",
-          "published": "2026-10-20T09:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -239,7 +199,7 @@
           "published": "2026-11-03T07:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "df69eaacd001df8f18d2ddba96eab450",
@@ -757,16 +717,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "f1e821618d7fa8f8692659799c53564d",
-          "title": "文·尹정부 이후 입시 난맥상…손대지 않는 것도 방법[이도경의 에듀 서...",
-          "link": "https://n.news.naver.com/mnews/article/005/0001879873?sid=102",
-          "source": "www.kmib.co.kr",
-          "published": "2026-10-20T15:07:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -1029,7 +979,7 @@
           "title": "[합격사례] 수리논술 합격생은 이렇게 준비했다…풀이 과정과 답안 구성법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54557",
           "source": "에듀진",
-          "published": "2026-11-03T09:05:49.587655+00:00",
+          "published": "2026-11-03T17:35:03.165672+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1102,21 +1052,31 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "7a2cf7d038466b9a109eae3847539cd1",
-          "title": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기...",
-          "link": "https://www.lawleader.co.kr/news/articleView.html?idxno=20288",
-          "source": "www.lawleader.co.kr",
-          "published": "2026-11-03T00:30:00+00:00",
+          "id": "7e431d31e982b839efe34c5747b47b5e",
+          "title": "[입시의 정석] 광역 자사고, 어떻게 뽑나…합격 전략은?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60786238/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-03T10:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
           "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
           "source": "베리타스알파",
-          "published": "2026-11-02T08:16:00+00:00",
+          "published": "2026-11-03T07:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "7a2cf7d038466b9a109eae3847539cd1",
+          "title": "학교폭력 조치 받으면 대학 못 가나…2027학년도 대입, 전 전형 반영 기...",
+          "link": "https://www.lawleader.co.kr/news/articleView.html?idxno=20288",
+          "source": "www.lawleader.co.kr",
+          "published": "2026-11-03T00:30:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
