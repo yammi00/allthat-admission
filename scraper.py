@@ -649,7 +649,8 @@ def fetch_korea_kr_press(n=20) -> list[dict]:
     POLICY_BLOCK_RE = re.compile(
         r'베트남|TOPIK|한국어능력|직업훈련|내일배움|발달장애|크루즈|청소년증|'
         r'해수부|농식품|청렴|유치원|어린이|돌봄|마이스터고|거점국립|지방대학|'
-        r'사립대학\s*육성|영어마을|장학재단', re.IGNORECASE
+        r'사립대학\s*육성|영어마을|장학재단|소방청|보훈|현장체험|진로체험|'
+        r'재외교육|청년자문|재외국민|영유아|사교육비\s*실태|교육국제화', re.IGNORECASE
     )
     # korea.kr 목록: <strong>제목</strong> + <span class="source"><span>YYYY.MM.DD</span>
     block_re = re.compile(
