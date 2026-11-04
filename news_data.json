@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T22:59:33.594763+00:00",
+  "updated_at": "2026-11-04T04:32:38.846136+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-03T22:45:00.220894+00:00",
+          "published": "2026-11-04T04:18:06.036176+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -153,36 +153,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "42a5980462901b8576fb4be08affd67d",
-          "title": "코앞으로 다가온 2027학년도 수능… 당락 가를 '5대 변수'는?",
-          "link": "https://www.ajunews.com/view/20261021125411026",
-          "source": "www.ajunews.com",
-          "published": "2026-10-21T03:58:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "71b5625215a0968944a6acdb80e1c923",
-          "title": "수능 한 달 앞 최대 변수는 '사탐런·N수생'…영어 난이도·의대 증원도...",
-          "link": "https://www.newspim.com/news/view/20261021000426",
-          "source": "www.newspim.com",
-          "published": "2026-10-21T01:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "d2969b15b19da8e348118869b6f64f68",
-          "title": "수능 영어 지문, AI로 만든다…내년 6월 시범적용 목표",
-          "link": "https://n.news.naver.com/mnews/article/277/0005831348?sid=102",
-          "source": "view.asiae.co.kr",
-          "published": "2026-10-21T01:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -191,6 +161,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "9ecd4d148eab4181c441fe2e980fc9ae",
+          "title": "[2028 대입 면접 대비법] 대학들 면접 신설·확대…대입 최대 승부처 부...",
+          "link": "https://www.naeil.com/news/read/607514?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-11-04T04:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a071c1b03ee1caf904be0f774c6f2ce7",
+          "title": "과천외고 '2027 하반기 입학설명회' 성료.. 2028대입 대비 강점 소개",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635126",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-04T03:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5b3cbd00fb97d42b20748576713bd3d6",
+          "title": "[거인의어깨 입시컨설팅] 수능 가채점 활용 및 대학별고사 최종 준비",
+          "link": "https://www.newspim.com/news/view/20261104000438",
+          "source": "www.newspim.com",
+          "published": "2026-11-04T01:37:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "57bf038530e68a36685096f5a5479191",
           "title": "[단독][2028대입] '약술형 논술' 도미노 오나.. 인하대 가톨릭대 한성대...",
@@ -537,26 +537,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632919",
           "source": "www.veritas-a.com",
           "published": "2026-10-21T10:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "37e18fea4ca36e6d09f9f72446d0e8e4",
-          "title": "[내신 5등급제 대입 영향력] “모든 학기 전체 과목 1등급 감소는 당연...",
-          "link": "https://www.naeil.com/news/read/605847?ref=naver",
-          "source": "www.naeil.com",
-          "published": "2026-10-21T04:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "41598214f12f6c678b17d83736d58742",
-          "title": "수능 직전, 가장 약한 과목부터 공부해야 할까?…수시 지원서에 답이 있다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54373",
-          "source": "에듀진",
-          "published": "2026-10-21T02:50:57.778305+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -975,6 +955,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "a15ddb3bd920adef1de20e6a19909f74",
+          "title": "스카이입시교육학원 대치동점, 2027학년도 약술형논술 대비 11월 파이널...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236394",
+          "source": "www.job-post.co.kr",
+          "published": "2026-11-04T03:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8e6a02ffb485c97f0a487e943c50cd0d",
           "title": "[합격사례] 수리논술 합격생은 이렇게 준비했다…풀이 과정과 답안 구성법",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54557",
@@ -1052,21 +1042,31 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "7e431d31e982b839efe34c5747b47b5e",
-          "title": "[입시의 정석] 광역 자사고, 어떻게 뽑나…합격 전략은?",
-          "link": "http://news.ebs.co.kr/ebsnews/allView/60786238/N",
-          "source": "news.ebs.co.kr",
-          "published": "2026-11-03T10:36:00+00:00",
+          "id": "b6efde7062cc7a7c2d0151db7b7b62f5",
+          "title": "서울시교육청, 조리실무사 591명 수시채용…내년 3월 학교 현장 배치",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1308218",
+          "source": "www.jeonmae.co.kr",
+          "published": "2026-11-03T23:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
           "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
           "source": "베리타스알파",
-          "published": "2026-11-03T07:26:00+00:00",
+          "published": "2026-11-03T12:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "7e431d31e982b839efe34c5747b47b5e",
+          "title": "[입시의 정석] 광역 자사고, 어떻게 뽑나…합격 전략은?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60786238/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-03T10:36:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
