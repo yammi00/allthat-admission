@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-04T13:50:11.607946+00:00",
+  "updated_at": "2026-11-04T20:52:32.098825+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-04T13:35:18.835094+00:00",
+          "published": "2026-11-04T20:37:48.915787+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -546,7 +545,7 @@
           "published": "2026-11-04T07:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "208183d6bae801942e3ba459be066760",
@@ -962,7 +961,7 @@
           "published": "2026-11-04T06:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a15ddb3bd920adef1de20e6a19909f74",
@@ -1059,7 +1058,7 @@
           "published": "2026-11-04T08:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b6efde7062cc7a7c2d0151db7b7b62f5",
