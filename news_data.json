@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T04:32:38.846136+00:00",
+  "updated_at": "2026-11-04T13:50:11.607946+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-04T04:18:06.036176+00:00",
+          "published": "2026-11-04T13:35:18.835094+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -169,7 +169,7 @@
           "published": "2026-11-04T04:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a071c1b03ee1caf904be0f774c6f2ce7",
@@ -179,7 +179,7 @@
           "published": "2026-11-04T03:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5b3cbd00fb97d42b20748576713bd3d6",
@@ -189,7 +189,7 @@
           "published": "2026-11-04T01:37:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "57bf038530e68a36685096f5a5479191",
@@ -530,16 +530,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e2f8e7d584308aaff521f534ab92a8c2",
-          "title": "[단독] [2027정시] '숨은 로또' 의약계열 농어촌전형 '10개교 40명'.. '빅...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632919",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-21T10:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -548,6 +538,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "62e6dec28f0e757bd15c2cb511cf0d5f",
+          "title": "[알고보자] N수생보다 등급 오른 고3이 강세라고?.. '변화율로 정시 판도...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635249",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-04T07:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "208183d6bae801942e3ba459be066760",
           "title": "[정시분석] 인하대, 경쟁률보다 '충원 규모'를 봐야 하는 이유",
@@ -955,6 +955,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "37049ec6bc21ec84064a4440e973d7e6",
+          "title": "[2027수시] 치한수 논술 5개교 '모두 수능 이후 실시'.. 가천대 한의예 ...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634740",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-04T06:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "a15ddb3bd920adef1de20e6a19909f74",
           "title": "스카이입시교육학원 대치동점, 2027학년도 약술형논술 대비 11월 파이널...",
           "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236394",
@@ -962,7 +972,7 @@
           "published": "2026-11-04T03:42:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e6a02ffb485c97f0a487e943c50cd0d",
@@ -1042,6 +1052,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "361c88d221e307bb47de4adfefe9ff26",
+          "title": "서울시교육청, 학교급식 조리실무사 591명 채용…11일부터 원서접수",
+          "link": "https://www.gosiweek.com/article/1065602355477807",
+          "source": "www.gosiweek.com",
+          "published": "2026-11-04T08:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b6efde7062cc7a7c2d0151db7b7b62f5",
           "title": "서울시교육청, 조리실무사 591명 수시채용…내년 3월 학교 현장 배치",
           "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1308218",
@@ -1049,7 +1069,7 @@
           "published": "2026-11-03T23:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
