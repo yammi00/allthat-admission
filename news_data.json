@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:10:49.538544+00:00",
+  "updated_at": "2026-11-05T09:06:22.850163+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-05T01:55:42.661787+00:00",
+          "published": "2026-11-05T08:51:43.356039+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f7bfe5fa16a3203611bc5acfbeb7d298",
+          "title": "[단독] [2027 10월학평] 입시기관 등급컷 적중률.. 대성 3개 '최다' EBS 2개, 유웨이/이투스 1개 순",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635459",
+          "source": "베리타스알파",
+          "published": "2026-11-05T08:51:41.421424+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c05e89f0fac9bf6badbb3f784f0e32a1",
+          "title": "광릉한샘기숙학원, 사관학교 입시 대비 영어 학습 전략 제시",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071661",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-11-05T02:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ab770992b2209c946ee4f3764d2d097c",
@@ -123,26 +143,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5cb24f3d26549e6ec29b7b7d2809de8a",
-          "title": "[지상범 입시 토크] 2028학년도 서울대학교 입학전형 분석과 합격 공식",
-          "link": "http://www.metroseoul.co.kr/article/20261022500512",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-10-22T07:42:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "72d34225f0aa6d5130a5411f916308ae",
-          "title": "수능 D-28… 출제 오류·난이도 논란 없게 점검 강화",
-          "link": "https://n.news.naver.com/mnews/article/021/0002827098?sid=102",
-          "source": "www.munhwa.com",
-          "published": "2026-10-22T06:35:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -152,6 +152,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "9d1c13d84ddc9af6f4e915e6a7c67fec",
+          "title": "[단독] ‘2028지형 구체화에 2030의대 신설까지’ 2027후기고 선택법.. 수시/정시 올라운더 ‘주목’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635513",
+          "source": "베리타스알파",
+          "published": "2026-11-05T08:54:06.302010+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "6c3738686ab9e7bb236f8e92303549a7",
           "title": "[유성룡의 입시포인트] 서울대학교 2027학년도 정시 모집 입학전형 가이...",
           "link": "https://edu.chosun.com/site/data/html_dir/2026/11/04/2026110480086.html",
@@ -159,7 +169,7 @@
           "published": "2026-11-05T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9ecd4d148eab4181c441fe2e980fc9ae",
@@ -500,26 +510,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "43a2bb703aed6cf7e47ecc0a2cc0ba65",
-          "title": "[단독][2027수시] 현직교사가 말하는 제시문면접 대비법.. &quot;화려한 언변...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633092",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-22T08:48:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "0ac7cfc95869b9f123939a442bbda7aa",
-          "title": "내신 5등급제 앞두고 검정고시 대입 관심…”성적 환산·지원 자격 대학...",
-          "link": "https://www.wikitree.co.kr/articles/1168298",
-          "source": "www.wikitree.co.kr",
-          "published": "2026-10-22T03:34:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -528,6 +518,36 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "efb920d4df121a8ab28dd09f0cf00314",
+          "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
+          "source": "에듀진",
+          "published": "2026-11-05T08:56:37.207433+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7715bbf6ba3624d0f149ea14aaf498c1",
+          "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
+          "source": "에듀진",
+          "published": "2026-11-05T08:56:33.313706+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f0e47f8484bc3712be0062feb853003d",
+          "title": "[2027정시] 항공운항학과 6개교 39명 ‘확대’.. 한서대 18명 ‘최다’, 한국항공대 다군→나군 이동",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635255",
+          "source": "베리타스알파",
+          "published": "2026-11-05T08:56:32.481652+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "62e6dec28f0e757bd15c2cb511cf0d5f",
           "title": "[알고보자] N수생보다 등급 오른 고3이 강세라고?.. '변화율로 정시 판도...",
@@ -664,16 +684,6 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FQ0FWMzZWNENPbUpuSllQd0Y2cE5PWGlWeUl1NnhoTjBXRzFHOTdpeEp2ZFVkZWhXb1RiQ0VEUllRekZaRFJvcldDdW55SjRFakxMWkhJenJTR0hwdC0zNDRweFNJa25tcG5fXw?oc=5",
           "source": "베리타스알파",
           "published": "2026-10-23T08:10:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "8f26f8d6fb7b51764c94007bc502cb9c",
-          "title": "2027 중앙대 정시, 합격선 어디까지 봐야 할까…충원율·70%컷·환산점수 분석",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
-          "source": "에듀진",
-          "published": "2026-10-22T02:52:06.865618+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1013,16 +1023,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "94d8ac28dbdf8540073f32e80d3809f4",
-          "title": "수리논술, 정답 맞혀도 감점될 수 있다?.. 풀이 과정에서 놓치는 것",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54405",
-          "source": "에듀진",
-          "published": "2026-10-22T02:54:36.766290+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1031,6 +1031,26 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "f05d0e2aac20a7fc9ea162d12512c287",
+          "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-05T08:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "df24a0cd5da7821d7d564954e8f7a446",
+          "title": "김포대, 2027학년도 수시 2차 신입생 모집…최초 합격자 장학금 100만원",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=212111",
+          "source": "www.kyosu.net",
+          "published": "2026-11-05T05:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "361c88d221e307bb47de4adfefe9ff26",
           "title": "서울시교육청, 학교급식 조리실무사 591명 채용…11일부터 원서접수",
@@ -1047,16 +1067,6 @@
           "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1308218",
           "source": "www.jeonmae.co.kr",
           "published": "2026-11-03T23:34:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "f05d0e2aac20a7fc9ea162d12512c287",
-          "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-03T12:15:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1320,26 +1330,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "03ce3de4c4be27d8f6feff3d44d8f388",
-          "title": "與고민정 &quot;'수시 먹통' 때 대교협 사무총장은 해외 출장中&quot;",
-          "link": "https://n.news.naver.com/mnews/article/001/0016395289?sid=100",
-          "source": "www.yna.co.kr",
-          "published": "2026-10-22T08:43:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5d2dd44d8917ab8ae262657576e01298",
-          "title": "[단독] 정시부터 '눈치작전' 차단…경쟁률 익일 공개·접수번호 난수화",
-          "link": "https://n.news.naver.com/mnews/article/421/0009244075?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-10-22T04:05:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1424,16 +1414,6 @@
           "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=360816",
           "source": "www.ccreview.co.kr",
           "published": "2026-10-25T05:06:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "617e5eaa23f1244504812795fc355e91",
-          "title": "고입 컨설턴트 싸이먼 “특목고·자사고 합격, 화려한 스펙보다 중요한 것은 학생만의 이야기” - 피앤피뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93djBKTWhaM3gxVkE1UWVrZDZHZEs4UnRQcWZHem1PaURDeHVVSWQ5V2RIWXlqQXJwNTltVFpOTmdZZ2hxYmhJMmhpYXM0X2NyOXR5X3FR?oc=5",
-          "source": "피앤피뉴스",
-          "published": "2026-10-22T03:10:29+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
