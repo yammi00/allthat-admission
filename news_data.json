@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:02:08.321436+00:00",
+  "updated_at": "2026-11-05T23:20:50.206803+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-05T17:47:12.607764+00:00",
+          "published": "2026-11-05T23:06:17.781220+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "[단독] [2027 10월학평] 입시기관 등급컷 적중률.. 대성 3개 '최다' EBS 2개, 유웨이/이투스 1개 순",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635459",
           "source": "베리타스알파",
-          "published": "2026-11-05T17:47:09.938833+00:00",
+          "published": "2026-11-05T23:06:15.720643+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -156,7 +156,7 @@
           "title": "[단독] ‘2028지형 구체화에 2030의대 신설까지’ 2027후기고 선택법.. 수시/정시 올라운더 ‘주목’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635513",
           "source": "베리타스알파",
-          "published": "2026-11-05T17:49:36.539855+00:00",
+          "published": "2026-11-05T23:08:41.556845+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -490,16 +490,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "3bf59f93a19814e8e93680bd3144a87f",
-          "title": "'수시 먹통' 대책부터 교육교부금 갈등까지…교육위 종합감사 마무리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009245338?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-10-22T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -513,7 +503,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-05T17:52:13.724248+00:00",
+          "published": "2026-11-05T23:11:13.428465+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -523,7 +513,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-05T17:52:09.124014+00:00",
+          "published": "2026-11-05T23:11:10.182984+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -533,7 +523,7 @@
           "title": "[2027정시] 항공운항학과 6개교 39명 ‘확대’.. 한서대 18명 ‘최다’, 한국항공대 다군→나군 이동",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635255",
           "source": "베리타스알파",
-          "published": "2026-11-05T17:52:07.571873+00:00",
+          "published": "2026-11-05T23:11:09.087271+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
