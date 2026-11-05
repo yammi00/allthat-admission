@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-11-04T20:52:32.098825+00:00",
+  "updated_at": "2026-11-05T02:10:49.538544+00:00",
   "available_archives": [
+    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-04T20:37:48.915787+00:00",
+          "published": "2026-11-05T01:55:42.661787+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -142,16 +143,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "72a3662e4e723937335377eea927f511",
-          "title": "약술형 논술 전문 목동씨사이트학원, ‘2027학년도 가천대 논술 파이널...",
-          "link": "https://n.news.naver.com/mnews/article/081/0003691388?sid=102",
-          "source": "www.seoul.co.kr",
-          "published": "2026-10-22T00:52:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -160,6 +151,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "6c3738686ab9e7bb236f8e92303549a7",
+          "title": "[유성룡의 입시포인트] 서울대학교 2027학년도 정시 모집 입학전형 가이...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/11/04/2026110480086.html",
+          "source": "edu.chosun.com",
+          "published": "2026-11-05T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "9ecd4d148eab4181c441fe2e980fc9ae",
           "title": "[2028 대입 면접 대비법] 대학들 면접 신설·확대…대입 최대 승부처 부...",
@@ -519,16 +520,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "77c9fffe0fd47c7932ce55e4962ce4c4",
-          "title": "2028 교과전형 N수생 지원 막힌다…'졸업생 제한' 주요대 4배↑",
-          "link": "https://n.news.naver.com/mnews/article/003/0014270425?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-22T00:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -683,16 +674,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54393",
           "source": "에듀진",
           "published": "2026-10-22T02:52:06.865618+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "93b6ca29d5d67114bd981b6ba2d046db",
-          "title": "2028 학생부교과전형, 졸업생 지원 제한 주요대 4배 늘어",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=113045",
-          "source": "edu.donga.com",
-          "published": "2026-10-22T01:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1359,16 +1340,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "93f87504506b66f1ff94813ea356344b",
-          "title": "내신·수능 성적 낮아도 ‘인서울’ 가능할까…주목받는 또 다른 입시 전략 - 더퍼블릭",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MEFhYUZZNEkxR2NPMV93Y29DNGNCTkRGMHVIU1BsX2R5VGZrUnEyWFZ5QTNLeWpFZzFOY0V2WkN0WkpRMGhDUkFiUDc0VFZhZ2wtaTU2S05SU2ZBZVlxdzJCR1ZOeDJkeENn0gFvQVVfeXFMTXRlanE3bE1fOWZxRWNCVzFNcU10UGd1RGlwbGxkOUhjQTNGaElsSXh1YjI3NzhMTWR6RjItUkl1YUlJVXJyZWdNVEQ4cFhLTU03R0dVenduNTNUVDU2UExSaWxXZXdjNDVwQ0RPd2dV?oc=5",
-          "source": "더퍼블릭",
-          "published": "2026-10-22T00:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1463,16 +1434,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93djBKTWhaM3gxVkE1UWVrZDZHZEs4UnRQcWZHem1PaURDeHVVSWQ5V2RIWXlqQXJwNTltVFpOTmdZZ2hxYmhJMmhpYXM0X2NyOXR5X3FR?oc=5",
           "source": "피앤피뉴스",
           "published": "2026-10-22T03:10:29+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "5e7041426d739305188b979a56fe20e1",
-          "title": "[단독] '상승예고' 특목자사고 최근 5년간 경쟁률은.. 외고 ‘4년 연속 상승’, 전국자사 ‘2년 연속 하락’",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632846",
-          "source": "베리타스알파",
-          "published": "2026-10-21T23:09:20.882814+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
