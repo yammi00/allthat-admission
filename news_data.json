@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-06T13:47:44.343379+00:00",
+  "updated_at": "2026-11-06T20:26:45.450517+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-06T13:33:11.448419+00:00",
+          "published": "2026-11-06T20:11:48.262778+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -156,10 +155,10 @@
           "title": "[2027수시] 면접/논술 대학별고사 대비 전략.. '내 학생부 해부부터 모의논술 분석까지'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635671",
           "source": "베리타스알파",
-          "published": "2026-11-06T13:35:31.710842+00:00",
+          "published": "2026-11-06T20:14:14.097425+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a07a170b47ca53d476ad542e647fac54",
@@ -483,7 +482,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-06T13:38:04.605517+00:00",
+          "published": "2026-11-06T20:16:53.059509+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -493,7 +492,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-06T13:38:01.560736+00:00",
+          "published": "2026-11-06T20:16:48.687103+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -989,7 +988,7 @@
           "published": "2026-11-06T05:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
@@ -1196,7 +1195,7 @@
           "published": "2026-11-06T07:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f8e339c99e4e39a79d67626cdf058223",
