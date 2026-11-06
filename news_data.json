@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:20:50.206803+00:00",
+  "updated_at": "2026-11-06T04:49:07.189112+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,17 +19,17 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-05T23:06:17.781220+00:00",
+          "published": "2026-11-06T04:34:29.369080+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
           "id": "f7bfe5fa16a3203611bc5acfbeb7d298",
-          "title": "[단독] [2027 10월학평] 입시기관 등급컷 적중률.. 대성 3개 '최다' EBS 2개, 유웨이/이투스 1개 순",
+          "title": "[단독] [2027 10월학평] 입시기관 등급컷 적중률.. 대성 3개 '최다' EBS 2개...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635459",
-          "source": "베리타스알파",
-          "published": "2026-11-05T23:06:15.720643+00:00",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-05T08:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -152,11 +152,21 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "a07a170b47ca53d476ad542e647fac54",
+          "title": "올해 수능 끝나면 '가채점' 결과 따라 신속히 전략짜라!",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113556",
+          "source": "edu.donga.com",
+          "published": "2026-11-06T02:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "9d1c13d84ddc9af6f4e915e6a7c67fec",
-          "title": "[단독] ‘2028지형 구체화에 2030의대 신설까지’ 2027후기고 선택법.. 수시/정시 올라운더 ‘주목’",
+          "title": "[단독] '2028지형 구체화에 2030의대 신설까지' 2027후기고 선택법.. 수시...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635513",
-          "source": "베리타스알파",
-          "published": "2026-11-05T23:08:41.556845+00:00",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-05T08:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -460,36 +470,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "5b640233b0da3473a6b19da55db0840b",
-          "title": "수시 지원 수험생 10명 중 5명 \"정시 준비 소극적\"… 논술전형 위주 지원자는 74% \"준비\"",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54427",
-          "source": "에듀진",
-          "published": "2026-10-23T02:53:02.440330+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "0e0976ee9e4c4f00a226b4e649fea662",
-          "title": "경기도 학생·학부모 대입 상담, 내년부터 25개 교육지원청에서 받는다",
-          "link": "https://www.gosiweek.com/article/1065579702967545",
-          "source": "www.gosiweek.com",
-          "published": "2026-10-23T02:24:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ca01cb8b55cefbd665a9d87e8fa23431",
-          "title": "이투스에듀, 수시 면접 본격화…감점 유발 실수 5가지 주의 당부",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574805622115",
-          "source": "www.megaeconomy.co.kr",
-          "published": "2026-10-23T01:04:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -503,7 +483,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-05T23:11:13.428465+00:00",
+          "published": "2026-11-06T04:39:27.627267+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -513,7 +493,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-05T23:11:10.182984+00:00",
+          "published": "2026-11-06T04:39:24.365383+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1237,76 +1217,6 @@
           "link": "https://www.thebigdata.co.kr/view.php?ud=2026102314555236440a47484cf8_23",
           "source": "www.thebigdata.co.kr",
           "published": "2026-10-23T06:40:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b5e7f9c9d876e36455b963853c396d31",
-          "title": "네이버, 대학 입시 정보 한곳에...수능 검색에 AI 브리핑 도입",
-          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107281",
-          "source": "www.womentimes.co.kr",
-          "published": "2026-10-23T03:26:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fb782df5ed6c4784190c259bbf92fc5f",
-          "title": "[Digital &amp; Now] &quot;200개 대학·입시·수능 정보 한눈에&quot;…네이버, '교육' ...",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728914",
-          "source": "www.ebn.co.kr",
-          "published": "2026-10-23T02:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "d5973372eabf9f34028a0afff968829e",
-          "title": "“내 점수로 갈 수 있는 대학·학과를 한 눈에”…네이버, 수능·입시 검...",
-          "link": "https://n.news.naver.com/mnews/article/021/0002827315?sid=101",
-          "source": "www.munhwa.com",
-          "published": "2026-10-23T02:09:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "4386875bc9826c3c10bc7a4bfd713cb1",
-          "title": "최교진 &quot;'수시 먹통', 유웨이 부실한 사전검증이 원인&quot;",
-          "link": "https://n.news.naver.com/mnews/article/018/0006394542?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-10-23T02:08:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "457a263b8fc49a2740ef06da7ed6f6e8",
-          "title": "최교진 &quot;정시 전까지 원서접수 대책 마련…공적 관리 전환 검토&quot;",
-          "link": "https://n.news.naver.com/mnews/article/003/0014273756?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-23T02:05:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "97e7d9b6148427c3f78001015d547e38",
-          "title": "네이버, AI로 수능 분석부터 대학 지원까지…입시 정보 검색 판 바꾼다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42407",
-          "source": "www.aitimes.kr",
-          "published": "2026-10-23T01:42:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "8c0cdfa24764b5eb55c04d4fb4c21fd5",
-          "title": "&quot;대본 읊고 말끝 흐리면 낭패&quot;…대입 수시 면접 점수 깎는 5가지 실수",
-          "link": "https://www.ajunews.com/view/20261023101635478",
-          "source": "www.ajunews.com",
-          "published": "2026-10-23T01:22:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
