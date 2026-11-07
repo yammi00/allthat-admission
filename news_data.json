@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T01:44:04.282813+00:00",
+  "updated_at": "2026-11-07T08:20:50.400504+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-07T01:29:24.523503+00:00",
+          "published": "2026-11-07T08:05:58.746574+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-11-06T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f7bfe5fa16a3203611bc5acfbeb7d298",
@@ -166,7 +166,7 @@
           "title": "[2027수시] 면접/논술 대학별고사 대비 전략.. '내 학생부 해부부터 모의논술 분석까지'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635671",
           "source": "베리타스알파",
-          "published": "2026-11-07T01:31:49.134994+00:00",
+          "published": "2026-11-07T08:08:23.585596+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -179,7 +179,7 @@
           "published": "2026-11-06T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a07a170b47ca53d476ad542e647fac54",
@@ -503,7 +503,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-07T01:34:21.247386+00:00",
+          "published": "2026-11-07T08:11:00.988479+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -513,7 +513,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-07T01:34:17.448620+00:00",
+          "published": "2026-11-07T08:10:56.801422+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1177,16 +1177,6 @@
           "link": "https://n.news.naver.com/mnews/article/382/0001300914?sid=105",
           "source": "sports.donga.com",
           "published": "2026-10-25T06:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "458a688a5c277710459ceca31f9ff9e2",
-          "title": "모집인원·경쟁률 정보 한 번에 본다…네이버, 대학·입시 검색 강화",
-          "link": "https://www.itbiznews.com/news/articleView.html?idxno=229072",
-          "source": "www.itbiznews.com",
-          "published": "2026-10-24T05:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
