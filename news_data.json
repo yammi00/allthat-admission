@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-08T16:42:48.984049+00:00",
+  "updated_at": "2026-11-08T21:46:46.387855+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-08T16:28:06.145927+00:00",
+          "published": "2026-11-08T21:32:12.570904+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-11-08T11:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7a371833fd0808e3902c95df695438cd",
@@ -42,7 +41,7 @@
           "published": "2026-11-08T10:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d293a72abb44d096b5ea5449cdad58cf",
@@ -216,10 +215,30 @@
           "title": "[2027추천고교]  '문호확대로 강력해진 의대강호’ 현대청운고.. 수시/정시 아우르는 진학 스펙트럼",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633321",
           "source": "베리타스알파",
-          "published": "2026-11-08T16:30:28.805030+00:00",
+          "published": "2026-11-08T21:34:34.944732+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "20683923fd597737d0e56bc29bce0f5e",
+          "title": "수능 D-10, 약대 논술 경쟁도 치열…최고 563대 1 기록",
+          "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=548383",
+          "source": "www.kpanews.co.kr",
+          "published": "2026-11-08T20:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4d6f432e0d88409c63d63872c0038893",
+          "title": "“게임 실컷 하고도 서울대”…수시 9관왕, 철원 소녀의 비밀",
+          "link": "https://n.news.naver.com/mnews/article/025/0003563717?sid=102",
+          "source": "www.joongang.co.kr",
+          "published": "2026-11-08T20:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a57f42a4b397de265fc45159ba3ba7bd",
@@ -523,7 +542,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-08T16:33:03.129676+00:00",
+          "published": "2026-11-08T21:37:08.435924+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -533,7 +552,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-08T16:32:58.958737+00:00",
+          "published": "2026-11-08T21:37:03.508926+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -543,10 +562,20 @@
           "title": "[2027추천고교] ‘ 학종 논술 정시 공교육 3각 트랙 구축’ 현대고.. SKY 3년연속 80명대 '탁월한 실적'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635005",
           "source": "베리타스알파",
-          "published": "2026-11-08T16:32:56.311974+00:00",
+          "published": "2026-11-08T21:37:01.503773+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5a778b06d311f7c816f0c9d1b5424e98",
+          "title": "“수능이랑 내신, 어떡하란 말인가요”...대입판 바뀌자 설명회 ‘북새...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005760708?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-11-08T21:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f0e47f8484bc3712be0062feb853003d",
@@ -1223,7 +1252,7 @@
           "title": "[2027추천고교] ‘포스텍 연계 원조 자사고’ 포항제철고..교사열정과 탐구로 키운 ‘학종 경쟁력’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=633090",
           "source": "베리타스알파",
-          "published": "2026-11-08T16:40:27.033940+00:00",
+          "published": "2026-11-08T21:44:27.424956+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
