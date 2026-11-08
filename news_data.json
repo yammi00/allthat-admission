@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:13:59.963113+00:00",
+  "updated_at": "2026-11-08T08:39:47.134859+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,50 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-08T00:58:59.198451+00:00",
+          "published": "2026-11-08T08:25:11.891826+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d293a72abb44d096b5ea5449cdad58cf",
+          "title": "[교육알림장]미래엔, 고등 수학 훈련서 ‘실전FIT’ 출간",
+          "link": "https://n.news.naver.com/mnews/article/011/0004679880?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-11-08T07:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "df36a48095dc6b547a80ababb7faed01",
+          "title": "수능 D-10…AI 안경·N수생 변수에 막판 입시 촉각",
+          "link": "https://n.news.naver.com/mnews/article/656/0000191770?sid=102",
+          "source": "www.daejonilbo.com",
+          "published": "2026-11-08T05:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4acb5bdcbf28ea952cfc6c691d666453",
+          "title": "[수능D-10] '23년 만 최대 N수' 2027수능 최종점검 포인트..'현체제 마지...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635657",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-08T02:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d09adc1073f75fda7d249130922305ea",
+          "title": "[수능 D-10] ③ N수생 20만 육박 '역대 최다'…영어 난이도 관심",
+          "link": "https://n.news.naver.com/mnews/article/001/0016428622?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-08T01:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1e087d2bad23b8c3c565437fb1e20a54",
@@ -32,7 +72,7 @@
           "published": "2026-11-07T22:21:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c3cabbd811f411fad280140dc73e6e4a",
@@ -143,16 +183,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "6f5a7177a28ed9ebfbf1b1b9e8145848",
-          "title": "국어·영어 난도 ‘널뛰기’에 사탐런까지…올해 수능 ‘3대 변수’",
-          "link": "https://n.news.naver.com/mnews/article/018/0006395743?sid=102",
-          "source": "www.edaily.co.kr",
-          "published": "2026-10-25T04:04:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -161,6 +191,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "bfd924d6c9a27b5c3e1d792c009d0225",
+          "title": "[2027추천고교]  '문호확대로 강력해진 의대강호’ 현대청운고.. 수시/정시 아우르는 진학 스펙트럼",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633321",
+          "source": "베리타스알파",
+          "published": "2026-11-08T08:27:35.144387+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "a57f42a4b397de265fc45159ba3ba7bd",
           "title": "[2027수시] 면접/논술 대학별고사 대비 전략.. '내 학생부 해부부터 모의논술 분석까지'",
@@ -450,16 +490,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "22713589d1c96760a78b0a6508270105",
-          "title": "서울 주요 15개 대학 수시 경쟁률 하락…대입 개편 앞두고 안정 지원 늘...",
-          "link": "https://n.news.naver.com/mnews/article/020/0003757406?sid=102",
-          "source": "www.donga.com",
-          "published": "2026-10-25T07:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -473,7 +503,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-08T01:03:58.611866+00:00",
+          "published": "2026-11-08T08:30:09.812193+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -483,10 +513,20 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-08T01:03:53.346058+00:00",
+          "published": "2026-11-08T08:30:03.710083+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "38c2cd6206d57bf316d7cc41a52265f3",
+          "title": "[2027추천고교] ‘ 학종 논술 정시 공교육 3각 트랙 구축’ 현대고.. SKY 3년연속 80명대 '탁월한 실적'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635005",
+          "source": "베리타스알파",
+          "published": "2026-11-08T08:30:01.240405+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f0e47f8484bc3712be0062feb853003d",
@@ -962,6 +1002,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "0d06ed50b9a9ace57a9e43870ab0409a",
+          "title": "마지막 '선택형 수능' 11월 19일 입실 시간 전 이것만은 꼭 챙기세요",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3745513",
+          "source": "www.gukjenews.com",
+          "published": "2026-11-08T06:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f05d0e2aac20a7fc9ea162d12512c287",
           "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
@@ -1140,16 +1190,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "97035b02935d3f9fc5ba401ce41d4890",
-          "title": "“학교생활부터 입시까지”…네이버, 교육 검색 고도화",
-          "link": "https://n.news.naver.com/mnews/article/382/0001300914?sid=105",
-          "source": "sports.donga.com",
-          "published": "2026-10-25T06:48:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1158,6 +1198,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "549e7414e8d683754e37f93f4b7d73f1",
+          "title": "[2027추천고교] ‘포스텍 연계 원조 자사고’ 포항제철고..교사열정과 탐구로 키운 ‘학종 경쟁력’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633090",
+          "source": "베리타스알파",
+          "published": "2026-11-08T08:37:27.765376+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "8c51e84faa5bad63c80ad91db02c1ffc",
           "title": "'자사고·외고 등 늘어날 것'... 특구법 추진 두고 교육계 우려 나오는 ...",
@@ -1234,16 +1284,6 @@
           "link": "http://www.cctimes.kr/news/articleView.html?idxno=933712",
           "source": "www.cctimes.kr",
           "published": "2026-10-25T09:28:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "b9c35e224a239ac6f0a6c7a2adb5200a",
-          "title": "달라지는 대입, 고교 선택부터 준비한다…한국교원대부설고 입학설명회",
-          "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=360816",
-          "source": "www.ccreview.co.kr",
-          "published": "2026-10-25T05:06:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
