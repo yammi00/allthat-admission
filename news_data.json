@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-11-07T21:31:31.333070+00:00",
+  "updated_at": "2026-11-08T01:13:59.963113+00:00",
   "available_archives": [
+    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-07T21:16:50.153737+00:00",
+          "published": "2026-11-08T00:58:59.198451+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1e087d2bad23b8c3c565437fb1e20a54",
+          "title": "수능 열흘 앞으로…입시업계 &quot;1교시 국어가 최대 변수&quot;",
+          "link": "https://n.news.naver.com/mnews/article/015/0005351424?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-11-07T22:21:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c3cabbd811f411fad280140dc73e6e4a",
@@ -142,16 +153,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "d6a48afab8458821fd4f3a62d4e91d20",
-          "title": "10월 학평 끝, 수능까지 한 달…&quot;등급보다 취약점 점검해야&quot;",
-          "link": "https://n.news.naver.com/mnews/article/421/0009247924?sid=102",
-          "source": "www.news1.kr",
-          "published": "2026-10-24T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -165,7 +166,7 @@
           "title": "[2027수시] 면접/논술 대학별고사 대비 전략.. '내 학생부 해부부터 모의논술 분석까지'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635671",
           "source": "베리타스알파",
-          "published": "2026-11-07T21:19:10.413526+00:00",
+          "published": "2026-11-08T01:01:23.409910+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -459,36 +460,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a36d65bbdfd57a86886d2e1dddcd07a7",
-          "title": "의대 수시 붙었는데 1700명이 “안 가요”…추가 합격 무려 세 바퀴 돌았...",
-          "link": "https://n.news.naver.com/mnews/article/009/0005753501?sid=102",
-          "source": "www.mk.co.kr",
-          "published": "2026-10-25T01:03:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b9dd6bc1e4fd735fa02f056801800787",
-          "title": "작년 의대 수시 1728명 등록 포기… 모집인원 95% 달해",
-          "link": "https://n.news.naver.com/mnews/article/014/0005593887?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-10-25T00:07:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "9df0573b3eace815dd99c45b0d7d80c6",
-          "title": "'중복합격'에 작년 의대 수시 1728명 등록포기…50명 정시 이월",
-          "link": "https://n.news.naver.com/mnews/article/003/0014276078?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-24T23:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -502,7 +473,7 @@
           "title": "SKY 정시, 경쟁률 높은 학과가 합격선도 높았을까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54608",
           "source": "에듀진",
-          "published": "2026-11-07T21:21:46.867874+00:00",
+          "published": "2026-11-08T01:03:58.611866+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -512,7 +483,7 @@
           "title": "[정시분석] 한국공학대, 일반학생1·2 합격선보다 먼저 봐야 할 것",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54507",
           "source": "에듀진",
-          "published": "2026-11-07T21:21:44.110698+00:00",
+          "published": "2026-11-08T01:03:53.346058+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
