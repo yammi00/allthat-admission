@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-09T09:10:12.870685+00:00",
+  "updated_at": "2026-11-09T20:34:05.456574+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-09T08:55:34.400301+00:00",
+          "published": "2026-11-09T20:19:27.919429+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "94f1d80fd791bc6762b47df824f9f221",
+          "title": "수능 D-9…N수생 몰린 마지막 시험 '변별력 확보' 관건",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=928664",
+          "source": "www.namdonews.com",
+          "published": "2026-11-09T15:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4632be8b50e4c44441bd415465914fc1",
+          "title": "[EBS 초압축 마무리 ①] 국어 80분·수학 100분·영어 70분, 시간 운영 기준부터 세워야 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvdG5lbmJxRzR1bFRIOWgwT1hFYm1STU5jMEJSUWM2VG9XTTIyMG1Nb21mMDA2MXoySVViNjlZbUcyT1IxT2FkMlg2T054c3N1NG9MakJQYWNoMWgxNUZTWkFrWWdYZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-09T14:08:06+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "064d6a49fd35da4972ccfc136bd799f6",
@@ -211,6 +230,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "69a2518f575d58a81dc675a76cbe539b",
+          "title": "[단독][2028대입] 내신5등급제 '1등급보다 높은 2등급'..대학별 교과전형...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635859",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-09T09:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "bfd924d6c9a27b5c3e1d792c009d0225",
           "title": "[2027추천고교]  '문호확대로 강력해진 의대강호’ 현대청운고.. 수시/정시 아우르는 진학 스펙트럼",
@@ -523,10 +552,10 @@
           "title": "[단독] [2027정시] '역대급 사탐런 전략적 대응' 탐구 1개 반영 대학.. 조선대 의예 등 의약계열 4개 '주목'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636030",
           "source": "베리타스알파",
-          "published": "2026-11-09T09:00:24.524296+00:00",
+          "published": "2026-11-09T20:24:16.857497+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "efb920d4df121a8ab28dd09f0cf00314",
@@ -653,7 +682,7 @@
           "title": "[2027 정시] 수학 40% 경영학과부터 수학 미반영까지…2027 정시 계산법 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Z081ak5iMEN2cGxjVHhISVF6Nlhxa294ajdNWUVFMUx3TjF6MUxtbjVYRFRidVZWQnpNem9RSEh0cDJvM2kwZFZ5OFJCZ0J1NXY5WlFXSFlRRnJQMllYaGZWQVZIZw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-10-29T07:43:24+00:00",
+          "published": "2026-10-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -704,7 +733,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0af8885615632b2f619ee2b289a0b794",
@@ -715,7 +744,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f18872f366ef9e0734a8e38258e16172",
@@ -726,7 +755,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7b82978e56b0f2ffce980b3ef8146a69",
@@ -737,7 +766,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "07abd6b085daf767f27b0dffb099e114",
@@ -989,6 +1018,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "532116034917f2f784c1f4aec13c009e",
+          "title": "[2027수시] 경기대, 27일 논술.. 오전 10시 20분, 오후 3시 20분 입실 마감 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tSVNGU3pNYnl2V2h6N3pIcnVscmtqMVVwWFY1WlgxVTFSczFyY2VybTExeDRLZE5aRjBYS0dZRHdzUWRhTkxnYnZiOURUdXlrVC05TENMcng0QTNLanp2VXhFSEhVT1VldWc?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-09T09:08:53+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "5a0f1889fad6096758a21ffabee4692a",
           "title": "목동씨사이트학원, 국민대 논술 파이널 특강…현장·줌 동시 운영",
           "link": "https://n.news.naver.com/mnews/article/022/0004173574?sid=101",
@@ -1066,6 +1105,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "12ee8d35c4db695792d8dcc3c7523fb7",
+          "title": "수능 전 반드시 확인하고 또 확인하세요",
+          "link": "http://www.ujeil.com/news/articleView.html?idxno=394997",
+          "source": "www.ujeil.com",
+          "published": "2026-11-09T11:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "dc33c514d1cacda51a2e97ca2bae8072",
+          "title": "수능 D-10, 학부모 합격 기원 기도 열기 - https://www.2news.co.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTF9oc2E4YmJRZk1qSE9Qejlxei1xVnpXUXJYNUppU3QwS3JhNUtKcTY5RzVDMm42cHNpMGh5bWxaNnE3b0FYVmFPeVg3UzE2bG5lVlpkbVh3ZkxJQmZTZHNPMVZIbUJT?oc=5",
+          "source": "https://www.2news.co.kr/",
+          "published": "2026-11-09T10:27:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1c9cbf24f098e043798da231e694c9fd",
           "title": "동국대 듀이카, 2027학년도 신입생 모집…일반 전공 인성면접 선발",
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=325684",
@@ -1073,7 +1132,7 @@
           "published": "2026-11-09T07:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2210df57894259f8a5db99e59a915247",
@@ -1083,7 +1142,7 @@
           "published": "2026-11-09T04:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "73e17f5af293a9f8343415b12db472ca",
@@ -1093,7 +1152,7 @@
           "published": "2026-11-09T02:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0d06ed50b9a9ace57a9e43870ab0409a",
@@ -1270,7 +1329,7 @@
           "published": "2026-11-09T04:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "549e7414e8d683754e37f93f4b7d73f1",
@@ -1290,7 +1349,7 @@
           "published": "2026-11-09T01:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c51e84faa5bad63c80ad91db02c1ffc",
