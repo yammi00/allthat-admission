@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:14:04.784663+00:00",
+  "updated_at": "2026-11-10T19:43:17.026341+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-10T11:59:18.500227+00:00",
+          "published": "2026-11-10T19:28:51.721436+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +32,7 @@
           "published": "2026-11-10T05:25:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "174e59784c1fbbe0b786cc2b58fad9b6",
@@ -223,16 +223,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "0bd24134d3c20187c4c0cdc6697f82f6",
-          "title": "미래엔, 기출 중심 고등학교 수학 내신 대비 '실전FIT' 출시",
-          "link": "https://n.news.naver.com/mnews/article/030/0003479314?sid=105",
-          "source": "www.etnews.com",
-          "published": "2026-10-27T12:27:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -249,7 +239,7 @@
           "published": "2026-11-10T08:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e13972d8cc41d6f9399dfe2e9a44b72",
@@ -259,7 +249,7 @@
           "published": "2026-11-10T06:15:29+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "69a2518f575d58a81dc675a76cbe539b",
@@ -1143,7 +1133,7 @@
           "published": "2026-11-10T09:35:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "eae140500efd56cbc44b44abe5f8bccd",
@@ -1153,7 +1143,7 @@
           "published": "2026-11-10T05:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7783662725103b6725eb6609d8fb6ead",
@@ -1377,10 +1367,10 @@
           "title": "[단독] [2026진학률] ‘대입 겨냥’ 전국 고교 77.9% ‘하락’.. 영재학교 전국자사고 ‘하락’, 광역자사고 ‘상승’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636287",
           "source": "베리타스알파",
-          "published": "2026-11-10T12:11:44.163281+00:00",
+          "published": "2026-11-10T19:40:57.829976+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ad55c8f7d020b574043c412e1d33c078",
@@ -1390,7 +1380,7 @@
           "published": "2026-11-10T10:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0d60b7fef01b27f89d7c470c5f65967a",
