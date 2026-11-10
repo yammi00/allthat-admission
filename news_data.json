@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:09:38.235511+00:00",
+  "updated_at": "2026-11-10T12:14:04.784663+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-10T03:55:06.908864+00:00",
+          "published": "2026-11-10T11:59:18.500227+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "82cd1518f6ae52014f9adc6e8ddbcf49",
+          "title": "작년 '불수능'보다 쉽다지만 안심 못 한다…올해 승부처는 '어디'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009281217?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-10T05:25:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "174e59784c1fbbe0b786cc2b58fad9b6",
@@ -32,7 +42,7 @@
           "published": "2026-11-10T00:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "94f1d80fd791bc6762b47df824f9f221",
@@ -223,16 +233,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "3a29c49d97184c479ac42fe7e8231363",
-          "title": "미래엔, 고등 수학 훈련서 출간",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876742",
-          "source": "www.hansbiz.co.kr",
-          "published": "2026-10-27T06:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -241,6 +241,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "39ab63d25d679340a2a16bb9f6ffbd85",
+          "title": "대입 개편 국민 의견은 &quot;수능 중심 단순화...서·논술형은 공정성 우려...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005439212?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-11-10T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8e13972d8cc41d6f9399dfe2e9a44b72",
+          "title": "미용학원 노블리즈뷰티아카데미, 2027학년도 서울·경기권 대학 수시 합격 성과 - 대한경제",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81REJ4Q0g2S0hRQ2lmaWhpeFNmU3M1SV80SUpoZVg2ay1kRXdsT1czRS1SQ2NLOVdnWU5QdzVfc1h6bDRZa01iV29NaXJ2NGozNG9yRFpCQkhoT3hOUC1taGJUanlwNVZkYUg3REZWclp0X0xB?oc=5",
+          "source": "대한경제",
+          "published": "2026-11-10T06:15:29+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "69a2518f575d58a81dc675a76cbe539b",
           "title": "[단독][2028대입] 내신5등급제 '1등급보다 높은 2등급'..대학별 교과전형...",
@@ -287,6 +307,16 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003563717?sid=102",
           "source": "www.joongang.co.kr",
           "published": "2026-11-08T20:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "f9a1ad0744f122b3d37c0dd2b53e3817",
+          "title": "현 체제 마지막 수능…‘N수생·영어 난이도’ 성패 변수",
+          "link": "http://www.jndn.com/article.php?aid=1794126384442639005",
+          "source": "www.jndn.com",
+          "published": "2026-11-08T08:30:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -540,16 +570,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "e2f1950ca0ed2a50c8b0d79b23af0961",
-          "title": "[단독][2027정시] '폭풍추합' 다군 지각변동.. 시립대 '폐지' 다군 없는...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633708",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-27T07:12:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -559,16 +579,6 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "18e893c19fd73d4081304078f2e06261",
-          "title": "[단독] [2027정시] '역대급 사탐런 전략적 대응' 탐구 1개 반영 대학.. 조선대 의예 등 의약계열 4개 '주목'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636030",
-          "source": "베리타스알파",
-          "published": "2026-11-10T03:59:57.169423+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
           "title": "성동구, 고교 교실로 입시 전문가 파견…‘찾아가는 정시 진학상담’ 시...",
           "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065561304812720",
@@ -576,7 +586,17 @@
           "published": "2026-11-09T21:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "18e893c19fd73d4081304078f2e06261",
+          "title": "[단독] [2027정시] '역대급 사탐런 전략적 대응' 탐구 1개 반영 대학.. 조...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636030",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-09T09:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "efb920d4df121a8ab28dd09f0cf00314",
@@ -1116,6 +1136,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8b19c26afc5d9e7f8895b9d63590c743",
+          "title": "“출퇴근·대입 논술 어쩌나”…서울 지하철 노조, 25일 총파업 예고",
+          "link": "https://n.news.naver.com/mnews/article/016/0002721609?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-11-10T09:35:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "eae140500efd56cbc44b44abe5f8bccd",
+          "title": "두원공과대학교, 11일부터 수시 2차 모집...미래 산업 수요 반영한 인재...",
+          "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249411",
+          "source": "www.sisunnews.co.kr",
+          "published": "2026-11-10T05:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7783662725103b6725eb6609d8fb6ead",
           "title": "잇올 랩, 2027수능 직후 정시 컨설팅…면접·논술 첨삭도 진행",
           "link": "https://www.abcn.kr/news/articleView.html?idxno=94312",
@@ -1123,7 +1163,7 @@
           "published": "2026-11-10T03:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12ee8d35c4db695792d8dcc3c7523fb7",
@@ -1147,7 +1187,7 @@
         },
         {
           "id": "1c9cbf24f098e043798da231e694c9fd",
-          "title": "동국대 듀이카, 2027학년도 신입생 모집…일반 전공 인성면접 선발",
+          "title": "동국대 듀이카, 내신·수능 미반영 신입생 모집…전문대 수시 2차 지원 ...",
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=325684",
           "source": "www.thepublic.kr",
           "published": "2026-11-09T07:24:00+00:00",
@@ -1333,6 +1373,26 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "33dcd028b956eea8ce428ee411ca5fbb",
+          "title": "[단독] [2026진학률] ‘대입 겨냥’ 전국 고교 77.9% ‘하락’.. 영재학교 전국자사고 ‘하락’, 광역자사고 ‘상승’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636287",
+          "source": "베리타스알파",
+          "published": "2026-11-10T12:11:44.163281+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ad55c8f7d020b574043c412e1d33c078",
+          "title": "[입시의 정석] 외고·국제고 입시…합격 전략은?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60788708/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-10T10:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0d60b7fef01b27f89d7c470c5f65967a",
           "title": "[대담]부산시의회 박준영의원, '부산 고교생 학업중단' 천 명 어디로?",
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881662",
@@ -1340,7 +1400,7 @@
           "published": "2026-11-10T03:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c3294c3f4197487a20f011bf867f00be",
