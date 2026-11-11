@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:43:17.026341+00:00",
+  "updated_at": "2026-11-11T00:36:02.092183+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-10T19:28:51.721436+00:00",
+          "published": "2026-11-11T00:21:25.585473+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "1217d957b3715b76a0f9d6ab30468927",
+          "title": "[거인의어깨 입시컨설팅] 2027학년도 SKY대 정시 공략법",
+          "link": "https://www.newspim.com/news/view/20261105000206",
+          "source": "www.newspim.com",
+          "published": "2026-11-10T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "82cd1518f6ae52014f9adc6e8ddbcf49",
@@ -532,21 +542,11 @@
           "is_new": false
         },
         {
-          "id": "9b2331305bc697c3be195be34db7969e",
-          "title": "'등록금 0원' 효과?…지거국 수시지원자 26%는 '내신 1·2등급'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014283302?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-28T00:23:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "01c19bda14f05bda82877485d8235895",
-          "title": "“남은 기간 탐구 집중, EBS 틀린 문제 점검하세요”",
-          "link": "https://woman.donga.com/3/all/12/6433579/1",
-          "source": "woman.donga.com",
-          "published": "2026-10-27T22:02:00+00:00",
+          "id": "927fa99132c500e0d2a8b25ecc70b79c",
+          "title": "'인서울' 대신 실속 택했나… 거점국립대 수시 1·2등급 상위권 지원 늘...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005595703?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-10-28T02:28:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1283,26 +1283,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "6badb6e3dc638ec4dc3b7b3470e4efc4",
-          "title": "양천구, 2027 대입 정시 대비 ‘족집게 상담’ 나선다… 1:1 집중상담 확대 - 아시아뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42Vk03T3JLYWJyWWh4YS15dm5PbmdMNnA3U2dMWHlzeUdWbnhfTjJyTHdOX2ptbVRWdjdRalI4T3JQRDJMbmJaNTQxcU9qMTRaZTkxSmdlMHhhbUp2VllMOTB0Sk5qNC1PYmZ5eWFPYS1jQ2lp?oc=5",
-          "source": "아시아뉴스통신",
-          "published": "2026-10-28T00:32:06+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "2b3f9cb15d4f1712d81ba341c6f09977",
-          "title": "양천구, ‘2027 대입 정시 대비 집중상담’ 운영…“맞춤형 지원 전략 제시” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMnZFN3ppcUtFOUhneVo1SzdnTkg5Yk05QnZFVWpOR0NfM2VIQlZJamhndXhHcnJCcmx3VWZtaEhac2lBR3VJRHhhMXFBekdu?oc=5",
-          "source": "문화일보",
-          "published": "2026-10-27T21:37:16+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1316,7 +1296,7 @@
           "title": "[단독] [2026진학률] ‘대입 겨냥’ 전국 고교 77.9% ‘하락’.. 영재학교 전국자사고 ‘하락’, 광역자사고 ‘상승’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636287",
           "source": "베리타스알파",
-          "published": "2026-11-10T19:40:57.829976+00:00",
+          "published": "2026-11-11T00:33:40.184412+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
