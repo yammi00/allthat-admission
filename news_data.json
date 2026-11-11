@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-11T08:56:33.273265+00:00",
+  "updated_at": "2026-11-11T17:51:40.532468+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-11T08:41:59.927041+00:00",
+          "published": "2026-11-11T17:37:00.617748+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +28,10 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-11T08:41:57.888059+00:00",
+          "published": "2026-11-11T17:36:58.288846+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1bc95448497cd70bf974b1055a16422d",
@@ -42,7 +41,7 @@
           "published": "2026-11-11T07:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1c7ae7cbc93448f33cf80e35c85d5180",
@@ -52,7 +51,7 @@
           "published": "2026-11-11T06:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c2f4fa490278baeedfb6d83025d87819",
@@ -62,7 +61,7 @@
           "published": "2026-11-11T02:53:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1217d957b3715b76a0f9d6ab30468927",
@@ -286,10 +285,10 @@
           "title": "[2027수시면접] 한양대 면접 어떻게 나올까.. 공대/한양인터칼리지 제시문, 의예/사범 학생부 기반",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636334",
           "source": "베리타스알파",
-          "published": "2026-11-11T08:44:21.218615+00:00",
+          "published": "2026-11-11T17:39:24.964671+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dca60b486da13fda4337556a275a4017",
@@ -299,7 +298,7 @@
           "published": "2026-11-11T04:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "39ab63d25d679340a2a16bb9f6ffbd85",
@@ -603,10 +602,10 @@
           "title": "올해 의대 선발 492명 늘었는데…정시 일반전형은 21명 감소",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54654",
           "source": "에듀진",
-          "published": "2026-11-11T08:46:52.712565+00:00",
+          "published": "2026-11-11T17:41:55.309980+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
@@ -1152,7 +1151,7 @@
           "published": "2026-11-11T00:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7783662725103b6725eb6609d8fb6ead",
