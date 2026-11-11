@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:36:02.092183+00:00",
+  "updated_at": "2026-11-11T08:56:33.273265+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,50 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-11T00:21:25.585473+00:00",
+          "published": "2026-11-11T08:41:59.927041+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3111135ff401522c95dd186c0355115b",
+          "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
+          "source": "에듀진",
+          "published": "2026-11-11T08:41:57.888059+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1bc95448497cd70bf974b1055a16422d",
+          "title": "[수능 D-7] 지역 수험생 막바지 총력전…&quot;핵심 개념 짚고 생활 리듬 조절...",
+          "link": "https://n.news.naver.com/mnews/article/088/0001039777?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-11-11T07:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1c7ae7cbc93448f33cf80e35c85d5180",
+          "title": "수능 D-7 현행 체제 마지막 시험⋯ 새 공부보다 오답 정리 집중",
+          "link": "http://www.cctimes.kr/news/articleView.html?idxno=936761",
+          "source": "www.cctimes.kr",
+          "published": "2026-11-11T06:22:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c2f4fa490278baeedfb6d83025d87819",
+          "title": "의대 정원 492명 늘었지만 정시 모집은 되레 줄어",
+          "link": "https://n.news.naver.com/mnews/article/020/0003761680?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-11-11T02:53:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1217d957b3715b76a0f9d6ab30468927",
@@ -32,7 +72,7 @@
           "published": "2026-11-10T22:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "82cd1518f6ae52014f9adc6e8ddbcf49",
@@ -241,6 +281,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "f20a7ff06bce08264f850229f20ff444",
+          "title": "[2027수시면접] 한양대 면접 어떻게 나올까.. 공대/한양인터칼리지 제시문, 의예/사범 학생부 기반",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636334",
+          "source": "베리타스알파",
+          "published": "2026-11-11T08:44:21.218615+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "dca60b486da13fda4337556a275a4017",
+          "title": "수능 끝나면 논술·면접 줄줄이…대학별고사도 남았다",
+          "link": "https://n.news.naver.com/mnews/article/421/0009283314?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-11T04:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "39ab63d25d679340a2a16bb9f6ffbd85",
           "title": "대입 개편 국민 의견은 &quot;수능 중심 단순화...서·논술형은 공정성 우려...",
@@ -530,26 +590,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "f01184d62e75f3fb50e2922ab99b94e4",
-          "title": "[단독] 2028 주요22개대 '재학생 전용' 20개 전형 8024명 ..'재학생/N수생...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633924",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-28T08:14:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "927fa99132c500e0d2a8b25ecc70b79c",
-          "title": "'인서울' 대신 실속 택했나… 거점국립대 수시 1·2등급 상위권 지원 늘...",
-          "link": "https://n.news.naver.com/mnews/article/014/0005595703?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-10-28T02:28:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -558,6 +598,16 @@
       "name": "정시",
       "emoji": "📊",
       "items": [
+        {
+          "id": "27cdc95a9f12d073948ad5031755a61d",
+          "title": "올해 의대 선발 492명 늘었는데…정시 일반전형은 21명 감소",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54654",
+          "source": "에듀진",
+          "published": "2026-11-11T08:46:52.712565+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
           "title": "성동구, 고교 교실로 입시 전문가 파견…‘찾아가는 정시 진학상담’ 시...",
@@ -714,16 +764,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
           "source": "에듀진",
           "published": "2026-10-29T01:32:53.774856+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "ad81c47117b02d54ee1d6e02813a657e",
-          "title": "최주영 강사 &quot;고려대 정시 내신 20%의 함정, 3등급 이내면 사실상 수능&quot;...",
-          "link": "https://www.nongup.net/news/articleView.html?idxno=33925",
-          "source": "www.nongup.net",
-          "published": "2026-10-28T04:28:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1105,6 +1145,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a7c6c196681bc05a348c541aec87a029",
+          "title": "수시 불합격·예비번호 받은 수험생들… '학사편입' 새로운 진학 대안으...",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3447707",
+          "source": "www.newscj.com",
+          "published": "2026-11-11T00:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "7783662725103b6725eb6609d8fb6ead",
           "title": "잇올 랩, 2027수능 직후 정시 컨설팅…면접·논술 첨삭도 진행",
           "link": "https://www.abcn.kr/news/articleView.html?idxno=94312",
@@ -1270,16 +1320,6 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005433930?sid=101",
           "source": "www.mt.co.kr",
           "published": "2026-10-29T08:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "aec5e8e10053bac7c0876d753a316a31",
-          "title": "[2027 정시] 정시 최종 경쟁률, 다음 날 오전 9시 공개 추진…고3이 챙길 변화 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4YnBZamZGVE83WjRvWGE5d2FVQTRBUC1jcmtXUnNwMzBFTDBKaUpzTUZ6S1UxVGhxcnVvODFvRzJfaFlOd2dwd0F3U19FVURTLTYzZUdGRE01dHhwU2YyeC0xYmF6UQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-10-28T08:01:05+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
