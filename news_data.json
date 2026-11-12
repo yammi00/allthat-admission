@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-12T14:39:55.609637+00:00",
+  "updated_at": "2026-11-12T22:14:32.719579+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-12T14:25:25.682927+00:00",
+          "published": "2026-11-12T21:59:34.960660+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +28,7 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-12T14:25:23.064769+00:00",
+          "published": "2026-11-12T21:59:32.523219+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -301,6 +300,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "0d93f5e7f07a64f454ad9a4130917be4",
+          "title": "동국대 듀이카, 검정고시 출신 연세대 간호학과·중앙대 심리학과 합격...",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=326516",
+          "source": "www.thepublic.kr",
+          "published": "2026-11-12T16:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "f20a7ff06bce08264f850229f20ff444",
           "title": "[2027수시면접] 한양대 면접 어떻게 나올까.. 공대/한양인터칼리지 제시문, 의예/사범 학생부 기반",
@@ -583,10 +592,10 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-12T14:30:15.012922+00:00",
+          "published": "2026-11-12T22:04:33.276868+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
