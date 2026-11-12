@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T05:28:52.788962+00:00",
+  "updated_at": "2026-11-12T14:39:55.609637+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-12T05:13:56.746861+00:00",
+          "published": "2026-11-12T14:25:25.682927+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,7 +29,7 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-12T05:13:54.458229+00:00",
+          "published": "2026-11-12T14:25:23.064769+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -42,7 +42,7 @@
           "published": "2026-11-12T01:37:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "15fe9edb469db6a14818bdefa2b337a7",
@@ -52,7 +52,7 @@
           "published": "2026-11-12T00:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1bc95448497cd70bf974b1055a16422d",
@@ -570,16 +570,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "9b3943062b690ed6796754b46cfd19ab",
-          "title": "[단독] 숭실대 2027정시 합격예측 프로그램 공개 '주요22개대 최초'.. 3개...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634155",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-29T07:40:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -589,14 +579,14 @@
       "emoji": "📊",
       "items": [
         {
-          "id": "27cdc95a9f12d073948ad5031755a61d",
-          "title": "올해 의대 선발 492명 늘었는데…정시 일반전형은 21명 감소",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54654",
+          "id": "5131896acdde4b432e737f5427be564a",
+          "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-12T05:18:57.493436+00:00",
+          "published": "2026-11-12T14:30:15.012922+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
@@ -734,16 +724,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
           "source": "에듀진",
           "published": "2026-10-30T01:34:11.501479+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "6c6d8b31f01ab5ea658fc72622a19c30",
-          "title": "[2027 정시] 수학 40% 경영학과부터 수학 미반영까지…2027 정시 계산법 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Z081ak5iMEN2cGxjVHhISVF6Nlhxa294ajdNWUVFMUx3TjF6MUxtbjVYRFRidVZWQnpNem9RSEh0cDJvM2kwZFZ5OFJCZ0J1NXY5WlFXSFlRRnJQMllYaGZWQVZIZw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-10-29T07:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1303,16 +1283,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "56c0416b61407bb4a438937efe06ed22",
-          "title": "2027학년도 수능 앞두고 반드시 점검해야 할 5가지 주의사항",
-          "link": "https://n.news.naver.com/mnews/article/008/0005433930?sid=101",
-          "source": "www.mt.co.kr",
-          "published": "2026-10-29T08:52:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1329,7 +1299,7 @@
           "published": "2026-11-12T00:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "33dcd028b956eea8ce428ee411ca5fbb",
