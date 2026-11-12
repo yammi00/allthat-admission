@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:10:03.753651+00:00",
+  "updated_at": "2026-11-12T05:28:52.788962+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-11T23:55:04.453346+00:00",
+          "published": "2026-11-12T05:13:56.746861+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -29,10 +29,30 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-11T23:55:02.241011+00:00",
+          "published": "2026-11-12T05:13:54.458229+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ae0754f3e85a6481a032dc6cf9b2a141",
+          "title": "'수능 일주일' 새 문제보다 오답 정리·컨디션 관리 집중해야",
+          "link": "https://n.news.naver.com/mnews/article/421/0009285136?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-12T01:37:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "15fe9edb469db6a14818bdefa2b337a7",
+          "title": "[지상범 입시 토크] 2028 대입 개편 체제하 일반고 내신 1등급의 평가 가...",
+          "link": "http://www.metroseoul.co.kr/article/20261112500046",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-12T00:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "1bc95448497cd70bf974b1055a16422d",
@@ -560,26 +580,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b09ab9051c14751f8a6bcc3fcffcd397",
-          "title": "수시 면접에서 가장 위험한 답변은? 학생들이 놓치는 결정적 한 가지",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54512",
-          "source": "에듀진",
-          "published": "2026-10-29T01:30:18.259203+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "151bc279d32aaf0a6c5e5dc59042c042",
-          "title": "[지상범 입시 토크] 2028 대입 승패를 가르는 변수: '교과세특' 스토리텔...",
-          "link": "http://www.metroseoul.co.kr/article/20261029500105",
-          "source": "www.metroseoul.co.kr",
-          "published": "2026-10-29T00:32:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -593,7 +593,7 @@
           "title": "올해 의대 선발 492명 늘었는데…정시 일반전형은 21명 감소",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54654",
           "source": "에듀진",
-          "published": "2026-11-12T00:00:02.928990+00:00",
+          "published": "2026-11-12T05:18:57.493436+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -744,16 +744,6 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Z081ak5iMEN2cGxjVHhISVF6Nlhxa294ajdNWUVFMUx3TjF6MUxtbjVYRFRidVZWQnpNem9RSEh0cDJvM2kwZFZ5OFJCZ0J1NXY5WlFXSFlRRnJQMllYaGZWQVZIZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-10-29T07:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "738552aa019f80eaf8601b3c73fc965c",
-          "title": "[정시분석] 경기대, 경쟁률보다 '환산점수'…모집인원·충원 흐름이 합격을 바꾼다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54443",
-          "source": "에듀진",
-          "published": "2026-10-29T01:32:53.774856+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1142,7 +1132,7 @@
           "published": "2026-11-12T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a7c6c196681bc05a348c541aec87a029",
@@ -1331,6 +1321,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "a7738e7ba959f5fa6c0abb3ced37f1a8",
+          "title": "EBSi, 고교학점제·내신 5등급제 등 변화된 교육환경 대비 '예비 고1 겨울...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=213659",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-12T00:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "33dcd028b956eea8ce428ee411ca5fbb",
           "title": "[단독] [2026진학률] ‘대입 겨냥’ 전국 고교 77.9% ‘하락’.. 영재학교 전국자사고 ‘하락’, 광역자사고 ‘상승’",
