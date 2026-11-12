@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-11-11T17:51:40.532468+00:00",
+  "updated_at": "2026-11-12T00:10:03.753651+00:00",
   "available_archives": [
+    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-11T17:37:00.617748+00:00",
+          "published": "2026-11-11T23:55:04.453346+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +29,7 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-11T17:36:58.288846+00:00",
+          "published": "2026-11-11T23:55:02.241011+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -285,7 +286,7 @@
           "title": "[2027수시면접] 한양대 면접 어떻게 나올까.. 공대/한양인터칼리지 제시문, 의예/사범 학생부 기반",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636334",
           "source": "베리타스알파",
-          "published": "2026-11-11T17:39:24.964671+00:00",
+          "published": "2026-11-11T23:57:28.201340+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -579,16 +580,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "b75771e93e491ecbfcf0e458eff67881",
-          "title": "입시 파고든 'AI 안경'…시험 앞둔 대학들 단속·지침 마련 분주",
-          "link": "https://n.news.naver.com/mnews/article/003/0014285926?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-10-28T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -602,7 +593,7 @@
           "title": "올해 의대 선발 492명 늘었는데…정시 일반전형은 21명 감소",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54654",
           "source": "에듀진",
-          "published": "2026-11-11T17:41:55.309980+00:00",
+          "published": "2026-11-12T00:00:02.928990+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1143,6 +1134,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "edd7e7455a20f651dffb671240e7bafd",
+          "title": "[유성룡의 입시포인트] 연세대학교(서울) 2027학년도 정시 모집 입학전...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/11/10/2026111080118.html",
+          "source": "edu.chosun.com",
+          "published": "2026-11-12T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a7c6c196681bc05a348c541aec87a029",
           "title": "수시 불합격·예비번호 받은 수험생들… '학사편입' 새로운 진학 대안으...",
