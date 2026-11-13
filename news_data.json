@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:00:58.888976+00:00",
+  "updated_at": "2026-11-13T19:16:15.510823+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-13T11:46:09.267802+00:00",
+          "published": "2026-11-13T19:01:26.684593+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -32,7 +31,7 @@
           "published": "2026-11-13T09:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e7a2abdefbd16648be6df93b66d9465e",
@@ -42,7 +41,7 @@
           "published": "2026-11-13T09:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3892e86d7827628b380ee7762be8f2ac",
@@ -52,7 +51,7 @@
           "published": "2026-11-13T06:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5a83dfe9cd8ae61832b8c367d97a92f4",
@@ -62,7 +61,7 @@
           "published": "2026-11-13T06:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdc6b8464a1a7ef352def9327fff17d0",
@@ -72,7 +71,7 @@
           "published": "2026-11-13T03:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3111135ff401522c95dd186c0355115b",
@@ -386,10 +385,10 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-13T11:48:35.005018+00:00",
+          "published": "2026-11-13T19:03:50.879827+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "307c352930e1fa6256b79e8ceb9c47d4",
@@ -399,7 +398,7 @@
           "published": "2026-11-13T07:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "37378ec9d38e8a898bad7365fc245fb4",
@@ -409,7 +408,7 @@
           "published": "2026-11-13T06:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0d93f5e7f07a64f454ad9a4130917be4",
@@ -673,7 +672,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-13T11:51:08.368452+00:00",
+          "published": "2026-11-13T19:06:22.751116+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -683,10 +682,10 @@
           "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
           "source": "베리타스알파",
-          "published": "2026-11-13T11:51:06.870041+00:00",
+          "published": "2026-11-13T19:06:21.820968+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89172754d0f3d4ca5ddd086ddad5b217",
@@ -696,7 +695,7 @@
           "published": "2026-11-13T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
@@ -1136,7 +1135,7 @@
           "published": "2026-11-13T06:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "532116034917f2f784c1f4aec13c009e",
@@ -1206,6 +1205,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "cb0299be55c224f1ef992e87850c07a5",
+          "title": "2027학년도 전문대학 수시 2차 원서접수 11월 11일 시작…합격 후 정시 지원 규칙은 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YYmZCSDRHTDJjNWJUYTZ5M2ExU25SV0RfWlhiVlpRVWZJME9UajZwbzZCeVB5Mk02LU05NzE1dmhNRWZNN0w5VzNSdmVVbDBSQkloSjZzcHhzZ1k4SEIzcXRDQUFWdw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-13T13:35:50+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8b3aac1b626bb32f8312e758cfa2b84e",
           "title": "나우즈, 수능 당일 한강서 응원 버스킹",
           "link": "https://www.bntnews.co.kr/article/view/bnt202611130043",
@@ -1213,7 +1222,7 @@
           "published": "2026-11-12T22:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "edd7e7455a20f651dffb671240e7bafd",
