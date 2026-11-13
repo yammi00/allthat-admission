@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:43:44.251901+00:00",
+  "updated_at": "2026-11-13T12:00:58.888976+00:00",
   "available_archives": [
     "2026-10",
     "2026-07",
@@ -19,10 +19,60 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-13T02:28:49.716168+00:00",
+          "published": "2026-11-13T11:46:09.267802+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "40ef1e94683e2e89fcdbae49d6e6ed4b",
+          "title": "수능 관련 정보와 콘텐츠도 네이버에서 확인하자 소식 외",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62310",
+          "source": "www.gamevu.co.kr",
+          "published": "2026-11-13T09:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e7a2abdefbd16648be6df93b66d9465e",
+          "title": "[이슈] 수능 앞두고 스마트안경 활용 부정행위 우려 확산…정부 &quot;무관용...",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748438",
+          "source": "www.polinews.co.kr",
+          "published": "2026-11-13T09:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3892e86d7827628b380ee7762be8f2ac",
+          "title": "[단독][2027수능] 만점자로 본 최근 10년간 난이도.. 지난해 '불수능' 만...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=632576",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-13T06:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5a83dfe9cd8ae61832b8c367d97a92f4",
+          "title": "D-6 수능 난도 전망 &quot;국어·수학 작년과 비슷, 영어 지난해보다 쉬울것...",
+          "link": "https://n.news.naver.com/mnews/article/008/0005440845?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-11-13T06:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bdc6b8464a1a7ef352def9327fff17d0",
+          "title": "2026 수능 날짜·시간표·준비물·출근시간·등급컷·수능 선물 총정리",
+          "link": "https://www.christiantoday.co.kr/news/378609",
+          "source": "www.christiantoday.co.kr",
+          "published": "2026-11-13T03:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3111135ff401522c95dd186c0355115b",
@@ -42,7 +92,7 @@
           "published": "2026-11-13T02:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e300e6dcb30aef1a9da3260dafe4e7c0",
@@ -52,7 +102,7 @@
           "published": "2026-11-13T01:11:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9c4de5899d8a0d857d8953f2ef00e052",
@@ -62,7 +112,7 @@
           "published": "2026-11-13T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e83618ceb817a2a0dfe78306132c9764",
@@ -72,7 +122,7 @@
           "published": "2026-11-12T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae0754f3e85a6481a032dc6cf9b2a141",
@@ -323,16 +373,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "491c589590395b159cf70c71f2a4f089",
-          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-30T08:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -341,6 +381,36 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "6dcd2d4644ffd40a53f5e2c7b7963960",
+          "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
+          "source": "베리타스알파",
+          "published": "2026-11-13T11:48:35.005018+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "307c352930e1fa6256b79e8ceb9c47d4",
+          "title": "수능 D-7, 지금 가장 중요한 것은? 입시 전문가 임성호 대표가 답하다",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113791",
+          "source": "edu.donga.com",
+          "published": "2026-11-13T07:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "37378ec9d38e8a898bad7365fc245fb4",
+          "title": "[2027추천고교] '경기 신흥명문 부상' 양서고..2028 겨냥 수시체제 '히든...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634474",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-13T06:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "0d93f5e7f07a64f454ad9a4130917be4",
           "title": "동국대 듀이카, 검정고시 출신 연세대 간호학과·중앙대 심리학과 합격...",
@@ -397,16 +467,6 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635859",
           "source": "www.veritas-a.com",
           "published": "2026-11-09T09:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "bfd924d6c9a27b5c3e1d792c009d0225",
-          "title": "[2027추천고교]  '문호확대로 강력해진 의대강호’ 현대청운고.. 수시/정시 아우르는 진학 스펙트럼",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=633321",
-          "source": "베리타스알파",
-          "published": "2026-11-09T01:22:47.986219+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -600,36 +660,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "c4413c4eff71fc115e72594c74bc8789",
-          "title": "[2027대입] 상위 15개대 ‘4%부터 15%까지 널뛰기 절대평가' 영어 반영방법 '촉각' .. ‘수능최저부터 정시 반영비율까지’ - 베리타스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZLTlvalhxTjRHSjZMVFZXQTA0QkhhUUdVaDdkcVFRWVdFbTVoSHUtbWw0Sml2OEtCVjROc2hFSFFGNVRqZnpCODc3LTEtZnBoQ1M0TW1MVnpOYVJ1M0o0NFEzYXRfcFVpRndheQ?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-10-30T08:06:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "622dfbd669039b655fa19acf8851a5fa",
-          "title": "[2027수시면접] 성균관대 면접 3년 기출분석.. 지난해 사범대 '스마트폰', 자유전공 '유전자 조작' 찬반",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634269",
-          "source": "베리타스알파",
-          "published": "2026-10-30T07:58:59.777032+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "c736b273331cd0d3a354d59ecb2a15ec",
-          "title": "[단독] '속도전/N수 유리' 수능 전면개편해야.. '2028개편도 객관식 유지...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=634401",
-          "source": "www.veritas-a.com",
-          "published": "2026-10-30T07:32:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -643,10 +673,30 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-13T02:33:45.876047+00:00",
+          "published": "2026-11-13T11:51:08.368452+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "71782984efcff7f9cf398c3eb58d8846",
+          "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
+          "source": "베리타스알파",
+          "published": "2026-11-13T11:51:06.870041+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "89172754d0f3d4ca5ddd086ddad5b217",
+          "title": "2027학년도 정시설명회 신청 시작… 수능 성적 분석부터 대학별 지원 전...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113759",
+          "source": "edu.donga.com",
+          "published": "2026-11-13T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ac272eea38b0f1bfed5f6d259e696641",
@@ -794,7 +844,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b42a1a595dcd9ec1e8ef0e48956a0a96",
@@ -1079,6 +1129,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "00f159cdeda2d106a393e958078c5bd5",
+          "title": "2027 대학별 맞춤형 논술 풀이 및 코칭 서비스 무료 제공…고려대 등 19...",
+          "link": "https://n.news.naver.com/mnews/article/030/0003485452?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-11-13T06:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "532116034917f2f784c1f4aec13c009e",
           "title": "[2027수시] 경기대, 27일 논술.. 오전 10시 20분, 오후 3시 20분 입실 마감 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tSVNGU3pNYnl2V2h6N3pIcnVscmtqMVVwWFY1WlgxVTFSczFyY2VybTExeDRLZE5aRjBYS0dZRHdzUWRhTkxnYnZiOURUdXlrVC05TENMcng0QTNLanp2VXhFSEhVT1VldWc?oc=5",
@@ -1137,26 +1197,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "b59dc17fe5b3c669a60aa87aa9204e3a",
-          "title": "수능 이후 대입 전략, 대학별 논술고사 대비 중요…",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=113376",
-          "source": "edu.donga.com",
-          "published": "2026-10-30T07:16:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "95c90db73e94b3036a0c45f169b51f93",
-          "title": "진학사, 2027 수시 대비 ‘온라인 모의논술’ 서비스 오픈",
-          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/30/2026103080154.html",
-          "source": "edu.chosun.com",
-          "published": "2026-10-30T06:10:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
         }
       ]
     },
@@ -1165,6 +1205,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "8b3aac1b626bb32f8312e758cfa2b84e",
+          "title": "나우즈, 수능 당일 한강서 응원 버스킹",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202611130043",
+          "source": "www.bntnews.co.kr",
+          "published": "2026-11-12T22:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "edd7e7455a20f651dffb671240e7bafd",
           "title": "[유성룡의 입시포인트] 연세대학교(서울) 2027학년도 정시 모집 입학전...",
