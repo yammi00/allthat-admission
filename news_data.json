@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-11-12T22:14:32.719579+00:00",
+  "updated_at": "2026-11-13T02:43:44.251901+00:00",
   "available_archives": [
+    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-12T21:59:34.960660+00:00",
+          "published": "2026-11-13T02:28:49.716168+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +29,50 @@
           "title": "고2 모의고사 오답, 고3까지 반복되는 학생들의 공통점",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54648",
           "source": "에듀진",
-          "published": "2026-11-12T21:59:32.523219+00:00",
+          "published": "2026-11-13T02:28:47.484033+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "c47a2a00c7469e8871c74aefb735c8df",
+          "title": "네이버, 수능 맞춤형 검색·콘텐츠 강화…출제 분석·정시 지원 서비스...",
+          "link": "https://www.ajunews.com/view/20261113111318555",
+          "source": "www.ajunews.com",
+          "published": "2026-11-13T02:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e300e6dcb30aef1a9da3260dafe4e7c0",
+          "title": "시험 준비부터 입시 전략까지…네이버, 수능 맞춤형 정보 제공한다",
+          "link": "https://n.news.naver.com/mnews/article/030/0003485327?sid=101",
+          "source": "www.etnews.com",
+          "published": "2026-11-13T01:11:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9c4de5899d8a0d857d8953f2ef00e052",
+          "title": "유니브클래스 정시설명회 개최…우리 아이에게 유리한 대학은 어디일지...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=213687",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-13T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e83618ceb817a2a0dfe78306132c9764",
+          "title": "[대입정보] 2027학년도 9월 모의평가 채점 결과 분석 &quot;널뛰는 영어 난이...",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=466276",
+          "source": "www.queen.co.kr",
+          "published": "2026-11-12T23:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ae0754f3e85a6481a032dc6cf9b2a141",
@@ -308,7 +349,7 @@
           "published": "2026-11-12T16:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f20a7ff06bce08264f850229f20ff444",
@@ -336,6 +377,16 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005439212?sid=102",
           "source": "www.mt.co.kr",
           "published": "2026-11-10T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "655d4069f841bf6b10fc0c19dc2bebd7",
+          "title": "미용학원 노블리즈뷰티아카데미, 2027학년도 서울·경기권 대학 수시 합격 성과 - 대한경제",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzbkx5Y0xNY2NYYnVQSVQ4eFBIT1h2TDViaGFjNmpmdE9KTzVUUDlveVFEMnNXY0hiYnRGLTRILU5hdEl2azVDNC1zYy1XYWJEbUR0SDRrQ2oyS1I1UXluSXZVbGNNWFdxVVNCUUtXcy1lSzQ?oc=5",
+          "source": "대한경제",
+          "published": "2026-11-10T06:15:29+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -592,7 +643,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-12T22:04:33.276868+00:00",
+          "published": "2026-11-13T02:33:45.876047+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -726,16 +777,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "a72d51c9329190fd45dd4d9ee853be15",
-          "title": "[정시분석] 동덕여대, 국어·수학 강점에 따라 합격선 달라진다",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54479",
-          "source": "에듀진",
-          "published": "2026-10-30T01:34:11.501479+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -744,6 +785,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "3729c8c55382278321cb71bbcb6ddd87",
+          "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789140",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-13T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "b42a1a595dcd9ec1e8ef0e48956a0a96",
           "title": "스마트 안경 관련 내신평가 부정행위 전수조사 결과",
@@ -1097,11 +1149,11 @@
           "is_new": false
         },
         {
-          "id": "b4c89aa6f35c42a868cf6e343d744fbb",
-          "title": "진학사, 2027 수시 대비 '온라인 모의논술' 서비스 오픈",
-          "link": "https://edu.donga.com/news/articleView.html?idxno=113336",
-          "source": "edu.donga.com",
-          "published": "2026-10-30T01:14:00+00:00",
+          "id": "95c90db73e94b3036a0c45f169b51f93",
+          "title": "진학사, 2027 수시 대비 ‘온라인 모의논술’ 서비스 오픈",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/10/30/2026103080154.html",
+          "source": "edu.chosun.com",
+          "published": "2026-10-30T06:10:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -1416,16 +1468,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUkRYb3I5amVCY0laUXZ0ZHFhaGpIdHhuS3Q3dEtPRVUyV3d0NEVDcER5Z3ZLUlZ5ZW90dGlQenE2SnF6bzF2aDRrWjBCUkVzNktpakZuc2VhQQ?oc=5",
           "source": "경북매일",
           "published": "2026-11-01T07:00:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "873d6635ac3176a39df1280fbabe4341",
-          "title": "중등인강 밀크티, 2027학년도 외고·국제고·자사고 입시 대비 맞춤형 콘...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396581",
-          "source": "www.fntoday.co.kr",
-          "published": "2026-10-30T02:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
