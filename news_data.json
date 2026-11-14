@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:31:42.123231+00:00",
+  "updated_at": "2026-11-14T22:06:37.341016+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-14T16:16:48.408192+00:00",
+          "published": "2026-11-14T21:52:05.147806+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +385,7 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-14T16:19:14.594762+00:00",
+          "published": "2026-11-14T21:54:29.086375+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -398,7 +398,7 @@
           "published": "2026-11-14T11:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "52be1fc03652998971ae8650b9d99a1d",
@@ -408,7 +408,7 @@
           "published": "2026-11-14T04:54:50+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2d0ca0ce31a88a479f21b224c096366f",
@@ -692,7 +692,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-14T16:21:47.383133+00:00",
+          "published": "2026-11-14T21:56:58.380909+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -702,7 +702,7 @@
           "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
           "source": "베리타스알파",
-          "published": "2026-11-14T16:21:46.086470+00:00",
+          "published": "2026-11-14T21:56:57.028794+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1155,7 +1155,7 @@
           "published": "2026-11-14T10:53:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "00f159cdeda2d106a393e958078c5bd5",
@@ -1234,6 +1234,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "116fc1232864e5007335fc6ac1ac506b",
+          "title": "﻿동국대듀이카 사회복지 복지경영 신입생 모집… 사회복지사 원격교육...",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=326799",
+          "source": "www.thepublic.kr",
+          "published": "2026-11-14T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "cb0299be55c224f1ef992e87850c07a5",
           "title": "2027학년도 전문대학 수시 2차 원서접수 11월 11일 시작…합격 후 정시 지원 규칙은 - 교육을 비추다",
