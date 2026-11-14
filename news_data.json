@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-14T00:50:17.581422+00:00",
+  "updated_at": "2026-11-14T08:39:33.467693+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-14T00:35:29.429792+00:00",
+          "published": "2026-11-14T08:24:44.007304+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -386,10 +385,20 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-14T00:37:54.052020+00:00",
+          "published": "2026-11-14T08:27:03.838028+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2d0ca0ce31a88a479f21b224c096366f",
+          "title": "[심양섭의 정론직격] '불수능' 예고된 마지막 선택과목 수능, 'N수를 권...",
+          "link": "https://www.pennmike.com/news/articleView.html?idxno=131830",
+          "source": "www.pennmike.com",
+          "published": "2026-11-14T03:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "307c352930e1fa6256b79e8ceb9c47d4",
@@ -663,7 +672,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-14T00:40:26.584419+00:00",
+          "published": "2026-11-14T08:29:36.911903+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -673,7 +682,7 @@
           "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
           "source": "베리타스알파",
-          "published": "2026-11-14T00:40:25.168169+00:00",
+          "published": "2026-11-14T08:29:35.443332+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
