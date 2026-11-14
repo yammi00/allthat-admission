@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-11-13T19:16:15.510823+00:00",
+  "updated_at": "2026-11-14T00:50:17.581422+00:00",
   "available_archives": [
+    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -18,7 +19,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-13T19:01:26.684593+00:00",
+          "published": "2026-11-14T00:35:29.429792+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,7 +386,7 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-13T19:03:50.879827+00:00",
+          "published": "2026-11-14T00:37:54.052020+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -649,16 +650,6 @@
           "type": "news",
           "grade": "3",
           "is_new": false
-        },
-        {
-          "id": "40b6cb9f36a9c071ef187fbe878122d2",
-          "title": "[AI입시 A to Z] 삼전닉스 초호황…삼성·SK 계약학과 정시 전략",
-          "link": "https://www.newspim.com/news/view/20261030000379",
-          "source": "www.newspim.com",
-          "published": "2026-10-30T21:00:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
         }
       ]
     },
@@ -672,7 +663,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-13T19:06:22.751116+00:00",
+          "published": "2026-11-14T00:40:26.584419+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -682,7 +673,7 @@
           "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
           "source": "베리타스알파",
-          "published": "2026-11-13T19:06:21.820968+00:00",
+          "published": "2026-11-14T00:40:25.168169+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1212,7 +1203,7 @@
           "published": "2026-11-13T13:35:50+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8b3aac1b626bb32f8312e758cfa2b84e",
@@ -1390,16 +1381,6 @@
           "link": "https://www.wikitree.co.kr/articles/1170801",
           "source": "www.wikitree.co.kr",
           "published": "2026-10-31T22:46:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "fcad934bb05909c2a555717b7ac9f32c",
-          "title": "[2027 대입] \"가채점 뒤 주말 논술 갈까 말까\"…수시 붙으면 등록 포기해도 정시 못 쓴다 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2UU1TS09LZFhrcUhQTmk4QnNub3dvaUhIZ25JV1lOb1VnRVVIZXRIVWJoZkxocDVNRnlBelBrNnBUVjNnNEE5NFFSX09uUWd6d0Nua1hTU0VJMlFTc0FVTmR6WkZIUQ?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-10-31T00:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
