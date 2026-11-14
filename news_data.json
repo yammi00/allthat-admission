@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:39:33.467693+00:00",
+  "updated_at": "2026-11-14T16:31:42.123231+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-14T08:24:44.007304+00:00",
+          "published": "2026-11-14T16:16:48.408192+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -385,10 +385,30 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-14T08:27:03.838028+00:00",
+          "published": "2026-11-14T16:19:14.594762+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6c141451ce90a22ea49696c9d75a84d8",
+          "title": "수능 D-5, 최대 변수는 ‘1교시 국어’…23년만의 최대 N수생·‘사탐런...",
+          "link": "https://n.news.naver.com/mnews/article/022/0004175117?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-11-14T11:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "52be1fc03652998971ae8650b9d99a1d",
+          "title": "[2028 대입] 외고·국제고의 '연고서성한' 전략…수능최저·면접으로 고른다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpalViaHEtMHJnTEY5VWhPWXZnd0RmQktwTEVqOWc3NDh3OFhmVGhkdG0zVWt4Wld3ck45OUtRUWllOUpucnlOVnlPSkZsYVFHYkJhX2g2RDUzTDZ5MnM1al9VLTJYUQ?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-14T04:54:50+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2d0ca0ce31a88a479f21b224c096366f",
@@ -398,7 +418,7 @@
           "published": "2026-11-14T03:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "307c352930e1fa6256b79e8ceb9c47d4",
@@ -672,7 +692,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-14T08:29:36.911903+00:00",
+          "published": "2026-11-14T16:21:47.383133+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -682,7 +702,7 @@
           "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
           "source": "베리타스알파",
-          "published": "2026-11-14T08:29:35.443332+00:00",
+          "published": "2026-11-14T16:21:46.086470+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1127,6 +1147,16 @@
       "name": "수리·약술 논술",
       "emoji": "✏️",
       "items": [
+        {
+          "id": "bb1966a282101b4b7843d26286e03d82",
+          "title": "“매년 주의 줘도 매년 실수해 수능 망쳐요”…입시전문가들이 꼽은 ‘...",
+          "link": "https://n.news.naver.com/mnews/article/009/0005763728?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-11-14T10:53:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "00f159cdeda2d106a393e958078c5bd5",
           "title": "2027 대학별 맞춤형 논술 풀이 및 코칭 서비스 무료 제공…고려대 등 19...",
