@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T16:58:26.032163+00:00",
+  "updated_at": "2026-11-15T22:36:16.532124+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-15T16:43:54.625473+00:00",
+          "published": "2026-11-15T22:21:26.124806+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -445,7 +445,7 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-15T16:46:18.008543+00:00",
+          "published": "2026-11-15T22:23:52.121461+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -772,10 +772,20 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-15T16:48:45.461255+00:00",
+          "published": "2026-11-15T22:26:23.681009+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "49c0ee29d3cd36ecbaa786c57d848c8b",
+          "title": "[2027 수능 특집/서강대] 정시 718명 선발…'국·수 유리한 반영비' 자동...",
+          "link": "https://www.ajunews.com/view/20261115150053231",
+          "source": "www.ajunews.com",
+          "published": "2026-11-15T21:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a69559fe2e112e1aa5395bf51fa361be",
@@ -934,6 +944,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "df77b698b54140cf3d3f69ee0c19d4e5",
+          "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789278",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "3729c8c55382278321cb71bbcb6ddd87",
           "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
@@ -1315,6 +1336,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "d33679b0ef306e01dfb623d885e47ba5",
+          "title": "[2027 수능 특집/경희대] 정시 2427명 선발…광역화 모집으로 전공 자율 100% 선택권 보장 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13b0VQZ3Z0VkIwM3Bvc2t3M0tSQng3bDNwallwR1FsU0NPVk5EN2pPd1hoOFhWTS1USkE1Mmpqcmh6M3p6cE5JUVQtSm9hbGFBNE5DTEFLdmxLQdIBWEFVX3lxTE5CZVRucWR0NGVENFBaQ0lRb002bWJFaGVfeUpXd2o3RHl6U2Z3VjQ4QTNXcEFfLVRiNlZ0eVNkMUpwcUNUTUFMWjljc0hkdWpLQTA0OUlycGM?oc=5",
+          "source": "아주경제",
+          "published": "2026-11-15T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "29d62ecb31c55bece33b6c7083f62670",
           "title": "[생활정보] 수능 연락표는 '종이'에 적으세요, 당일 혼선이 줄어듭니다",
           "link": "https://www.wikitree.co.kr/articles/1174787",
@@ -1322,7 +1353,7 @@
           "published": "2026-11-15T10:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "115591e06f2e473755e7b7ac6b99d4d7",
@@ -1332,7 +1363,7 @@
           "published": "2026-11-15T09:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d28144a76b7205ae908b35693e022111",
