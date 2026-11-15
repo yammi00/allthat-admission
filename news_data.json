@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T08:56:15.997279+00:00",
+  "updated_at": "2026-11-15T16:58:26.032163+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-15T08:41:36.738927+00:00",
+          "published": "2026-11-15T16:43:54.625473+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-11-15T07:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f7c9f3aa19d4066dda83a3ab0962fd77",
@@ -89,6 +89,16 @@
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748438",
           "source": "www.polinews.co.kr",
           "published": "2026-11-13T09:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "491c589590395b159cf70c71f2a4f089",
+          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-13T09:05:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -435,7 +445,7 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-15T08:44:00.742984+00:00",
+          "published": "2026-11-15T16:46:18.008543+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -448,7 +458,7 @@
           "published": "2026-11-15T06:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7d7ce9cc0dc04993705b539b1f168d85",
@@ -762,7 +772,7 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-15T08:46:31.802816+00:00",
+          "published": "2026-11-15T16:48:45.461255+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -775,7 +785,7 @@
           "published": "2026-11-15T02:14:16+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "89172754d0f3d4ca5ddd086ddad5b217",
@@ -1305,6 +1315,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "29d62ecb31c55bece33b6c7083f62670",
+          "title": "[생활정보] 수능 연락표는 '종이'에 적으세요, 당일 혼선이 줄어듭니다",
+          "link": "https://www.wikitree.co.kr/articles/1174787",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-15T10:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "115591e06f2e473755e7b7ac6b99d4d7",
+          "title": "수능 '성적 통지일' 12월 11일, 가족 대화 준비 방법과 첫 마디 [생활정...",
+          "link": "https://www.wikitree.co.kr/articles/1174786",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-15T09:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d28144a76b7205ae908b35693e022111",
           "title": "수능 D-4..네이버·넥슨·SSG닷컴·트리니티항공·파리크라상, 수험생 혜...",
           "link": "https://kpenews.com/View.aspx?No=4313082",
@@ -1312,7 +1342,7 @@
           "published": "2026-11-15T01:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "116fc1232864e5007335fc6ac1ac506b",
