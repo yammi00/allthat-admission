@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-11-15T01:42:29.263222+00:00",
+  "updated_at": "2026-11-15T08:56:15.997279+00:00",
   "available_archives": [
-    "2026-10",
     "2026-07",
     "2026-06",
     "2026-05",
@@ -19,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-15T01:27:50.919022+00:00",
+          "published": "2026-11-15T08:41:36.738927+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "707451bc21f1acebbcfb3b53328e0497",
+          "title": "2027 수능, ‘사탐런’ 이어 4교시 탐구 결시율 초비상",
+          "link": "https://www.kbmaeil.com/article/20261115500476",
+          "source": "www.kbmaeil.com",
+          "published": "2026-11-15T07:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "f7c9f3aa19d4066dda83a3ab0962fd77",
@@ -32,7 +41,7 @@
           "published": "2026-11-14T23:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dc657eaedc7229fbed949e304378b361",
@@ -42,7 +51,7 @@
           "published": "2026-11-14T23:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "05d50843ddcb4cb58165c264d9fb8ea2",
@@ -52,7 +61,7 @@
           "published": "2026-11-14T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3d06a57761bb8b31935e3ce89c868236",
@@ -62,7 +71,7 @@
           "published": "2026-11-14T23:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "40ef1e94683e2e89fcdbae49d6e6ed4b",
@@ -426,10 +435,20 @@
           "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
           "source": "베리타스알파",
-          "published": "2026-11-15T01:30:12.826544+00:00",
+          "published": "2026-11-15T08:44:00.742984+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "7c2028c5ee646192307c2da580b3138e",
+          "title": "수능 응시자 50만명 시대 다시 열리나… 8년 만에 돌파 관심",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3448826",
+          "source": "www.newscj.com",
+          "published": "2026-11-15T06:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "7d7ce9cc0dc04993705b539b1f168d85",
@@ -439,7 +458,7 @@
           "published": "2026-11-14T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6c141451ce90a22ea49696c9d75a84d8",
@@ -743,20 +762,20 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-15T01:32:41.718506+00:00",
+          "published": "2026-11-15T08:46:31.802816+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "71782984efcff7f9cf398c3eb58d8846",
-          "title": "[2027정시] 수도권 간호학과 21개교 706명 모집.. 가천대 100명 '최다'",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=635768",
-          "source": "베리타스알파",
-          "published": "2026-11-15T01:32:40.375623+00:00",
+          "id": "a69559fe2e112e1aa5395bf51fa361be",
+          "title": "[2027 정시] 서성한, 강한 과목과 모집군으로 고른다 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9POUxBYkRUakwyVkxiYlBwa0dsUG5JT19YdWJ3RUt0OFpXdVdleF83RDVyYzc1LS1UTTQ3bXZWeUJVQjAxdVNzeGhjQlhSWXNHemtTaUh2TWFMMXdsdjdramsya2QwZw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-15T02:14:16+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "89172754d0f3d4ca5ddd086ddad5b217",
@@ -1285,6 +1304,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "d28144a76b7205ae908b35693e022111",
+          "title": "수능 D-4..네이버·넥슨·SSG닷컴·트리니티항공·파리크라상, 수험생 혜...",
+          "link": "https://kpenews.com/View.aspx?No=4313082",
+          "source": "kpenews.com",
+          "published": "2026-11-15T01:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "116fc1232864e5007335fc6ac1ac506b",
           "title": "﻿동국대듀이카 사회복지 복지경영 신입생 모집… 사회복지사 원격교육...",
