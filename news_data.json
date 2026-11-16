@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T04:24:42.538245+00:00",
+  "updated_at": "2026-11-16T14:41:49.930780+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,60 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-16T04:10:06.424214+00:00",
+          "published": "2026-11-16T14:27:21.154268+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "51b5bd6f286a02d798c8bea8950fdf15",
+          "title": "&quot;나에게 어려우면 남들도 어려워&quot;…수능 D-3, 현직 교사의 조언 [와이드...",
+          "link": "https://n.news.naver.com/mnews/article/660/0000121512?sid=102",
+          "source": "www.ikbc.co.kr",
+          "published": "2026-11-16T11:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1fc8c11ab9e83b51a410862c96c51b45",
+          "title": "[배종찬의 보안 빅데이터] AI안경·단추 카메라에 수능 불신 대폭발하나",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=147301",
+          "source": "www.boannews.com",
+          "published": "2026-11-16T07:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "23151328b1bd86c538fd9202b16db060",
+          "title": "[2027수능] '작년보다 쉽다' AI 3인방이 예측한 수능 난이도.. 영어 쉬워...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637284",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T07:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7407c2c129813638e0c88ccbbf3227c5",
+          "title": "2027수능 'AI 커닝 쇼크'.. &quot;수험생은 평정심, 대책은 어른들 몫&quot;",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637358",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T07:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "53d7ed957dd3b5ffe0fd272be5eae332",
+          "title": "수능 AI 부정행위 때문에 만점자 4배 증가? '거짓' [오마이팩트]",
+          "link": "https://n.news.naver.com/mnews/article/047/0002536008?sid=102",
+          "source": "www.ohmynews.com",
+          "published": "2026-11-16T07:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ceda6953f7f00d79b2f291986427dff7",
@@ -31,12 +81,12 @@
           "published": "2026-11-16T02:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "62b87928c13f5bf8fa546f8e05339800",
+          "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
           "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Ui1JbHFMZHMtYV9XNDJ1VWJiUUdxaXNIYjNyRGFaLTJMS0JOZjNwSHhaajJTVTJZQUVfLWlWU0M2dU9XeFZCQi1NaWl0c1VqTTh6R2l2Y3B2YTduUmlYSjZPTWw4MFo3cXBJ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
           "source": "한국사회복지저널",
           "published": "2026-11-16T01:13:25+00:00",
           "type": "news",
@@ -51,7 +101,7 @@
           "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "707451bc21f1acebbcfb3b53328e0497",
@@ -471,6 +521,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "3cf187cabdee940984d20c170734a56f",
+          "title": "[임성호의 입시 레이다] 2028 주요대 수능 일반전형에서 학생부 10~40% 반...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113853",
+          "source": "edu.donga.com",
+          "published": "2026-11-16T09:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "d932230323f329c9e0434d1e51dc66de",
           "title": "대입캘린더 (26/11/20~)",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=637125",
@@ -478,7 +538,7 @@
           "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7c2028c5ee646192307c2da580b3138e",
@@ -808,6 +868,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "b6b3e483a61805c69d82fec235984054",
+          "title": "수능 D-3, AI 부정행위 우려⋯의대 최상위권 가려낼 수 있나?",
+          "link": "https://n.news.naver.com/mnews/article/296/0000107396?sid=102",
+          "source": "kormedi.com",
+          "published": "2026-11-16T07:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "63933f7229dc1eb8c2a8fb6e074651d8",
+          "title": "&quot;뿔테 안경 무테로 바꿔&quot;…수능 수험생 옷차림까지 조심",
+          "link": "https://n.news.naver.com/mnews/article/001/0016444567?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-16T07:03:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "5131896acdde4b432e737f5427be564a",
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
@@ -825,7 +905,7 @@
           "published": "2026-11-16T02:12:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9c2a81f4c545353a048c6cf0b97a538a",
@@ -835,7 +915,7 @@
           "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42e8ac72a84bb1bc8f58d1b0becd5e9b",
@@ -845,7 +925,7 @@
           "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49c0ee29d3cd36ecbaa786c57d848c8b",
@@ -863,6 +943,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9POUxBYkRUakwyVkxiYlBwa0dsUG5JT19YdWJ3RUt0OFpXdVdleF83RDVyYzc1LS1UTTQ3bXZWeUJVQjAxdVNzeGhjQlhSWXNHemtTaUh2TWFMMXdsdjdramsya2QwZw?oc=5",
           "source": "교육을 비추다",
           "published": "2026-11-15T02:14:16+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "fe23df0d190f1c1a0716c6f80cbba313",
+          "title": "[1년전 오늘] 2026학년도 수능, 국어·수학·영어 전년보다 어려워",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311684",
+          "source": "www.jeonmae.co.kr",
+          "published": "2026-11-13T21:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1014,6 +1104,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "e0e06f6d256de8020d0c4a86c4c55887",
+          "title": "최은옥 차관, 시도 부교육감과 2027학년도 수능 현안 논의",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789460",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "df77b698b54140cf3d3f69ee0c19d4e5",
           "title": "2027학년도 대학수학능력시험 문답지 전국 85개 시험지구에 배부 시작",
@@ -1326,7 +1427,7 @@
           "published": "2026-11-16T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bb1966a282101b4b7843d26286e03d82",
@@ -1416,6 +1517,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "61d5b79d6e3f74a855e85ce89b095eca",
+          "title": "AI 부정행위 초비상…역대 수능 연기 사례는",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=929424",
+          "source": "www.namdonews.com",
+          "published": "2026-11-16T09:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "98950e3280a5768f19fceaa7e9c8c87e",
+          "title": "이번주 '수능'…시험 감독 '초비상'",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1320615&inflow=N",
+          "source": "www.newstomato.com",
+          "published": "2026-11-16T08:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2ef7111c6f4432c20e05efe20548561f",
+          "title": "2027수능 ‘AI 커닝 쇼크'.. \"수험생은 평정심, 대책은 어른들 몫\" - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZlIwUFVINnpHb01jM1dFOFRaSFltdTdlaXFWZGxqQm4ycFV0SUdYU3pYeDdtZklocGgtbzYtSHd2VlpwYUNGTXEwejVjS0ZaSFlxNUFIM2JVRTZSRlg4dHZwVWI1LVNmbEszUg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-16T06:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0cfd958db9aceddd08506f1789c49524",
           "title": "지진에도 미뤘던 수능…이번엔 'AI 커닝' 공포에도 안 미룬다",
           "link": "https://www.wikitree.co.kr/articles/1174934",
@@ -1423,7 +1554,7 @@
           "published": "2026-11-16T03:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "83694d4d7b686ffc532275f8dbe794d4",
@@ -1433,7 +1564,7 @@
           "published": "2026-11-16T02:36:30+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "104c82d4dc23ece4dc7c024fbff886b2",
@@ -1443,7 +1574,7 @@
           "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8a93300652269d6ecc51a537dab140ab",
@@ -1453,7 +1584,7 @@
           "published": "2026-11-15T23:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d33679b0ef306e01dfb623d885e47ba5",
@@ -1693,6 +1824,16 @@
       "emoji": "🏫",
       "items": [
         {
+          "id": "02046900583275aa7f05be2a13256de4",
+          "title": "아이스크림에듀, 2027 고교 입시 전략 설명회 개최",
+          "link": "https://www.lawissue.co.kr/view.php?ud=202611162306016693f4ab64559d_12",
+          "source": "www.lawissue.co.kr",
+          "published": "2026-11-16T14:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f679b795ba2a82edd7c4c51e3c898258",
           "title": "'내신 5등급제·고교학점제 시대' 경기권 특목·자사고 진학 전략 설명...",
           "link": "https://n.news.naver.com/mnews/article/014/0005604615?sid=102",
@@ -1700,7 +1841,7 @@
           "published": "2026-11-16T00:19:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "962fc99f8053776cf86e8a0f6e788747",
@@ -1710,7 +1851,7 @@
           "published": "2026-11-15T23:33:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a7738e7ba959f5fa6c0abb3ced37f1a8",
