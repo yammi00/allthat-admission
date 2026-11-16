@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:36:16.532124+00:00",
+  "updated_at": "2026-11-16T04:24:42.538245+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,40 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-15T22:21:26.124806+00:00",
+          "published": "2026-11-16T04:10:06.424214+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ceda6953f7f00d79b2f291986427dff7",
+          "title": "2027학년도 과탐 접수자 28.3% 감소…결시율도 변수",
+          "link": "https://news.unn.net/news/articleView.html?idxno=600675",
+          "source": "news.unn.net",
+          "published": "2026-11-16T02:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "62b87928c13f5bf8fa546f8e05339800",
+          "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Ui1JbHFMZHMtYV9XNDJ1VWJiUUdxaXNIYjNyRGFaLTJMS0JOZjNwSHhaajJTVTJZQUVfLWlWU0M2dU9XeFZCQi1NaWl0c1VqTTh6R2l2Y3B2YTduUmlYSjZPTWw4MFo3cXBJ?oc=5",
+          "source": "한국사회복지저널",
+          "published": "2026-11-16T01:13:25+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "098deac19e9a3718afe4b90c45cebeec",
+          "title": "[입시용어 따라잡기] 가채점",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637123",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "707451bc21f1acebbcfb3b53328e0497",
@@ -441,14 +471,14 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "6dcd2d4644ffd40a53f5e2c7b7963960",
-          "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 19명 '최고' 상위15개대 86명",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
-          "source": "베리타스알파",
-          "published": "2026-11-15T22:23:52.121461+00:00",
+          "id": "d932230323f329c9e0434d1e51dc66de",
+          "title": "대입캘린더 (26/11/20~)",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637125",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T00:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": false
+          "is_new": true
         },
         {
           "id": "7c2028c5ee646192307c2da580b3138e",
@@ -476,6 +506,16 @@
           "link": "https://n.news.naver.com/mnews/article/022/0004175117?sid=102",
           "source": "www.segye.com",
           "published": "2026-11-14T11:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "6dcd2d4644ffd40a53f5e2c7b7963960",
+          "title": "[단독] 수험생만 모르는 '수시이월 추가인원의 비밀' .. 2026정시 외대 1...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636827",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-14T06:58:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -772,10 +812,40 @@
           "title": "고려대 정시 일반전형과 교과우수전형, 결과는 얼마나 달랐나",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
-          "published": "2026-11-15T22:26:23.681009+00:00",
+          "published": "2026-11-16T04:15:01.411417+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "0018208fe84867af82e5d9db65327796",
+          "title": "안성 이투스 기숙학원, 수능 가채점 기반 수시 응시 판단 및 정시 포트...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003699700?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-11-16T02:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9c2a81f4c545353a048c6cf0b97a538a",
+          "title": "2027수능 N수생 '21년 만에 최대'.. 판도 바뀐 대입 새로운 루트 '편입'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=636944",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "42e8ac72a84bb1bc8f58d1b0becd5e9b",
+          "title": "[온라인폴] 2027수능 당락 가를 핵심 변별 과목, 어떻게 예측하십니까",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637121",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "49c0ee29d3cd36ecbaa786c57d848c8b",
@@ -785,7 +855,7 @@
           "published": "2026-11-15T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a69559fe2e112e1aa5395bf51fa361be",
@@ -953,7 +1023,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3729c8c55382278321cb71bbcb6ddd87",
@@ -1249,6 +1319,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "15842c63556c291fc549711ed9b72161",
+          "title": "수능이 끝났다고 입시가 끝난 것은 아니다",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113308",
+          "source": "edu.donga.com",
+          "published": "2026-11-16T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "bb1966a282101b4b7843d26286e03d82",
           "title": "“매년 주의 줘도 매년 실수해 수능 망쳐요”…입시전문가들이 꼽은 ‘...",
           "link": "https://n.news.naver.com/mnews/article/009/0005763728?sid=102",
@@ -1336,6 +1416,46 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "0cfd958db9aceddd08506f1789c49524",
+          "title": "지진에도 미뤘던 수능…이번엔 'AI 커닝' 공포에도 안 미룬다",
+          "link": "https://www.wikitree.co.kr/articles/1174934",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-16T03:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "83694d4d7b686ffc532275f8dbe794d4",
+          "title": "[2027 정시] '영어 2등급에 7.92점 감점?'... 서·연·고 정시 산식 비교 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16eGVFejdIN3l0NFlUckpMQXNLUjlmX3pHbUVWQjlHMEFlV3pqbVdzMUN0SWxSeFBIeWpmRGpOLTdwZlUyU0hzclRpaFFiSU05VmptSWEzbGVpTlB2akxZMGtsR2kydw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-16T02:36:30+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "104c82d4dc23ece4dc7c024fbff886b2",
+          "title": "[김형일의 입시컨설팅] (254) 수능 직후 논술·면접 대비 전략",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=159437",
+          "source": "www.smartbizn.com",
+          "published": "2026-11-16T00:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8a93300652269d6ecc51a537dab140ab",
+          "title": "'제발 수능 미뤄주세요' 연기 요구 쇄도…실제 시험 미룬 사례 봤더니",
+          "link": "https://www.wikitree.co.kr/articles/1174866",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-15T23:52:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d33679b0ef306e01dfb623d885e47ba5",
           "title": "[2027 수능 특집/경희대] 정시 2427명 선발…광역화 모집으로 전공 자율 100% 선택권 보장 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13b0VQZ3Z0VkIwM3Bvc2t3M0tSQng3bDNwallwR1FsU0NPVk5EN2pPd1hoOFhWTS1USkE1Mmpqcmh6M3p6cE5JUVQtSm9hbGFBNE5DTEFLdmxLQdIBWEFVX3lxTE5CZVRucWR0NGVENFBaQ0lRb002bWJFaGVfeUpXd2o3RHl6U2Z3VjQ4QTNXcEFfLVRiNlZ0eVNkMUpwcUNUTUFMWjljc0hkdWpLQTA0OUlycGM?oc=5",
@@ -1343,7 +1463,7 @@
           "published": "2026-11-15T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "29d62ecb31c55bece33b6c7083f62670",
@@ -1572,6 +1692,26 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "f679b795ba2a82edd7c4c51e3c898258",
+          "title": "'내신 5등급제·고교학점제 시대' 경기권 특목·자사고 진학 전략 설명...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005604615?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-11-16T00:19:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "962fc99f8053776cf86e8a0f6e788747",
+          "title": "아이스크림에듀, '2027 고교 입시 전략 설명회' 개최",
+          "link": "https://n.news.naver.com/mnews/article/277/0005842886?sid=101",
+          "source": "view.asiae.co.kr",
+          "published": "2026-11-15T23:33:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a7738e7ba959f5fa6c0abb3ced37f1a8",
           "title": "EBSi, 고교학점제·내신 5등급제 등 변화된 교육환경 대비 '예비 고1 겨울...",
