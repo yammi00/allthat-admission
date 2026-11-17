@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:23:53.109936+00:00",
+  "updated_at": "2026-11-17T17:30:24.297185+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-17T06:09:29.052502+00:00",
+          "published": "2026-11-17T17:15:55.214698+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bd730c0966ea921f52dde7fa6e9ad572",
+          "title": "&quot;늙어서 못함? 말이냐? 방구냐?&quot; 한정수, 수능 D-2 교육부 장관 'AI 커닝...",
+          "link": "https://m.entertain.naver.com/article/117/0004125864",
+          "source": "www.mydaily.co.kr",
+          "published": "2026-11-17T09:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d4b27114edab840e49b24c45459170ac",
+          "title": "수능과 SAT·바칼로레아 해외 대입시험 비교: 평가 방식 어떻게 다를까",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=886096",
+          "source": "www.gokorea.kr",
+          "published": "2026-11-17T06:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "393b734f940707e6925816ec28759604",
@@ -31,7 +51,7 @@
           "published": "2026-11-17T04:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "15753659b3dc2e31dd3a2a546a9372e7",
@@ -41,7 +61,7 @@
           "published": "2026-11-17T02:49:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3afedf159b86ebcf3486b5daef4621f7",
@@ -51,7 +71,7 @@
           "published": "2026-11-17T02:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d3db28bfa7f9742dfefd20e95fdacb75",
@@ -61,7 +81,7 @@
           "published": "2026-11-17T01:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "60df09b36b5ef6e59c1c266f083195c9",
@@ -71,7 +91,7 @@
           "published": "2026-11-17T00:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "26de8c97487222d79765d5e1f632df73",
@@ -591,6 +611,36 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "def34205a83d014bc4d4a94e1d2140cc",
+          "title": "내신 3.0등급인데 인하대 AI학과 합격?…수학 1.5등급보다 강했던 학생부",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54628",
+          "source": "에듀진",
+          "published": "2026-11-17T17:18:18.116110+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6bae7303214494bb2f4025d94acd8bc9",
+          "title": "[2027수시] 1단계 합격 이후 '필수 체크포인트'.. 2단계 전형료, 수능최저, 면접일정 '점검'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637473",
+          "source": "베리타스알파",
+          "published": "2026-11-17T17:18:17.299185+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "84606eaa7b49af54f632afe120dfef45",
+          "title": "수능 'AI 커닝'에 칼 빼든 정부…단추에 스티커 붙이고 적발 시 '대학 퇴...",
+          "link": "https://www.ajunews.com/view/20261117165944935",
+          "source": "www.ajunews.com",
+          "published": "2026-11-17T08:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "18f0e627bd720ce49bfa784411e94791",
           "title": "안경 쓴 모든 수험생 전원 점검한다…논술 시험 보러 가는데 어쩌나",
           "link": "https://n.news.naver.com/mnews/article/011/0004682874?sid=102",
@@ -948,6 +998,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "54c6120fdfe203b954178c197498d42e",
+          "title": "[2027정시] '삼전닉스 겨냥' 반도체학과 총정리.. 계약학과 ‘8개교 83명’ 주요22개대 일반학과 12개교 209명 ‘눈길’",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637601",
+          "source": "베리타스알파",
+          "published": "2026-11-17T17:20:43.713509+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9aa14f34e41aa03bd140219746f550b8",
+          "title": "2027 수능 D-2, ‘가채점 성적표’가 합격을 가른다…수시·정시 필승 전...",
+          "link": "https://www.kbmaeil.com/article/20261117500568",
+          "source": "www.kbmaeil.com",
+          "published": "2026-11-17T07:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "12bd92bdc741a759cb33af5372bcd557",
           "title": "[2027 수능 특집/중앙대] 정시 2112명 선발…수능 90%·출결 10%로 전형 개...",
           "link": "https://www.ajunews.com/view/20261116140050258",
@@ -1194,6 +1264,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "d5d3ae22046e10b6f09a981f1da03195",
+          "title": "[담화문] 수능 부정행위 대응 관련 대국민 담화문",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789621",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-17T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "e0e06f6d256de8020d0c4a86c4c55887",
           "title": "최은옥 차관, 시도 부교육감과 2027학년도 수능 현안 논의",
@@ -1607,6 +1688,76 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "a2385e409b1b3d7dac693d4c991caf70",
+          "title": "수능 예비소집 날짜·시간·준비물·AI 주의",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202611180001",
+          "source": "www.bntnews.co.kr",
+          "published": "2026-11-17T15:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7a9c3cade3f4b423e54189e9a2432392",
+          "title": "[수능 AI부정 대책] &quot;단추 옆에 구멍 뚫으면 되지&quot;…수험생·학부모 '실...",
+          "link": "https://n.news.naver.com/mnews/article/001/0016447188?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-17T08:06:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "56320c745cf68e704a2d8bd2f725974e",
+          "title": "2027수능 'AI 커닝' 파문에도 19일 정상 시행.. 수험생 '평정심 관건' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjYXhkQUl6RE1EM1hlbVFZRGhqSlZ1cHpXTk1EV2ZKY2p5SEtIZ3N1QzhhM3lRSENTRllFMFlOelRLUVRyWDVZLVc1M0h1Q21TT3F5UldyWi1ZbTN2d19qZno4UEcwc3AteDZVUg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-17T08:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7e8f024023de13d12d030304195b346c",
+          "title": "[이슈] '수능 D-2' 정부, 'AI 부정행위' 대책 발표 &quot;스마트기기 원천 차...",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748600",
+          "source": "www.polinews.co.kr",
+          "published": "2026-11-17T08:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "7bb6346958ca98b1500d90b9ea4a4454",
+          "title": "이투스에듀, 수능 가채점 전략 제시…수시 논술·면접 응시 신중 판단",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596913376545",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-11-17T07:12:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8563ccacd8aaf0dd5e943fcf7bee2b58",
+          "title": "수능 끝나자 재수학원 상담 몰려: 가계 사교육비 부담 얼마나 늘까",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=886092",
+          "source": "www.gokorea.kr",
+          "published": "2026-11-17T06:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "98cf8364d8af1d87c14cc25f292bdc83",
+          "title": "수능 이틀 앞인데 커지는 혼란…‘AI 커닝’ 불안에 연기론 확산",
+          "link": "https://www.etoday.co.kr/news/view/2649320",
+          "source": "www.etoday.co.kr",
+          "published": "2026-11-17T06:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "5f5ca07a35169de0f224b998f1f573c3",
           "title": "수능 이틀 앞두고 &quot;연기해달라&quot; 요구 빗발…교육부 &quot;검토 어렵다&quot;",
           "link": "https://n.news.naver.com/mnews/article/421/0009293792?sid=102",
@@ -1614,7 +1765,7 @@
           "published": "2026-11-17T05:21:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fe22464f9d67b32ec3a0e7c17418de43",
@@ -1624,7 +1775,7 @@
           "published": "2026-11-17T02:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "43a0e8a386ae3adc08d4d04681d7faa4",
@@ -1634,7 +1785,7 @@
           "published": "2026-11-17T02:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "03c24cbf2d7ca50e108d05511f608c81",
@@ -1644,7 +1795,7 @@
           "published": "2026-11-17T00:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "af4b6b41fe7ab5a5603230faba875301",
