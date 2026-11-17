@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T14:41:49.930780+00:00",
+  "updated_at": "2026-11-17T00:10:31.234279+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,30 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-16T14:27:21.154268+00:00",
+          "published": "2026-11-16T23:56:03.763493+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "26de8c97487222d79765d5e1f632df73",
+          "title": "네이버, 수능 맞아 입시 정보 확대…AI 분석부터 정시 지원까지",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883326",
+          "source": "www.hansbiz.co.kr",
+          "published": "2026-11-16T23:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f9352f2cc66839aace0a67c77bcf982d",
+          "title": "EBS, 수능 당일 실시간 등급컷·출제 경향 분석…특별 생방송 편성",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=782300",
+          "source": "www.slist.kr",
+          "published": "2026-11-16T22:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "51b5bd6f286a02d798c8bea8950fdf15",
@@ -31,7 +51,7 @@
           "published": "2026-11-16T11:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1fc8c11ab9e83b51a410862c96c51b45",
@@ -41,7 +61,7 @@
           "published": "2026-11-16T07:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "23151328b1bd86c538fd9202b16db060",
@@ -51,7 +71,7 @@
           "published": "2026-11-16T07:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7407c2c129813638e0c88ccbbf3227c5",
@@ -61,7 +81,7 @@
           "published": "2026-11-16T07:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53d7ed957dd3b5ffe0fd272be5eae332",
@@ -71,7 +91,7 @@
           "published": "2026-11-16T07:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ceda6953f7f00d79b2f291986427dff7",
@@ -91,7 +111,7 @@
           "published": "2026-11-16T01:13:25+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "098deac19e9a3718afe4b90c45cebeec",
@@ -174,9 +194,9 @@
           "is_new": false
         },
         {
-          "id": "491c589590395b159cf70c71f2a4f089",
-          "title": "[단독] [2027 6월모평] 입시기관 등급컷 적중률.. 종로/이투스 2개 ‘최다’ EBS/메가/진학사 각 1개 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGg5b2ZGU1F0NE5ZRUVPRjlORmZUWndrcy1wSG9vMHFuV0dYcHE5UnhTQjhWVWZhV2Zuc0tXaHg3SXJENm82bWJ1SnRqQkxqeVdiWE5zMnM4MW5mN0dqZzZWbXpRbzh6azZaOQ?oc=5",
+          "id": "7472856f13b1fac5b4f0f98e2c3af467",
+          "title": "[2027 5월학평] ‘국어 평이, 수학 까다로워’ 입시기관 원점수 1등급컷.. 화96~97 언93~94 확84~86 미81~82 기81~83",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EOEtueG5NM2dqUlNiTnNYSXVvN3dBQTNOTzlld2xHQU1fcFlJc0dwNlo5dHlrM2d0MzNwUkxhM0xaaWx0WjhSTXR6bjNqVW5UMUk2RjJxZ0dpSXBkWUFTVlJBVW5PR0lGZFZCYQ?oc=5",
           "source": "베리타스알파",
           "published": "2026-11-13T09:05:00+00:00",
           "type": "news",
@@ -521,6 +541,16 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "18f0e627bd720ce49bfa784411e94791",
+          "title": "안경 쓴 모든 수험생 전원 점검한다…논술 시험 보러 가는데 어쩌나",
+          "link": "https://n.news.naver.com/mnews/article/011/0004682874?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-11-16T20:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "3cf187cabdee940984d20c170734a56f",
           "title": "[임성호의 입시 레이다] 2028 주요대 수능 일반전형에서 학생부 10~40% 반...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113853",
@@ -528,7 +558,7 @@
           "published": "2026-11-16T09:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d932230323f329c9e0434d1e51dc66de",
@@ -868,6 +898,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "12bd92bdc741a759cb33af5372bcd557",
+          "title": "[2027 수능 특집/중앙대] 정시 2112명 선발…수능 90%·출결 10%로 전형 개...",
+          "link": "https://www.ajunews.com/view/20261116140050258",
+          "source": "www.ajunews.com",
+          "published": "2026-11-16T21:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b6b3e483a61805c69d82fec235984054",
           "title": "수능 D-3, AI 부정행위 우려⋯의대 최상위권 가려낼 수 있나?",
           "link": "https://n.news.naver.com/mnews/article/296/0000107396?sid=102",
@@ -875,7 +915,7 @@
           "published": "2026-11-16T07:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "63933f7229dc1eb8c2a8fb6e074651d8",
@@ -885,7 +925,7 @@
           "published": "2026-11-16T07:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5131896acdde4b432e737f5427be564a",
@@ -1113,7 +1153,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "df77b698b54140cf3d3f69ee0c19d4e5",
@@ -1517,6 +1557,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "af4b6b41fe7ab5a5603230faba875301",
+          "title": "[2027 수능 특집/임성호 종로학원 대표] 의대 증원에 사탐런·반수생 10만까지…역대급 변수, 수시 이탈 예의주시해야 - 아주경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGSDFoczVDX0hMZFFhT2dBMlRWeVhWenIyck8wZ2pDUWY0RVUtSTIyM2Ntci1VNF9hTlNyM3htUXhJQjB6cjhMa0dJSHJDb0tSZHp1WkNraHN5d9IBWEFVX3lxTE9reVQtNUdEN3l6U1pUTzhZdUhPVi00N1FTUFRmX0E4eG52SFEwUElURnhMU2l5RktwSUJuZUhDRkxDLVdWQzF0cHFVUTBuR29BTURWYUxwa0g?oc=5",
+          "source": "아주경제",
+          "published": "2026-11-16T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "61d5b79d6e3f74a855e85ce89b095eca",
           "title": "AI 부정행위 초비상…역대 수능 연기 사례는",
           "link": "https://www.namdonews.com/news/articleView.html?idxno=929424",
@@ -1524,7 +1574,7 @@
           "published": "2026-11-16T09:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98950e3280a5768f19fceaa7e9c8c87e",
@@ -1534,7 +1584,7 @@
           "published": "2026-11-16T08:52:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2ef7111c6f4432c20e05efe20548561f",
@@ -1544,7 +1594,7 @@
           "published": "2026-11-16T06:50:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0cfd958db9aceddd08506f1789c49524",
@@ -1831,7 +1881,7 @@
           "published": "2026-11-16T14:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f679b795ba2a82edd7c4c51e3c898258",
