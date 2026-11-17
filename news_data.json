@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T00:10:31.234279+00:00",
+  "updated_at": "2026-11-17T06:23:53.109936+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,60 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-16T23:56:03.763493+00:00",
+          "published": "2026-11-17T06:09:29.052502+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "393b734f940707e6925816ec28759604",
+          "title": "&quot;수능 만점이면 리트 만점도 증명될까&quot;…현직 변호사 &quot;검증엔 한계&quot;",
+          "link": "https://n.news.naver.com/mnews/article/003/0014327207?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-17T04:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "15753659b3dc2e31dd3a2a546a9372e7",
+          "title": "수능 커닝 비상, 긴급 대책과 향후 과제[포럼]",
+          "link": "https://n.news.naver.com/mnews/article/021/0002833365?sid=110",
+          "source": "www.munhwa.com",
+          "published": "2026-11-17T02:49:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3afedf159b86ebcf3486b5daef4621f7",
+          "title": "모평서 난이도 엇갈린 국어·영어...&quot;수능 난이도 예측 어렵다&quot;[와이드...",
+          "link": "https://n.news.naver.com/mnews/article/660/0000121558?sid=102",
+          "source": "www.ikbc.co.kr",
+          "published": "2026-11-17T02:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d3db28bfa7f9742dfefd20e95fdacb75",
+          "title": "수능 직후 가채점 후 분석…대학별고사 지원 여부 결정해야",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113861",
+          "source": "edu.donga.com",
+          "published": "2026-11-17T01:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "60df09b36b5ef6e59c1c266f083195c9",
+          "title": "11월 22일 '2027 수능 가채점 설명회' 개최… 정시 지원 전략 안내",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113856",
+          "source": "edu.donga.com",
+          "published": "2026-11-17T00:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "26de8c97487222d79765d5e1f632df73",
@@ -31,7 +81,7 @@
           "published": "2026-11-16T23:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f9352f2cc66839aace0a67c77bcf982d",
@@ -41,7 +91,7 @@
           "published": "2026-11-16T22:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "51b5bd6f286a02d798c8bea8950fdf15",
@@ -548,7 +598,7 @@
           "published": "2026-11-16T20:01:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3cf187cabdee940984d20c170734a56f",
@@ -905,7 +955,7 @@
           "published": "2026-11-16T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b6b3e483a61805c69d82fec235984054",
@@ -1557,6 +1607,46 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "5f5ca07a35169de0f224b998f1f573c3",
+          "title": "수능 이틀 앞두고 &quot;연기해달라&quot; 요구 빗발…교육부 &quot;검토 어렵다&quot;",
+          "link": "https://n.news.naver.com/mnews/article/421/0009293792?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-17T05:21:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fe22464f9d67b32ec3a0e7c17418de43",
+          "title": "33년 수능 역사상 연기 사례는 단 4번…‘AI 커닝 우려’ 교육부 선택은...",
+          "link": "https://n.news.naver.com/mnews/article/666/0000132410?sid=102",
+          "source": "www.kyeonggi.com",
+          "published": "2026-11-17T02:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "43a0e8a386ae3adc08d4d04681d7faa4",
+          "title": "수능 간부 수당 수백만 원…총액보다 '업무·산정 기준' 따져야",
+          "link": "https://www.newswhoplus.com/news/articleView.html?idxno=74574",
+          "source": "www.newswhoplus.com",
+          "published": "2026-11-17T02:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "03c24cbf2d7ca50e108d05511f608c81",
+          "title": "2027학년도 수능 이후 대입 준비, 수험생이 확인해야 할 주요 사항은?",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113855",
+          "source": "edu.donga.com",
+          "published": "2026-11-17T00:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "af4b6b41fe7ab5a5603230faba875301",
           "title": "[2027 수능 특집/임성호 종로학원 대표] 의대 증원에 사탐런·반수생 10만까지…역대급 변수, 수시 이탈 예의주시해야 - 아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGSDFoczVDX0hMZFFhT2dBMlRWeVhWenIyck8wZ2pDUWY0RVUtSTIyM2Ntci1VNF9hTlNyM3htUXhJQjB6cjhMa0dJSHJDb0tSZHp1WkNraHN5d9IBWEFVX3lxTE9reVQtNUdEN3l6U1pUTzhZdUhPVi00N1FTUFRmX0E4eG52SFEwUElURnhMU2l5RktwSUJuZUhDRkxDLVdWQzF0cHFVUTBuR29BTURWYUxwa0g?oc=5",
@@ -1564,7 +1654,7 @@
           "published": "2026-11-16T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "61d5b79d6e3f74a855e85ce89b095eca",
