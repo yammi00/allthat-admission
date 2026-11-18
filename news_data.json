@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:30:24.297185+00:00",
+  "updated_at": "2026-11-18T00:34:04.123625+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,70 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-17T17:15:55.214698+00:00",
+          "published": "2026-11-18T00:19:21.358532+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "33c27b74a2cfa0012c1f201f5e2a1af8",
+          "title": "수험생 사로잡은 네이버 교육 검색…대학·입시 검색량 73%↑",
+          "link": "https://www.sentv.co.kr/article/view/sentv202611180032",
+          "source": "www.sentv.co.kr",
+          "published": "2026-11-18T00:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d9a6fa27355b32f1d98e2b4d9e4e76c4",
+          "title": "EBS, 19일 수능 특별 생방송...교육부 브리핑도 생중계",
+          "link": "https://n.news.naver.com/mnews/article/092/0002445772?sid=105",
+          "source": "zdnet.co.kr",
+          "published": "2026-11-17T23:45:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "71dab4da7679831e2b0103940913c777",
+          "title": "수능 D-1, N수생 23년 만에 최다…영어 난이도·사탐런이 승부 가른다",
+          "link": "https://theopiniontimes.news/%ec%88%98%eb%8a%a5-d-1-n%ec%88%98%ec%83%9d-23%eb%85%84-%eb%a7%8c%ec%97%90-%ec%b5%9c%eb%8b%a4%ec%98%81%ec%96%b4-%eb%82%9c%ec%9d%b4%eb%8f%84%c2%b7%ec%82%ac%ed%83%90%eb%9f%b0%ec%9d%b4-%ec%8a%b9/",
+          "source": "theopiniontimes.news",
+          "published": "2026-11-17T23:09:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "991651a7d7b4f3a8b4c44a1052dd4f2d",
+          "title": "[거인의어깨 입시컨설팅] 수능 점수지표 완벽 파악하기",
+          "link": "https://www.newspim.com/news/view/20261105000352",
+          "source": "www.newspim.com",
+          "published": "2026-11-17T22:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3b49285aba53ba39511184c4188f58a6",
+          "title": "네이버 수능 검색 이용자 급증…관련 콘텐츠 클릭 74%↑",
+          "link": "https://n.news.naver.com/mnews/article/001/0016447789?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-17T21:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0c9aefe148d5a3f49586ec4b3fc1fdf3",
+          "title": "[수능 D-1] 영어 작년보다 쉬워질 듯…'사탐런' 최대 변수",
+          "link": "https://n.news.naver.com/mnews/article/001/0016447739?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-17T20:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bd730c0966ea921f52dde7fa6e9ad572",
@@ -31,7 +91,7 @@
           "published": "2026-11-17T09:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d4b27114edab840e49b24c45459170ac",
@@ -41,7 +101,7 @@
           "published": "2026-11-17T06:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "393b734f940707e6925816ec28759604",
@@ -615,17 +675,27 @@
           "title": "내신 3.0등급인데 인하대 AI학과 합격?…수학 1.5등급보다 강했던 학생부",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54628",
           "source": "에듀진",
-          "published": "2026-11-17T17:18:18.116110+00:00",
+          "published": "2026-11-18T00:21:45.783064+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6bae7303214494bb2f4025d94acd8bc9",
           "title": "[2027수시] 1단계 합격 이후 '필수 체크포인트'.. 2단계 전형료, 수능최저, 면접일정 '점검'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=637473",
           "source": "베리타스알파",
-          "published": "2026-11-17T17:18:17.299185+00:00",
+          "published": "2026-11-18T00:21:44.266778+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "02b400b5b290fe2f875f482711af1006",
+          "title": "[수능 D-1] 수능 끝나면 주말부터 논술·면접…&quot;기출·출제 경향 점검&quot;",
+          "link": "https://n.news.naver.com/mnews/article/421/0009295093?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-17T23:54:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -638,7 +708,7 @@
           "published": "2026-11-17T08:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "18f0e627bd720ce49bfa784411e94791",
@@ -1002,10 +1072,10 @@
           "title": "[2027정시] '삼전닉스 겨냥' 반도체학과 총정리.. 계약학과 ‘8개교 83명’ 주요22개대 일반학과 12개교 209명 ‘눈길’",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=637601",
           "source": "베리타스알파",
-          "published": "2026-11-17T17:20:43.713509+00:00",
+          "published": "2026-11-18T00:24:14.827584+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9aa14f34e41aa03bd140219746f550b8",
@@ -1015,7 +1085,7 @@
           "published": "2026-11-17T07:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12bd92bdc741a759cb33af5372bcd557",
@@ -1273,7 +1343,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e0e06f6d256de8020d0c4a86c4c55887",
@@ -1688,14 +1758,54 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "0e589a016d445be7ca65197a260b9806",
+          "title": "2027 수능 예비소집일, 날짜부터 수험표·시험장 확인까지 - 뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JMU43N2dlcnNYRmhUbEJURGdfMkhNZzd4RUttb29MZlphQ29EYUI3VElUQnFJTzVtMm1sZE1tbTlZRUFNZEVKYTRB?oc=5",
+          "source": "뉴스N연합",
+          "published": "2026-11-18T00:21:53+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "42b484e1b83bd29a56ee16746b0a5d9f",
+          "title": "[수능불안증] &quot;30분 만에 소매·옷깃을 다 보라고요?&quot;… 수능 감독관들...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=627866",
+          "source": "www.cbci.co.kr",
+          "published": "2026-11-17T21:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fc3221a309aa56f975adeab6dc198c3b",
+          "title": "신분증·수험표 '필수 지참'…개인 샤프 적발 시 '압수'[2027 수능] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NZ0V6Ul9US1c0ZVFHRkQtUlFQZkxGcXlTU2FwOG1leEhFNnlEaG5BaHRSaDM1RVA4SEZ2cFpxSnM5dDkyZFRkaHUtbmx0NmN3SzdURkdqbXRQUW9XM3dJTNIBeEFVX3lxTFAzRExZU3MxQmxCNGVSc3RyVmlWcFBsalFpNWlHSkU3UnZoLUNCVzVtYmRJSmpWbURGYUVqY1pSY3RSU1ZTVW9lSjBCQ3RvdzJrakpyWmJhWVpibkpyT0FDRGpJbkJ6SUplaTYyNlRqbVltZXNaeDh5bw?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-17T21:03:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "183a0ab7692be805ba2be303d41f02fe",
+          "title": "[2027 수능] 예비소집일 앞두고 꼭 알아야 할 사항은?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1193824",
+          "source": "www.ggilbo.com",
+          "published": "2026-11-17T20:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "a2385e409b1b3d7dac693d4c991caf70",
-          "title": "수능 예비소집 날짜·시간·준비물·AI 주의",
+          "title": "수능일 예비소집 날짜·시간·준비물·AI 주의",
           "link": "https://www.bntnews.co.kr/article/view/bnt202611180001",
           "source": "www.bntnews.co.kr",
           "published": "2026-11-17T15:16:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7a9c3cade3f4b423e54189e9a2432392",
@@ -1705,7 +1815,7 @@
           "published": "2026-11-17T08:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "56320c745cf68e704a2d8bd2f725974e",
@@ -1715,7 +1825,7 @@
           "published": "2026-11-17T08:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7e8f024023de13d12d030304195b346c",
@@ -1725,7 +1835,7 @@
           "published": "2026-11-17T08:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7bb6346958ca98b1500d90b9ea4a4454",
@@ -1735,7 +1845,7 @@
           "published": "2026-11-17T07:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8563ccacd8aaf0dd5e943fcf7bee2b58",
@@ -1745,7 +1855,7 @@
           "published": "2026-11-17T06:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "98cf8364d8af1d87c14cc25f292bdc83",
@@ -1755,7 +1865,7 @@
           "published": "2026-11-17T06:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5f5ca07a35169de0f224b998f1f573c3",
