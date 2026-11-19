@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T09:57:30.666260+00:00",
+  "updated_at": "2026-11-19T19:00:27.034309+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,130 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-19T09:43:01.785722+00:00",
+          "published": "2026-11-19T18:45:39.837908+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "f71aba9524791ad13ab595de1b805ee7",
+          "title": "[2027수능] 등급컷 종로 발표.. 국131점 수129점",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638218",
+          "source": "베리타스알파",
+          "published": "2026-11-19T18:45:35.842790+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0202a6f2a05d570010a98d0101b346a3",
+          "title": "속보 - EBS",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc05POGVVT0lmVzhpN2xDdno0RHJvMThWcW96U2hyVEtSd3Z0d1NXYUtXandFZWExcDdlR0t1eGtNLVlTZnhLZW5WbkdqeTNTQTZrOFdRdHNvUkRHa2JMa3MtSVJRVVg2c2drM0VDcFBpalFMQ3JPam5FT3dpQUw3cXhCc0o4TDZxLXhLeDBLTUxyaFc3QTdkdnRLMEI?oc=5",
+          "source": "EBS",
+          "published": "2026-11-19T16:13:05+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b6a7cd8042630c6f7683a0bdb0e18fdb",
+          "title": "23년만에 N수생 최다…현체제 마지막 수능 평이",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073134",
+          "source": "www.ksilbo.co.kr",
+          "published": "2026-11-19T15:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2ed15b2bf954cc2ddf8d65ea58fdbbcf",
+          "title": "수능 문제 분석",
+          "link": "https://n.news.naver.com/mnews/article/022/0004176633?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-11-19T14:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a0e4ab14dd7fa076b0480a14ab810653",
+          "title": "수능 국어·수학, 작년과 비슷…'불영어' 없었다",
+          "link": "https://n.news.naver.com/mnews/article/422/0000927980?sid=102",
+          "source": "www.yonhapnewstv.co.kr",
+          "published": "2026-11-19T13:47:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b4db403ec9b877b3d3b363ab071b6bf7",
+          "title": "수험생 41.5% “2027 수능 약간 어려웠다”…수학·탐구가 변수로 (총평...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/11/19/2026111980242.html",
+          "source": "edu.chosun.com",
+          "published": "2026-11-19T13:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6dd028d42be584197bc745908da849e6",
+          "title": "국어 129~131점·수학 127~131점…수능 가채점 1등급 컷 예상",
+          "link": "https://n.news.naver.com/mnews/article/421/0009300306?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-19T13:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "869c1954a85ea3ca6f472bb008a0e18a",
+          "title": "수능 수학, 지난해와 비슷한 난도…공통 평이·선택 유사",
+          "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626434",
+          "source": "www.mdtoday.co.kr",
+          "published": "2026-11-19T12:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5e0690ab1eee40b97adb78f422e08a1d",
+          "title": "'국어'보단 '수학'서 대입 당락 갈린다…“탐구도 변수”",
+          "link": "https://n.news.naver.com/mnews/article/018/0006412757?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-11-19T10:29:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d1b4bab6c75d7d36332df5e787fdad13",
+          "title": "네이버, 수능 예상 등급컷 제공…7개 이상 입시기관 정보 비교",
+          "link": "https://n.news.naver.com/mnews/article/421/0009300203?sid=105",
+          "source": "www.news1.kr",
+          "published": "2026-11-19T10:17:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "aebb2c2164d319251c14fef3855c65bd",
+          "title": "[이슈대담] 2027년 수능 난이도와 입시 전략은?",
+          "link": "https://n.news.naver.com/mnews/article/056/0012297454?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-11-19T10:12:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d58e80f31ab6347effb276c8f98a54b2",
+          "title": "AI 부정행위 경계 속 수능…국어는 지난해보다 쉽게 수학은 비슷",
+          "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1070802",
+          "source": "www.iusm.co.kr",
+          "published": "2026-11-19T10:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2a61cb1e69f264494122e5528d25f750",
@@ -31,7 +151,7 @@
           "published": "2026-11-19T09:41:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "563cfb6d2103e67d2571da082b0c17a6",
@@ -41,7 +161,7 @@
           "published": "2026-11-19T09:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b2b2b1f8d1d96c3e8c887d2fa0162464",
@@ -51,7 +171,7 @@
           "published": "2026-11-19T09:33:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3c1072ec8363b25b2dc4ff91516fd92e",
@@ -61,7 +181,7 @@
           "published": "2026-11-19T09:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "91d78067717f20ce8f4272ab32523bcd",
@@ -71,7 +191,7 @@
           "published": "2026-11-19T08:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "979733d192e898fd23c589e287c0ba17",
@@ -81,7 +201,7 @@
           "published": "2026-11-19T07:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "81802dd015f273a1ed8baa50555c14c8",
@@ -91,7 +211,7 @@
           "published": "2026-11-19T07:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c97bd2209b3653b5bf7a0ea6bd2c2bac",
@@ -101,7 +221,7 @@
           "published": "2026-11-19T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd4e9ae2c0052726a55b5956a52a788e",
@@ -111,7 +231,7 @@
           "published": "2026-11-19T06:47:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0407ada0f99795bcbe48178a7e8e2b53",
@@ -121,7 +241,7 @@
           "published": "2026-11-19T06:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd077b8bff81744cc9fc5b9e5e1a6ecd",
@@ -131,7 +251,7 @@
           "published": "2026-11-19T06:44:04+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4dd97ffc98aa82cc85598230f3e19427",
@@ -139,6 +259,16 @@
           "link": "https://n.news.naver.com/mnews/article/119/0003157253?sid=102",
           "source": "www.dailian.co.kr",
           "published": "2026-11-19T06:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "23e5c5ba549191a83e77c4105fde9b2b",
+          "title": "EBS \"수능 수학, 어렵지 않았을 것…확통 선택 증가 등급컷 영향 제한적\"(종합) - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kcEZuWC01VWw1LThTX0pHcUdYTkRLS0xTY21BRVh2azVibEpCWE9KbFZIWGxoZ3JtV3owMGp3Q05NaWVGVVJwMlpqS1dMQ1VJV1ljQmVlamVhQQ?oc=5",
+          "source": "뉴스1",
+          "published": "2026-11-19T06:04:02+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -151,7 +281,7 @@
           "published": "2026-11-19T05:53:53+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "92e4c43bc23a17fec9b65c655cfd78ee",
@@ -161,17 +291,17 @@
           "published": "2026-11-19T05:44:22+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "509c75d19645b9bfc6853a1245ba9ff3",
           "title": "EBS, \"수능 수학, 작년 수능과 비슷…학교 수업으로 대비 가능\" - 조선일보",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmEyM0FieG1TNUdzSmlNa3EwQjA5MGx1RlB3ZzhLWEhBalV5R1NwS29Rek1idUhFenhhc3U0QmoybmFELU1JbXd6N2pGbl80YTRoNDBkY1BCM2ktWkJPNW0zZDBtNlpSZVdkOVh5Vm1JN2xiT25lZFlQcWlGQzRYNUpVV2pGemc?oc=5",
           "source": "조선일보",
-          "published": "2026-11-19T05:30:40+00:00",
+          "published": "2026-11-19T05:29:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5ecd4215145556fa335c7f0b46398576",
@@ -971,6 +1101,26 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "86ba497a904d6e584cfc4896a89a6ccc",
+          "title": "올해 수능, 작년보다 국어·영어는 쉬웠고 수학은 비슷했다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003763778?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-11-19T11:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "66a63f212a324dbd21b38d3135d190f4",
+          "title": "&quot;수능 끝…대입 레이스는 이제부터 시작&quot;",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=929909",
+          "source": "www.namdonews.com",
+          "published": "2026-11-19T10:14:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "6f6e9bacc5dc81ab49f21a549c824b00",
           "title": "&lt;속보&gt; &quot;영어, 작년 수능보다 쉽고 올해 9모보다 어려워&quot;",
           "link": "http://news.ebs.co.kr/ebsnews/allView/60792238/N",
@@ -978,7 +1128,7 @@
           "published": "2026-11-19T09:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d8bd1c7b610f635a76221825b4144e99",
@@ -988,7 +1138,7 @@
           "published": "2026-11-19T09:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2acb24fcba818c27a107f0255d0d2f21",
@@ -998,7 +1148,7 @@
           "published": "2026-11-19T09:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f916846f749dd0ba65b4d102275499d5",
@@ -1008,7 +1158,7 @@
           "published": "2026-11-19T09:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "364708a1a3465346c7f394f2cd1c1ef9",
@@ -1018,7 +1168,7 @@
           "published": "2026-11-19T08:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c761439e3b2b950fdfd3eee89e8dc71c",
@@ -1028,7 +1178,7 @@
           "published": "2026-11-19T08:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2b18a22cc13640e65f2b96390d37e44d",
@@ -1038,7 +1188,7 @@
           "published": "2026-11-19T08:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4d5e24e4dea1cad0f5fa374507bd93d2",
@@ -1048,7 +1198,7 @@
           "published": "2026-11-19T08:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aa370273ed76f2496c76a74a824a5766",
@@ -1058,7 +1208,7 @@
           "published": "2026-11-19T07:29:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6fc7fca404eed9454da7483c73642762",
@@ -1068,7 +1218,7 @@
           "published": "2026-11-19T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c648d44b9c6b33b7a942c20b2eec592a",
@@ -1078,7 +1228,7 @@
           "published": "2026-11-19T04:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0e4e73c8594a0851adc03f69606c1452",
@@ -1088,7 +1238,7 @@
           "published": "2026-11-19T03:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9c99b1440eb451938b5d1685518f24b0",
@@ -1098,7 +1248,7 @@
           "published": "2026-11-19T01:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b5848f7983721bd3820c7909e05d7e64",
@@ -1108,7 +1258,7 @@
           "published": "2026-11-19T01:51:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "def34205a83d014bc4d4a94e1d2140cc",
@@ -1648,6 +1798,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "5ca2b4afb4c0f64059d49cad261db84e",
+          "title": "주말 논술 보러 갈까 말까… 수능 가채점 직후 꼭 따져야 할 정시 유불...",
+          "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92710",
+          "source": "www.woodkorea.co.kr",
+          "published": "2026-11-19T16:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "19e74759850be3bc31236efc6c7aa5a7",
           "title": "올해 수능, 작년보다 쉬웠다…정시 판도 수학·탐구가 가른다(종합)",
           "link": "https://n.news.naver.com/mnews/article/421/0009300086?sid=102",
@@ -1655,14 +1815,14 @@
           "published": "2026-11-19T09:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "5831b60315bca8c359b79878a363b59d",
-          "title": "2027 정시 레이스 본격 개막…경기권 주요 대학 입시 전략",
-          "link": "https://n.news.naver.com/mnews/article/629/0000553805?sid=102",
-          "source": "news.tf.co.kr",
-          "published": "2026-11-19T09:01:00+00:00",
+          "id": "5b0e8bc5f10aed66f39dc9a0c5ffcd85",
+          "title": "2027 정시 레이스 본격 개막…경기권 주요 대학 입시 전략 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6UXdOT2JPU2lPenY0MXM4YzB4ZFZEX09kRk5EbUpRQWo1MzRMejBvUUI1bmdkMHlTRUp1TzVRM3pGUVMxaTREaUotNC1SN2JyOF92QnRB0gFWQVVfeXFMUHpRd05PYk9TaU96djQxczhjMHhkVkRfT2RGTkRtSlFBajUzNEx6MG9RQjVuZ2QweVNFSnVPNVEzekZRUzFpNERpSi00LVI3YnI4X3ZCdEE?oc=5",
+          "source": "더팩트",
+          "published": "2026-11-19T09:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1675,7 +1835,7 @@
           "published": "2026-11-19T08:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "df8aed68ebbf52bc3b5da6be07b9fa30",
@@ -1685,7 +1845,7 @@
           "published": "2026-11-19T08:28:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cff694251d42a3f7a851c19171a2c13d",
@@ -1695,7 +1855,7 @@
           "published": "2026-11-19T08:27:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2690c56defaab650127ae8dc0a447927",
@@ -1703,6 +1863,16 @@
           "link": "http://www.metroseoul.co.kr/article/20261119500367",
           "source": "www.metroseoul.co.kr",
           "published": "2026-11-19T06:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c4b1f37b9e393551a35cf08228e492d1",
+          "title": "[2027학년도 대학수학능력시험] AI 수능 부정행위 차단 총력전 속 55만 수...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=214090",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-19T01:36:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1843,6 +2013,16 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
           "published": "2026-11-16T04:15:01.411417+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "83694d4d7b686ffc532275f8dbe794d4",
+          "title": "[2027 정시] '영어 2등급에 7.92점 감점?'... 서·연·고 정시 산식 비교 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16eGVFejdIN3l0NFlUckpMQXNLUjlmX3pHbUVWQjlHMEFlV3pqbVdzMUN0SWxSeFBIeWpmRGpOLTdwZlUyU0hzclRpaFFiSU05VmptSWEzbGVpTlB2akxZMGtsR2kydw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-16T02:36:30+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2065,9 +2245,9 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "a09b8d104b57196a5a67271f2d2c5866",
-          "title": "2027학년도 대학수학능력시험 출제방향 보도자료",
-          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5100944&lev=0&m=0301&s=suneung",
+          "id": "0325bb1ea0b2d74d3a23d87436d50bf5",
+          "title": "2027학년도 대학수학능력시험 출제방향 보도자료(전 교시)",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5100983&lev=0&m=0301&s=suneung",
           "source": "한국교육과정평가원",
           "published": "2026-11-19T00:00:00+00:00",
           "type": "official",
@@ -2424,6 +2604,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "a4f353f1993a1c463386a85caee2bc16",
+          "title": "[수능]대학별 전형·본인 성적 비교 분석이 관건",
+          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112354",
+          "source": "www.ccdn.co.kr",
+          "published": "2026-11-19T10:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "0a2d7155bbcaf29456dfab60e51ba5f6",
           "title": "수능 가채점 결과 활용한 대입 전략 수립 중요… 수시·정시 지원 가능...",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113959",
@@ -2431,7 +2621,7 @@
           "published": "2026-11-19T08:04:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3f13b5e00328792f17cae2d0667e2a5b",
@@ -2441,7 +2631,7 @@
           "published": "2026-11-19T06:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1f7e893ae013bd0fae4eb9a1fcf281bd",
@@ -2451,7 +2641,7 @@
           "published": "2026-11-19T03:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "15842c63556c291fc549711ed9b72161",
@@ -2551,11 +2741,51 @@
       "emoji": "📅",
       "items": [
         {
-          "id": "776c0ff326260b465eeb358fdfaa843b",
-          "title": "[2027 수능 총평]국어 부담 줄고 수학 변별력 유지…영어도 지난해보다...",
-          "link": "https://www.hidomin.com/news/articleView.html?idxno=730251",
+          "id": "b1d7d31b8f576dae89ce023735e8f02f",
+          "title": "[2027수능] '커지는 후폭풍' AI커닝 뒷북대책 책임론.. '전날까지 갈팡질...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638103",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-19T13:28:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fa8422a923af0bf7af94ddb1a3e00336",
+          "title": "따뜻한 배려·휴식 필요한 '입시 연장전'",
+          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=587182",
+          "source": "www.ulsanpress.net",
+          "published": "2026-11-19T11:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5b5582c552ec3d66ca2ade8d27612a68",
+          "title": "&quot;수능 끝, 이제 수시 면접·논술&quot;…가채점, 최저 기준 걸쳤다면 응시해...",
+          "link": "https://n.news.naver.com/mnews/article/660/0000121787?sid=102",
+          "source": "www.ikbc.co.kr",
+          "published": "2026-11-19T11:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "22fa7cc792ffe832f3f5846a1047751c",
+          "title": "입시는 이제부터…'AI 부정' 조사도 시작",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60792243/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-19T10:42:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fa0a1d5a3f22221beceae571b92776d8",
+          "title": "[2027 수능 총평]국어 부담 줄고 수학 변별력 유지…영어도 지난해보다 쉬워 - www.hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11V0k3RTh1ZGdoM0h1TnpleXQ4ZnhKZHpHNHVPekx0LTZIbm5oeTBVaXFlOHFWRWktRFdvMVBsZ3gwZXZrY3YzZTJ1bFVQaUtEU2I0eXU4X1VFZlhBcTRNam1JNjBnSXlMNUE?oc=5",
           "source": "www.hidomin.com",
-          "published": "2026-11-19T09:36:00+00:00",
+          "published": "2026-11-19T09:34:43+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -2568,7 +2798,7 @@
           "published": "2026-11-19T09:23:18+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f57f8f5e331d126a47944544da257880",
@@ -2578,7 +2808,7 @@
           "published": "2026-11-19T09:00:02+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fbb3cd3baab415351f311524e45fd0f2",
@@ -2588,7 +2818,7 @@
           "published": "2026-11-19T08:35:50+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "325920e0e81e93cdaa1d6c6d3147a649",
@@ -2598,7 +2828,7 @@
           "published": "2026-11-19T07:10:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c71a828cab4b5868282f1ba7486ac0c4",
@@ -2608,7 +2838,7 @@
           "published": "2026-11-19T06:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "73a0cf3ac9ee06c1ca35dbf2e5520f1e",
@@ -2618,7 +2848,7 @@
           "published": "2026-11-19T04:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "02df54191f4e6ae09ff783b250579649",
@@ -2628,7 +2858,7 @@
           "published": "2026-11-19T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6dd5fc3ca9cfeededc5b1c9fb7b05fbc",
@@ -2698,7 +2928,7 @@
           "published": "2026-11-18T22:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2cef0b84a15655ee17ee365d082bc986",
@@ -2956,16 +3186,6 @@
           "link": "https://www.wikitree.co.kr/articles/1174934",
           "source": "www.wikitree.co.kr",
           "published": "2026-11-16T03:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
-          "id": "83694d4d7b686ffc532275f8dbe794d4",
-          "title": "[2027 정시] '영어 2등급에 7.92점 감점?'... 서·연·고 정시 산식 비교 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16eGVFejdIN3l0NFlUckpMQXNLUjlmX3pHbUVWQjlHMEFlV3pqbVdzMUN0SWxSeFBIeWpmRGpOLTdwZlUyU0hzclRpaFFiSU05VmptSWEzbGVpTlB2akxZMGtsR2kydw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-11-16T02:36:30+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -3235,7 +3455,7 @@
           "published": "2026-11-19T03:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "02046900583275aa7f05be2a13256de4",
