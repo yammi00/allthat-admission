@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:47:03.427905+00:00",
+  "updated_at": "2026-11-19T01:50:28.609119+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,80 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-18T18:32:31.033989+00:00",
+          "published": "2026-11-19T01:35:32.689474+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "5ecd4215145556fa335c7f0b46398576",
+          "title": "2026 수능 시간표·국어 등급컷 관심...난이도 출제경향은",
+          "link": "https://www.christiantoday.co.kr/news/378727",
+          "source": "www.christiantoday.co.kr",
+          "published": "2026-11-19T01:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d72ad7c5cc11caed4199cdfa8f818807",
+          "title": "2027 수능, 사교육 유리한 문항 배제…영어 1등급 비율 안정적 전망",
+          "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101564",
+          "source": "www.newsian.co.kr",
+          "published": "2026-11-19T01:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3309c7e4414b78542699cbc9894341af",
+          "title": "1년 만에 991명 늘어난 수능 국어 최고점자…난이도만으로 설명되나",
+          "link": "https://n.news.naver.com/mnews/article/448/0000651997?sid=102",
+          "source": "news.tvchosun.com",
+          "published": "2026-11-19T01:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f04e32c4e86db55a11b33f6529d5b287",
+          "title": "2027학년도 수능 정답…언제 어디서?",
+          "link": "https://www.wikitree.co.kr/articles/1175633",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-19T00:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "898d3fb2657c6d6eee187a155daec89a",
+          "title": "2027 수능 난이도 &quot;사교육 기술 안 통한다&quot;",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3756684",
+          "source": "www.gukjenews.com",
+          "published": "2026-11-19T00:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5cd00184c7ec78755d6a59972344b80d",
+          "title": "[수능출제위원장 일문일답] &quot;올해 'N수생' 최다… 문항별 난이도 촘촘히...",
+          "link": "https://n.news.naver.com/mnews/article/469/0000966481?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-11-19T00:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "42642749b625ee0aa5eeb5db70c819d3",
+          "title": "2027 수능, &quot;공교육만으로 변별력 확보··· 선택과목 유불리 최소화&quot;",
+          "link": "https://www.incheontoday.com/news/articleView.html?idxno=326613",
+          "source": "www.incheontoday.com",
+          "published": "2026-11-19T00:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "607958bd868c4e51495b6c032f985ad5",
@@ -31,7 +101,7 @@
           "published": "2026-11-18T09:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ad581af6c511ceaa0f259ab137e5f0e8",
@@ -755,10 +825,70 @@
           "title": "내신 3.0등급인데 인하대 AI학과 합격?…수학 1.5등급보다 강했던 학생부",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54628",
           "source": "에듀진",
-          "published": "2026-11-18T18:34:59.246476+00:00",
+          "published": "2026-11-19T01:38:02.311065+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "745c1538eb17fb4c7771212c14d9e8df",
+          "title": "[2027 수능]“수능 끝났다고 끝난 게 아니다”…논술·면접 ‘2차 입시전...",
+          "link": "https://n.news.naver.com/mnews/article/011/0004683853?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-11-19T00:47:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f4f85a58aa9aef6d4c456ea807c2bd5f",
+          "title": "'입시 역사상 최악의 세대'라는 08년생…수시부터 수능까지 대체 무슨 ...",
+          "link": "https://n.news.naver.com/mnews/article/277/0005844881?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-11-19T00:29:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bf5c4d46a14da29c598b12b6e52415b5",
+          "title": "[2027수능] '현행 체제 마지막' 수능.. 출제 경향 유지 &quot;적정 난도 고르...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=637978",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-19T00:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ef4768a5ce01658ad7c52435be081ea7",
+          "title": "전국 85개 시험지구서 55만여명 수능 돌입…영하권 추위 속 '부정 방지 ...",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88047",
+          "source": "www.pointe.co.kr",
+          "published": "2026-11-19T00:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e0cd5a44c6f88bce419b37b48d789b44",
+          "title": "[수능 D-데이] 영하권 추위 속 55만명 결전…'AI 커닝' 차단 총력",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315704",
+          "source": "www.straightnews.co.kr",
+          "published": "2026-11-18T22:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f60666fed14d04ae5a5eafe9be6934ca",
+          "title": "[수능] 수능 끝나도 대입 일정 빼곡…21일부터 논술·면접 잇따라",
+          "link": "https://n.news.naver.com/mnews/article/001/0016450428?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-18T20:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "8c727af76665f891636b4ffd97ffc6a4",
@@ -768,7 +898,7 @@
           "published": "2026-11-18T15:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "59368c1b25f72821eb1342212bfbe842",
@@ -778,7 +908,7 @@
           "published": "2026-11-18T10:51:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6d18983a27cd7ab8d3e37d70bacb7aa",
@@ -788,7 +918,7 @@
           "published": "2026-11-18T09:49:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "58255cacb4f455484ae1fa7cc9c3c91f",
@@ -1228,6 +1358,56 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "a834e6269436d43f810f54505e372e94",
+          "title": "[이슈 직썰] &quot;AI 커닝 원천 봉쇄&quot;…수험생 '55만명' 2027 수능 시작된다",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=153893",
+          "source": "www.ziksir.com",
+          "published": "2026-11-18T23:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4e7a33b9a13884daeca30a7d7078092e",
+          "title": "2027학년도 수능 가채점 분석 본격화…메가스터디·종로학원·진학사·유...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=214067",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-18T22:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "46f37c2de860b57506180cb6d1b27f93",
+          "title": "[2026 수능 디데이] 표준점수·백분위·등급컷, 성적표 읽는 법부터 대입...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=214066",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-18T22:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "aa561715eb3906fae8b9aa7187536b7a",
+          "title": "2027 수능 오늘 실시, '사탐런' 85.1%·영어 난이도 최대 변수…AI 부정행...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280278",
+          "source": "www.topstarnews.net",
+          "published": "2026-11-18T21:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "054e12cf9012d09fd23ea2b342ce2029",
+          "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시",
+          "link": "https://n.news.naver.com/mnews/article/020/0003763578?sid=102",
+          "source": "www.donga.com",
+          "published": "2026-11-18T19:35:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "3da3fb26797080e794acc826e0b4d8aa",
           "title": "종료령 후 작성하면 '부정행위'…첫 도입 가채점표 활용법[2027 수능]",
           "link": "https://n.news.naver.com/mnews/article/003/0014331240?sid=102",
@@ -1235,7 +1415,7 @@
           "published": "2026-11-18T11:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0f73fbd38799210d58820d193da192d2",
@@ -1535,15 +1715,15 @@
       "emoji": "📋",
       "items": [
         {
-          "id": "30719b83a0962232f6c135fbd563bca3",
-          "title": "[보도자료] &quot;수능 부정행위, 결코 용납하지 않겠습니다",
-          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789826",
-          "source": "정책브리핑(교육부)",
+          "id": "37b9d61e09bd7fa8b15ca56b89ed29e8",
+          "title": "[교육부] 2027 수능 강화된 부정행위 예방조치에 따른 수험생 유의사항 추가 안내",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5100670&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
           "published": "2026-11-18T00:00:00+00:00",
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed36b6969b53768a7ddad806e2d65586",
@@ -1980,8 +2160,88 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "6dd5fc3ca9cfeededc5b1c9fb7b05fbc",
+          "title": "[2027 수능] 수능 끝난 수험생, 논술·면접고사 이어 정시 준비 돌입 - 청년일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ReWNZTklCYzNPV2IyNHo3aURVY3lFSHV3Vm5vR2xvb2drTlI5OEk0aXB0cVVydmF4dzluRFdBLUZZZ3VxR2k2SXIxRTFGQmZ6VVMzQzUzay1aVXo2Y0ROeHpsU0J5WkR0aGc?oc=5",
+          "source": "청년일보",
+          "published": "2026-11-19T01:03:10+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "507a567ffe6800f8bab5aa5d122f115a",
+          "title": "2027학년도 수능 전국 1312개 시험장서 시작… 지원자 55만1864명 - 베이비뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVXkzSFhZU1I3N2Z2VE02ZmZtV2lSel8yWm5DRkhpSy1WZEpKTWNGUFlBMVFpQU1RNjJ1V3ByWlRtOE1uSmJGNEtoOWRmbThmelZONlFIdXBCLXhEd09mUURwV2Fjb3dRRTNrYg?oc=5",
+          "source": "베이비뉴스",
+          "published": "2026-11-19T00:27:03+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3b6c4d232227f8f6c12412fe4c5ac37a",
+          "title": "수능 출제위원장 \"N수생 증가 고려해 난도 조정…선택과목 유불리 최소화\" - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12SVhFbWM1TURVcEtwWlZIbmJqNXRMQktUZG9uT1BjSjFJNnJXcEI4V2xHSEliNzBNZjRveDBiZ0tzY3RJQVBZTV9oZzU2eHYwNG5PQ1JtSmxGdw?oc=5",
+          "source": "뉴스1",
+          "published": "2026-11-19T00:12:57+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "898e5b0fd5e441a61f3c597d74286309",
+          "title": "[그래픽] 2027학년도 대학입시 주요 일정",
+          "link": "https://n.news.naver.com/mnews/article/001/0016450848?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-19T00:03:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ce026f8519d765ae39e02294aef3519f",
+          "title": "&quot;종료령 뒤 가채점표는 부정행위&quot;…수능 뒤 달력에 남은 다섯 날짜",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3756517",
+          "source": "www.gukjenews.com",
+          "published": "2026-11-18T22:56:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "175f7bea17fe7781317bedf3be88b0b6",
+          "title": "2027 수능 문제 정답·답지 공개 시간 - 국제뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VemlUTDc2TDhWUExPSXF0Uzk3aFFhVl9HLS0wYVZuUVRJMXY2eElKaU1NTFdDdEptLWpNZllHZklWWXJ1TkRmdTNTNUZoeVVZQXJ6UHZOOHU5SFpXSllneVAtaWlvRGo2ZGpPaXBn?oc=5",
+          "source": "국제뉴스",
+          "published": "2026-11-18T22:29:48+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "2cef0b84a15655ee17ee365d082bc986",
+          "title": "2027 대입, 수능 다음 날부터 대학별 고사 이어진다 : 사회 - 재경일보",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3M3poQm82WHJwdEVtRlBLLTBjYmU2Y2xiZGljNHNjTzZIWmM3MVVQX3kzTXhPWDdUS0dmSDhaejhnaFBSUnd0a1U4cw?oc=5",
+          "source": "재경일보",
+          "published": "2026-11-18T20:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "260f95483f92eab172067543a95b01a8",
+          "title": "2027 수능 몇 시에 끝나나요?…정답 공개·예상 등급컷·가채점·성적 발표까지 오늘 꼭 확인할 것 - 네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzluUUxRZWRuVjN4d2VVbXdYOTFpcTlzS2pBeHpISW4xS2xKWGhVR0wtR2Z1RFM1REg5UXJZUmxxR2JRYXVSc2NWTE9UTnFiUHZLT1ZUV1g3TFhTVUl2QVp6RFh6WldNcGtCcXhlSFBMVFpFT0pXVmdNcFJyTWd1S3JqUDFjUzhUNzRZ?oc=5",
+          "source": "네이버 프리미엄콘텐츠",
+          "published": "2026-11-18T17:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "1827ed19ae7955908a28360a7867aba2",
-          "title": "수능 다음날 지하철 지연운행 ‘주의’…노조, 20일부터 ‘안전운행 투...",
+          "title": "수능 다음날 지하철 느려진다…노조, 20일부터 ‘안전운행 투쟁’ [서울...",
           "link": "https://n.news.naver.com/mnews/article/016/0002725334?sid=102",
           "source": "biz.heraldcorp.com",
           "published": "2026-11-18T09:31:00+00:00",
