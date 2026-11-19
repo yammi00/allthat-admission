@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T01:50:28.609119+00:00",
+  "updated_at": "2026-11-19T09:57:30.666260+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,160 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-19T01:35:32.689474+00:00",
+          "published": "2026-11-19T09:43:01.785722+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "2a61cb1e69f264494122e5528d25f750",
+          "title": "‘AI 쇼크’ 수능, 시험 끝났지만 더 큰 숙제 남겼다",
+          "link": "https://n.news.naver.com/mnews/article/082/0001408120?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-11-19T09:41:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "563cfb6d2103e67d2571da082b0c17a6",
+          "title": "[2027 수능] 수학 변별력 커지고 국어·영어 쉬워져",
+          "link": "https://www.jjan.kr/article/20261119500497",
+          "source": "www.jjan.kr",
+          "published": "2026-11-19T09:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b2b2b1f8d1d96c3e8c887d2fa0162464",
+          "title": "&quot;작년 '불수능' 영어 올해는 쉬워졌다…상위권 변별력은 유지&quot; [2027 수능...",
+          "link": "https://n.news.naver.com/mnews/article/014/0005607094?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-11-19T09:33:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "3c1072ec8363b25b2dc4ff91516fd92e",
+          "title": "작년보다 쉬웠다…&quot;변별력 확보는 문제 없을 듯&quot;(종합)[2027 수능]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014334227?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-19T09:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "91d78067717f20ce8f4272ab32523bcd",
+          "title": "[2027 수능 난도 분석] 수학, 미적분 상대적으로 어려워(진학사)",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113958",
+          "source": "edu.donga.com",
+          "published": "2026-11-19T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "979733d192e898fd23c589e287c0ba17",
+          "title": "2027 수능 등급컷 예상은? 지난해 수능·9월 모평 국어 수학 점수 비교",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280798",
+          "source": "www.topstarnews.net",
+          "published": "2026-11-19T07:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "81802dd015f273a1ed8baa50555c14c8",
+          "title": "수능 수학 전년과 비슷하게 출제…확통런 변별력 관건",
+          "link": "https://n.news.naver.com/mnews/article/081/0003701190?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-11-19T07:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c97bd2209b3653b5bf7a0ea6bd2c2bac",
+          "title": "[2027학년도 수능] 수학 난이도 어땠나...15·21·22번 주목",
+          "link": "https://www.wikitree.co.kr/articles/1176042",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-19T07:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bd4e9ae2c0052726a55b5956a52a788e",
+          "title": "올해 수능 수학, 작년과 비슷하거나 더 어려워…21·30번이 변별력 갈랐...",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000084676",
+          "source": "www.jnilbo.com",
+          "published": "2026-11-19T06:47:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0407ada0f99795bcbe48178a7e8e2b53",
+          "title": "EBS &quot;수학, 작년과 비슷&quot;…입시업계 &quot;다소 까다로워&quot;(종합)[2027 수능]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014333586?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-19T06:46:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bd077b8bff81744cc9fc5b9e5e1a6ecd",
+          "title": "속보 - EBS",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSC1pSldqOEcxcEtqZEdRc1h0eC12RGpCN0duVkxkdlNoSU1ON2p3NnJSZC1FVF9aWnBUcGQwZXk2UHptOWh5YXA0UXptNjNtbTdKMHRqSE85dFlvQmJWR2xQNjkzZGtJSnBCUXdoUWJpbW1tNXpfWmF4bDd0VG4yT0VjdTJac3NGVFJ2MXotdw?oc=5",
+          "source": "EBS",
+          "published": "2026-11-19T06:44:04+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4dd97ffc98aa82cc85598230f3e19427",
+          "title": "EBS &quot;올해 수능 수학 영역, 전반적으로 작년과 비슷…EBS 연계율 50%&quot;",
+          "link": "https://n.news.naver.com/mnews/article/119/0003157253?sid=102",
+          "source": "www.dailian.co.kr",
+          "published": "2026-11-19T06:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "92eb908a101f61dbebcbae5458bb8833",
+          "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNNIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-19T05:53:53+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "92e4c43bc23a17fec9b65c655cfd78ee",
+          "title": "수능 국어 ‘평이’·수학 ‘작년 수준’…“초고난도 배제·EBS 연계 체감 높아” - BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVkRJMUFoMkd2enc1eW4xUFBTVmwtclE3Z0IyV216aWNZLWlJSU1DUC1la1lZNU95SnVLd0REMVJhNXFQV250NUE2UEZPV2M5UEgtX3VDemotLU9XVG1iSjVtUVlSeFI3aHln?oc=5",
+          "source": "BBS불교방송",
+          "published": "2026-11-19T05:44:22+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "509c75d19645b9bfc6853a1245ba9ff3",
+          "title": "EBS, \"수능 수학, 작년 수능과 비슷…학교 수업으로 대비 가능\" - 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmEyM0FieG1TNUdzSmlNa3EwQjA5MGx1RlB3ZzhLWEhBalV5R1NwS29Rek1idUhFenhhc3U0QmoybmFELU1JbXd6N2pGbl80YTRoNDBkY1BCM2ktWkJPNW0zZDBtNlpSZVdkOVh5Vm1JN2xiT25lZFlQcWlGQzRYNUpVV2pGemc?oc=5",
+          "source": "조선일보",
+          "published": "2026-11-19T05:30:40+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "5ecd4215145556fa335c7f0b46398576",
@@ -31,7 +181,7 @@
           "published": "2026-11-19T01:24:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d72ad7c5cc11caed4199cdfa8f818807",
@@ -41,7 +191,7 @@
           "published": "2026-11-19T01:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3309c7e4414b78542699cbc9894341af",
@@ -51,7 +201,7 @@
           "published": "2026-11-19T01:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f04e32c4e86db55a11b33f6529d5b287",
@@ -61,7 +211,7 @@
           "published": "2026-11-19T00:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "898d3fb2657c6d6eee187a155daec89a",
@@ -71,7 +221,7 @@
           "published": "2026-11-19T00:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5cd00184c7ec78755d6a59972344b80d",
@@ -81,7 +231,7 @@
           "published": "2026-11-19T00:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42642749b625ee0aa5eeb5db70c819d3",
@@ -91,7 +241,7 @@
           "published": "2026-11-19T00:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "607958bd868c4e51495b6c032f985ad5",
@@ -821,6 +971,146 @@
       "emoji": "🎓",
       "items": [
         {
+          "id": "6f6e9bacc5dc81ab49f21a549c824b00",
+          "title": "&lt;속보&gt; &quot;영어, 작년 수능보다 쉽고 올해 9모보다 어려워&quot;",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60792238/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-19T09:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d8bd1c7b610f635a76221825b4144e99",
+          "title": "[수능 이후 수시·정시 대비 전략] 가채점 높으면 정시, 낮으면 수시 집...",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194340",
+          "source": "www.ggilbo.com",
+          "published": "2026-11-19T09:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2acb24fcba818c27a107f0255d0d2f21",
+          "title": "고득점땐 ‘수시 납치’ 주의…정시는 대학별 가산점 체크를[2027 대학수...",
+          "link": "https://n.news.naver.com/mnews/article/011/0004684131?sid=102",
+          "source": "www.sedaily.com",
+          "published": "2026-11-19T09:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f916846f749dd0ba65b4d102275499d5",
+          "title": "[수능] 국어·영어 쉬워지고 수학 비슷...변별력 유지 속 입시전략 중요",
+          "link": "https://www.newsjeju.net/news/articleView.html?idxno=428691",
+          "source": "www.newsjeju.net",
+          "published": "2026-11-19T09:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "364708a1a3465346c7f394f2cd1c1ef9",
+          "title": "[수능 이모저모] 우여곡절 많았던 수능…날씨까지 '야속'",
+          "link": "http://www.samdailbo.com/news/articleView.html?idxno=272948",
+          "source": "www.samdailbo.com",
+          "published": "2026-11-19T08:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c761439e3b2b950fdfd3eee89e8dc71c",
+          "title": "수능 끝나면 대학 논술 'AI 커닝' 비상…서울대, '일회용 가운' 입힌다",
+          "link": "https://n.news.naver.com/mnews/article/030/0003487770?sid=102",
+          "source": "www.etnews.com",
+          "published": "2026-11-19T08:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2b18a22cc13640e65f2b96390d37e44d",
+          "title": "주말부터 논술·면접 12월 11일 성적 통지",
+          "link": "https://n.news.naver.com/mnews/article/009/0005766383?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-11-19T08:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4d5e24e4dea1cad0f5fa374507bd93d2",
+          "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014333965?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-19T08:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "aa370273ed76f2496c76a74a824a5766",
+          "title": "수능 이후 정시 지원 경쟁…서울 자치구가 도와드립니다",
+          "link": "https://n.news.naver.com/mnews/article/277/0005845216?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-11-19T07:29:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6fc7fca404eed9454da7483c73642762",
+          "title": "[수능]내 점수로 어느 대학 갈까…가채점으로 본 대입 전략",
+          "link": "https://n.news.naver.com/mnews/article/656/0000192960?sid=102",
+          "source": "www.daejonilbo.com",
+          "published": "2026-11-19T07:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c648d44b9c6b33b7a942c20b2eec592a",
+          "title": "수능 이후 대입 일정 빼곡…21일부터 논술·면접",
+          "link": "https://www.naeil.com/news/read/609326?ref=naver",
+          "source": "www.naeil.com",
+          "published": "2026-11-19T04:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0e4e73c8594a0851adc03f69606c1452",
+          "title": "EBS &quot;2027 수능 국어 쉬웠다&quot;…'불영어'도 손질",
+          "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=200526",
+          "source": "www.mstoday.co.kr",
+          "published": "2026-11-19T03:24:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "9c99b1440eb451938b5d1685518f24b0",
+          "title": "㈜잇올, 2027학년도 수능 당일 현장 응원 펼쳐…입시 지원도 이어가",
+          "link": "https://www.gosiweek.com/article/1065577789169440",
+          "source": "www.gosiweek.com",
+          "published": "2026-11-19T01:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b5848f7983721bd3820c7909e05d7e64",
+          "title": "“우리 수능 볼 때가 제일 힘들었어”⋯‘2027 수능일’ 맞아 돌아보는...",
+          "link": "https://n.news.naver.com/mnews/article/087/0001231940?sid=102",
+          "source": "www.kwnews.co.kr",
+          "published": "2026-11-19T01:51:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "def34205a83d014bc4d4a94e1d2140cc",
           "title": "내신 3.0등급인데 인하대 AI학과 합격?…수학 1.5등급보다 강했던 학생부",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54628",
@@ -838,7 +1128,7 @@
           "published": "2026-11-19T00:47:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f4f85a58aa9aef6d4c456ea807c2bd5f",
@@ -848,7 +1138,7 @@
           "published": "2026-11-19T00:29:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bf5c4d46a14da29c598b12b6e52415b5",
@@ -858,7 +1148,7 @@
           "published": "2026-11-19T00:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ef4768a5ce01658ad7c52435be081ea7",
@@ -868,7 +1158,7 @@
           "published": "2026-11-19T00:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e0cd5a44c6f88bce419b37b48d789b44",
@@ -878,7 +1168,7 @@
           "published": "2026-11-18T22:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f60666fed14d04ae5a5eafe9be6934ca",
@@ -888,7 +1178,7 @@
           "published": "2026-11-18T20:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c727af76665f891636b4ffd97ffc6a4",
@@ -1358,6 +1648,66 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "19e74759850be3bc31236efc6c7aa5a7",
+          "title": "올해 수능, 작년보다 쉬웠다…정시 판도 수학·탐구가 가른다(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009300086?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-19T09:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5831b60315bca8c359b79878a363b59d",
+          "title": "2027 정시 레이스 본격 개막…경기권 주요 대학 입시 전략",
+          "link": "https://n.news.naver.com/mnews/article/629/0000553805?sid=102",
+          "source": "news.tf.co.kr",
+          "published": "2026-11-19T09:01:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f40db0fc0c9ee0371d7c1fb3b1e3c92b",
+          "title": "국어 다소 쉽게, 수학은 어렵게…수능 수학서 변별력 확보",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20261119010006960",
+          "source": "www.joongdo.co.kr",
+          "published": "2026-11-19T08:32:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "df8aed68ebbf52bc3b5da6be07b9fa30",
+          "title": "임성호 종로학원 대표 “2027 수능, 국어보다 수학 중요도 커져”",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/11/19/2026111980211.html",
+          "source": "edu.chosun.com",
+          "published": "2026-11-19T08:28:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "cff694251d42a3f7a851c19171a2c13d",
+          "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
+          "link": "https://n.news.naver.com/mnews/article/032/0003483802?sid=102",
+          "source": "www.khan.co.kr",
+          "published": "2026-11-19T08:27:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2690c56defaab650127ae8dc0a447927",
+          "title": "[지상범 입시 토크] 학생부종합전형의 본질과 허상, 숫자 이면의 고교 ...",
+          "link": "http://www.metroseoul.co.kr/article/20261119500367",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-19T06:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "a834e6269436d43f810f54505e372e94",
           "title": "[이슈 직썰] &quot;AI 커닝 원천 봉쇄&quot;…수험생 '55만명' 2027 수능 시작된다",
           "link": "https://www.ziksir.com/news/articleView.html?idxno=153893",
@@ -1365,7 +1715,7 @@
           "published": "2026-11-18T23:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4e7a33b9a13884daeca30a7d7078092e",
@@ -1375,7 +1725,7 @@
           "published": "2026-11-18T22:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "46f37c2de860b57506180cb6d1b27f93",
@@ -1385,7 +1735,7 @@
           "published": "2026-11-18T22:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "aa561715eb3906fae8b9aa7187536b7a",
@@ -1395,7 +1745,7 @@
           "published": "2026-11-18T21:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "054e12cf9012d09fd23ea2b342ce2029",
@@ -1405,7 +1755,7 @@
           "published": "2026-11-18T19:35:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3da3fb26797080e794acc826e0b4d8aa",
@@ -1714,6 +2064,17 @@
       "name": "교육과정·정책",
       "emoji": "📋",
       "items": [
+        {
+          "id": "a09b8d104b57196a5a67271f2d2c5866",
+          "title": "2027학년도 대학수학능력시험 출제방향 보도자료",
+          "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5100944&lev=0&m=0301&s=suneung",
+          "source": "한국교육과정평가원",
+          "published": "2026-11-19T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "37b9d61e09bd7fa8b15ca56b89ed29e8",
           "title": "[교육부] 2027 수능 강화된 부정행위 예방조치에 따른 수험생 유의사항 추가 안내",
@@ -2063,6 +2424,36 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "0a2d7155bbcaf29456dfab60e51ba5f6",
+          "title": "수능 가채점 결과 활용한 대입 전략 수립 중요… 수시·정시 지원 가능...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113959",
+          "source": "edu.donga.com",
+          "published": "2026-11-19T08:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3f13b5e00328792f17cae2d0667e2a5b",
+          "title": "스카이입시교육학원 대치동점, 국민대 가천대약술형논술 현강·화상 11월...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=239654",
+          "source": "www.job-post.co.kr",
+          "published": "2026-11-19T06:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "1f7e893ae013bd0fae4eb9a1fcf281bd",
+          "title": "[2027 수능]수능 끝나도 쉴 틈 없다…곧바로 논술·면접 레이스 돌입",
+          "link": "https://n.news.naver.com/mnews/article/277/0005845036?sid=102",
+          "source": "view.asiae.co.kr",
+          "published": "2026-11-19T03:05:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "15842c63556c291fc549711ed9b72161",
           "title": "수능이 끝났다고 입시가 끝난 것은 아니다",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113308",
@@ -2160,6 +2551,86 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "776c0ff326260b465eeb358fdfaa843b",
+          "title": "[2027 수능 총평]국어 부담 줄고 수학 변별력 유지…영어도 지난해보다...",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=730251",
+          "source": "www.hidomin.com",
+          "published": "2026-11-19T09:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c835b4d34268ec39a97783cfe424d73b",
+          "title": "고득점땐 ‘수시 납치’ 주의…정시는 대학별 가산점 체크를[2027 대학수학능력시험] - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjREFvOFZPRm9Cdm12UHlJZFptODB2Rkw5WDk5NFhtM3VhVFdreFRIcnR1MFZLV0d5U2wwRFhBbHZBak5WNE9ITENDaHljZUZCR0HSAVNBVV95cUxNcGowaHVqcy12cjZoeXl1T0dFQUw2YnBpTEdDZzNnSEV4MTFubTB6ZG1YeVI5R1RZYnpHR3g5MExLNXlLM2UzNUVDRUVzMmdxQk8ybw?oc=5",
+          "source": "서울경제",
+          "published": "2026-11-19T09:23:18+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f57f8f5e331d126a47944544da257880",
+          "title": "2027 정시 레이스 본격 개막…경기권 주요 대학 입시 전략 - 더팩트",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55NDlHWWZfOVBkWFhoS2V3Zzl4Zk5jV0xsNUhwaWN5WmVGUkg5ZTNzckdLQkFsVVVvdUJBWm1BVTNLa0o4bWRmY1Y5OVhZd1FRZ3ZMSWRva3NqLTjSAVZBVV95cUxQelF3Tk9iT1NpT3p2NDFzOGMweGRWRF9PZEZORG1KUUFqNTM0THowb1FCNW5nZDB5U0VKdU81UTN6RlFTMWk0RGlKLTQtUjdicjhfdkJ0QQ?oc=5",
+          "source": "더팩트",
+          "published": "2026-11-19T09:00:02+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "fbb3cd3baab415351f311524e45fd0f2",
+          "title": "2027학년도 수능, 평이한 난도에도 정시 셈법 복잡…내신·수능 미반영 학사편입 대안 주목 - 더퍼블릭",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RWGtjQzNPRmlMLWc3VmQyeFIxZDJOOTk0ZUktQ2JoWWRlbGdpX21uWllHMk9UdlJPWE1xQWdjeWdkM2ctTE02SHMxN3FmWUUySXktWU1yMU1pcFVoRXBuMU9qbTNrVXdZWVRR0gFvQVVfeXFMTVRUSm9MVTNXWkNxMUJwb3FyQXVkdUFrSndhUV9GRFdyeFNjc29nYWVZX3dLdUlfd25HM29LQ1V0bGQzay1lZlNleVdJbkJFcUhheElNaUZJZ05ZelUzSDBvX2ZoV3dINWJPb3I3T200?oc=5",
+          "source": "더퍼블릭",
+          "published": "2026-11-19T08:35:50+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "325920e0e81e93cdaa1d6c6d3147a649",
+          "title": "[한-베 돋보기] '같은 꿈, 다른 하루' 한국 수능과 베트남 대입시험의 차...",
+          "link": "https://www.insidevina.com/news/articleView.html?idxno=44548",
+          "source": "www.insidevina.com",
+          "published": "2026-11-19T07:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c71a828cab4b5868282f1ba7486ac0c4",
+          "title": "[수능] 수능 끝, 논술·면접 시작…대학가도 부정행위 차단 '비상'",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=586795",
+          "source": "www.newsgn.com",
+          "published": "2026-11-19T06:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "73a0cf3ac9ee06c1ca35dbf2e5520f1e",
+          "title": "수험생들, 수시·정시 등 일정 맞춰 준비해야",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=565849",
+          "source": "www.idaegu.co.kr",
+          "published": "2026-11-19T04:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "02df54191f4e6ae09ff783b250579649",
+          "title": "[2027수능] 수능 끝 '진짜 성적' 발표되는 성적표 통지일은 언제? - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iMEN2WHFyZUhob0x4SFczWTl4ZG9QUGM2UjNXbEp3MlNTMm9RNVNLRDFKWUp4dmUzd2ZrR25DS1JfQXNza2t1WlZEbF9QMVJkRXRJQl9UYWhzeVdWSnV2MDZqMjN1M2l0TVpNRg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-19T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "6dd5fc3ca9cfeededc5b1c9fb7b05fbc",
           "title": "[2027 수능] 수능 끝난 수험생, 논술·면접고사 이어 정시 준비 돌입 - 청년일보",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ReWNZTklCYzNPV2IyNHo3aURVY3lFSHV3Vm5vR2xvb2drTlI5OEk0aXB0cVVydmF4dzluRFdBLUZZZ3VxR2k2SXIxRTFGQmZ6VVMzQzUzay1aVXo2Y0ROeHpsU0J5WkR0aGc?oc=5",
@@ -2167,7 +2638,7 @@
           "published": "2026-11-19T01:03:10+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "507a567ffe6800f8bab5aa5d122f115a",
@@ -2177,7 +2648,7 @@
           "published": "2026-11-19T00:27:03+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3b6c4d232227f8f6c12412fe4c5ac37a",
@@ -2187,7 +2658,7 @@
           "published": "2026-11-19T00:12:57+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "898e5b0fd5e441a61f3c597d74286309",
@@ -2197,7 +2668,7 @@
           "published": "2026-11-19T00:03:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ce026f8519d765ae39e02294aef3519f",
@@ -2207,7 +2678,7 @@
           "published": "2026-11-18T22:56:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "175f7bea17fe7781317bedf3be88b0b6",
@@ -2215,6 +2686,16 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VemlUTDc2TDhWUExPSXF0Uzk3aFFhVl9HLS0wYVZuUVRJMXY2eElKaU1NTFdDdEptLWpNZllHZklWWXJ1TkRmdTNTNUZoeVVZQXJ6UHZOOHU5SFpXSllneVAtaWlvRGo2ZGpPaXBn?oc=5",
           "source": "국제뉴스",
           "published": "2026-11-18T22:29:48+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "aeb85fd3bbe7b93485db7101b6d745b4",
+          "title": "수능 이후에도 쉴 틈 없는 대입 일정…21일부터 논술·면접 시작",
+          "link": "https://n.news.naver.com/mnews/article/015/0005355592?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-11-18T22:12:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -2227,7 +2708,7 @@
           "published": "2026-11-18T20:18:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "260f95483f92eab172067543a95b01a8",
@@ -2237,7 +2718,7 @@
           "published": "2026-11-18T17:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1827ed19ae7955908a28360a7867aba2",
@@ -2746,6 +3227,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "5ef84a8990470140f59a156817252fde",
+          "title": "내신 5등급제에서 2등급의 의미는…&quot;등급보다 과목별 성취와 학생부 함...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113874",
+          "source": "edu.donga.com",
+          "published": "2026-11-19T03:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "02046900583275aa7f05be2a13256de4",
           "title": "아이스크림에듀, 2027 고교 입시 전략 설명회 개최",
