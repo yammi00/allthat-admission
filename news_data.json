@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:42:37.053880+00:00",
+  "updated_at": "2026-11-20T18:26:37.536165+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,17 +18,37 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-20T09:30:10.498974+00:00",
+          "published": "2026-11-20T18:12:13.622716+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "10110c7e09fe1d974d7634b75c925c00",
-          "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
-          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
-          "source": "에듀진",
-          "published": "2026-11-20T09:30:08.855383+00:00",
+          "id": "b905fa9ed5938cecd0b3c7c940affdf3",
+          "title": "두 문제 틀리면 의대 위태롭다?…쉬운 수능에 인기학과 합격선 상승",
+          "link": "https://n.news.naver.com/mnews/article/009/0005766901?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-11-20T11:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "524303e9fd462f349f0fd184ca6adbd1",
+          "title": "국어·영어 쉬웠다…가채점 이후 입시 전략은?",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60792400/N",
+          "source": "news.ebs.co.kr",
+          "published": "2026-11-20T10:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
+          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-20T09:35:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +61,7 @@
           "published": "2026-11-20T08:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e7e0adaf95607311a2d6da16697b0162",
@@ -51,7 +71,7 @@
           "published": "2026-11-20T07:46:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a633ccd776320be1ae2a36ec31eabf9d",
@@ -61,7 +81,7 @@
           "published": "2026-11-20T07:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "45c8a5079fbd0be8c73252fe8ffb86ca",
@@ -71,7 +91,7 @@
           "published": "2026-11-20T07:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3840381f5b2d0bfab89c912ad03807a2",
@@ -81,7 +101,7 @@
           "published": "2026-11-20T06:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8bae4e41191fe12ea91430aab91264c7",
@@ -91,7 +111,7 @@
           "published": "2026-11-20T06:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "857af2ba752f876ebe255d89d8216476",
@@ -101,7 +121,7 @@
           "published": "2026-11-20T05:35:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2deee882167825331a864aa661e530fd",
@@ -111,7 +131,7 @@
           "published": "2026-11-20T03:45:18+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6bbe37438a67263c29e9f38301c05cea",
@@ -121,7 +141,7 @@
           "published": "2026-11-20T02:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cfabdb353ee995c70c1a3afc9c0cc15d",
@@ -854,16 +874,6 @@
           "is_new": false
         },
         {
-          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
-          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-16T06:53:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "ceda6953f7f00d79b2f291986427dff7",
           "title": "2027학년도 과탐 접수자 28.3% 감소…결시율도 변수",
           "link": "https://news.unn.net/news/articleView.html?idxno=600675",
@@ -1315,7 +1325,17 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-20T09:32:35.045669+00:00",
+          "published": "2026-11-20T18:14:37.373667+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "bdf502fa80dca756995be1730d1fa718",
+          "title": "앞치마 입고 논술, 가운 입고 면접… AI 부정 막기 위해 대학가 '총력전...",
+          "link": "https://n.news.naver.com/mnews/article/088/0001041488?sid=102",
+          "source": "www.imaeil.com",
+          "published": "2026-11-20T13:20:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1328,7 +1348,7 @@
           "published": "2026-11-20T05:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8e300a0e14b2f91308de08225572a223",
@@ -1338,7 +1358,7 @@
           "published": "2026-11-20T04:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1b4989bbf33be0224dfe8c1b934d8f91",
@@ -1348,7 +1368,7 @@
           "published": "2026-11-20T02:35:04+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8003921789fed99f1752018de39d9bcb",
@@ -1358,7 +1378,7 @@
           "published": "2026-11-20T02:03:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4c4ebd2bf8b4d480f718fa6e9cdb8958",
@@ -1368,7 +1388,7 @@
           "published": "2026-11-20T02:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "53de9b75d58ddd563c6626406c7222b8",
@@ -1378,7 +1398,7 @@
           "published": "2026-11-20T01:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a6f7ad85ab6d6d6eefee794f88ae5d2c",
@@ -1398,7 +1418,7 @@
           "published": "2026-11-20T01:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5f9cb15d7c2b15cc8c2af9ce0907687b",
@@ -2172,7 +2192,27 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-20T09:35:00.168613+00:00",
+          "published": "2026-11-20T18:17:03.249913+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "c85b35f692ccfa37cf1d813373b9c7d5",
+          "title": "수험생 입시 전략 본격화…‘N수생·사탐런’ 변수",
+          "link": "https://n.news.naver.com/mnews/article/056/0012298411?sid=102",
+          "source": "news.kbs.co.kr",
+          "published": "2026-11-20T12:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "bb5506f634105d933c61a50614a7ffa0",
+          "title": "&quot;이과생은 소신 상향, 문과 중하위권은 안정 지원 경향&quot;… 정시 전략 갈...",
+          "link": "https://n.news.naver.com/mnews/article/629/0000554217?sid=102",
+          "source": "news.tf.co.kr",
+          "published": "2026-11-20T10:04:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -2185,7 +2225,7 @@
           "published": "2026-11-20T06:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ba4b08468cf8d43de5cb81edfcee5553",
@@ -2195,7 +2235,7 @@
           "published": "2026-11-20T06:34:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7ca1c0fb68444dcb4bfca3853116e251",
@@ -2205,7 +2245,7 @@
           "published": "2026-11-20T04:50:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "76a41471f9369db0ac385354ddcf322f",
@@ -2213,6 +2253,16 @@
           "link": "https://www.naeil.com/news/read/609494?ref=naver",
           "source": "www.naeil.com",
           "published": "2026-11-20T04:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "d152519c1f5cc1430626c6f9f72034e8",
+          "title": "[2027 수능]서울대 경영 287점·의예 298점…수능 합격선 지난해보다 상승 전망 - 에듀플러스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbS1sQ3M0RnhvNlpRN2taVGZCeDRacjZPMGZXMmxwUW5BZFJ5LVRqMHNWMlpDZzRKSEp5NzgzRjBvSnNfUmVhM2ltSjZrRkxGdmxreGdnSThlYTB1VzJ4M0tLbDRiMzBoVG5ISWRB0gFyQVVfeXFMTXZGeDVHeVhoTjd4T2hkcHpIbXNFU09DalExQmZQSEdQaE5XcDdpZmhJZTNOcUdFeTdpXzFqZ1gtS0NUdkFtdUx2X3NpbV9MQzlFcHdLVzVpVDlDSGhWNkVwcDgxZTFwT25kb2h1LVV3bGx3?oc=5",
+          "source": "에듀플러스",
+          "published": "2026-11-20T04:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -2703,7 +2753,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c5ccc49f4497579abb76d72d571d5310",
@@ -2714,7 +2764,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0325bb1ea0b2d74d3a23d87436d50bf5",
@@ -3083,7 +3133,7 @@
           "published": "2026-11-20T07:06:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a4f353f1993a1c463386a85caee2bc16",
@@ -3223,6 +3273,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "71943b285297d2a850c63487161243be",
+          "title": "[미스터리경제] 수능 끝났는데 돈 더 나간다?…수험표 뒤 숨겨진 경제학...",
+          "link": "https://n.news.naver.com/mnews/article/629/0000554230?sid=101",
+          "source": "news.tf.co.kr",
+          "published": "2026-11-20T15:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "332df540e5d9e6251afbcdb39dec3067",
+          "title": "숨 돌릴 틈 없는 대입 일정···11월 21일부터 논술·면접 시작",
+          "link": "https://n.news.naver.com/mnews/article/657/0000057676?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-11-20T11:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "bfe0eccb35fbda0da12e180624c5f242",
           "title": "[2026 사이버대특집/한양사이버대학교] 학사에서 박사까지 완성한 온라...",
           "link": "https://news.unn.net/news/articleView.html?idxno=600921",
@@ -3230,22 +3300,22 @@
           "published": "2026-11-20T09:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
-        },
-        {
-          "id": "a93f2e939da42cbb7823b2a1b111198a",
-          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈팡질팡' 교육부 폐지론 재점화 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNUtJZlNrd3ZTVDlTc2IxQnFfY1oxaHNPT1VabTJFOVp1cWxOWmVYZHB6aUFweUFRUUhrc3VkMUw3WUVVTTlxNDRZMWV5dEdGYUMzVktHbHUweFRmZVNvc3FjaVF6Yi1IMU1xbA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-20T08:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6463f0ea3905c605283bfa4ab2b6e4bd",
           "title": "[2027수능] 대통령 국가시험 개편주문 과연 실효성 있을까.. '신뢰 잃은...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=638432",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-20T08:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "0d348acce9ff73955d5e8dd9271fc651",
+          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
           "source": "www.veritas-a.com",
           "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
@@ -3260,7 +3330,7 @@
           "published": "2026-11-20T06:40:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f743ec5c0f6635b864115d08275ba151",
@@ -3270,7 +3340,7 @@
           "published": "2026-11-20T06:30:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bd13c0a0a56e2026ff1d965f819245f4",
@@ -3280,7 +3350,7 @@
           "published": "2026-11-20T06:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c6ebed9c1a11b164cfd99a78a6d93e35",
@@ -3290,7 +3360,7 @@
           "published": "2026-11-20T04:45:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed3fa1ca3685aeced4386f4a8d109de9",
@@ -4077,7 +4147,7 @@
           "published": "2026-11-20T03:12:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5ef84a8990470140f59a156817252fde",
