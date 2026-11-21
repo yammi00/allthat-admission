@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:14:58.275400+00:00",
+  "updated_at": "2026-11-21T09:16:18.543660+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-21T01:00:13.124328+00:00",
+          "published": "2026-11-21T09:01:33.309143+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,57 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-21T01:00:11.270403+00:00",
+          "published": "2026-11-21T09:01:30.955909+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "4bf361df9ca90d5f0cc9875b21acb52c",
+          "title": "2027 수능 끝, 강화된 감독 속 마친 '긴 하루'… 사진으로 돌아보는 한 ...",
+          "link": "https://n.news.naver.com/mnews/article/022/0004177003?sid=102",
+          "source": "www.segye.com",
+          "published": "2026-11-21T08:11:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "8d1113a3c406bfb8ba5329ed53d09b85",
+          "title": "수험생 43% “올해 수능, 약간 어려웠어”",
+          "link": "https://n.news.naver.com/mnews/article/023/0004010954?sid=102",
+          "source": "www.chosun.com",
+          "published": "2026-11-21T04:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "7c9fed0d547fc8e51c8467a6528b18e4",
+          "title": "[심양섭의 정론직격]교육부 장관 물러나고 입시제도 패러다임을 바꿔라",
+          "link": "https://www.pennmike.com/news/articleView.html?idxno=132402",
+          "source": "www.pennmike.com",
+          "published": "2026-11-21T03:10:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "95428732f62d8ec372621ca938450719",
+          "title": "[2027 수능]국어 1등급컷 90~94점·수학 85~89점 예상",
+          "link": "http://www.metroseoul.co.kr/article/20261121500038",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-21T01:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "2e56f09f2c40be7ededc6d112ad95a51",
+          "title": "속보 - EBS",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lbUNGbWpnMFRRcXhGTmcxVEJrbkZlUDB3MHJNNUVocWR2RmkxbjRfa19FUzBfNUZOX2dHYTFueDJDXzBZRF9kMU5qSnNoaFJzc1BvTFl6akw3RElkZnMwNGJ2TV8yc0tQWW5fX1Z4WHJib0s4NnBqaFluMA?oc=5",
+          "source": "EBS",
+          "published": "2026-11-20T11:06:54+00:00",
           "type": "news",
           "grade": "3",
           "is_new": true
@@ -1335,10 +1385,50 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-21T01:02:37.372205+00:00",
+          "published": "2026-11-21T09:04:03.066315+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ae365500a49df7862f78621c923e8e42",
+          "title": "학폭 2호, 대학마다 다른 입시 문턱[원희영의 법으로 읽는 세상]",
+          "link": "https://n.news.naver.com/mnews/article/050/0000113580?sid=101",
+          "source": "magazine.hankyung.com",
+          "published": "2026-11-21T08:59:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "49616583c1b5b9cb4df85b3cd4c9b27f",
+          "title": "2027 수능 가채점 등급컷 총정리…국어·수학·탐구 예상 점수와 수시·...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16282392",
+          "source": "www.topstarnews.net",
+          "published": "2026-11-21T07:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f9e5394a0c23e20d75943b5175e06cf4",
+          "title": "“앞치마 입고 시험보라”... 대학 논술장도 초긴장",
+          "link": "https://n.news.naver.com/mnews/article/023/0004010953?sid=102",
+          "source": "www.chosun.com",
+          "published": "2026-11-21T03:53:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "0a15527c0a28e1a1b0a5a62e4109f662",
+          "title": "&quot;논술 봐야 하는데&quot;…주말 경부선 탈선에 수험생 '발 동동'",
+          "link": "https://n.news.naver.com/mnews/article/215/0001273466?sid=102",
+          "source": "www.wowtv.co.kr",
+          "published": "2026-11-21T01:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bdf502fa80dca756995be1730d1fa718",
@@ -2202,7 +2292,7 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-21T01:05:07.124835+00:00",
+          "published": "2026-11-21T09:06:33.514085+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3206,6 +3296,16 @@
           "is_new": false
         },
         {
+          "id": "e3c13b88a7d664759855c1aec7fa0e27",
+          "title": "수능 이틀 뒤 논술…고려대·서강대·성균관대 지원자, 지금 준비해야 한다 - 에듀진 인터넷 교육신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RElScHA5VEdLR185Mm9lT0xZbnFwNklndTJvVnQtbVZZVmptTmp4bEh0VHV2dklQM3BTam9kY3JiSU5OalVMdWtVd0xXQWNHTlRsZng4emJwTFlQTktTT1FMSTdicEFnUUE?oc=5",
+          "source": "에듀진 인터넷 교육신문",
+          "published": "2026-11-13T06:10:21+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "00f159cdeda2d106a393e958078c5bd5",
           "title": "2027 대학별 맞춤형 논술 풀이 및 코칭 서비스 무료 제공…고려대 등 19...",
           "link": "https://n.news.naver.com/mnews/article/030/0003485452?sid=102",
@@ -3290,7 +3390,7 @@
           "published": "2026-11-20T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "71943b285297d2a850c63487161243be",
@@ -3323,9 +3423,9 @@
           "is_new": false
         },
         {
-          "id": "0d348acce9ff73955d5e8dd9271fc651",
-          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
+          "id": "6463f0ea3905c605283bfa4ab2b6e4bd",
+          "title": "[2027수능] 대통령 국가시험 개편주문 과연 실효성 있을까.. '신뢰 잃은...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638432",
           "source": "www.veritas-a.com",
           "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
@@ -3333,9 +3433,9 @@
           "is_new": false
         },
         {
-          "id": "6463f0ea3905c605283bfa4ab2b6e4bd",
-          "title": "[2027수능] 대통령 국가시험 개편주문 과연 실효성 있을까.. '신뢰 잃은...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638432",
+          "id": "0d348acce9ff73955d5e8dd9271fc651",
+          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
           "source": "www.veritas-a.com",
           "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
@@ -3368,6 +3468,16 @@
           "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008042",
           "source": "www.asiatoday.co.kr",
           "published": "2026-11-20T06:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "f152dc4850f15f633502c131afdd309b",
+          "title": "[2027 수능]최상위권은 '수시 이월', 중위권은 '반영비율'…정시 지원 변수는 - 에듀플러스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZldNV1VjSU9wSHNYM3pMQXFidVcteVY2OUZvZkwyYjdER0dieUpBWG9fNzJNUGxwcEZ3QjVkam9SZjZfTkdrN1JMbE52cFByc2stTjN6WWpRekZoVXB5QWlCNTIzUFdMdkJteGpn0gFyQVVfeXFMTW42dHFTZWw3dm9aTE1LOEgtd3ZwQUkzZDBGR3h1WmdrU0QwenptR183YzJqTUFyYkF3SEJ3Ujh6SXNTY085c216c1pjc3ZWRnoyOVpQdm5oNjdBN1M5aG43OWVycklrdWZGZEV1ZGIyRFhB?oc=5",
+          "source": "에듀플러스",
+          "published": "2026-11-20T05:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
