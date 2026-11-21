@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T18:26:37.536165+00:00",
+  "updated_at": "2026-11-21T01:14:58.275400+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-20T18:12:13.622716+00:00",
+          "published": "2026-11-21T01:00:13.124328+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "10110c7e09fe1d974d7634b75c925c00",
+          "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
+          "source": "에듀진",
+          "published": "2026-11-21T01:00:11.270403+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "b905fa9ed5938cecd0b3c7c940affdf3",
@@ -31,7 +41,7 @@
           "published": "2026-11-20T11:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "524303e9fd462f349f0fd184ca6adbd1",
@@ -41,7 +51,7 @@
           "published": "2026-11-20T10:08:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e10d652a83c6fa61155a915c9b8a9a4d",
@@ -1325,7 +1335,7 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-20T18:14:37.373667+00:00",
+          "published": "2026-11-21T01:02:37.372205+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1338,7 +1348,7 @@
           "published": "2026-11-20T13:20:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e0676858b42205ce6997bf5fe4a0cda1",
@@ -2192,7 +2202,7 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-20T18:17:03.249913+00:00",
+          "published": "2026-11-21T01:05:07.124835+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2205,7 +2215,7 @@
           "published": "2026-11-20T12:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bb5506f634105d933c61a50614a7ffa0",
@@ -2215,7 +2225,7 @@
           "published": "2026-11-20T10:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3866857aeb1555b66caa6c6c07171b48",
@@ -2265,7 +2275,7 @@
           "published": "2026-11-20T04:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2d96914303b28fc2a04f04f496fd038c",
@@ -3273,6 +3283,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "24a240281825f7565ae927ae385ed86c",
+          "title": "[AI입시 A to Z] 전문대 수시 2차, 나에게 맞는 전공 고르려면",
+          "link": "https://www.newspim.com/news/view/20261120000522",
+          "source": "www.newspim.com",
+          "published": "2026-11-20T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "71943b285297d2a850c63487161243be",
           "title": "[미스터리경제] 수능 끝났는데 돈 더 나간다?…수험표 뒤 숨겨진 경제학...",
           "link": "https://n.news.naver.com/mnews/article/629/0000554230?sid=101",
@@ -3280,7 +3300,7 @@
           "published": "2026-11-20T15:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "332df540e5d9e6251afbcdb39dec3067",
@@ -3290,7 +3310,7 @@
           "published": "2026-11-20T11:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bfe0eccb35fbda0da12e180624c5f242",
@@ -3298,6 +3318,16 @@
           "link": "https://news.unn.net/news/articleView.html?idxno=600921",
           "source": "news.unn.net",
           "published": "2026-11-20T09:22:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "0d348acce9ff73955d5e8dd9271fc651",
+          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -3311,16 +3341,6 @@
           "type": "news",
           "grade": "all",
           "is_new": false
-        },
-        {
-          "id": "0d348acce9ff73955d5e8dd9271fc651",
-          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
-          "source": "www.veritas-a.com",
-          "published": "2026-11-20T08:02:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": true
         },
         {
           "id": "352434ee39440b337c2980cb2ed4f82c",
