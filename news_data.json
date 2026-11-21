@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T09:16:18.543660+00:00",
+  "updated_at": "2026-11-21T17:16:41.702807+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-21T09:01:33.309143+00:00",
+          "published": "2026-11-21T17:01:45.504852+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-21T09:01:30.955909+00:00",
+          "published": "2026-11-21T17:01:41.708854+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -41,7 +41,7 @@
           "published": "2026-11-21T08:11:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8d1113a3c406bfb8ba5329ed53d09b85",
@@ -51,7 +51,7 @@
           "published": "2026-11-21T04:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7c9fed0d547fc8e51c8467a6528b18e4",
@@ -61,7 +61,7 @@
           "published": "2026-11-21T03:10:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "95428732f62d8ec372621ca938450719",
@@ -71,7 +71,7 @@
           "published": "2026-11-21T01:38:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2e56f09f2c40be7ededc6d112ad95a51",
@@ -81,7 +81,7 @@
           "published": "2026-11-20T11:06:54+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b905fa9ed5938cecd0b3c7c940affdf3",
@@ -1385,10 +1385,20 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-21T09:04:03.066315+00:00",
+          "published": "2026-11-21T17:04:14.975175+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "e998ccca7fc89d208195db6ce98a9dc4",
+          "title": "2027 논술 일정 돌입… 대학별 시험 날짜 싹 알아봤습니다",
+          "link": "https://www.wikitree.co.kr/articles/1176608",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-21T14:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ae365500a49df7862f78621c923e8e42",
@@ -1398,7 +1408,7 @@
           "published": "2026-11-21T08:59:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "49616583c1b5b9cb4df85b3cd4c9b27f",
@@ -1408,7 +1418,7 @@
           "published": "2026-11-21T07:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f9e5394a0c23e20d75943b5175e06cf4",
@@ -1418,7 +1428,7 @@
           "published": "2026-11-21T03:53:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0a15527c0a28e1a1b0a5a62e4109f662",
@@ -1428,7 +1438,7 @@
           "published": "2026-11-21T01:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "bdf502fa80dca756995be1730d1fa718",
@@ -2292,7 +2302,7 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-21T09:06:33.514085+00:00",
+          "published": "2026-11-21T17:06:48.767458+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3383,6 +3393,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "da3f8283bdb65a70ac725ad98d2e1c53",
+          "title": "수험생들 최교진 교육부장관 사퇴 촉구…수능 부정행위 대책 실효성 논...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=629477",
+          "source": "www.cbci.co.kr",
+          "published": "2026-11-21T12:36:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "24a240281825f7565ae927ae385ed86c",
           "title": "[AI입시 A to Z] 전문대 수시 2차, 나에게 맞는 전공 고르려면",
           "link": "https://www.newspim.com/news/view/20261120000522",
@@ -3423,9 +3443,9 @@
           "is_new": false
         },
         {
-          "id": "6463f0ea3905c605283bfa4ab2b6e4bd",
-          "title": "[2027수능] 대통령 국가시험 개편주문 과연 실효성 있을까.. '신뢰 잃은...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638432",
+          "id": "0d348acce9ff73955d5e8dd9271fc651",
+          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
           "source": "www.veritas-a.com",
           "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
@@ -3433,9 +3453,9 @@
           "is_new": false
         },
         {
-          "id": "0d348acce9ff73955d5e8dd9271fc651",
-          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈...",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638386",
+          "id": "6463f0ea3905c605283bfa4ab2b6e4bd",
+          "title": "[2027수능] 대통령 국가시험 개편주문 과연 실효성 있을까.. '신뢰 잃은...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638432",
           "source": "www.veritas-a.com",
           "published": "2026-11-20T08:02:00+00:00",
           "type": "news",
