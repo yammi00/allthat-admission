@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T17:16:41.702807+00:00",
+  "updated_at": "2026-11-21T22:54:09.601172+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-21T17:01:45.504852+00:00",
+          "published": "2026-11-21T22:39:25.017044+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,7 +28,7 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-21T17:01:41.708854+00:00",
+          "published": "2026-11-21T22:39:22.574194+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1385,10 +1385,30 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-21T17:04:14.975175+00:00",
+          "published": "2026-11-21T22:41:53.770024+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "95958d25e0630dc2a083a2249e9fd207",
+          "title": "AI 커닝, 수능 포함 국가시험 개편 어떻게…시험대 선 정부",
+          "link": "https://n.news.naver.com/mnews/article/421/0009302972?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-21T21:29:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c0f186b3815d0f642a0dadc8a064b17b",
+          "title": "흔들리는 수능에 커지는 '폐지' 목소리[평가 시험대②]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014337619?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-21T21:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e998ccca7fc89d208195db6ce98a9dc4",
@@ -1398,7 +1418,7 @@
           "published": "2026-11-21T14:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ae365500a49df7862f78621c923e8e42",
@@ -3393,6 +3413,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8d72f0fed86e6c2a56123a41f47bd5fd",
+          "title": "AI 커닝에 흔들린 수능 공정성, 평가체계 개편론 부상",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3450990",
+          "source": "www.newscj.com",
+          "published": "2026-11-21T22:02:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "192ca758246eff9356516316e00dc73d",
+          "title": "수능 끝, 논술·면접 돌입…최저 충족·수시 납치 따져봐야",
+          "link": "https://n.news.naver.com/mnews/article/003/0014337606?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-21T21:00:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "da3f8283bdb65a70ac725ad98d2e1c53",
           "title": "수험생들 최교진 교육부장관 사퇴 촉구…수능 부정행위 대책 실효성 논...",
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=629477",
@@ -3400,7 +3440,7 @@
           "published": "2026-11-21T12:36:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "24a240281825f7565ae927ae385ed86c",
@@ -4097,7 +4137,7 @@
           "title": "2027학년도 전문대학 수시 2차 원서접수 11월 11일 시작…합격 후 정시 지원 규칙은 - 교육을 비추다",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YYmZCSDRHTDJjNWJUYTZ5M2ExU25SV0RfWlhiVlpRVWZJME9UajZwbzZCeVB5Mk02LU05NzE1dmhNRWZNN0w5VzNSdmVVbDBSQkloSjZzcHhzZ1k4SEIzcXRDQUFWdw?oc=5",
           "source": "교육을 비추다",
-          "published": "2026-11-13T13:35:50+00:00",
+          "published": "2026-11-13T08:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
