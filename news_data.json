@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:43:28.531542+00:00",
+  "updated_at": "2026-11-22T14:06:58.058581+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-22T04:28:55.669498+00:00",
+          "published": "2026-11-22T13:52:16.039706+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,20 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-22T04:28:53.964356+00:00",
+          "published": "2026-11-22T13:52:14.233912+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "24eef4355b0f0e0f53b8b86f60741795",
+          "title": "가채점으로 돌아본 수능…수험생들이 전한 2027 수능 생생 후기",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194650",
+          "source": "www.ggilbo.com",
+          "published": "2026-11-22T07:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "320d1b6b7e9f80f52edb774e75e5e13c",
@@ -41,7 +51,7 @@
           "published": "2026-11-22T03:48:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "57722ecb912f325ba4d78acd04b0a3d9",
@@ -51,7 +61,7 @@
           "published": "2026-11-22T01:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4bf361df9ca90d5f0cc9875b21acb52c",
@@ -1405,10 +1415,30 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-22T04:31:19.704758+00:00",
+          "published": "2026-11-22T13:54:40.958437+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d01bc0665dfa9313cc706b26fd41bb01",
+          "title": "수능 가채점 지원선 윤곽",
+          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112692",
+          "source": "www.ccdn.co.kr",
+          "published": "2026-11-22T09:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "e0f5a2809146f0ae653c257231e3ff82",
+          "title": "'수능 혼선' 최교진 교육장관 전격 사퇴…차기 수장 후보군 누가 될까",
+          "link": "https://www.ajunews.com/view/20261122173829246",
+          "source": "www.ajunews.com",
+          "published": "2026-11-22T08:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "71b86cfcd394680d0a43399666012821",
@@ -1418,7 +1448,7 @@
           "published": "2026-11-22T01:39:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "95958d25e0630dc2a083a2249e9fd207",
@@ -2352,10 +2382,30 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-22T04:33:49.822669+00:00",
+          "published": "2026-11-22T13:57:15.617255+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "be00175b60c5d7067afc5c2d3f2c81cf",
+          "title": "수능 끝, 입시레이스 시작…가채점으로 내 위치 파악 중요",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2452695",
+          "source": "www.ccdailynews.com",
+          "published": "2026-11-22T09:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "ab690d3c0df7d8509bbc27d222fda813",
+          "title": "수능 수학 1등급 85.7% 미적분·기하 선택…문과 교차지원 변수",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=561615",
+          "source": "www.dkilbo.com",
+          "published": "2026-11-22T06:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "c85b35f692ccfa37cf1d813373b9c7d5",
@@ -3286,6 +3336,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "23f507668e08629725fb1ccc6b4d4927",
+          "title": "수능 끝났지만 입시는 계속…대학별 논술고사 본격화 - 경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TlRoQ1VEOEEtdWx1ZlJwNG5vQXVWUjl0RDRza0RjcExKdDdCcC1yRzgzS0pqZUNHR2loX0w0cnVKV1hWempCSUhSRTJtbkhVVEFMTndWNjU2dVFSRkpQaTZB?oc=5",
+          "source": "경기신문",
+          "published": "2026-11-20T07:52:23+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
           "id": "af170bdca19b26f8aa2a62d3fc37c852",
           "title": "[2027논술면접 최종체크] 이번 주말 서강대 논술 어떻게 나올까.. '논술...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=638291",
@@ -3443,6 +3503,76 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "9f6554581dbd1425ee6ed3b6254569dd",
+          "title": "AI커닝 부실 대응으로 불신 키워…수능 전후 브링핑에서도 모습 안 보여",
+          "link": "https://n.news.naver.com/mnews/article/011/0004684878?sid=100",
+          "source": "www.sedaily.com",
+          "published": "2026-11-22T10:16:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "533bbf1176786d4b01d59c4d5e6e84f9",
+          "title": "합격예측 앱, 포털 환산점수 도구…손쉽게 대입 전략 세운다",
+          "link": "https://n.news.naver.com/mnews/article/658/0000161893?sid=101",
+          "source": "www.kookje.co.kr",
+          "published": "2026-11-22T10:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "15bbab5b92f726196f3a906bfab5ff90",
+          "title": "최교진 사퇴에 교원단체들 &quot;수능 AI 부정 대비 부족…리더십 한계&quot;(종합...",
+          "link": "https://n.news.naver.com/mnews/article/003/0014338296?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-22T08:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e4e0948f548d529accf87584a453a23a",
+          "title": "대학별 시험 날짜…2027 논술 일정은",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202611220071",
+          "source": "www.bntnews.co.kr",
+          "published": "2026-11-22T07:50:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "69b26475b4365d69a1f6014f0dc8d69c",
+          "title": "잇단 구설에도 버텼지만…최교진, AI 수능 혼란에 결국 낙마",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=730441",
+          "source": "www.hidomin.com",
+          "published": "2026-11-22T06:04:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c16b42329ea066c9f3c627da3d4e674d",
+          "title": "수능 끝, 각 대학 면접·논술 돌입 [뉴시스Pic]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014338064?sid=102",
+          "source": "www.newsis.com",
+          "published": "2026-11-22T05:09:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8bd18567ae818c0bb12638632caf742f",
+          "title": "선거개입 논란·수시 먹통…최교진, '수능 대혼란'에 결국 사임",
+          "link": "https://n.news.naver.com/mnews/article/001/0016456478?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-22T05:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "d2dac01aaacc6ad30960842b1a78448a",
           "title": "수능 AI 대응에 발목 잡힌 최교진 교육장관…잇단 논란 끝 사의(종합)",
           "link": "https://n.news.naver.com/mnews/article/421/0009303306?sid=102",
@@ -3450,7 +3580,7 @@
           "published": "2026-11-22T03:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3e8ff3ae6f04cced7ccc131d2e30f41f",
@@ -3460,7 +3590,7 @@
           "published": "2026-11-22T01:40:04+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9b42ca0b0d4a94a109856c0238f9b06b",
@@ -3470,7 +3600,7 @@
           "published": "2026-11-22T01:24:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "62d630d508f19832d242b898866ccd87",
@@ -3480,7 +3610,7 @@
           "published": "2026-11-22T00:39:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "0245a188a9d370e1a6c830fab7583a48",
@@ -3490,7 +3620,7 @@
           "published": "2026-11-22T00:08:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1a15eb14c76bd12a4fc254fc78923624",
@@ -3500,7 +3630,7 @@
           "published": "2026-11-21T23:58:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8d72f0fed86e6c2a56123a41f47bd5fd",
@@ -4333,11 +4463,11 @@
           "is_new": false
         },
         {
-          "id": "f05d0e2aac20a7fc9ea162d12512c287",
-          "title": "‘6년차 마무리 통합수능’ 결산.. 2022 ‘문과침공’, 2025 ‘사탐런’, 2027 ‘N수생 초강세’까지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeEFCcE9IYXVvQnVfdnZlVVNTenBLQUlteklQS3ZpSWNmcEY5ejhUT0UtQVNIV3hpSTBRNXAzMmptVDZxVllxcGI1QU1uTEVEWWNMam1hRFo3X1hybTZVd0JpZWtzbm9WWmZIaA?oc=5",
+          "id": "2ed69a8fcc1f1fa1bda41b75079cd332",
+          "title": "[2027논술면접 최종체크] 이번 주말 고려대 계열적합 면접 어떻게 나올까.. 제시문 기반 면접 '의대는 MMI' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM3lVY19Rbm5tQVduSTNFSlpqMDJ2LWYzeEJ4NVFmbklwbnpNM1RMQmxuNENKSUQ0cHMyTEZHQ2ppVlByRHFRQnlFWDBoV0VjcndPR0dWd05KWUUxbUoyOEhQUWFnd3EzWWtaaA?oc=5",
           "source": "베리타스알파",
-          "published": "2026-11-06T08:19:00+00:00",
+          "published": "2026-11-06T08:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
