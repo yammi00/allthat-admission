@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:54:09.601172+00:00",
+  "updated_at": "2026-11-22T04:43:28.531542+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-21T22:39:25.017044+00:00",
+          "published": "2026-11-22T04:28:55.669498+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,30 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-21T22:39:22.574194+00:00",
+          "published": "2026-11-22T04:28:53.964356+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "320d1b6b7e9f80f52edb774e75e5e13c",
+          "title": "“‘AI시대 준비됐느냐’ 어른들도 함께 친 수능… 결과는 0점이었다”",
+          "link": "https://n.news.naver.com/mnews/article/005/0001886628?sid=102",
+          "source": "www.kmib.co.kr",
+          "published": "2026-11-22T03:48:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "57722ecb912f325ba4d78acd04b0a3d9",
+          "title": "[2027학년도 수능 등급컷] 수학 1등급, 85.7%가 미적분·기하 선택…선택...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=214316",
+          "source": "www.lecturernews.com",
+          "published": "2026-11-22T01:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "4bf361df9ca90d5f0cc9875b21acb52c",
@@ -175,7 +195,7 @@
         },
         {
           "id": "857af2ba752f876ebe255d89d8216476",
-          "title": "수능 '이의제기' 폭발한 이 문제, 92%가 틀렸다... &quot;챗GPT도 진시황이라...",
+          "title": "[단독] 수능 '이의제기' 폭발한 이 문제, 92%가 틀렸다... &quot;챗GPT도 진시...",
           "link": "https://n.news.naver.com/mnews/article/469/0000966778?sid=102",
           "source": "www.hankookilbo.com",
           "published": "2026-11-20T05:35:00+00:00",
@@ -1385,10 +1405,20 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-21T22:41:53.770024+00:00",
+          "published": "2026-11-22T04:31:19.704758+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "71b86cfcd394680d0a43399666012821",
+          "title": "수능만이 아니다...논술·면접 수시도 부정행위시 10년간 입학 제한",
+          "link": "https://n.news.naver.com/mnews/article/008/0005444537?sid=102",
+          "source": "www.mt.co.kr",
+          "published": "2026-11-22T01:39:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "95958d25e0630dc2a083a2249e9fd207",
@@ -1398,7 +1428,7 @@
           "published": "2026-11-21T21:29:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c0f186b3815d0f642a0dadc8a064b17b",
@@ -1408,11 +1438,11 @@
           "published": "2026-11-21T21:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e998ccca7fc89d208195db6ce98a9dc4",
-          "title": "2027 논술 일정 돌입… 대학별 시험 날짜 싹 알아봤습니다",
+          "title": "2027 논술 일정 돌입… 대학별 시험 날짜 총정리",
           "link": "https://www.wikitree.co.kr/articles/1176608",
           "source": "www.wikitree.co.kr",
           "published": "2026-11-21T14:40:00+00:00",
@@ -2322,7 +2352,7 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-21T17:06:48.767458+00:00",
+          "published": "2026-11-22T04:33:49.822669+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3413,6 +3443,66 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "d2dac01aaacc6ad30960842b1a78448a",
+          "title": "수능 AI 대응에 발목 잡힌 최교진 교육장관…잇단 논란 끝 사의(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009303306?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-22T03:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "3e8ff3ae6f04cced7ccc131d2e30f41f",
+          "title": "수능만이 아니다...논술·면접 수시도 부정행위시 10년간 입학 제한 - 서플 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUVVYWkkwUVRUbWkyVUZId1ZfcjJWMXNlbzlhMjh3Q0ZZeFplNlFCeGUyTktHZ0RPWHpmSGdGb1VPSC1aN0pMa0s1eVVvNG1ST1dSRnpHQnpMWkps?oc=5",
+          "source": "서플 뉴스",
+          "published": "2026-11-22T01:40:04+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "9b42ca0b0d4a94a109856c0238f9b06b",
+          "title": "AI 커닝에 시험제도 손질론…수능은 서·논술형, 국가자격은 종목 정비",
+          "link": "https://www.ekn.kr/web/view.php?key=20261122021012961",
+          "source": "www.ekn.kr",
+          "published": "2026-11-22T01:24:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "62d630d508f19832d242b898866ccd87",
+          "title": "객관식 수능 손질하나...AI 커닝에 '서·논술형·자격고사' 거론",
+          "link": "https://n.news.naver.com/mnews/article/123/0002394552?sid=102",
+          "source": "www.joseilbo.com",
+          "published": "2026-11-22T00:39:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "0245a188a9d370e1a6c830fab7583a48",
+          "title": "AI 부정행위에 수능 신뢰 '뚝'…&quot;대입평가 틀 바꾸자&quot; 논의 본격화",
+          "link": "https://www.news2day.co.kr/article/20261122500002",
+          "source": "www.news2day.co.kr",
+          "published": "2026-11-22T00:08:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "1a15eb14c76bd12a4fc254fc78923624",
+          "title": "스마트안경 부정행위에 수능 개편론…서·논술형·자격고사 거론",
+          "link": "https://n.news.naver.com/mnews/article/014/0005607700?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-11-21T23:58:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "8d72f0fed86e6c2a56123a41f47bd5fd",
           "title": "AI 커닝에 흔들린 수능 공정성, 평가체계 개편론 부상",
           "link": "https://www.newscj.com/news/articleView.html?idxno=3450990",
@@ -3420,7 +3510,7 @@
           "published": "2026-11-21T22:02:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "192ca758246eff9356516316e00dc73d",
@@ -3430,7 +3520,7 @@
           "published": "2026-11-21T21:00:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "da3f8283bdb65a70ac725ad98d2e1c53",
