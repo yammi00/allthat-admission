@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:20:45.045680+00:00",
+  "updated_at": "2026-11-23T14:10:10.084549+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,50 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-23T02:06:07.726615+00:00",
+          "published": "2026-11-23T13:55:24.053001+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "a902196c3f129b5811a9714c7d9da056",
+          "title": "[2027수능] '나름의 변별력'.. 오답률/배치표/등급컷 모두 '물불 아닌 적정 난도' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdnRNbmZQR0JpaGNFajVIcUV4NHU4WlB0VE8zUkp0eEpZbU1aQUZHbkF5UC1ic0RMa2NsQmQ0WEo1TXVaU1Y0UEVjY3BVSGFVY1N0XzJXd0JOa09KSzdrS2pSS05MYXVUVV8zdA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-23T07:15:10+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "002a24e378f251efc1382f556ba49e38",
+          "title": "[토크ON] ① 2027학년도 수능과 대입 전략",
+          "link": "https://n.news.naver.com/mnews/article/657/0000057749?sid=102",
+          "source": "dgmbc.com",
+          "published": "2026-11-23T06:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a81b09a72f89c921a3c76681b997694a",
+          "title": "중국 SNS서 불붙은 '수능 세계사 2번'... &quot;답은 명확하나 악랄한 문제&quot;",
+          "link": "https://n.news.naver.com/mnews/article/469/0000967198?sid=102",
+          "source": "www.hankookilbo.com",
+          "published": "2026-11-23T05:31:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "10aef94d86220bce1f9fedd7fc98e036",
+          "title": "2028 대입 준비 본격화…안성이투스247기숙학원, ‘검정고시 특별반’ ...",
+          "link": "https://n.news.naver.com/mnews/article/081/0003702084?sid=102",
+          "source": "www.seoul.co.kr",
+          "published": "2026-11-23T02:08:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "10110c7e09fe1d974d7634b75c925c00",
@@ -41,7 +81,7 @@
           "published": "2026-11-23T00:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "504e7b597dbb1a1a75655ffbc6c4f2f7",
@@ -51,7 +91,7 @@
           "published": "2026-11-23T00:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "24eef4355b0f0e0f53b8b86f60741795",
@@ -709,6 +749,16 @@
           "link": "https://www.incheontoday.com/news/articleView.html?idxno=326613",
           "source": "www.incheontoday.com",
           "published": "2026-11-19T00:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b5a79753f492fdb5a6493015c9697c84",
+          "title": "[2027수능] ‘지난해보다 쉽다’의 기준.. 최근 3년 수능과 올해 모평 난이도 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRUU5cUNCQWNIa0U4WkkwNThfb09ZMmxLMmJKbk5yTWpWVWZfNXg2SGxlX2tQNDUyaFcyS0tWZERTZVpxMjFuQ1FidnRqdm9QVmt6dG9fUkttZk0tZk53VEZvcFA2cy1RcXc?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-18T22:42:48+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1435,10 +1485,60 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-23T02:08:32.763975+00:00",
+          "published": "2026-11-23T13:57:53.473514+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "fee3a9a6903f999836df68de27f4cf57",
+          "title": "&quot;의심받기 전에…&quot; 서울대 의대 신입생 3명, 수능 직접 풀었다",
+          "link": "https://n.news.naver.com/mnews/article/018/0006414383?sid=102",
+          "source": "www.edaily.co.kr",
+          "published": "2026-11-23T10:20:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "324e2e26bd6c5daf3901aab24dd8be04",
+          "title": "강성태 &quot;수능 결시자 5400명…커닝 계획자들 상당수 포기&quot;",
+          "link": "https://n.news.naver.com/mnews/article/015/0005357120?sid=102",
+          "source": "www.hankyung.com",
+          "published": "2026-11-23T06:59:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "5242e69ff1ac243c957860b4ffd7e7de",
+          "title": "교육부, 수능 부정행위자 5명 오늘 고발···지난해 시험지 행방은 ‘오...",
+          "link": "https://n.news.naver.com/mnews/article/032/0003484424?sid=102",
+          "source": "www.khan.co.kr",
+          "published": "2026-11-23T06:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "41d5be6100816fdc610f17c2c2a832d0",
+          "title": "수능 혼선에 최교진 사퇴…교육부 ‘대행 체제’ 교부금·유보통합 조율...",
+          "link": "https://ilyo.co.kr/?ac=article_view&entry_id=513763",
+          "source": "ilyo.co.kr",
+          "published": "2026-11-23T05:50:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "75de93910dae2817060d8a648e3b12a3",
+          "title": "[이종환의 입시큐] “선택과목이 사라진다” 첫 통합 수능 치를 예비 고...",
+          "link": "https://edu.chosun.com/site/data/html_dir/2026/11/23/2026112380112.html",
+          "source": "edu.chosun.com",
+          "published": "2026-11-23T05:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "6e63db3491c4aa54d0f53c4ba4cd0f10",
@@ -1448,7 +1548,7 @@
           "published": "2026-11-22T20:56:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2f19588331bf7f57a62555efcb980747",
@@ -2161,6 +2261,16 @@
           "is_new": false
         },
         {
+          "id": "fe2da674290fd65f42037bc07329d430",
+          "title": "[2028수시] 11개교 학종 ‘서울대 수능최저 폐지’ ‘고려대 면접 개편’ - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDYlN6STRqOWUzdFJHWVJWZ0VUZ1h5US13SUlvTU9jbGRtaUlnYm1YYi0xT1gyQnBieTluRFRaUXV5UjVVVHlPQ3NveWliY1BrUGZwQ0tyZHZKOUw0R3ZBR3hPOS1IWEo0SUE?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-13T06:25:55+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "37378ec9d38e8a898bad7365fc245fb4",
           "title": "[2027추천고교] '경기 신흥명문 부상' 양서고..2028 겨냥 수시체제 '히든...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=634474",
@@ -2422,10 +2532,70 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-23T02:11:02.061417+00:00",
+          "published": "2026-11-23T14:00:23.929314+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4fd9799b7f782cfb2931d85de2cde45a",
+          "title": "정시 70%컷보다 점수가 높으면 합격할까?…지난해 입결을 그대로 믿으면 안 되는 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54735",
+          "source": "에듀진",
+          "published": "2026-11-23T14:00:21.690486+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "69bb8ea93af70447a231d442b8c69cfd",
+          "title": "‘2027 대입 레이스’ 본격화…수능 이후 전략 관건",
+          "link": "http://www.kjdaily.com/article.php?aid=1795428747693281033",
+          "source": "www.kjdaily.com",
+          "published": "2026-11-23T10:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "285b0632482594fa8903bb0e384e42ee",
+          "title": "수능 탐구 가채점…지구과학Ⅱ 1등급 컷 50점 전망",
+          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091767",
+          "source": "www.kyongbuk.co.kr",
+          "published": "2026-11-23T08:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "a2911030ffb09ee1aadcb615bc2442f5",
+          "title": "'쉬운 국어'에 합격선 뛰었다…정시 변수는 수학·탐구",
+          "link": "http://www.metroseoul.co.kr/article/20261123500459",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-23T06:38:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "c0c1d3ba3fc8ccb9194251d33c0590cf",
+          "title": "수능 성적표 배부일 언제? + 조회 방법",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202611230246",
+          "source": "www.bntnews.co.kr",
+          "published": "2026-11-23T05:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "da6fd841f8ef4d1b61b41f16617f626a",
+          "title": "2028학년도 수능, 달라지는 입시의 흐름을 읽어야 한다",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113876",
+          "source": "edu.donga.com",
+          "published": "2026-11-23T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "bc5541855583fe91e3f756067f00e6bd",
@@ -2435,7 +2605,7 @@
           "published": "2026-11-23T02:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "be00175b60c5d7067afc5c2d3f2c81cf",
@@ -3005,6 +3175,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "c1a3cbdf52f00e5c089c73f15a577677",
+          "title": "국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억 원 이상 최대 5억 원 지급",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790415",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-23T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c0762055990c4444db036819b6ce53ef",
           "title": "2027학년도 대학수학능력시험 응시수수료 환불 신청 안내",
           "link": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500229&boardSeq=5101063&lev=0&m=0301&s=suneung",
@@ -3386,6 +3567,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "a9a1e640b7b494320648efb4c05df3d2",
+          "title": "李 &quot;국가시험 개편&quot;…수능 서·논술형, 'AI 부정행위' 해법 될까",
+          "link": "https://www.newspim.com/news/view/20261123000951",
+          "source": "www.newspim.com",
+          "published": "2026-11-23T06:49:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "23f507668e08629725fb1ccc6b4d4927",
           "title": "수능 끝났지만 입시는 계속…대학별 논술고사 본격화 - 경기신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TlRoQ1VEOEEtdWx1ZlJwNG5vQXVWUjl0RDRza0RjcExKdDdCcC1yRzgzS0pqZUNHR2loX0w0cnVKV1hWempCSUhSRTJtbkhVVEFMTndWNjU2dVFSRkpQaTZB?oc=5",
@@ -3470,7 +3661,7 @@
           "title": "수능 이틀 뒤 논술…고려대·서강대·성균관대 지원자, 지금 준비해야 한다 - 에듀진 인터넷 교육신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RElScHA5VEdLR185Mm9lT0xZbnFwNklndTJvVnQtbVZZVmptTmp4bEh0VHV2dklQM3BTam9kY3JiSU5OalVMdWtVd0xXQWNHTlRsZng4emJwTFlQTktTT1FMSTdicEFnUUE?oc=5",
           "source": "에듀진 인터넷 교육신문",
-          "published": "2026-11-13T06:10:21+00:00",
+          "published": "2026-11-13T08:00:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -3553,6 +3744,96 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "8d2b2043d0bff8191b192b5b204b5317",
+          "title": "'진짜 뇌관' 진학사 합격예측 빼고 '허위 원서접수’ 신고센터 운영은 왜 하나",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=638543",
+          "source": "베리타스알파",
+          "published": "2026-11-23T14:05:19.134623+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "cc0ed5ec040848c8aa7f1e35dcb3dcd1",
+          "title": "[생활정보] 2026학년도 수능 성적통지표, 표준점수 백분위 등급 읽는 순...",
+          "link": "https://www.wikitree.co.kr/articles/1177088",
+          "source": "www.wikitree.co.kr",
+          "published": "2026-11-23T11:10:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "23e5c5a6249ec89d1c764db08f76083e",
+          "title": "전자기기 적발 111건..2027 대입 시계 본격화 - 투데이서경",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrdHRiM2hKVDJ2S0dqN0NJSHJ0OWJ4UXJMcC1xMGxkLVZhQVNBQWVSTUxSN0xLU1pNUXlTRk1kTDQwdlNkcnRYV2JWRTExTmRhdmtxaldrYkVkSlEteFpJZHplVUg0dFhHdmc?oc=5",
+          "source": "투데이서경",
+          "published": "2026-11-23T09:36:10+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "d3908b716ce2c5eddde5390c05382b56",
+          "title": "혼란의 수능 끝…“수시 면접·실기 관문 뚫어라”",
+          "link": "http://www.jndn.com/article.php?aid=1795425339443624007",
+          "source": "www.jndn.com",
+          "published": "2026-11-23T09:18:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "c9cbeaea95848ae06fc371340ef7eed6",
+          "title": "“제가 나이가 있어서” 치명상…잇단 설화·입시 혼란만 남기고 떠난 ...",
+          "link": "https://n.news.naver.com/mnews/article/016/0002727280?sid=102",
+          "source": "biz.heraldcorp.com",
+          "published": "2026-11-23T08:46:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "a93f2e939da42cbb7823b2a1b111198a",
+          "title": "[2027수능] '기한 없는' AI커닝 사후검증..'대책 실패 이어 수습까지 갈팡질팡' 교육부 폐지론 재점화 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNUtJZlNrd3ZTVDlTc2IxQnFfY1oxaHNPT1VabTJFOVp1cWxOWmVYZHB6aUFweUFRUUhrc3VkMUw3WUVVTTlxNDRZMWV5dEdGYUMzVktHbHUweFRmZVNvc3FjaVF6Yi1IMU1xbA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-23T08:40:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "40c608f974ae8e7c8fafb628e7bb4bb8",
+          "title": "교육부 “수능서 스마트기기 쓴 수험생 5명 전원 고발”",
+          "link": "https://n.news.naver.com/mnews/article/024/0000109837?sid=102",
+          "source": "www.mk.co.kr",
+          "published": "2026-11-23T07:32:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "615154f919ef91c6665394ceb351faa1",
+          "title": "수능 부정행위 5명 형사고발···대입 허위 원서접수도 조사",
+          "link": "https://www.ktv.go.kr/content/view?content_id=764423",
+          "source": "www.ktv.go.kr",
+          "published": "2026-11-23T07:30:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "953bb9ef242a4a66e834e2f468553c10",
+          "title": "성동구, 2027학년도 대입 정시 설명회 개최... 맞춤형 지원전략 제공 - 내외뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQ0ctX0ZkUFhYemVxcUxES1VSWFJNazFxLW8wTEExSHI2U1JzejJUem9La044bHM5NnlPU19zSFdYMXFBVGV6QnRRVEMzZDdheDE5VE9seTE0bkF1a09OMWpEandlVWI4eW9MYtIBcEFVX3lxTE5fVVdQdjUzVzh4RVU5OEU5SURWemFJZGJsV0tDV3BqRnZwZGthRUJlUEZiejFOQ2ZzYkZUNGdfblJvZ3RBVFRtNGYtVDkxTVE0SlF4QnJkV3dxYS1DZDN4NkQ1V0c2OElqYzF5MlJTRE8?oc=5",
+          "source": "내외뉴스통신",
+          "published": "2026-11-23T05:45:32+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "3ffd4c51a7651e351949416333809232",
           "title": "수능 첨단기기 부정행위자 경찰 수사의뢰 마무리",
           "link": "https://n.news.naver.com/mnews/article/014/0005608164?sid=102",
@@ -3560,7 +3841,7 @@
           "published": "2026-11-23T02:15:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e8825f695524a50efccdfa79adef868d",
@@ -3570,7 +3851,7 @@
           "published": "2026-11-22T23:38:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "b3b1339c6f5c8eb6605c9f86f6581757",
@@ -4443,16 +4724,6 @@
           "is_new": false
         },
         {
-          "id": "fe2da674290fd65f42037bc07329d430",
-          "title": "[2028수시] 11개교 학종 ‘서울대 수능최저 폐지’ ‘고려대 면접 개편’ - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDYlN6STRqOWUzdFJHWVJWZ0VUZ1h5US13SUlvTU9jbGRtaUlnYm1YYi0xT1gyQnBieTluRFRaUXV5UjVVVHlPQ3NveWliY1BrUGZwQ0tyZHZKOUw0R3ZBR3hPOS1IWEo0SUE?oc=5",
-          "source": "한입신문",
-          "published": "2026-11-13T06:25:55+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "8b3aac1b626bb32f8312e758cfa2b84e",
           "title": "나우즈, 수능 당일 한강서 응원 버스킹",
           "link": "https://www.bntnews.co.kr/article/view/bnt202611130043",
@@ -4629,6 +4900,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "fce799f45700efd572073dcdfdb8b815",
+          "title": "내신 5등급제 첫 대입, 우리 아이 2등급은 예전 몇 등급일까?",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54529",
+          "source": "에듀진",
+          "published": "2026-11-23T14:07:48.474371+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "a24d46d4260278a61f9bc0c4e4a80c74",
           "title": "[2027명문고교] '외고 DNA기반 진화한 자율학교' 강원외고.. 2028대입 겨냥...",
