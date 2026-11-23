@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:46:35.104800+00:00",
+  "updated_at": "2026-11-23T02:20:45.045680+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-22T20:31:51.258679+00:00",
+          "published": "2026-11-23T02:06:07.726615+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -28,10 +28,30 @@
           "title": "[2027 수능] 국어, 지난해보다 쉬웠다…EBS 연계 53.3%, 독해 부담 줄여",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54725",
           "source": "에듀진",
-          "published": "2026-11-22T20:31:48.852866+00:00",
+          "published": "2026-11-23T02:06:05.765766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "000acb3a94286b62e78d5aeec4f741cb",
+          "title": "[박원장의 대치동리포트] 2027학년도 대학수학능력시험 가채점 결과분석...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=113990",
+          "source": "edu.donga.com",
+          "published": "2026-11-23T00:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "504e7b597dbb1a1a75655ffbc6c4f2f7",
+          "title": "수능 1등급 커트라인 국어 90~95점, 수학은 84~90점",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2452499",
+          "source": "www.ccdailynews.com",
+          "published": "2026-11-23T00:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "24eef4355b0f0e0f53b8b86f60741795",
@@ -594,9 +614,9 @@
           "is_new": false
         },
         {
-          "id": "92eb908a101f61dbebcbae5458bb8833",
+          "id": "e7bce34fdf3cdd90aa1219e662cb3995",
           "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNNIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYdQ?oc=5",
           "source": "뉴시스",
           "published": "2026-11-19T05:53:53+00:00",
           "type": "news",
@@ -1415,10 +1435,20 @@
           "title": "진로 여러 번 바뀌어도 합격했다…한국외대 학생부가 보여준 핵심",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54568",
           "source": "에듀진",
-          "published": "2026-11-22T20:34:19.434988+00:00",
+          "published": "2026-11-23T02:08:32.763975+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "6e63db3491c4aa54d0f53c4ba4cd0f10",
+          "title": "약대 합격선 줄줄이 상승…서울대 약대 290점 '최고치' 전망",
+          "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=549526",
+          "source": "www.kpanews.co.kr",
+          "published": "2026-11-22T20:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "2f19588331bf7f57a62555efcb980747",
@@ -1428,7 +1458,7 @@
           "published": "2026-11-22T19:32:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d01bc0665dfa9313cc706b26fd41bb01",
@@ -2392,10 +2422,20 @@
           "title": "정시 다군, 모집인원의 13배가 추가합격했다…중앙대·성균관대·한양대 충원의 진짜 의미",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54704",
           "source": "에듀진",
-          "published": "2026-11-22T20:36:50.228992+00:00",
+          "published": "2026-11-23T02:11:02.061417+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bc5541855583fe91e3f756067f00e6bd",
+          "title": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
+          "source": "weekly.hankooki.com",
+          "published": "2026-11-23T02:06:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "be00175b60c5d7067afc5c2d3f2c81cf",
@@ -3513,6 +3553,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "3ffd4c51a7651e351949416333809232",
+          "title": "수능 첨단기기 부정행위자 경찰 수사의뢰 마무리",
+          "link": "https://n.news.naver.com/mnews/article/014/0005608164?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-11-23T02:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "e8825f695524a50efccdfa79adef868d",
+          "title": "성동구, ‘2027학년도 대입 정시 설명회’ 12월 14일 개최…선착순 500명...",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568954793309",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-11-22T23:38:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "b3b1339c6f5c8eb6605c9f86f6581757",
           "title": "이젠 '복장'부터 시험에 든다… AI커닝이 바꾼 논술시험장",
           "link": "https://n.news.naver.com/mnews/article/008/0005444694?sid=102",
@@ -3520,7 +3580,7 @@
           "published": "2026-11-22T19:05:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "9f6554581dbd1425ee6ed3b6254569dd",
