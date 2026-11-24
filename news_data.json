@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T12:08:09.260507+00:00",
+  "updated_at": "2026-11-24T22:02:33.948840+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-24T11:53:24.515640+00:00",
+          "published": "2026-11-24T21:48:10.463248+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "ae5e40e2d5a5a2c038cd14a1fb599866",
+          "title": "NE능률, ‘2027학년도 수능 영어 분석 자료’ 3종 공개",
+          "link": "https://www.lawissue.co.kr/view.php?ud=202611242234353589f4ab64559d_12",
+          "source": "www.lawissue.co.kr",
+          "published": "2026-11-24T13:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "e1a588b7aae31d13eee7370e1f7e5199",
@@ -31,7 +41,7 @@
           "published": "2026-11-24T09:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12813cf80309b35bd638a6c77b11bf29",
@@ -41,7 +51,7 @@
           "published": "2026-11-24T09:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cd2b855bb24da90a79868c4d3dbc865c",
@@ -51,7 +61,7 @@
           "published": "2026-11-24T08:52:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c59dfb5cc5168e42d5c2098af4173546",
@@ -61,7 +71,7 @@
           "published": "2026-11-24T06:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ab51c3c832dba6aa8ffe0b2a34c218e0",
@@ -1578,7 +1588,7 @@
           "published": "2026-11-24T04:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dac32a89e9050d14a37c52f5495752ca",
@@ -2725,7 +2735,7 @@
           "published": "2026-11-24T09:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "12680ffaf1e4bb367e9e59c3a9a12027",
@@ -2735,7 +2745,7 @@
           "published": "2026-11-24T08:17:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fedf877ddbfdc11a04d218922afa01c8",
@@ -2745,7 +2755,7 @@
           "published": "2026-11-24T07:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c2fce6c0afe3565bd8b3dd59e942b756",
@@ -2755,7 +2765,7 @@
           "published": "2026-11-24T05:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a32d8ad3195d2a3ca25723527cd76cec",
@@ -3814,7 +3824,7 @@
           "published": "2026-11-24T01:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "23d735116b943e9bb9628ef28861ff66",
@@ -4021,7 +4031,7 @@
           "published": "2026-11-24T08:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a93f2e939da42cbb7823b2a1b111198a",
@@ -5185,7 +5195,7 @@
           "title": "내신 5등급제 첫 대입, 우리 아이 2등급은 예전 몇 등급일까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54529",
           "source": "에듀진",
-          "published": "2026-11-24T12:05:48.825961+00:00",
+          "published": "2026-11-24T22:00:15.254260+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
