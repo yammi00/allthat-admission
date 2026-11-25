@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:02:33.948840+00:00",
+  "updated_at": "2026-11-25T04:58:06.271537+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-24T21:48:10.463248+00:00",
+          "published": "2026-11-25T04:43:36.155895+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "d330c2dd951fb07449b4dca561cfec9c",
+          "title": "반포 수학학원 잠룡승천, 선착순 '무료 실력 점검 테스트",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=399907",
+          "source": "www.fntoday.co.kr",
+          "published": "2026-11-25T01:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "ae5e40e2d5a5a2c038cd14a1fb599866",
@@ -31,7 +41,7 @@
           "published": "2026-11-24T13:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "e1a588b7aae31d13eee7370e1f7e5199",
@@ -289,16 +299,6 @@
           "link": "http://news.ebs.co.kr/ebsnews/allView/60792400/N",
           "source": "news.ebs.co.kr",
           "published": "2026-11-20T10:08:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
-          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-20T09:35:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -574,10 +574,10 @@
           "is_new": false
         },
         {
-          "id": "a7b6b2b6198b30d7a311443adc5dd505",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
-          "source": "press24(프레스24)",
+          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
+          "source": "노동일보",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1104,6 +1104,16 @@
           "is_new": false
         },
         {
+          "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
+          "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
+          "source": "한국사회복지저널",
+          "published": "2026-11-16T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "1fc8c11ab9e83b51a410862c96c51b45",
           "title": "[배종찬의 보안 빅데이터] AI안경·단추 카메라에 수능 불신 대폭발하나",
           "link": "https://www.boannews.com/news/articleView.html?idxno=147301",
@@ -1134,21 +1144,21 @@
           "is_new": false
         },
         {
-          "id": "ceda6953f7f00d79b2f291986427dff7",
-          "title": "2027학년도 과탐 접수자 28.3% 감소…결시율도 변수",
-          "link": "https://news.unn.net/news/articleView.html?idxno=600675",
-          "source": "news.unn.net",
-          "published": "2026-11-16T02:28:00+00:00",
+          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
+          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-16T06:53:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
-          "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
-          "source": "한국사회복지저널",
-          "published": "2026-11-16T01:13:25+00:00",
+          "id": "ceda6953f7f00d79b2f291986427dff7",
+          "title": "2027학년도 과탐 접수자 28.3% 감소…결시율도 변수",
+          "link": "https://news.unn.net/news/articleView.html?idxno=600675",
+          "source": "news.unn.net",
+          "published": "2026-11-16T02:28:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1580,6 +1590,16 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "86c900705bcaec9243e9e1d2af9234b5",
+          "title": "2027정시박람회 수능 성적 통지일 맞춰 '내달 11일 개막'.. '안갯속 대입...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639126",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-25T03:34:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "5f5425580c4b4c7042df8b9e848a5ccc",
           "title": "[2027논술면접 최종체크] 27~28일 서울대 일반전형 면접 어떻게 나올까....",
@@ -2728,6 +2748,56 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "ed1a1f19e21e2b076dcd44078fee4b7c",
+          "title": "정시 70% 컷 평균백분위 90의 함정…같은 점수가 다른 의미인 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54715",
+          "source": "에듀진",
+          "published": "2026-11-25T04:48:22.280272+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "4338216e9e8b30c6bae40d695d9f2f43",
+          "title": "대교협, 수능 성적표 나오는 날 정시박람회 개최…전국 125개 대학 참가",
+          "link": "https://www.newspim.com/news/view/20261125000099",
+          "source": "www.newspim.com",
+          "published": "2026-11-25T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "b47ea780f191f685801efeca52ed8bd7",
+          "title": "[김형일의 입시컨설팅] (255) 가채점 이후 지원 방향 설정법",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=160522",
+          "source": "www.smartbizn.com",
+          "published": "2026-11-25T01:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6644c5ac3453c0306b427d7e038b003d",
+          "title": "현행 수능 마지막 해 N수생 23년 만에 최다.. &quot;재수 대신 편입&quot; 고민 커...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639088",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-25T00:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6701b3f105bc793409732173dfbf308b",
+          "title": "수능 정답률로 미리 본 정시…수학 힘 세지고 '사탐런' 실익 줄 듯",
+          "link": "https://n.news.naver.com/mnews/article/421/0009308285?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-24T22:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "b622195d150e0d6651dabffc1bffb993",
           "title": "대입 최대 변수로 떠오른 ‘사탐런’…수시는 ‘등급 컷’, 정시는 ‘변...",
           "link": "https://www.kbmaeil.com/article/20261124500601",
@@ -3168,6 +3238,16 @@
           "is_new": false
         },
         {
+          "id": "83694d4d7b686ffc532275f8dbe794d4",
+          "title": "[2027 정시] '영어 2등급에 7.92점 감점?'... 서·연·고 정시 산식 비교 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16eGVFejdIN3l0NFlUckpMQXNLUjlmX3pHbUVWQjlHMEFlV3pqbVdzMUN0SWxSeFBIeWpmRGpOLTdwZlUyU0hzclRpaFFiSU05VmptSWEzbGVpTlB2akxZMGtsR2kydw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-16T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "b6b3e483a61805c69d82fec235984054",
           "title": "수능 D-3, AI 부정행위 우려⋯의대 최상위권 가려낼 수 있나?",
           "link": "https://n.news.naver.com/mnews/article/296/0000107396?sid=102",
@@ -3193,16 +3273,6 @@
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54674",
           "source": "에듀진",
           "published": "2026-11-16T04:15:01.411417+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "83694d4d7b686ffc532275f8dbe794d4",
-          "title": "[2027 정시] '영어 2등급에 7.92점 감점?'... 서·연·고 정시 산식 비교 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16eGVFejdIN3l0NFlUckpMQXNLUjlmX3pHbUVWQjlHMEFlV3pqbVdzMUN0SWxSeFBIeWpmRGpOLTdwZlUyU0hzclRpaFFiSU05VmptSWEzbGVpTlB2akxZMGtsR2kydw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-11-16T02:36:30+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -5195,7 +5265,7 @@
           "title": "내신 5등급제 첫 대입, 우리 아이 2등급은 예전 몇 등급일까?",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54529",
           "source": "에듀진",
-          "published": "2026-11-24T22:00:15.254260+00:00",
+          "published": "2026-11-25T04:55:44.448571+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
