@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:31:50.521926+00:00",
+  "updated_at": "2026-11-26T21:01:28.695490+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-26T10:17:23.555152+00:00",
+          "published": "2026-11-26T20:46:45.950892+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-11-26T09:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1622bc3b4e23415371075b787f06e6bb",
@@ -41,7 +41,7 @@
           "published": "2026-11-26T07:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d8a0902f7ea2473a676d8fd052b69ba8",
@@ -51,7 +51,7 @@
           "published": "2026-11-26T07:42:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f9ce12779fc2b834efeb1f8162a0fd64",
@@ -61,7 +61,7 @@
           "published": "2026-11-26T05:02:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1db1b04ef36f90fea2f02fa5fdbc8632",
@@ -71,7 +71,7 @@
           "published": "2026-11-26T01:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "3ff142d8d00cb1a45c3dd254fe2a298e",
@@ -154,6 +154,16 @@
           "is_new": false
         },
         {
+          "id": "a902196c3f129b5811a9714c7d9da056",
+          "title": "[2027수능] '나름의 변별력'.. 오답률/배치표/등급컷 모두 '물불 아닌 적정 난도' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdnRNbmZQR0JpaGNFajVIcUV4NHU4WlB0VE8zUkp0eEpZbU1aQUZHbkF5UC1ic0RMa2NsQmQ0WEo1TXVaU1Y0UEVjY3BVSGFVY1N0XzJXd0JOa09KSzdrS2pSS05MYXVUVV8zdA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-24T01:56:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "ab51c3c832dba6aa8ffe0b2a34c218e0",
           "title": "[단독] [2027수능] AI 3인방이 예측한 등급컷.. 국어 1등급 131~132점, 수학 128~130점",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=638725",
@@ -199,16 +209,6 @@
           "link": "https://n.news.naver.com/mnews/article/088/0001041880?sid=102",
           "source": "www.imaeil.com",
           "published": "2026-11-23T21:31:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "a902196c3f129b5811a9714c7d9da056",
-          "title": "[2027수능] '나름의 변별력'.. 오답률/배치표/등급컷 모두 '물불 아닌 적정 난도' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdnRNbmZQR0JpaGNFajVIcUV4NHU4WlB0VE8zUkp0eEpZbU1aQUZHbkF5UC1ic0RMa2NsQmQ0WEo1TXVaU1Y0UEVjY3BVSGFVY1N0XzJXd0JOa09KSzdrS2pSS05MYXVUVV8zdA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-23T07:15:10+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -644,10 +644,10 @@
           "is_new": false
         },
         {
-          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
-          "source": "노동일보",
+          "id": "a7b6b2b6198b30d7a311443adc5dd505",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
+          "source": "press24(프레스24)",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1665,10 +1665,10 @@
           "title": "[단독][2027정시] 학생부 실질 영향력 얼마나 될까.. '서울대 지균/고대 교과우수 '학생부 약하면 불리'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=639612",
           "source": "베리타스알파",
-          "published": "2026-11-26T10:19:45.662867+00:00",
+          "published": "2026-11-26T20:49:09.870107+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "657adac2a1726e9d352341755f9acd84",
@@ -1678,7 +1678,7 @@
           "published": "2026-11-26T09:07:55+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "88d3c3f6c016e28bbeb0732cb2a0630c",
@@ -1688,7 +1688,7 @@
           "published": "2026-11-26T06:58:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "71f30e5e06bfb6c80c15f433570322e5",
@@ -1698,7 +1698,7 @@
           "published": "2026-11-26T01:51:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cb82e4a867b411a30aeb7ecf4f8c3254",
@@ -2515,7 +2515,7 @@
           "title": "[2027수능] 수능최저, 등급 합만 맞으면 될까.. 11개교 계산법 - 한입신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zYmF4WG9BSXA2RlFKMThtUXVPUjE0MkVHT0JhMXQ4Qndmei1WaUF6eGdEdEtmMmYxdkVTMUw5ZWJiTEZRYXlqeE1sZ0NXMUVmWlFSNk4xcXZkYk9IdFh2MDlFRWlDLTZUalE?oc=5",
           "source": "한입신문",
-          "published": "2026-11-17T07:11:25+00:00",
+          "published": "2026-11-17T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2666,6 +2666,16 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=636334",
           "source": "베리타스알파",
           "published": "2026-11-11T23:57:28.201340+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "b77a34a923bdb15022704b71ae398c57",
+          "title": "[2028수시] 연세대 학종, 종합인재형 탐구인재형 개편.. 탐구인재형 의약계열 ‘수능최저 미적용’ - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMUtNMGVSeWltVFZ1Y2Ntd1ZtdXhuNVB5MkNXR2pBYWJCSzJyN28tcFppOVJrTEdVREtsYzNmcWNEem82d21sN3RhX09BcmNsOXlyaWQyYzFORUt2amdtTWFNSnBOWmk2S2c?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-11T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2905,7 +2915,7 @@
           "published": "2026-11-26T07:57:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "64494ae99c3962a572d833d9d33ad549",
@@ -2915,7 +2925,7 @@
           "published": "2026-11-26T03:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1815bff38de92ef3dc193f5d97f565a4",
@@ -2925,7 +2935,7 @@
           "published": "2026-11-26T01:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed1a1f19e21e2b076dcd44078fee4b7c",
@@ -4121,7 +4131,7 @@
           "title": "중앙대·한양대·이화여대 수리논술, 같은 수학 실력으로 다른 점수 받는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54762",
           "source": "에듀진",
-          "published": "2026-11-26T10:24:40.432662+00:00",
+          "published": "2026-11-26T20:54:14.580684+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -4134,7 +4144,7 @@
           "published": "2026-11-26T02:04:20+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "af21f1fb1ce5c9b85bbfd6e270ae6f10",
@@ -4144,7 +4154,7 @@
           "published": "2026-11-26T01:46:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f21f21f1e9cdbee90aa1efd29a3d48e6",
@@ -4371,7 +4381,7 @@
           "published": "2026-11-26T06:44:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "ed689d7501d3ca8147d39e5f445d91f9",
@@ -4381,7 +4391,7 @@
           "published": "2026-11-26T06:15:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "f2fd9fbefaa7153189328a6ba923619c",
@@ -4391,7 +4401,7 @@
           "published": "2026-11-26T06:01:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "eb0256645fd7202f5efc40db532a10b4",
@@ -5608,7 +5618,7 @@
           "published": "2026-11-26T08:20:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fce799f45700efd572073dcdfdb8b815",
