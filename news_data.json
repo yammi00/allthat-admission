@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:39:03.815924+00:00",
+  "updated_at": "2026-11-26T10:31:50.521926+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,60 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-26T01:24:25.518920+00:00",
+          "published": "2026-11-26T10:17:23.555152+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "730419674002705c7dd86d4adfaef2eb",
+          "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639441",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-26T09:18:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1622bc3b4e23415371075b787f06e6bb",
+          "title": "NE능률, 수능 영어 출제 원리 분석…교사 대상 온라인 세미나 개최",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599520515923",
+          "source": "www.megaeconomy.co.kr",
+          "published": "2026-11-26T07:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "d8a0902f7ea2473a676d8fd052b69ba8",
+          "title": "잇올 랩, '2027학년도 수능 분석 및 실채점 라이브' 진행",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56860",
+          "source": "www.enetnews.co.kr",
+          "published": "2026-11-26T07:42:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "f9ce12779fc2b834efeb1f8162a0fd64",
+          "title": "수능 전자기기 부정행위 111건… AI 시대 '평가 신뢰성' 과제 부상",
+          "link": "https://www.koreadaily.com/article/20261125210118941",
+          "source": "www.koreadaily.com",
+          "published": "2026-11-26T05:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1db1b04ef36f90fea2f02fa5fdbc8632",
+          "title": "[대학家] 서울대학교 ⑤ㅣ 총장 선출제도 개편 논의…지역사회 공헌·국...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=630904",
+          "source": "www.cbci.co.kr",
+          "published": "2026-11-26T01:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "3ff142d8d00cb1a45c3dd254fe2a298e",
@@ -31,7 +81,7 @@
           "published": "2026-11-26T01:16:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "7acbfd1b4f01c801aff0a313d08eea89",
@@ -594,10 +644,10 @@
           "is_new": false
         },
         {
-          "id": "a7b6b2b6198b30d7a311443adc5dd505",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
-          "source": "press24(프레스24)",
+          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
+          "source": "노동일보",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -774,9 +824,9 @@
           "is_new": false
         },
         {
-          "id": "e7bce34fdf3cdd90aa1219e662cb3995",
+          "id": "87bc025ffc4e1a0d0e31700883f72caa",
           "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYdQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYddIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
           "source": "뉴시스",
           "published": "2026-11-19T05:53:53+00:00",
           "type": "news",
@@ -1610,6 +1660,46 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "255a762d58cc63e9c11758cc3ff21f81",
+          "title": "[단독][2027정시] 학생부 실질 영향력 얼마나 될까.. '서울대 지균/고대 교과우수 '학생부 약하면 불리'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639612",
+          "source": "베리타스알파",
+          "published": "2026-11-26T10:19:45.662867+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "657adac2a1726e9d352341755f9acd84",
+          "title": "[2028수시] 11개교 논술전형 3555명.. 연세대 수능최저 신설, 중앙대 재학생 논술 ‘수능 이전’ - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvS2NqQkhxRkg5dXZURloybkZYYkhEWEE0U1BmX0xtSC1vR0hBRGR0eG45M0tmVHh0emRuS3lmSFkyTmlsV0VtMlhScDFCX1ZLdTVRWGhtUGJ0N082b1RJRXU4dE1IRGxra0E?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-26T09:07:55+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "88d3c3f6c016e28bbeb0732cb2a0630c",
+          "title": "공석 된 교육부 수장…수능 수습부터 대입 개편까지 과제 산적",
+          "link": "http://www.metroseoul.co.kr/article/20261126500499",
+          "source": "www.metroseoul.co.kr",
+          "published": "2026-11-26T06:58:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "71f30e5e06bfb6c80c15f433570322e5",
+          "title": "영어 1등급 3배 급증 ‘수시 최저 기준 완화'… “정시 이월 줄고 N수생...",
+          "link": "https://n.news.naver.com/mnews/article/082/0001409070?sid=102",
+          "source": "www.busan.com",
+          "published": "2026-11-26T01:51:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "cb82e4a867b411a30aeb7ecf4f8c3254",
           "title": "&quot;의대 아니다&quot; 이번 수능에서 최상위 찍은 수험생들이 선택한 '학과'",
@@ -2808,6 +2898,36 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "049372d683747b509c85b72fd7be78ab",
+          "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학 잘봤다면 성대 서강대' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX1dZZzBXbVh0eEpDWkwtZjM4bkMxZXZ5c1VXZDNrTVpYR183ZUx3RF9EUThjUjAwLW9mSWNpMDRLbkNaWXBPbW9XZ1NSdGs5TTVUaEtENGZwTFFvMkJrQ1JsbS1iU2dDc3BLbg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-26T07:57:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "64494ae99c3962a572d833d9d33ad549",
+          "title": "[헬로이슈토크] 수능은 쉬워졌는데 입시는 더 어려워졌다? 수능, 입시판...",
+          "link": "http://news.lghellovision.net/news/articleView.html?idxno=563666",
+          "source": "news.lghellovision.net",
+          "published": "2026-11-26T03:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "1815bff38de92ef3dc193f5d97f565a4",
+          "title": "부정행위 한 번에 '인서울' 물거품…대입 전략 변경도 불가피",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088010",
+          "source": "www.shinailbo.co.kr",
+          "published": "2026-11-26T01:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "ed1a1f19e21e2b076dcd44078fee4b7c",
           "title": "정시 70% 컷 평균백분위 90의 함정…같은 점수가 다른 의미인 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54715",
@@ -2825,7 +2945,7 @@
           "published": "2026-11-26T00:04:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "a7adbd6b7832d24e06371539fd8e765b",
@@ -4001,7 +4121,27 @@
           "title": "중앙대·한양대·이화여대 수리논술, 같은 수학 실력으로 다른 점수 받는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54762",
           "source": "에듀진",
-          "published": "2026-11-26T01:31:47.998429+00:00",
+          "published": "2026-11-26T10:24:40.432662+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": false
+        },
+        {
+          "id": "6d7c409a344fa46b95474a448962e327",
+          "title": "스카이입시교육학원, 가천대·국민대 약술형논술 대비 11·12월 파이널 강좌 운영 - 잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUOFRRU09tUUN0SWJ6VkxndG9qMmVQZjNJMVlrYnZvUWdZTDJmQWdWbzVpZkNoVkhlVTJMN0dKVVFzRjQzUE5tNzA4a2NNSi1fclV5cHV6cEJGRko4ZGJNMzQ0VUNBNmNzdV9aN3M1VnpMUdIBckFVX3lxTFBUOFRRU09tUUN0SWJ6VkxndG9qMmVQZjNJMVlrYnZvUWdZTDJmQWdWbzVpZkNoVkhlVTJMN0dKVVFzRjQzUE5tNzA4a2NNSi1fclV5cHV6cEJGRko4ZGJNMzQ0VUNBNmNzdV9aN3M1VnpMUQ?oc=5",
+          "source": "잡포스트",
+          "published": "2026-11-26T02:04:20+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "af21f1fb1ce5c9b85bbfd6e270ae6f10",
+          "title": "주말 논술·면접 총력전…'AI 커닝' 차단 속 기출 분석·두괄식 답변이...",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=304803",
+          "source": "www.widedaily.com",
+          "published": "2026-11-26T01:46:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -4224,6 +4364,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "712e0b5da0e9ccd0c6df677ac13dd3a6",
+          "title": "두원공대 수시 2차 14.8대 1, 전년 대비 50% 상승… 취업·교육 경쟁력 ...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241296",
+          "source": "www.job-post.co.kr",
+          "published": "2026-11-26T06:44:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "ed689d7501d3ca8147d39e5f445d91f9",
+          "title": "중앙대 미래교육원, 학점은행제 과정 개편...사진·AI·정보보안 전공 확...",
+          "link": "https://n.news.naver.com/mnews/article/215/0001274071?sid=102",
+          "source": "www.wowtv.co.kr",
+          "published": "2026-11-26T06:15:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "f2fd9fbefaa7153189328a6ba923619c",
+          "title": "2027 대입, 챙겨서는 안 되는 것까지 하나하나 챙겨야 하는 논술고사",
+          "link": "https://n.news.naver.com/mnews/article/047/0002537347?sid=103",
+          "source": "www.ohmynews.com",
+          "published": "2026-11-26T06:01:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "eb0256645fd7202f5efc40db532a10b4",
           "title": "2027학년도 대입 정시모집, 1월 4일부터 원서접수…지원 전 꼭 확인할 사...",
           "link": "http://www.mediagunpo.co.kr/22158",
@@ -4231,7 +4401,7 @@
           "published": "2026-11-25T22:34:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "dac99e0626132bf9bab53ac3cfe4f3ac",
@@ -4251,7 +4421,7 @@
           "published": "2026-11-25T05:13:05+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "51b61ad2a46a206e0dff6326f7c02dc6",
@@ -5430,6 +5600,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "382b26c37c65f3fb7a0aded1ba85ca74",
+          "title": "충청권 과학고·영재학교 경쟁률 상승…최상위권 중학생 지원 늘어",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2241025",
+          "source": "www.cctoday.co.kr",
+          "published": "2026-11-26T08:20:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "fce799f45700efd572073dcdfdb8b815",
           "title": "내신 5등급제 첫 대입, 우리 아이 2등급은 예전 몇 등급일까?",
