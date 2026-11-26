@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T16:50:47.504342+00:00",
+  "updated_at": "2026-11-26T01:39:03.815924+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-25T16:36:14.075032+00:00",
+          "published": "2026-11-26T01:24:25.518920+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "3ff142d8d00cb1a45c3dd254fe2a298e",
+          "title": "﻿수능 후 첫 코수술 관심 증가…코재수술 예방하려면 무보형물·비중격...",
+          "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627850",
+          "source": "www.mdtoday.co.kr",
+          "published": "2026-11-26T01:16:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "7acbfd1b4f01c801aff0a313d08eea89",
@@ -31,7 +41,7 @@
           "published": "2026-11-25T07:14:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d330c2dd951fb07449b4dca561cfec9c",
@@ -584,10 +594,10 @@
           "is_new": false
         },
         {
-          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
-          "source": "노동일보",
+          "id": "a7b6b2b6198b30d7a311443adc5dd505",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
+          "source": "press24(프레스24)",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1601,16 +1611,6 @@
       "emoji": "🎓",
       "items": [
         {
-          "id": "3e33ac0c4ceb33f3d6bc59acb374472a",
-          "title": "모평/학평 'AI 커닝 실험대' 되나.. 2028학년 '8모 성적 보고 수시 지원' 감독 강화하나",
-          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639308",
-          "source": "베리타스알파",
-          "published": "2026-11-25T16:38:34.765867+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
           "id": "cb82e4a867b411a30aeb7ecf4f8c3254",
           "title": "&quot;의대 아니다&quot; 이번 수능에서 최상위 찍은 수험생들이 선택한 '학과'",
           "link": "https://www.wikitree.co.kr/articles/1177795",
@@ -1618,7 +1618,17 @@
           "published": "2026-11-25T12:18:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
+        },
+        {
+          "id": "3e33ac0c4ceb33f3d6bc59acb374472a",
+          "title": "모평/학평 'AI 커닝 실험대' 되나.. 2028학년 '8모 성적 보고 수시 지원...",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639308",
+          "source": "www.veritas-a.com",
+          "published": "2026-11-25T10:52:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
         },
         {
           "id": "fb9465902a436eccfb434a08fb09a8df",
@@ -1628,7 +1638,7 @@
           "published": "2026-11-25T08:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "d95a52bba7884681e4fe4720b5075b9f",
@@ -1638,7 +1648,7 @@
           "published": "2026-11-25T07:22:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "86c900705bcaec9243e9e1d2af9234b5",
@@ -2802,10 +2812,20 @@
           "title": "정시 70% 컷 평균백분위 90의 함정…같은 점수가 다른 의미인 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54715",
           "source": "에듀진",
-          "published": "2026-11-25T16:41:04.215355+00:00",
+          "published": "2026-11-26T01:29:15.650111+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "bbfa34a1aa5f9d949c3e33ab5fec0869",
+          "title": "내 수능 점수로 어느 대학 갈까…동대문구, 대입 정시 설명회 개최",
+          "link": "https://n.news.naver.com/mnews/article/421/0009310899?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-26T00:04:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "a7adbd6b7832d24e06371539fd8e765b",
@@ -2815,7 +2835,7 @@
           "published": "2026-11-25T07:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1fb8e2b7f86872a65b0227614deddbdc",
@@ -2825,7 +2845,7 @@
           "published": "2026-11-25T06:06:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "4338216e9e8b30c6bae40d695d9f2f43",
@@ -3977,6 +3997,16 @@
       "emoji": "✏️",
       "items": [
         {
+          "id": "f41bb1b93549ef21f863542fdb22dc58",
+          "title": "중앙대·한양대·이화여대 수리논술, 같은 수학 실력으로 다른 점수 받는 이유",
+          "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54762",
+          "source": "에듀진",
+          "published": "2026-11-26T01:31:47.998429+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "f21f21f1e9cdbee90aa1efd29a3d48e6",
           "title": "[2027논술면접 최종체크] 이번 주말 이화여대 논술 어떻게 나올까.. 모의...",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=639317",
@@ -3984,7 +4014,7 @@
           "published": "2026-11-25T08:22:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "2bb126bc226c3d4c3ff4dc7cb60e8c94",
@@ -4194,6 +4224,16 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "eb0256645fd7202f5efc40db532a10b4",
+          "title": "2027학년도 대입 정시모집, 1월 4일부터 원서접수…지원 전 꼭 확인할 사...",
+          "link": "http://www.mediagunpo.co.kr/22158",
+          "source": "www.mediagunpo.co.kr",
+          "published": "2026-11-25T22:34:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "dac99e0626132bf9bab53ac3cfe4f3ac",
           "title": "수능 끝나면 정시 전쟁…무료 대입 상담은 자치구에서",
           "link": "https://n.news.naver.com/mnews/article/629/0000555638?sid=102",
@@ -4201,14 +4241,14 @@
           "published": "2026-11-25T15:32:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "7591498f8ef53d58e96b6e28afbb4bd3",
-          "title": "2027정시박람회 수능 성적 통지일 맞춰 ‘내달 11일 개막’.. ‘안갯속 대입’ 수요 확대 전망 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ERXUwa3Q5cWlhVzZncHY4YmtvaDNyTTRZMVNhOF9WTThmUjFaY090V01LS1VHVGNXWW8tUFZXa0tTNFdrY2dUeEFGdWtkaVZRUUxlNkZBZkkybE4xTmhxU25SZ1dVb0JFOWhtNA?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-25T08:23:00+00:00",
+          "id": "870bcbe7fea2eb0c134fcf2ce9d1be5b",
+          "title": "[2027정시] 대교협 정시 박람회 12월 11~13일.. 건국대(서울) 성균관대 불참 - 한입신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XdUlIZW92VktiRUtVNi1BZzZuNzFJcDZYU2Q2a2xXV0xmcUtsZ1lNZFFGN0NJYUhYRkhRanlyUXVISjJXUUl6RjRoaGVxc3JXSXBwbzlqOERkNXVTM05zTWp4dHZRSXpKaUE?oc=5",
+          "source": "한입신문",
+          "published": "2026-11-25T05:13:05+00:00",
           "type": "news",
           "grade": "all",
           "is_new": true
@@ -4221,7 +4261,7 @@
           "published": "2026-11-24T23:43:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "cf3d3953c58aed84a678cdf6118e34d0",
