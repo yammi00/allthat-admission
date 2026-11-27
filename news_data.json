@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:08:21.884901+00:00",
+  "updated_at": "2026-11-27T13:37:18.196246+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-27T03:53:36.050639+00:00",
+          "published": "2026-11-27T13:22:31.975882+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -31,7 +31,7 @@
           "published": "2026-11-27T00:30:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "730419674002705c7dd86d4adfaef2eb",
@@ -654,10 +654,10 @@
           "is_new": false
         },
         {
-          "id": "a7b6b2b6198b30d7a311443adc5dd505",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
-          "source": "press24(프레스24)",
+          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
+          "source": "노동일보",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -814,16 +814,6 @@
           "is_new": false
         },
         {
-          "id": "2d61d4266b2bdc1393e9d7a6c77f69d5",
-          "title": "EBS·입시업계 “수능 수학, 작년과 비슷… 공통과목 21·22번이 관건” - 중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ca1VOc29rOXhXZ0RZTC1VRldaNTN1VG11bENYTDRkb2JEQ1F0NE9qWjJYRkl0Y05Od0NYNDA1ajR4X1dQenhCemhTMnU3RGhhVjBJVTJR?oc=5",
-          "source": "중앙일보",
-          "published": "2026-11-19T06:22:07+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "23e5c5ba549191a83e77c4105fde9b2b",
           "title": "EBS \"수능 수학, 어렵지 않았을 것…확통 선택 증가 등급컷 영향 제한적\"(종합) - 뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kcEZuWC01VWw1LThTX0pHcUdYTkRLS0xTY21BRVh2azVibEpCWE9KbFZIWGxoZ3JtV3owMGp3Q05NaWVGVVJwMlpqS1dMQ1VJV1ljQmVlamVhQQ?oc=5",
@@ -959,6 +949,16 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000966381?sid=102",
           "source": "www.hankookilbo.com",
           "published": "2026-11-18T08:19:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "2d61d4266b2bdc1393e9d7a6c77f69d5",
+          "title": "EBS·입시업계 “수능 수학, 작년과 비슷… 공통과목 21·22번이 관건” - 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ca1VOc29rOXhXZ0RZTC1VRldaNTN1VG11bENYTDRkb2JEQ1F0NE9qWjJYRkl0Y05Od0NYNDA1ajR4X1dQenhCemhTMnU3RGhhVjBJVTJR?oc=5",
+          "source": "중앙일보",
+          "published": "2026-11-18T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1184,6 +1184,16 @@
           "is_new": false
         },
         {
+          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
+          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-16T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
           "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
@@ -1219,16 +1229,6 @@
           "link": "https://n.news.naver.com/mnews/article/047/0002536008?sid=102",
           "source": "www.ohmynews.com",
           "published": "2026-11-16T07:01:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
-          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-16T06:53:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1670,6 +1670,26 @@
       "name": "수시",
       "emoji": "🎓",
       "items": [
+        {
+          "id": "03d50a1216c3e674f2c829f2176d927f",
+          "title": "동남보건대 2027학년도 수시2차 수도권 전문대학 입학정보박람회 개최.. '26개 전문대 참가 1500여명 방문'",
+          "link": "https://www.veritas-a.com/news/articleView.html?idxno=639875",
+          "source": "베리타스알파",
+          "published": "2026-11-27T13:24:54.716368+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "004463c8a4561237da0195afdbaec4bc",
+          "title": "[윤한울의 입시 큐레이팅] 내신 1.00이 넘쳐나는 2028, 지방 의대 교과전...",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=114133",
+          "source": "edu.donga.com",
+          "published": "2026-11-27T06:54:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
         {
           "id": "255a762d58cc63e9c11758cc3ff21f81",
           "title": "[단독][2027정시] 학생부 실질 영향력 얼마나 될까.. '서울대 지균/고대 교과우수 '학생부 약하면 불리'",
@@ -2441,6 +2461,16 @@
           "is_new": false
         },
         {
+          "id": "cfa9a94f6bbb785d7a1949164aae0302",
+          "title": "연세대, 학생부교과 추천형 서류 20% 도입…논술은 국어·수학 포함 3합6 - 교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJV0VieURWVXFLQzB4dEVKajFKVnB1YUtMNjE5UGdNSVd6eG1Mb2JHMXdybDNDTGg1SmZsVWRqLWstempfVEJHSklITEFFMzd3bS1DbGdWMlhJYzllZkFUNGZBa0podw?oc=5",
+          "source": "교육을 비추다",
+          "published": "2026-11-18T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "d9c7d73553adabeb3cef34e2130c8aab",
           "title": "마지막 선택과목형 수능…55만 수험생, 안팎의 파고 뚫고 결전으로",
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194061",
@@ -2496,16 +2526,6 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009295093?sid=102",
           "source": "www.news1.kr",
           "published": "2026-11-17T23:54:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "cfa9a94f6bbb785d7a1949164aae0302",
-          "title": "연세대, 학생부교과 추천형 서류 20% 도입…논술은 국어·수학 포함 3합6 - 교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJV0VieURWVXFLQzB4dEVKajFKVnB1YUtMNjE5UGdNSVd6eG1Mb2JHMXdybDNDTGg1SmZsVWRqLWstempfVEJHSklITEFFMzd3bS1DbGdWMlhJYzllZkFUNGZBa0podw?oc=5",
-          "source": "교육을 비추다",
-          "published": "2026-11-17T15:45:11+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2918,6 +2938,26 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "049372d683747b509c85b72fd7be78ab",
+          "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학 잘봤다면 서강대 성대' - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX1dZZzBXbVh0eEpDWkwtZjM4bkMxZXZ5c1VXZDNrTVpYR183ZUx3RF9EUThjUjAwLW9mSWNpMDRLbkNaWXBPbW9XZ1NSdGs5TTVUaEtENGZwTFFvMkJrQ1JsbS1iU2dDc3BLbg?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-27T08:17:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "3e89c9187a8eefa9c9f0e9434d271c84",
+          "title": "대치동 윈터스쿨 상상미학, 예비 고2, 고3 미대·예체능 입시생 모집…...",
+          "link": "https://www.gosiweek.com/article/1065595238154975",
+          "source": "www.gosiweek.com",
+          "published": "2026-11-27T06:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "41d53d6b1f87312616bf3c91023a06d6",
           "title": "양천구, '2027 대입 정시 합격 전략 설명회' 개최... 정시모집 앞둔 수험...",
           "link": "https://www.cnbizm.com/news/articleView.html?idxno=322930",
@@ -2925,7 +2965,7 @@
           "published": "2026-11-27T01:40:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "6b65ce0a22c7ef3b102b12eed2253ad9",
@@ -2935,7 +2975,7 @@
           "published": "2026-11-27T00:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "fdc26ebfa5f33a4294def554c086ce98",
@@ -2945,7 +2985,7 @@
           "published": "2026-11-27T00:36:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "47150f7d630e6a2121d71958070aa950",
@@ -2955,7 +2995,7 @@
           "published": "2026-11-26T23:26:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "10f399a6c56376e4fc2a6b8ccb8c31fa",
@@ -2963,16 +3003,6 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=2024124",
           "source": "www.m-i.kr",
           "published": "2026-11-26T22:36:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": true
-        },
-        {
-          "id": "049372d683747b509c85b72fd7be78ab",
-          "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학 잘봤다면 성대 서강대' - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX1dZZzBXbVh0eEpDWkwtZjM4bkMxZXZ5c1VXZDNrTVpYR183ZUx3RF9EUThjUjAwLW9mSWNpMDRLbkNaWXBPbW9XZ1NSdGs5TTVUaEtENGZwTFFvMkJrQ1JsbS1iU2dDc3BLbg?oc=5",
-          "source": "베리타스알파",
-          "published": "2026-11-26T05:35:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3803,7 +3833,7 @@
           "type": "official",
           "no_expire": true,
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "c1a3cbdf52f00e5c089c73f15a577677",
@@ -4445,6 +4475,26 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "1907fd04dce5954d6bfd3aa745fc7cda",
+          "title": "수능 이후 대학별고사 스마트기기 부정행위 적발 '0건'…긴급 대응체계...",
+          "link": "https://n.news.naver.com/mnews/article/654/0000213839?sid=100",
+          "source": "www.kado.net",
+          "published": "2026-11-27T05:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "5853b8d7ac5ad1b8a073d5d165caafa8",
+          "title": "교육부 &quot;스마트안경 탐지 기술 상용화 단계…내년 수능 대비&quot;(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016467660?sid=102",
+          "source": "www.yna.co.kr",
+          "published": "2026-11-27T04:25:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "42186e1a7797d5a3dbe4b2342578793b",
           "title": "양천구, 내달 22일 '2027 대입 정시 합격 전략 설명회' 개최 - 열린뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Pa3hNRFJpSkVLS1VYRFFzazdtTDhSS29QWGk1SUVfZHFZa3U5ZUY5VTV3dFR0TW1nc01HZjZXaDZaQW82Q1pfa08xb21yVllFN3J5aF93UDhUem9VYW80YWtYR0ZrZw?oc=5",
@@ -4452,7 +4502,7 @@
           "published": "2026-11-27T02:56:21+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "1e76ddf9b68b8f84e309519c20f033eb",
@@ -4462,7 +4512,7 @@
           "published": "2026-11-27T01:48:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "8c4c00d9e92d0fde0e3485261956b45d",
@@ -4472,7 +4522,7 @@
           "published": "2026-11-27T00:22:40+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "712e0b5da0e9ccd0c6df677ac13dd3a6",
@@ -5701,6 +5751,16 @@
       "name": "고교입시",
       "emoji": "🏫",
       "items": [
+        {
+          "id": "83dd50bac3d191e7f5a3b80b3b64f908",
+          "title": "1만6000세대에 고교 1곳…경기도교육청, 학생 추계는 매번 달랐다",
+          "link": "https://www.etoday.co.kr/news/view/2654121",
+          "source": "www.etoday.co.kr",
+          "published": "2026-11-27T09:14:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "382b26c37c65f3fb7a0aded1ba85ca74",
           "title": "충청권 과학고·영재학교 경쟁률 상승…최상위권 중학생 지원 늘어",
