@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:37:18.196246+00:00",
+  "updated_at": "2026-11-27T22:41:05.952222+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-27T13:22:31.975882+00:00",
+          "published": "2026-11-27T22:26:22.462255+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -654,10 +654,10 @@
           "is_new": false
         },
         {
-          "id": "36e6db7b4abe1cb2f19e3d5fa2828fe1",
-          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - 노동일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWDZxSTh2b2h0NmVxeXBkNGtCTHlfZUZhNkdidUU0Ym1GWDZ4dFR3bkhOMnBkQm9Zb2JxaGRXbnpYcC0wQVQyR2VmU3BsSzA2TWZIdmVXNXlhYnNOOFI2N3lMTktlYjdBTS1VTDFR?oc=5",
-          "source": "노동일보",
+          "id": "a7b6b2b6198b30d7a311443adc5dd505",
+          "title": "2027학년도 대학수학능력시험-EBS 연계 내역 심층 분석 공개 - press24(프레스24)",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbF9RUk1ZUUpycGJjQ2plbzRXeTdyVWRGYm5UMXVMeHlaWDBCTDNpdi1YMUgzcjRDT1hDLXN0UF9FQXd6UmRsRDVtOEtxcWpFcjBYLXVRYXJ0bWJPRjl6bjgzeWFidGQ2TjVHWg?oc=5",
+          "source": "press24(프레스24)",
           "published": "2026-11-19T12:44:00+00:00",
           "type": "news",
           "grade": "3",
@@ -744,21 +744,31 @@
           "is_new": false
         },
         {
-          "id": "3c1072ec8363b25b2dc4ff91516fd92e",
-          "title": "작년보다 쉬웠다…&quot;변별력 확보는 문제 없을 듯&quot;(종합)[2027 수능]",
-          "link": "https://n.news.naver.com/mnews/article/003/0014334227?sid=102",
-          "source": "www.newsis.com",
-          "published": "2026-11-19T09:26:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "91d78067717f20ce8f4272ab32523bcd",
           "title": "[2027 수능 난도 분석] 수학, 미적분 상대적으로 어려워(진학사)",
           "link": "https://edu.donga.com/news/articleView.html?idxno=113958",
           "source": "edu.donga.com",
           "published": "2026-11-19T08:02:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "d5967598960e84a5e04eb74b48ec6cf3",
+          "title": "[수능] 종로학원 \"수학, 작년보다 다소 어렵고 확통 체감 난도 높아\" - 남도일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RLVlqUERUQjZrLXVVYXFLc3c0Y09ER0xSR2pMdXZUdHIzRlRWRTVTaEZqTG50b1VzNEE0UVItR0tCZ2VCZDV2X3l1eGhSVnB6U2pTeUE2MDRpMnNIcVlkazZjQnFBTlpLRjN6ctIBcEFVX3lxTE9vZmp1TFBkYW1KU29FN1lLVEFZaVlFNG1weG5CVTVuTGVfYkd0dFVma1RQZHUxQ29QMTIzS2oyVkkxajQ1Z1lMZG5pdUpoekZXRmhYUG03UGdNYUJEWmw1T0tqaTFpbU9Jc0MxSmd5UkI?oc=5",
+          "source": "남도일보",
+          "published": "2026-11-19T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "87bc025ffc4e1a0d0e31700883f72caa",
+          "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYddIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-19T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -819,26 +829,6 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kcEZuWC01VWw1LThTX0pHcUdYTkRLS0xTY21BRVh2azVibEpCWE9KbFZIWGxoZ3JtV3owMGp3Q05NaWVGVVJwMlpqS1dMQ1VJV1ljQmVlamVhQQ?oc=5",
           "source": "뉴스1",
           "published": "2026-11-19T06:04:02+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "87bc025ffc4e1a0d0e31700883f72caa",
-          "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYddIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
-          "source": "뉴시스",
-          "published": "2026-11-19T05:53:53+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "92e4c43bc23a17fec9b65c655cfd78ee",
-          "title": "수능 국어 ‘평이’·수학 ‘작년 수준’…“초고난도 배제·EBS 연계 체감 높아” - BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVkRJMUFoMkd2enc1eW4xUFBTVmwtclE3Z0IyV216aWNZLWlJSU1DUC1la1lZNU95SnVLd0REMVJhNXFQV250NUE2UEZPV2M5UEgtX3VDemotLU9XVG1iSjVtUVlSeFI3aHln?oc=5",
-          "source": "BBS불교방송",
-          "published": "2026-11-19T05:44:22+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -1184,20 +1174,20 @@
           "is_new": false
         },
         {
-          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
-          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
-          "source": "베리타스알파",
+          "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
+          "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
+          "source": "한국사회복지저널",
           "published": "2026-11-16T08:00:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
         },
         {
-          "id": "85ad3c6d84f25213744b9d3aabdaa4e1",
-          "title": "EBSi, 2027학년도 수능 풀서비스 및 등급컷 제공 - 한국사회복지저널",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTnZIMThjem1hQjVEUVo5V3hETmFvTzRmUG9GVE5nYTRyZGpkNW1SNTI4cTg3QVlZN3JhWE1hYnlkY0IyV1hwQnpqQU9vb2VHdG1HTzdENG5OdU9ROWlSQnFaeWRWRkRLLS14SQ?oc=5",
-          "source": "한국사회복지저널",
+          "id": "e10d652a83c6fa61155a915c9b8a9a4d",
+          "title": "[2027수능] ‘작년보다 쉽다’ AI 3인방이 예측한 수능 난이도.. 영어 쉬워지고, 국수는 변별력 유지 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTVdtOExqajBXNHR3TkF5VHNfTzFwNUhlVzEtQ1JHYlVpcUdfeVVDVkJlYTVfRDNRQ0ZiS1JhbEZGdDBYRGF0UzFXcFc4QWJ3cVR3ZW5hOUN3MXhzOURCdW9UeDloVXV2Vmw1Vg?oc=5",
+          "source": "베리타스알파",
           "published": "2026-11-16T08:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1675,10 +1665,10 @@
           "title": "동남보건대 2027학년도 수시2차 수도권 전문대학 입학정보박람회 개최.. '26개 전문대 참가 1500여명 방문'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=639875",
           "source": "베리타스알파",
-          "published": "2026-11-27T13:24:54.716368+00:00",
+          "published": "2026-11-27T22:28:45.966067+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "004463c8a4561237da0195afdbaec4bc",
@@ -1688,7 +1678,7 @@
           "published": "2026-11-27T06:54:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "255a762d58cc63e9c11758cc3ff21f81",
@@ -2938,6 +2928,16 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "1009d0b3d2a63c137564468b3e968cf0",
+          "title": "[AI입시 A to Z] 수시 논술 갈까, 정시 집중할까",
+          "link": "https://www.newspim.com/news/view/20261127000611",
+          "source": "www.newspim.com",
+          "published": "2026-11-27T21:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "049372d683747b509c85b72fd7be78ab",
           "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학 잘봤다면 서강대 성대' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX1dZZzBXbVh0eEpDWkwtZjM4bkMxZXZ5c1VXZDNrTVpYR183ZUx3RF9EUThjUjAwLW9mSWNpMDRLbkNaWXBPbW9XZ1NSdGs5TTVUaEtENGZwTFFvMkJrQ1JsbS1iU2dDc3BLbg?oc=5",
@@ -2955,7 +2955,7 @@
           "published": "2026-11-27T06:44:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "41d53d6b1f87312616bf3c91023a06d6",
@@ -4482,7 +4482,7 @@
           "published": "2026-11-27T05:26:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "5853b8d7ac5ad1b8a073d5d165caafa8",
@@ -4492,7 +4492,7 @@
           "published": "2026-11-27T04:25:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "42186e1a7797d5a3dbe4b2342578793b",
@@ -5759,7 +5759,7 @@
           "published": "2026-11-27T09:14:00+00:00",
           "type": "news",
           "grade": "all",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "382b26c37c65f3fb7a0aded1ba85ca74",
