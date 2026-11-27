@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:01:28.695490+00:00",
+  "updated_at": "2026-11-27T04:08:21.884901+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,10 +18,20 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-26T20:46:45.950892+00:00",
+          "published": "2026-11-27T03:53:36.050639+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
+        },
+        {
+          "id": "4a1cf4ceff7c798b32edbf2874b990ad",
+          "title": "'정시의 비밀' 수능 8점 낮아도 합격권 뒤집힌다",
+          "link": "https://n.news.naver.com/mnews/article/014/0005610667?sid=102",
+          "source": "www.fnnews.com",
+          "published": "2026-11-27T00:30:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
         },
         {
           "id": "730419674002705c7dd86d4adfaef2eb",
@@ -2908,11 +2918,61 @@
       "emoji": "📊",
       "items": [
         {
+          "id": "41d53d6b1f87312616bf3c91023a06d6",
+          "title": "양천구, '2027 대입 정시 합격 전략 설명회' 개최... 정시모집 앞둔 수험...",
+          "link": "https://www.cnbizm.com/news/articleView.html?idxno=322930",
+          "source": "www.cnbizm.com",
+          "published": "2026-11-27T01:40:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "6b65ce0a22c7ef3b102b12eed2253ad9",
+          "title": "같은 수능 점수, 다른 결과?… 정시 지원 전 확인할 세 가지",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=114104",
+          "source": "edu.donga.com",
+          "published": "2026-11-27T00:44:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "fdc26ebfa5f33a4294def554c086ce98",
+          "title": "&quot;수능 표준점수 높아도 정시서 불리할 수 있어&quot;… 이투스에듀, 지원 전...",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=2024171",
+          "source": "www.m-i.kr",
+          "published": "2026-11-27T00:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "47150f7d630e6a2121d71958070aa950",
+          "title": "수능 표준점수 8점 낮아도 정시 환산점수는 앞섰다",
+          "link": "https://www.etoday.co.kr/news/view/2653723",
+          "source": "www.etoday.co.kr",
+          "published": "2026-11-26T23:26:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
+          "id": "10f399a6c56376e4fc2a6b8ccb8c31fa",
+          "title": "양천구, 내달 22일 정시 합격 전략 알려준다",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=2024124",
+          "source": "www.m-i.kr",
+          "published": "2026-11-26T22:36:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": true
+        },
+        {
           "id": "049372d683747b509c85b72fd7be78ab",
           "title": "[단독][2027정시] '수학강세/사탐런' 상위15개대 수능반영 유불리 ..'수학 잘봤다면 성대 서강대' - 베리타스알파",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX1dZZzBXbVh0eEpDWkwtZjM4bkMxZXZ5c1VXZDNrTVpYR183ZUx3RF9EUThjUjAwLW9mSWNpMDRLbkNaWXBPbW9XZ1NSdGs5TTVUaEtENGZwTFFvMkJrQ1JsbS1iU2dDc3BLbg?oc=5",
           "source": "베리타스알파",
-          "published": "2026-11-26T07:57:00+00:00",
+          "published": "2026-11-26T05:35:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -3735,6 +3795,17 @@
       "emoji": "📋",
       "items": [
         {
+          "id": "e1aebdbb021f57d8358f6e18f8c5aa83",
+          "title": "K-관세행정시스템, 중남미 수출 교두보 확보",
+          "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791146",
+          "source": "정책브리핑(교육부)",
+          "published": "2026-11-27T00:00:00+00:00",
+          "type": "official",
+          "no_expire": true,
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "c1a3cbdf52f00e5c089c73f15a577677",
           "title": "국민권익위, 수능 부정행위 신고 포상금 건당 최소 1억 원 이상 최대 5억 원 지급",
           "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790415",
@@ -4131,7 +4202,7 @@
           "title": "중앙대·한양대·이화여대 수리논술, 같은 수학 실력으로 다른 점수 받는 이유",
           "link": "https://www.edujin.co.kr/news/articleView.html?idxno=54762",
           "source": "에듀진",
-          "published": "2026-11-26T20:54:14.580684+00:00",
+          "published": "2026-11-27T04:01:06.159577+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
@@ -4374,6 +4445,36 @@
       "emoji": "📅",
       "items": [
         {
+          "id": "42186e1a7797d5a3dbe4b2342578793b",
+          "title": "양천구, 내달 22일 '2027 대입 정시 합격 전략 설명회' 개최 - 열린뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Pa3hNRFJpSkVLS1VYRFFzazdtTDhSS29QWGk1SUVfZHFZa3U5ZUY5VTV3dFR0TW1nc01HZjZXaDZaQW82Q1pfa08xb21yVllFN3J5aF93UDhUem9VYW80YWtYR0ZrZw?oc=5",
+          "source": "열린뉴스통신",
+          "published": "2026-11-27T02:56:21+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "1e76ddf9b68b8f84e309519c20f033eb",
+          "title": "검정고시 대입서류 온라인 제출은 나이스에서",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=412048",
+          "source": "www.vegannews.co.kr",
+          "published": "2026-11-27T01:48:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
+          "id": "8c4c00d9e92d0fde0e3485261956b45d",
+          "title": "2027학년도 대입, 12월 7일~12월 18일 수능 전후 논술·면접과 합격자 발표 일정 : 네이버 블로그 - Naver Blog",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDIxS2xieG9MaG5uREhWeFhZUlQtUjNwM0RaSk1jNExPUlBoc3JFU2MxUnRxdkpsVGZIUEdQallDblI3bVZBa2MwVkcyZTB2OGpoUTR4dm01Z01CQXQxZGpCVUVjbERoczZDMGtvLUtQYURnYkRzS1dDdk1xQ3FGaWhxRVdQQlNCMjJHOS1kdw?oc=5",
+          "source": "Naver Blog",
+          "published": "2026-11-27T00:22:40+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
+        {
           "id": "712e0b5da0e9ccd0c6df677ac13dd3a6",
           "title": "두원공대 수시 2차 14.8대 1, 전년 대비 50% 상승… 취업·교육 경쟁력 ...",
           "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241296",
@@ -4404,16 +4505,6 @@
           "is_new": false
         },
         {
-          "id": "eb0256645fd7202f5efc40db532a10b4",
-          "title": "2027학년도 대입 정시모집, 1월 4일부터 원서접수…지원 전 꼭 확인할 사...",
-          "link": "http://www.mediagunpo.co.kr/22158",
-          "source": "www.mediagunpo.co.kr",
-          "published": "2026-11-25T22:34:00+00:00",
-          "type": "news",
-          "grade": "all",
-          "is_new": false
-        },
-        {
           "id": "dac99e0626132bf9bab53ac3cfe4f3ac",
           "title": "수능 끝나면 정시 전쟁…무료 대입 상담은 자치구에서",
           "link": "https://n.news.naver.com/mnews/article/629/0000555638?sid=102",
@@ -4424,11 +4515,11 @@
           "is_new": false
         },
         {
-          "id": "870bcbe7fea2eb0c134fcf2ce9d1be5b",
-          "title": "[2027정시] 대교협 정시 박람회 12월 11~13일.. 건국대(서울) 성균관대 불참 - 한입신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XdUlIZW92VktiRUtVNi1BZzZuNzFJcDZYU2Q2a2xXV0xmcUtsZ1lNZFFGN0NJYUhYRkhRanlyUXVISjJXUUl6RjRoaGVxc3JXSXBwbzlqOERkNXVTM05zTWp4dHZRSXpKaUE?oc=5",
-          "source": "한입신문",
-          "published": "2026-11-25T05:13:05+00:00",
+          "id": "7591498f8ef53d58e96b6e28afbb4bd3",
+          "title": "2027정시박람회 수능 성적 통지일 맞춰 ‘내달 11일 개막’.. ‘안갯속 대입’ 수요 확대 전망 - 베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ERXUwa3Q5cWlhVzZncHY4YmtvaDNyTTRZMVNhOF9WTThmUjFaY090V01LS1VHVGNXWW8tUFZXa0tTNFdrY2dUeEFGdWtkaVZRUUxlNkZBZkkybE4xTmhxU25SZ1dVb0JFOWhtNA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-25T03:32:00+00:00",
           "type": "news",
           "grade": "all",
           "is_new": false
