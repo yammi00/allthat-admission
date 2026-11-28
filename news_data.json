@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T22:41:05.952222+00:00",
+  "updated_at": "2026-11-28T06:02:35.992959+00:00",
   "available_archives": [
     "2026-07",
     "2026-06",
@@ -18,7 +18,7 @@
           "title": "재학생 줄고, N수생 늘고… ‘킬러문항’ 배제된 9월 모의평가 접수 결과는",
           "link": "https://edu.chosun.com/site/data/html_dir/2023/07/25/2023072500941.html",
           "source": "조선에듀",
-          "published": "2026-11-27T22:26:22.462255+00:00",
+          "published": "2026-11-28T05:47:53.685525+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -684,16 +684,6 @@
           "is_new": false
         },
         {
-          "id": "d1b4bab6c75d7d36332df5e787fdad13",
-          "title": "네이버, 수능 예상 등급컷 제공…7개 이상 입시기관 정보 비교",
-          "link": "https://n.news.naver.com/mnews/article/421/0009300203?sid=105",
-          "source": "www.news1.kr",
-          "published": "2026-11-19T10:17:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "aebb2c2164d319251c14fef3855c65bd",
           "title": "[이슈대담] 2027년 수능 난이도와 입시 전략은?",
           "link": "https://n.news.naver.com/mnews/article/056/0012297454?sid=102",
@@ -719,16 +709,6 @@
           "link": "https://www.jjan.kr/article/20261119500497",
           "source": "www.jjan.kr",
           "published": "2026-11-19T09:36:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "b2b2b1f8d1d96c3e8c887d2fa0162464",
-          "title": "&quot;작년 '불수능' 영어 올해는 쉬워졌다…상위권 변별력은 유지&quot; [2027 수능...",
-          "link": "https://n.news.naver.com/mnews/article/014/0005607094?sid=102",
-          "source": "www.fnnews.com",
-          "published": "2026-11-19T09:33:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -764,10 +744,30 @@
           "is_new": false
         },
         {
+          "id": "3f474a24f257620335f0a61af1cebdd7",
+          "title": "[단독] [2027수능] ‘쉬워졌지만 변별력은 확보’ 입시기관 원점수 1등급컷.. 화95~96 언91 확89~91 미85~86 기87~91 -",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lZ1V3dThmU2RNSVktVFJ3ZE9MbEhhSml0b2VUamZ5YjlCNzJDMTFRVThTd1FxYnVOZHVKN05yVTloQWlWaDZPWUUzRzAwdEZIc0V6WjF5b2FvRVJKeDF0bWVlRWFtX01jTFlMMA?oc=5",
+          "source": "베리타스알파",
+          "published": "2026-11-19T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "87bc025ffc4e1a0d0e31700883f72caa",
           "title": "EBS \"수학, 작년 수능과 유사한 수준…연계율 50%\"[2027 수능] - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05bktJcmdsMlVOV2JXbk44eTFBTjVlcm13T1hHWUtsSFo4OGx1MERxWUR1Q0VuUU1xWUNQRkoyeWxqNDgtQ3NQUVBtZEFXa3FXLXdKTXY2TURBYUN3NzlYddIBeEFVX3lxTE9wakJzZVdZcHBGUERtSjlDVjRTbzVHUmFuYkFFOWt0em9laENUcnRUWEt2cVZQRkg4b1V2T3BNNFBNc1F6clEwc2xBMFlxMlI5eDg4czlua2F6WlJ1TVlqdUM2VnhVSWl5eEpYTlJndjRCV1FxNFJmNA?oc=5",
           "source": "뉴시스",
+          "published": "2026-11-19T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
+          "id": "82ef10fe60b2ab33bbef21d98164d9df",
+          "title": "EBS \"수능 수학, 작년과 비슷…중상위권 변별력 갖춰\" - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVjB2TFd0OEVJRExMMWktMDFSVXQyZlJkU2NPVVdES0FKdV9XSV83eXZ5NWYtVFlqbEJlVF9GWGQ0ZW1vdGVXdlN5MEdHMlhjSWViQ0c1Q29wQlhsTVhYaVFlUF9jWnRyVmQyc0U5dS0?oc=5",
+          "source": "신아일보",
           "published": "2026-11-19T08:00:00+00:00",
           "type": "news",
           "grade": "3",
@@ -1665,7 +1665,7 @@
           "title": "동남보건대 2027학년도 수시2차 수도권 전문대학 입학정보박람회 개최.. '26개 전문대 참가 1500여명 방문'",
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=639875",
           "source": "베리타스알파",
-          "published": "2026-11-27T22:28:45.966067+00:00",
+          "published": "2026-11-28T05:50:17.141766+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -2935,7 +2935,7 @@
           "published": "2026-11-27T21:00:00+00:00",
           "type": "news",
           "grade": "3",
-          "is_new": true
+          "is_new": false
         },
         {
           "id": "049372d683747b509c85b72fd7be78ab",
@@ -3358,16 +3358,6 @@
           "is_new": false
         },
         {
-          "id": "094a7b93adfd32bb138881a6b608add6",
-          "title": "[2027 수능] 선택과목 사라지는 2028 수능…대학별 평가 방식도 변화",
-          "link": "https://www.youthdaily.co.kr/news/article.html?no=230068",
-          "source": "www.youthdaily.co.kr",
-          "published": "2026-11-19T23:02:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
           "id": "5ca2b4afb4c0f64059d49cad261db84e",
           "title": "주말 논술 보러 갈까 말까… 수능 가채점 직후 꼭 따져야 할 정시 유불...",
           "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92710",
@@ -3428,6 +3418,16 @@
           "is_new": false
         },
         {
+          "id": "3dc51615c16d1f569359ff53f50ea785",
+          "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jazZkUXlLNlVVazZ6SFFmLWRQZGNaOWdra0JXSW9uWHU3TjFNS0pkM3lLUnJZSEtzbllFcFI5bTByNC1rQ2pFZk1jNHlOVFdTaktXV2lJZzVIYWhKT2Z2YkdlaVZiUnZOQ1RrVFFhTUdSaTdVeUHSAWZBVV95cUxQWjRjeVA0UVZXS1NzSHE3WXJveHR6SlRESnlMTVd2SFRHTXh3a1VWWWxVVkdwNDlNZmZoaDVVTXplYWtkZXpJR0MxREMwV1U1cEJDRlptSnQ0SVFaMkhWMXdYOVFKMHc?oc=5",
+          "source": "동아일보",
+          "published": "2026-11-19T08:00:00+00:00",
+          "type": "news",
+          "grade": "3",
+          "is_new": false
+        },
+        {
           "id": "2690c56defaab650127ae8dc0a447927",
           "title": "[지상범 입시 토크] 학생부종합전형의 본질과 허상, 숫자 이면의 고교 ...",
           "link": "http://www.metroseoul.co.kr/article/20261119500367",
@@ -3483,16 +3483,6 @@
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16280278",
           "source": "www.topstarnews.net",
           "published": "2026-11-18T21:52:00+00:00",
-          "type": "news",
-          "grade": "3",
-          "is_new": false
-        },
-        {
-          "id": "3dc51615c16d1f569359ff53f50ea785",
-          "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jazZkUXlLNlVVazZ6SFFmLWRQZGNaOWdra0JXSW9uWHU3TjFNS0pkM3lLUnJZSEtzbllFcFI5bTByNC1rQ2pFZk1jNHlOVFdTaktXV2lJZzVIYWhKT2Z2YkdlaVZiUnZOQ1RrVFFhTUdSaTdVeUHSAWZBVV95cUxQWjRjeVA0UVZXS1NzSHE3WXJveHR6SlRESnlMTVd2SFRHTXh3a1VWWWxVVkdwNDlNZmZoaDVVTXplYWtkZXpJR0MxREMwV1U1cEJDRlptSnQ0SVFaMkhWMXdYOVFKMHc?oc=5",
-          "source": "동아일보",
-          "published": "2026-11-18T19:30:00+00:00",
           "type": "news",
           "grade": "3",
           "is_new": false
@@ -4474,6 +4464,16 @@
       "name": "입시 일정",
       "emoji": "📅",
       "items": [
+        {
+          "id": "3ff4729b55d33a7646cbdc04b105999e",
+          "title": "&quot;수능 시계도 안 된다니&quot;…AI 커닝 대책에 논술 고사장도 '혼란'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009315160?sid=102",
+          "source": "www.news1.kr",
+          "published": "2026-11-28T01:26:00+00:00",
+          "type": "news",
+          "grade": "all",
+          "is_new": true
+        },
         {
           "id": "1907fd04dce5954d6bfd3aa745fc7cda",
           "title": "수능 이후 대학별고사 스마트기기 부정행위 적발 '0건'…긴급 대응체계...",
